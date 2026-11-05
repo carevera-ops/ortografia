@@ -28,8 +28,8 @@ const pick = <T,>(a: T[]) => a[Math.floor(Math.random() * a.length)]!;
 
 /** Unidades desbloqueadas (con contenido) y las anteriores a la actual. */
 async function unlockedUnitIds(): Promise<string[]> {
-  const [index, rows] = await Promise.all([loadIndex(), db.levelProgress.toArray()]);
-  const path = computePath(UNITS, rows, new Set(Object.keys(index)));
+  const [index, rows, settings] = await Promise.all([loadIndex(), db.levelProgress.toArray(), getSettings()]);
+  const path = computePath(UNITS, rows, new Set(Object.keys(index)), settings.unlockAll);
   return UNITS.filter((u) => path.unitUnlocked[u.id]).map((u) => u.id);
 }
 

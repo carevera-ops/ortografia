@@ -14,6 +14,10 @@ export interface Settings {
   theme: 'auto' | 'light' | 'dark';
   /** Hash SHA-256 del PIN de padres (null = sin configurar). */
   pinHash: string | null;
+  /** Sal aleatoria para el hash del PIN. */
+  pinSalt: string | null;
+  /** Zona de padres: todas las unidades abiertas (para probar o repasar libremente). */
+  unlockAll: boolean;
   /** Fecha ISO de la última copia de seguridad exportada. */
   lastBackupAt: string | null;
   createdAt: string;

@@ -26,8 +26,9 @@ export function unitMastered(unit: UnitInfo, progress: Map<string, LevelProgress
 /**
  * Calcula qué unidades y niveles están desbloqueados.
  * @param playable unidades que ya tienen contenido (las demás aparecen como "próximamente")
+ * @param unlockAll opción de la zona de padres: todo abierto (el progreso real se sigue guardando)
  */
-export function computePath(units: UnitInfo[], rows: LevelProgress[], playable: Set<string>): PathState {
+export function computePath(units: UnitInfo[], rows: LevelProgress[], playable: Set<string>, unlockAll = false): PathState {
   const progress = new Map(rows.map((r) => [key(r.unitId, r.level), r]));
   const unitUnlocked: Record<string, boolean> = {};
   const levelState: Record<string, LevelState[]> = {};
@@ -35,13 +36,13 @@ export function computePath(units: UnitInfo[], rows: LevelProgress[], playable: 
   let prevMastered = true;
 
   for (const u of units) {
-    const unlocked: boolean = prevMastered && playable.has(u.id);
+    const unlocked: boolean = (unlockAll || prevMastered) && playable.has(u.id);
     unitUnlocked[u.id] = unlocked;
     const states: LevelState[] = [];
     for (let l = 1; l <= u.levels; l++) {
       const p = progress.get(key(u.id, l));
       if (p && (p.completed || p.skipped)) states.push('completed');
-      else if (unlocked && (l === 1 || states[l - 2] === 'completed')) states.push('available');
+      else if (unlocked && (unlockAll || l === 1 || states[l - 2] === 'completed')) states.push('available');
       else states.push('locked');
     }
     levelState[u.id] = states;

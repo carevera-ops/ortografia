@@ -3,10 +3,10 @@ import { expect, test } from '@playwright/test';
 test('carga el inicio y navega con la barra de pestañas', async ({ page }) => {
   await page.goto('./');
   await expect(page.getByRole('heading', { name: '¡Hola!' })).toBeVisible();
-  await page.getByRole('link', { name: 'Camino' }).click();
+  await page.getByRole('link', { name: 'Camino', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Tu camino' })).toBeVisible();
   await expect(page.getByText('Tilde en las agudas')).toBeVisible();
-  await page.getByRole('link', { name: 'Teoría' }).click();
+  await page.getByRole('link', { name: 'Teoría', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Teoría' })).toBeVisible();
 });
 
@@ -52,7 +52,7 @@ test('funciona sin conexión tras la primera carga', async ({ page, context, bro
   await context.setOffline(true);
   await page.reload();
   await expect(page.getByRole('heading', { name: '¡Hola!' })).toBeVisible();
-  await page.getByRole('link', { name: 'Camino' }).click();
+  await page.getByRole('link', { name: 'Camino', exact: true }).click();
   await expect(page.getByText('Las sílabas')).toBeVisible();
   const iconOk = await page.evaluate(async () => (await fetch('icons/icon-192.png')).ok);
   expect(iconOk).toBe(true);

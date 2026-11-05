@@ -6,6 +6,7 @@ import { usePath, useSettings, useStreak } from '../hooks';
 import { db } from '../db/db';
 import { UNIT_BY_ID } from '../core/content/catalog';
 import { CHAMPION_MINUTES } from '../core/streak/champion';
+import { backupDue } from '../db/backup';
 
 /** Inicio: racha, objetivo del día y "continuar". */
 export function Home() {
@@ -18,6 +19,8 @@ export function Home() {
   const minutes = Math.floor((today?.activeSec ?? 0) / 60);
   const studied = !!today && today.questions > 0;
   const goal = settings.dailyGoalMin;
+  const studiedDays = useLiveQuery(() => db.dailyStats.filter((d) => d.questions > 0).count(), []) ?? 0;
+  const needsBackup = backupDue(settings.lastBackupAt, studiedDays);
 
   return (
     <main className="screen with-tabbar" aria-labelledby="home-title">
@@ -104,6 +107,11 @@ export function Home() {
       <a className="btn block secondary" href={routeToHash({ name: 'practice' })}>
         🔁 Práctica libre
       </a>
+      {needsBackup && (
+        <a className="card backup-hint" href={routeToHash({ name: 'parents' })}>
+          💾 <span>Pide a un adulto que haga una <strong>copia de seguridad</strong> de tu progreso (Zona de padres).</span>
+        </a>
+      )}
     </main>
   );
 }

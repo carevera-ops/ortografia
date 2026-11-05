@@ -4,6 +4,8 @@ import { installSkipped, requestPersistentStorage, shouldSuggestInstall } from '
 import { TabBar } from '../components/TabBar';
 import { UpdatePrompt } from '../components/UpdatePrompt';
 import { ChampionCelebration, StreakUp } from '../components/Celebrations';
+import { AchievementWatcher } from '../components/AchievementWatcher';
+import { useSettings } from '../hooks';
 import { Home } from '../screens/Home';
 import { PathMap } from '../screens/PathMap';
 import { Lesson } from '../screens/Lesson';
@@ -16,6 +18,14 @@ import { InstallHelp } from '../screens/InstallHelp';
 export function App() {
   const route = useRoute();
   const [streakShowing, setStreakShowing] = useState(false);
+  const settings = useSettings();
+
+  // Tema elegido en la zona de padres (automático = el del sistema).
+  useEffect(() => {
+    const root = document.documentElement;
+    if (settings.theme === 'auto') delete root.dataset.theme;
+    else root.dataset.theme = settings.theme;
+  }, [settings.theme]);
 
   useEffect(() => {
     void requestPersistentStorage();
@@ -74,6 +84,7 @@ export function App() {
       <StreakUp paused={inLesson} onVisible={setStreakShowing} />
       {/* Primero la llama de la racha; después, la felicitación del día */}
       <ChampionCelebration paused={inLesson || streakShowing} />
+      <AchievementWatcher paused={inLesson} />
     </>
   );
 }

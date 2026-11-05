@@ -30,7 +30,7 @@ test('racha, protector y avisos en el inicio', async ({ page }) => {
   await seedDays(page, rows);
   await expect(page.getByText('¡Tu racha de 8 días te espera!')).toBeVisible();
   await expect(page.getByRole('link', { name: /Racha de 8 días/ })).toBeVisible();
-  await page.getByRole('link', { name: 'Progreso' }).click();
+  await page.getByRole('link', { name: 'Progreso', exact: true }).click();
   await expect(page.getByText('8 días', { exact: true })).toBeVisible();
   await expect(page.getByLabel(/protector usado/)).toHaveCount(1);
   await expect(page.getByRole('img', { name: /últimos 7 días/ })).toBeVisible();

@@ -7,6 +7,7 @@ import { addDays, parseLocalDate, type LocalDate } from '../core/time/dates';
 import { SKILL_LABEL } from '../core/content/catalog';
 import { isChampionDay } from '../core/streak/champion';
 import type { Settings } from '../db/types';
+import { BadgeGrid } from '../components/AchievementWatcher';
 
 const WD = ['D', 'L', 'M', 'X', 'J', 'V', 'S'];
 
@@ -176,6 +177,11 @@ export function Progress() {
             })}
           </ul>
         )}
+      </section>
+
+      <section className="card" aria-labelledby="badges-title">
+        <h2 id="badges-title">Insignias</h2>
+        <BadgeGrid />
       </section>
 
       <section className="card" aria-labelledby="hard-title">

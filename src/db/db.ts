@@ -50,6 +50,8 @@ export const DEFAULT_SETTINGS: Settings = {
   sound: true,
   theme: 'auto',
   pinHash: null,
+  pinSalt: null,
+  unlockAll: false,
   lastBackupAt: null,
   createdAt: new Date(0).toISOString(),
 };

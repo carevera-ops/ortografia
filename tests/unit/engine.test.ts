@@ -139,6 +139,14 @@ describe('desbloqueo del camino', () => {
     const rows = [row('A1', 1, 90), row('A1', 2, 90), row('A1', 3, 90), row('A1', 4, 60)];
     expect(computePath(UNITS, rows, playable).next).toEqual({ unitId: 'A1', level: 4 });
   });
+  it('«desbloquear todo» abre todas las unidades y niveles con contenido', () => {
+    const p = computePath(UNITS, [], new Set(['A1', 'A2', 'B1']), true);
+    expect(p.unitUnlocked['A2']).toBe(true);
+    expect(p.unitUnlocked['B1']).toBe(true);
+    expect(p.unitUnlocked['A3']).toBe(false); // sin contenido
+    expect(p.levelState['A2']).toEqual(['available', 'available', 'available', 'available']);
+    expect(p.next).toEqual({ unitId: 'A1', level: 1 });
+  });
   it('las unidades sin contenido no se desbloquean', () => {
     const rows = [1, 2, 3, 4].map((l) => row('A1', l, 100));
     const p = computePath(UNITS, rows, new Set(['A1']));

@@ -22,8 +22,9 @@ export function useContentIndex(): Record<string, number> | null {
 export function usePath(): PathState | null {
   const index = useContentIndex();
   const rows = useLiveQuery(() => db.levelProgress.toArray(), []);
+  const settings = useLiveQuery(() => db.settings.get('main'), []);
   if (!index || !rows) return null;
-  return computePath(UNITS, rows, new Set(Object.keys(index)));
+  return computePath(UNITS, rows, new Set(Object.keys(index)), settings?.unlockAll ?? false);
 }
 
 
