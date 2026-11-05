@@ -20,6 +20,17 @@ import {
 import * as W from './words.ts';
 import * as S from './sentences.ts';
 import * as P from './spelling.ts';
+import * as W2 from './words2.ts';
+import * as S2 from './sentences2.ts';
+import * as P2 from './spelling2.ts';
+
+Object.assign(S.EXPLICA, S2.EXPLICA_2);
+/** Une dos listas por niveles de dificultad. */
+const mergeTiers = (a: Record<number, string[]>, b: Record<number, string[]>) => {
+  const out: Record<number, string[]> = {};
+  for (const k of new Set([...Object.keys(a), ...Object.keys(b)].map(Number))) out[k] = [...(a[k] ?? []), ...(b[k] ?? [])];
+  return out;
+};
 
 const OUT = fileURLToPath(new URL('../public/content/', import.meta.url));
 
@@ -385,34 +396,61 @@ function build(unit: string, words: Word[], makers: Make[], max: number): Item[]
   return chosen.map((it, i) => ({ id: `${unit}-${String(i + 1).padStart(4, '0')}`, ...it }));
 }
 
-const agudas = uniqueBy([...fromTiers(W.AGUDAS_CON_TILDE), ...fromTiers(W.AGUDAS_SIN_TILDE)], (w) => w.word);
-const llanas = uniqueBy([...fromTiers(W.LLANAS_CON_TILDE), ...fromTiers(W.LLANAS_SIN_TILDE)], (w) => w.word);
-const esdr = uniqueBy([...fromTiers(W.ESDRUJULAS)], (w) => w.word);
+const agudas = uniqueBy(
+  [...fromTiers(mergeTiers(W.AGUDAS_CON_TILDE, W2.AGUDAS_CON_TILDE_2)), ...fromTiers(mergeTiers(W.AGUDAS_SIN_TILDE, W2.AGUDAS_SIN_TILDE_2))],
+  (w) => w.word,
+);
+const llanas = uniqueBy(
+  [...fromTiers(mergeTiers(W.LLANAS_CON_TILDE, W2.LLANAS_CON_TILDE_2)), ...fromTiers(mergeTiers(W.LLANAS_SIN_TILDE, W2.LLANAS_SIN_TILDE_2))],
+  (w) => w.word,
+);
+const esdr = uniqueBy(fromTiers(mergeTiers(W.ESDRUJULAS, W2.ESDRUJULAS_2)), (w) => w.word);
 const sobres = fromList(W.SOBRESDRUJULAS, 3);
-const hiatosAc = uniqueBy(fromTiers(W.HIATOS_ACENTUALES), (w) => w.word);
+const hiatosAc = uniqueBy(fromTiers(mergeTiers(W.HIATOS_ACENTUALES, W2.HIATOS_ACENTUALES_2)), (w) => w.word);
 const diptongos = fromList(W.DIPTONGOS, 1);
 const triptongos = fromList(W.TRIPTONGOS, 3);
 const hiatosSimples = fromList(W.HIATOS_SIMPLES, 2);
 // Los monosílabos «trampa» (fue, dio, guion…) son más difíciles: mucha gente les pone tilde.
-const monos = fromList(W.MONOSILABOS, 1).map((w) => (W.MONOSILABOS_TRAMPA.has(w.word) ? { ...w, tier: 2 } : w));
+const monos = uniqueBy(fromList([...W.MONOSILABOS, ...W2.MONOSILABOS_2], 1), (w) => w.word).map((w) =>
+  W.MONOSILABOS_TRAMPA.has(w.word) ? { ...w, tier: 2 } : w,
+);
+
+/** Dictado difícil dentro de las unidades de palabras (da margen a la dificultad adaptativa). */
+const mkDictadoAlto =
+  (skill: string): Make =>
+  (w) =>
+    w.tier < 2 || W.AMBIGUAS.has(w.word) || !/^[a-zñáéíóúü]+$/.test(w.word)
+      ? null
+      : {
+          tipo: 'dictado',
+          enunciado: 'Escucha y escribe la palabra',
+          palabra: w.word,
+          ...(w.cls ? { clase: w.cls } : {}),
+          respuesta: w.word,
+          dificultad: clamp(w.tier + 2),
+          skills: ['dictado', skill],
+          explicacion: w.cls === null ? explainMono(w.word) : explainAccent(w.word, w.stress),
+          regla_id: 'reglas',
+        };
 
 const regular = (ws: Word[]) => ws.filter((w) => !/[aeiouáéíóúü]{2}/i.test(w.word) && !/h/i.test(w.word) && /^[a-zñáéíóú]/.test(w.word));
+/** Casos especiales: acabadas en -y o en -s/-n tras consonante (virrey, robots, bíceps, póney). */
 const isSpecial = (w: Word) => {
   const l = stripAccents(w.word.toLowerCase());
-  return w.tier === 3 && (/y$/.test(l) || /[^aeiou][sn]$/.test(l));
+  return w.cls !== null && (/y$/.test(l) || /[^aeiou][sn]$/.test(l));
 };
 
 const units: Record<string, Item[]> = {
-  A1: build('A1', [...regular(llanas), ...regular(agudas), ...regular(esdr)], [mkSeparar], 90),
-  A2: build('A2', [...llanas, ...agudas, ...esdr, ...sobres].filter((w) => !isSpecial(w)), [mkTonica], 80),
-  A3: build('A3', [...llanas, ...agudas, ...esdr].filter((w) => !isSpecial(w)), [mkClasificar(false)], 100),
-  A4: build('A4', agudas.filter((w) => !isSpecial(w)), [mkElegir('agudas', 'agudas'), mkPonerTilde('agudas', 'agudas'), mkExplica], 90),
-  A5: build('A5', llanas.filter((w) => !isSpecial(w)), [mkElegir('llanas', 'llanas'), mkPonerTilde('llanas', 'llanas'), mkExplica], 90),
-  A6: build('A6', [...esdr, ...sobres], [mkElegir('esdrujulas', 'esdrujulas'), mkPonerTilde('esdrujulas', 'esdrujulas'), mkClasificar(true)], 70),
-  A7: build('A7', [...agudas, ...llanas].filter(isSpecial), [mkElegir('casos_especiales', 'casos-especiales', 0), mkExplica], 50),
-  A8: build('A8', [...diptongos, ...triptongos, ...hiatosSimples], [mkDiptongoHiato, mkSeparar], 70),
-  A9: build('A9', [...hiatosAc, ...hiatosSimples], [mkElegir('hiatos', 'hiatos'), mkPonerTilde('hiatos', 'hiatos'), mkDiptongoHiato, mkExplica], 80),
-  A10: build('A10', monos, [mkElegir('monosilabos', 'monosilabos')], 40),
+  A1: build('A1', [...regular(llanas), ...regular(agudas), ...regular(esdr)], [mkSeparar], 170),
+  A2: build('A2', [...llanas, ...agudas, ...esdr, ...sobres].filter((w) => !isSpecial(w)), [mkTonica], 170),
+  A3: build('A3', [...llanas, ...agudas, ...esdr].filter((w) => !isSpecial(w)), [mkClasificar(false)], 200),
+  A4: build('A4', agudas.filter((w) => !isSpecial(w)), [mkElegir('agudas', 'agudas'), mkPonerTilde('agudas', 'agudas'), mkExplica, mkDictadoAlto('agudas')], 400),
+  A5: build('A5', llanas.filter((w) => !isSpecial(w)), [mkElegir('llanas', 'llanas'), mkPonerTilde('llanas', 'llanas'), mkExplica, mkDictadoAlto('llanas')], 400),
+  A6: build('A6', [...esdr, ...sobres], [mkElegir('esdrujulas', 'esdrujulas'), mkPonerTilde('esdrujulas', 'esdrujulas'), mkClasificar(true), mkDictadoAlto('esdrujulas')], 300),
+  A7: build('A7', [...agudas, ...llanas].filter(isSpecial), [mkElegir('casos_especiales', 'casos-especiales', 1), mkPonerTilde('casos_especiales', 'casos-especiales'), mkExplica, mkClasificar(false)], 120),
+  A8: build('A8', [...diptongos, ...triptongos, ...hiatosSimples], [mkDiptongoHiato, mkSeparar], 120),
+  A9: build('A9', [...hiatosAc, ...hiatosSimples], [mkElegir('hiatos', 'hiatos'), mkPonerTilde('hiatos', 'hiatos'), mkDiptongoHiato, mkExplica, mkDictadoAlto('hiatos')], 320),
+  A10: build('A10', monos, [mkElegir('monosilabos', 'monosilabos')], 80),
 };
 
 // =====================================================================
@@ -559,7 +597,7 @@ function pairItems(groups: P.PairGroup[]): Omit<Item, 'id'>[] {
 // ---- A15: -mente, compuestos y enclíticos ----
 function menteItems(): Omit<Item, 'id'>[] {
   const out: Omit<Item, 'id'>[] = [];
-  for (const entry of P.MENTE) {
+  for (const entry of [...P.MENTE, ...P2.MENTE_2]) {
     const [word, letter] = entry.split(':') as [string, string | undefined];
     const adj = word.replace(/mente$/, '');
     const adjW = parse(letter ? `${adj}:${letter}` : adj, 2);
@@ -573,7 +611,7 @@ function menteItems(): Omit<Item, 'id'>[] {
       tipo: 'elegir',
       enunciado: '¿Cuál está bien escrita?',
       palabra: word,
-      clase: adjW.cls!,
+      ...(adjW.cls ? { clase: adjW.cls } : {}),
       opciones: shuffle([word, ...wrong.filter((x) => x !== word)].slice(0, 3), hash(word)),
       respuesta: word,
       dificultad: 2,
@@ -585,7 +623,7 @@ function menteItems(): Omit<Item, 'id'>[] {
       tipo: 'poner_tilde',
       enunciado: 'Toca la vocal que lleva tilde (o «No lleva tilde»)',
       palabra: word,
-      clase: adjW.cls!,
+      ...(adjW.cls ? { clase: adjW.cls } : {}),
       respuesta: [...word].findIndex((c) => hasAccentMark(c)),
       dificultad: 3,
       skills: ['mente_compuestos'],
@@ -599,8 +637,8 @@ function menteItems(): Omit<Item, 'id'>[] {
 const withRule = (regla: string, skill: string, extra = '') => (it: Omit<Item, 'id'> | null) =>
   it ? { ...it, regla_id: regla, skills: [skill], explicacion: it.explicacion + extra } : null;
 
-const compuestos = fromList(P.COMPUESTOS, 2);
-const encliticos = fromList(P.ENCLITICOS, 2);
+const compuestos = uniqueBy(fromList([...P.COMPUESTOS, ...P2.COMPUESTOS_2], 2), (w) => w.word);
+const encliticos = uniqueBy(fromList([...P.ENCLITICOS, ...P2.ENCLITICOS_2], 2), (w) => w.word);
 const mayus = fromList(P.MAYUSCULAS, 2);
 
 const COMP_NOTE = ' En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.';
@@ -632,11 +670,121 @@ function isPunctuation(opts: string[]): boolean {
   return opts.slice(1).some((o) => bare(o) === bare(opts[0]!));
 }
 
+// ---- Ejercicios difíciles con frases completas (dificultad 4–5) ----
+const ADD_ACCENT: Record<string, string> = {
+  el: 'él', tu: 'tú', mi: 'mí', si: 'sí', se: 'sé', te: 'té', de: 'dé', mas: 'más', aun: 'aún', que: 'qué',
+  como: 'cómo', donde: 'dónde', cuando: 'cuándo', quien: 'quién', solo: 'sólo', este: 'éste', esta: 'ésta',
+};
+const CORE = /^([¿¡«"(—]*)(.*?)([.,;:!?»")]*)$/;
+function withCore(token: string, f: (core: string) => string | null): string | null {
+  const m = CORE.exec(token)!;
+  const core = m[2]!;
+  const lower = core.toLowerCase();
+  const out = f(lower);
+  if (out === null) return null;
+  const cased = core[0] && core[0] !== core[0].toLowerCase() ? out.charAt(0).toUpperCase() + out.slice(1) : out;
+  return m[1] + cased + m[3];
+}
+const correctOf = (src: string) => {
+  const p = parseSentence(src);
+  return `${p.before}${p.options[0]}${p.after}`;
+};
+
+/** Dos versiones incorrectas de una frase: quitando una tilde, poniendo una que sobra o moviéndola. */
+function sentenceVariants(sentence: string): string[] {
+  const tokens = sentence.split(' ');
+  const accented = tokens.map((t, i) => (hasAccentMark(t) ? i : -1)).filter((i) => i >= 0);
+  const out = new Set<string>();
+  const replace = (i: number, t: string | null) => {
+    if (t === null || t === tokens[i]) return;
+    const copy = [...tokens];
+    copy[i] = t;
+    const v = copy.join(' ');
+    if (v !== sentence) out.add(v);
+  };
+  const order = shuffle(accented, hash(sentence));
+  for (const i of order.slice(0, 2)) replace(i, withCore(tokens[i]!, (c) => stripAccents(c)));
+  if (out.size < 2) {
+    tokens.forEach((t, i) => {
+      if (out.size >= 2) return;
+      replace(i, withCore(t, (c) => ADD_ACCENT[c] ?? null));
+    });
+  }
+  if (out.size < 2 && accented.length) {
+    const i = accented[0]!;
+    replace(i, withCore(tokens[i]!, (c) => {
+      const plain = stripAccents(c);
+      const syl = syllabify(plain);
+      const cur = syllabify(c).findIndex((x) => hasAccentMark(x));
+      for (let k = 0; k < syl.length; k++) if (k !== cur) return placeAccent(plain, k, syl);
+      return null;
+    }));
+  }
+  return [...out].slice(0, 2);
+}
+
+function elegirFrase(sentence: string, skill: string, regla: string): Omit<Item, 'id'> | null {
+  const wrong = sentenceVariants(sentence);
+  if (wrong.length < 2) return null;
+  return {
+    tipo: 'elegir',
+    enunciado: '¿Qué frase tiene bien todas las tildes?',
+    opciones: shuffle([sentence, ...wrong], hash(sentence) + 11),
+    respuesta: sentence,
+    dificultad: sentence.split(' ').length >= 7 ? 5 : 4,
+    skills: [skill],
+    explicacion: `Lo correcto es: ${sentence} Fíjate bien en cada palabra con tilde: ${sentence
+      .split(' ')
+      .filter((t) => hasAccentMark(t))
+      .map((t) => withCore(t, (c) => c))
+      .map((t) => t!.replace(/[¿¡.,;:!?«»]/g, ''))
+      .join(', ')}.`,
+    regla_id: regla,
+  };
+}
+
+function dictadoFrase(sentence: string, skill: string): Omit<Item, 'id'> {
+  const n = sentence.split(' ').filter((t) => hasAccentMark(t)).length;
+  return {
+    tipo: 'dictado',
+    enunciado: 'Escucha y escribe la frase',
+    palabra: sentence,
+    respuesta: sentence,
+    dificultad: n >= 2 ? 5 : 4,
+    skills: ['dictado', skill],
+    explicacion: `La frase es: ${sentence} (no hace falta escribir los signos de puntuación, pero sí todas las tildes).`,
+    regla_id: 'reglas',
+  };
+}
+
+const diacriticaAll = [...S.DIACRITICA, ...S2.DIACRITICA_2];
+const interrogAll = [...S.INTERROGATIVOS, ...S2.INTERROGATIVOS_2];
+const porqueAll = [...S.PORQUE, ...S2.PORQUE_2];
+const soloAll = [...S.SOLO_DEMOSTRATIVOS, ...S2.SOLO_DEMOSTRATIVOS_2];
+const homofonosAll = [...S.HOMOFONOS, ...S2.HOMOFONOS_2];
+const nn = <T,>(xs: (T | null)[]) => xs.filter((x): x is T => x !== null);
+
 const phase5: Record<string, Item[]> = {
-  A11: finalize('A11', sentenceItems(S.DIACRITICA, 'diacritica', 'diacritica'), 110),
-  A12: finalize('A12', sentenceItems(S.INTERROGATIVOS, 'interrogativos', 'interrogativos'), 76),
-  A13: finalize('A13', sentenceItems(S.PORQUE, 'porque', 'porque'), 60),
-  A14: finalize('A14', sentenceItems(S.SOLO_DEMOSTRATIVOS, 'solo_demostrativos', 'solo-demostrativos'), 40),
+  A11: finalize(
+    'A11',
+    [
+      ...sentenceItems(diacriticaAll, 'diacritica', 'diacritica'),
+      ...nn(diacriticaAll.map((src) => elegirFrase(correctOf(src), 'diacritica', 'diacritica'))),
+      ...diacriticaAll.filter((_, i) => i % 3 === 0).map((src) => dictadoFrase(correctOf(src), 'diacritica')),
+    ],
+    400,
+  ),
+  A12: finalize(
+    'A12',
+    [
+      ...sentenceItems(interrogAll, 'interrogativos', 'interrogativos'),
+      ...nn(interrogAll.map((src) => elegirFrase(correctOf(src), 'interrogativos', 'interrogativos'))),
+      ...interrogAll.filter((_, i) => i % 3 === 0).map((src) => dictadoFrase(correctOf(src), 'interrogativos')),
+    ],
+    300,
+  ),
+  A13: finalize('A13', sentenceItems(porqueAll, 'porque', 'porque'), 150),
+  A14: finalize('A14', sentenceItems(soloAll, 'solo_demostrativos', 'solo-demostrativos'), 100),
   A15: finalize(
     'A15',
     [
@@ -644,22 +792,24 @@ const phase5: Record<string, Item[]> = {
       ...compuestos.flatMap((w) => [mkElegir('x', 'x')(w), mkPonerTilde('x', 'x')(w)].map(withRule('mente-compuestos', 'mente_compuestos', COMP_NOTE))),
       ...encliticos.flatMap((w) => [mkElegir('x', 'x')(w), mkPonerTilde('x', 'x')(w)].map(withRule('mente-compuestos', 'mente_compuestos', ENCL_NOTE))),
     ].filter((x): x is Omit<Item, 'id'> => !!x),
-    80,
+    250,
   ),
   A16: finalize(
     'A16',
     [
       ...mayus.flatMap((w) => [mkElegir('x', 'x')(w), mkPonerTilde('x', 'x')(w)].map(withRule('mayusculas-tilde', 'mayusculas_tilde', MAY_NOTE))),
       ...dictado,
+      ...nn(S2.FRASES_TILDES.map((f) => elegirFrase(f, 'frases', 'reglas'))),
+      ...S2.FRASES_TILDES.map((f) => dictadoFrase(f, 'frases')),
     ].filter((x): x is Omit<Item, 'id'> => !!x),
-    100,
+    300,
   ),
-  B1: finalize('B1', pairItems(P.B1), 100),
-  B2: finalize('B2', pairItems(P.B2), 80),
-  B3: finalize('B3', pairItems(P.B3), 80),
-  B4: finalize('B4', pairItems(P.B4), 80),
-  B5: finalize('B5', pairItems(P.B5), 80),
-  B6: finalize('B6', sentenceItems(S.HOMOFONOS, 'homofonos', 'homofonos'), 120),
+  B1: finalize('B1', pairItems([...P.B1, ...P2.B1_2]), 300),
+  B2: finalize('B2', pairItems([...P.B2, ...P2.B2_2]), 300),
+  B3: finalize('B3', pairItems([...P.B3, ...P2.B3_2]), 300),
+  B4: finalize('B4', pairItems([...P.B4, ...P2.B4_2]), 300),
+  B5: finalize('B5', pairItems([...P.B5, ...P2.B5_2]), 300),
+  B6: finalize('B6', sentenceItems(homofonosAll, 'homofonos', 'homofonos'), 250),
   B7: finalize(
     'B7',
     P.B7.map(([opts, expl], i) => ({

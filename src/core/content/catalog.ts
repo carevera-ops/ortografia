@@ -80,6 +80,7 @@ export const SKILL_LABEL: Record<string, string> = {
   mente_compuestos: '-mente y compuestos',
   mayusculas_tilde: 'Mayúsculas con tilde',
   dictado: 'Dictado',
+  frases: 'Tildes en frases',
   b_v: 'B o V',
   g_j: 'G o J',
   h: 'La H',

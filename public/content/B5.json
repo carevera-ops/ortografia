@@ -5,261 +5,6 @@
    "id": "B5-0001",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "pizarra",
-   "opciones": [
-    "pizarra",
-    "pisarra"
-   ],
-   "respuesta": "pizarra",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «pizarra». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0002",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "corazón",
-   "opciones": [
-    "corazón",
-    "corasón"
-   ],
-   "respuesta": "corazón",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «corazón». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0003",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "lápices",
-   "opciones": [
-    "lápizes",
-    "lápices"
-   ],
-   "respuesta": "lápices",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «lápices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0004",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "veces",
-   "opciones": [
-    "veces",
-    "vezes"
-   ],
-   "respuesta": "veces",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «veces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0005",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cinco",
-   "opciones": [
-    "sinco",
-    "cinco"
-   ],
-   "respuesta": "cinco",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cinco». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0006",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cebolla",
-   "opciones": [
-    "cebolla",
-    "sebolla"
-   ],
-   "respuesta": "cebolla",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cebolla». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0007",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cazuela",
-   "opciones": [
-    "cazuela",
-    "casuela"
-   ],
-   "respuesta": "cazuela",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cazuela». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0008",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cruces",
-   "opciones": [
-    "cruzes",
-    "cruces"
-   ],
-   "respuesta": "cruces",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cruces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0009",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "zanahoria",
-   "opciones": [
-    "sanahoria",
-    "zanahoria"
-   ],
-   "respuesta": "zanahoria",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «zanahoria». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0010",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "peces",
-   "opciones": [
-    "peces",
-    "pezes"
-   ],
-   "respuesta": "peces",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «peces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0011",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "azúcar",
-   "opciones": [
-    "asúcar",
-    "azúcar"
-   ],
-   "respuesta": "azúcar",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «azúcar». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0012",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cielo",
-   "opciones": [
-    "zielo",
-    "cielo"
-   ],
-   "respuesta": "cielo",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cielo». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0013",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "zorro",
-   "opciones": [
-    "zorro",
-    "sorro"
-   ],
-   "respuesta": "zorro",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «zorro». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0014",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "actrices",
-   "opciones": [
-    "actrizes",
-    "actrices"
-   ],
-   "respuesta": "actrices",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «actrices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0015",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "zapato",
-   "opciones": [
-    "zapato",
-    "sapato"
-   ],
-   "respuesta": "zapato",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «zapato». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0016",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "nariz",
    "opciones": [
     "nariz",
@@ -274,41 +19,7 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0017",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "lápiz",
-   "opciones": [
-    "lápis",
-    "lápiz"
-   ],
-   "respuesta": "lápiz",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «lápiz». Esta palabra acaba en -z, no en -s.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0018",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "luces",
-   "opciones": [
-    "luces",
-    "luzes"
-   ],
-   "respuesta": "luces",
-   "dificultad": 1,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «luces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0019",
+   "id": "B5-0002",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "cine",
@@ -325,34 +36,16 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0020",
+   "id": "B5-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "exterior",
-   "opciones": [
-    "exterior",
-    "esterior"
-   ],
-   "respuesta": "exterior",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «exterior». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0021",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
    "palabra": "pizarra",
-   "frase": "pi___arra",
    "opciones": [
-    "z",
-    "s"
+    "pizarra",
+    "pisarra"
    ],
-   "respuesta": "z",
-   "dificultad": 2,
+   "respuesta": "pizarra",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
@@ -360,17 +53,84 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0022",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "luces",
-   "frase": "lu___es",
+   "id": "B5-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gracias",
    "opciones": [
-    "c",
-    "z"
+    "grasias",
+    "gracias"
    ],
-   "respuesta": "c",
-   "dificultad": 2,
+   "respuesta": "gracias",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «gracias». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "azul",
+   "opciones": [
+    "azul",
+    "asul"
+   ],
+   "respuesta": "azul",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «azul». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cepillo",
+   "opciones": [
+    "sepillo",
+    "cepillo"
+   ],
+   "respuesta": "cepillo",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cepillo». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ciruela",
+   "opciones": [
+    "ciruela",
+    "siruela"
+   ],
+   "respuesta": "ciruela",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «ciruela». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "luces",
+   "opciones": [
+    "luces",
+    "luzes"
+   ],
+   "respuesta": "luces",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
@@ -378,68 +138,84 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0023",
+   "id": "B5-0009",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "esperar",
+   "palabra": "zorro",
    "opciones": [
-    "esperar",
-    "experar"
+    "zorro",
+    "sorro"
    ],
-   "respuesta": "esperar",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «esperar». Esta palabra se escribe con s, no con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0024",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "decir",
-   "opciones": [
-    "desir",
-    "decir"
-   ],
-   "respuesta": "decir",
-   "dificultad": 2,
+   "respuesta": "zorro",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «decir». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "explicacion": "Se escribe «zorro». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0025",
+   "id": "B5-0010",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hacer",
+   "palabra": "corazón",
    "opciones": [
-    "hacer",
-    "haser"
+    "corazón",
+    "corasón"
    ],
-   "respuesta": "hacer",
-   "dificultad": 2,
+   "respuesta": "corazón",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «hacer». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "explicacion": "Se escribe «corazón». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0026",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
+   "id": "B5-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "once",
+   "opciones": [
+    "onse",
+    "once"
+   ],
+   "respuesta": "once",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «once». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cruz",
+   "opciones": [
+    "cruz",
+    "crus"
+   ],
+   "respuesta": "cruz",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cruz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "cinco",
-   "frase": "___inco",
    "opciones": [
-    "s",
-    "c"
+    "sinco",
+    "cinco"
    ],
-   "respuesta": "c",
-   "dificultad": 2,
+   "respuesta": "cinco",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
@@ -447,104 +223,33 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0027",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "felices",
-   "frase": "feli___es",
+   "id": "B5-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "doce",
    "opciones": [
-    "z",
-    "c"
+    "doce",
+    "dose"
    ],
-   "respuesta": "c",
-   "dificultad": 2,
+   "respuesta": "doce",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «felices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "explicacion": "Se escribe «doce». Delante de e, i se escribe c; delante de a, o, u, z.",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0028",
+   "id": "B5-0015",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "escuela",
-   "opciones": [
-    "escuela",
-    "excuela"
-   ],
-   "respuesta": "escuela",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «escuela». Esta palabra se escribe con s, no con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0029",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "oxígeno",
-   "opciones": [
-    "osígeno",
-    "oxígeno"
-   ],
-   "respuesta": "oxígeno",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «oxígeno». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0030",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "explicar",
-   "opciones": [
-    "explicar",
-    "esplicar"
-   ],
-   "respuesta": "explicar",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «explicar». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0031",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "cebolla",
-   "frase": "___ebolla",
-   "opciones": [
-    "c",
-    "s"
-   ],
-   "respuesta": "c",
-   "dificultad": 2,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cebolla». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0032",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
    "palabra": "lápices",
-   "frase": "lápi___es",
    "opciones": [
-    "z",
-    "c"
+    "lápizes",
+    "lápices"
    ],
-   "respuesta": "c",
-   "dificultad": 2,
+   "respuesta": "lápices",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
@@ -552,103 +257,16 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0033",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "azúcar",
-   "frase": "a___úcar",
-   "opciones": [
-    "s",
-    "z"
-   ],
-   "respuesta": "z",
-   "dificultad": 2,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «azúcar». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0034",
+   "id": "B5-0016",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "éxito",
-   "opciones": [
-    "éxito",
-    "ésito"
-   ],
-   "respuesta": "éxito",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «éxito». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0035",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "extraño",
-   "opciones": [
-    "extraño",
-    "estraño"
-   ],
-   "respuesta": "extraño",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «extraño». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0036",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "explorar",
-   "opciones": [
-    "explorar",
-    "esplorar"
-   ],
-   "respuesta": "explorar",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «explorar». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0037",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "texto",
-   "opciones": [
-    "testo",
-    "texto"
-   ],
-   "respuesta": "texto",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «texto». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0038",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
    "palabra": "actrices",
-   "frase": "actri___es",
    "opciones": [
-    "z",
-    "c"
+    "actrizes",
+    "actrices"
    ],
-   "respuesta": "c",
-   "dificultad": 2,
+   "respuesta": "actrices",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
@@ -656,17 +274,254 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0039",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "zapato",
-   "frase": "___apato",
+   "id": "B5-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "veces",
    "opciones": [
-    "z",
-    "s"
+    "veces",
+    "vezes"
    ],
-   "respuesta": "z",
-   "dificultad": 2,
+   "respuesta": "veces",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «veces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "nuez",
+   "opciones": [
+    "nues",
+    "nuez"
+   ],
+   "respuesta": "nuez",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «nuez». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cesta",
+   "opciones": [
+    "cesta",
+    "sesta"
+   ],
+   "respuesta": "cesta",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cesta». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "plaza",
+   "opciones": [
+    "plasa",
+    "plaza"
+   ],
+   "respuesta": "plaza",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «plaza». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "trozo",
+   "opciones": [
+    "trozo",
+    "troso"
+   ],
+   "respuesta": "trozo",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «trozo». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "zapatilla",
+   "opciones": [
+    "sapatilla",
+    "zapatilla"
+   ],
+   "respuesta": "zapatilla",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «zapatilla». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "trece",
+   "opciones": [
+    "trese",
+    "trece"
+   ],
+   "respuesta": "trece",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «trece». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "quince",
+   "opciones": [
+    "quince",
+    "quinse"
+   ],
+   "respuesta": "quince",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «quince». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cazuela",
+   "opciones": [
+    "cazuela",
+    "casuela"
+   ],
+   "respuesta": "cazuela",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cazuela». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "catorce",
+   "opciones": [
+    "catorse",
+    "catorce"
+   ],
+   "respuesta": "catorce",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «catorce». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cocina",
+   "opciones": [
+    "cocina",
+    "cosina"
+   ],
+   "respuesta": "cocina",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cocina». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cruces",
+   "opciones": [
+    "cruzes",
+    "cruces"
+   ],
+   "respuesta": "cruces",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cruces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "zanahoria",
+   "opciones": [
+    "sanahoria",
+    "zanahoria"
+   ],
+   "respuesta": "zanahoria",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «zanahoria». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cereza",
+   "opciones": [
+    "sereza",
+    "cereza"
+   ],
+   "respuesta": "cereza",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cereza». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "zapato",
+   "opciones": [
+    "zapato",
+    "sapato"
+   ],
+   "respuesta": "zapato",
+   "dificultad": 1,
    "skills": [
     "c_z"
    ],
@@ -674,24 +529,143 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0040",
+   "id": "B5-0032",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "taxi",
+   "palabra": "luz",
    "opciones": [
-    "tasi",
-    "taxi"
+    "luz",
+    "lus"
    ],
-   "respuesta": "taxi",
-   "dificultad": 2,
+   "respuesta": "luz",
+   "dificultad": 1,
    "skills": [
-    "x_s"
+    "c_z"
    ],
-   "explicacion": "Se escribe «taxi». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
+   "explicacion": "Se escribe «luz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
   },
   {
-   "id": "B5-0041",
+   "id": "B5-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cebolla",
+   "opciones": [
+    "cebolla",
+    "sebolla"
+   ],
+   "respuesta": "cebolla",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cebolla». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cielo",
+   "opciones": [
+    "zielo",
+    "cielo"
+   ],
+   "respuesta": "cielo",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cielo». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lápiz",
+   "opciones": [
+    "lápis",
+    "lápiz"
+   ],
+   "respuesta": "lápiz",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «lápiz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "felices",
+   "opciones": [
+    "felizes",
+    "felices"
+   ],
+   "respuesta": "felices",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «felices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "feliz",
+   "opciones": [
+    "feliz",
+    "felis"
+   ],
+   "respuesta": "feliz",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «feliz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "azúcar",
+   "opciones": [
+    "asúcar",
+    "azúcar"
+   ],
+   "respuesta": "azúcar",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «azúcar». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "peces",
+   "opciones": [
+    "peces",
+    "pezes"
+   ],
+   "respuesta": "peces",
+   "dificultad": 1,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «peces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0040",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "nariz",
@@ -709,77 +683,24 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0042",
+   "id": "B5-0041",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "exacto",
+   "palabra": "oxígeno",
    "opciones": [
-    "exacto",
-    "esacto"
+    "osígeno",
+    "oxígeno"
    ],
-   "respuesta": "exacto",
+   "respuesta": "oxígeno",
    "dificultad": 2,
    "skills": [
     "x_s"
    ],
-   "explicacion": "Se escribe «exacto». Esta palabra se escribe con x.",
+   "explicacion": "Se escribe «oxígeno». Esta palabra se escribe con x.",
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0043",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "cine",
-   "frase": "___ine",
-   "opciones": [
-    "c",
-    "z"
-   ],
-   "respuesta": "c",
-   "dificultad": 2,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cine». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0044",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "cereza",
-   "frase": "___ereza",
-   "opciones": [
-    "s",
-    "c"
-   ],
-   "respuesta": "c",
-   "dificultad": 2,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «cereza». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0045",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "nacer",
-   "opciones": [
-    "nacer",
-    "naser"
-   ],
-   "respuesta": "nacer",
-   "dificultad": 2,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «nacer». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0046",
+   "id": "B5-0042",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "corazón",
@@ -797,45 +718,29 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0047",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "espalda",
-   "opciones": [
-    "espalda",
-    "expalda"
-   ],
-   "respuesta": "espalda",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «espalda». Esta palabra se escribe con s, no con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0048",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "estrella",
-   "opciones": [
-    "extrella",
-    "estrella"
-   ],
-   "respuesta": "estrella",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «estrella». Esta palabra se escribe con s, no con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0049",
+   "id": "B5-0043",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "lápiz",
-   "frase": "lápi___",
+   "palabra": "ciruela",
+   "frase": "___iruela",
+   "opciones": [
+    "c",
+    "s"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «ciruela». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0044",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "zanahoria",
+   "frase": "___anahoria",
    "opciones": [
     "s",
     "z"
@@ -845,46 +750,82 @@
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «lápiz». Esta palabra acaba en -z, no en -s.",
+   "explicacion": "Se escribe «zanahoria». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0050",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "estudiar",
-   "opciones": [
-    "extudiar",
-    "estudiar"
-   ],
-   "respuesta": "estudiar",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «estudiar». Esta palabra se escribe con s, no con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0051",
+   "id": "B5-0045",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "peces",
-   "frase": "pe___es",
+   "palabra": "catorce",
+   "frase": "cator___e",
    "opciones": [
-    "c",
-    "z"
+    "s",
+    "c"
    ],
    "respuesta": "c",
    "dificultad": 2,
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «peces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "explicacion": "Se escribe «catorce». Delante de e, i se escribe c; delante de a, o, u, z.",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0052",
+   "id": "B5-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "explorar",
+   "opciones": [
+    "explorar",
+    "esplorar"
+   ],
+   "respuesta": "explorar",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «explorar». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0047",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cocina",
+   "frase": "co___ina",
+   "opciones": [
+    "c",
+    "s"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cocina». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0048",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cesta",
+   "frase": "___esta",
+   "opciones": [
+    "c",
+    "s"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cesta». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0049",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "cruces",
@@ -902,28 +843,11 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0053",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "excursión",
-   "opciones": [
-    "escursión",
-    "excursión"
-   ],
-   "respuesta": "excursión",
-   "dificultad": 2,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «excursión». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0054",
+   "id": "B5-0050",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "cielo",
-   "frase": "___ielo",
+   "palabra": "actrices",
+   "frase": "actri___es",
    "opciones": [
     "z",
     "c"
@@ -933,45 +857,28 @@
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «cielo». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "explicacion": "Se escribe «actrices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0055",
+   "id": "B5-0051",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "examen",
+   "palabra": "estudiar",
    "opciones": [
-    "examen",
-    "esamen"
+    "extudiar",
+    "estudiar"
    ],
-   "respuesta": "examen",
+   "respuesta": "estudiar",
    "dificultad": 2,
    "skills": [
     "x_s"
    ],
-   "explicacion": "Se escribe «examen». Esta palabra se escribe con x.",
+   "explicacion": "Se escribe «estudiar». Esta palabra se escribe con s, no con x.",
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0056",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "empezar",
-   "opciones": [
-    "empesar",
-    "empezar"
-   ],
-   "respuesta": "empezar",
-   "dificultad": 2,
-   "skills": [
-    "c_z"
-   ],
-   "explicacion": "Se escribe «empezar». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
-   "regla_id": "c-z"
-  },
-  {
-   "id": "B5-0057",
+   "id": "B5-0052",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "conocer",
@@ -988,29 +895,115 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0058",
+   "id": "B5-0053",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "zorro",
-   "frase": "___orro",
+   "palabra": "nuez",
+   "frase": "nue___",
    "opciones": [
-    "z",
-    "s"
+    "s",
+    "z"
    ],
    "respuesta": "z",
    "dificultad": 2,
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «zorro». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "explicacion": "Se escribe «nuez». Esta palabra acaba en -z, no en -s.",
    "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "examen",
+   "opciones": [
+    "examen",
+    "esamen"
+   ],
+   "respuesta": "examen",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «examen». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0055",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "empezar",
+   "opciones": [
+    "empesar",
+    "empezar"
+   ],
+   "respuesta": "empezar",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «empezar». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0056",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "éxito",
+   "opciones": [
+    "éxito",
+    "ésito"
+   ],
+   "respuesta": "éxito",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «éxito». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0057",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "trece",
+   "frase": "tre___e",
+   "opciones": [
+    "s",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «trece». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "exterior",
+   "opciones": [
+    "exterior",
+    "esterior"
+   ],
+   "respuesta": "exterior",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «exterior». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
   },
   {
    "id": "B5-0059",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "cazuela",
-   "frase": "ca___uela",
+   "palabra": "azul",
+   "frase": "a___ul",
    "opciones": [
     "z",
     "s"
@@ -1020,11 +1013,98 @@
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «cazuela». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "explicacion": "Se escribe «azul». Delante de e, i se escribe c; delante de a, o, u, z.",
    "regla_id": "c-z"
   },
   {
    "id": "B5-0060",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "gracias",
+   "frase": "gra___ias",
+   "opciones": [
+    "s",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «gracias». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0061",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "explicar",
+   "opciones": [
+    "explicar",
+    "esplicar"
+   ],
+   "respuesta": "explicar",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «explicar». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0062",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "exacto",
+   "opciones": [
+    "exacto",
+    "esacto"
+   ],
+   "respuesta": "exacto",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «exacto». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0063",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "auxilio",
+   "opciones": [
+    "auxilio",
+    "ausilio"
+   ],
+   "respuesta": "auxilio",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «auxilio». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0064",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "pizarra",
+   "frase": "pi___arra",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «pizarra». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0065",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "plaza",
@@ -1042,7 +1122,372 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0061",
+   "id": "B5-0066",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cazuela",
+   "frase": "ca___uela",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cazuela». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0067",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "extraño",
+   "opciones": [
+    "extraño",
+    "estraño"
+   ],
+   "respuesta": "extraño",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «extraño». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0068",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sexto",
+   "opciones": [
+    "sexto",
+    "sesto"
+   ],
+   "respuesta": "sexto",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «sexto». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0069",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "máximo",
+   "opciones": [
+    "másimo",
+    "máximo"
+   ],
+   "respuesta": "máximo",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «máximo». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0070",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "espalda",
+   "opciones": [
+    "espalda",
+    "expalda"
+   ],
+   "respuesta": "espalda",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «espalda». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0071",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "espuma",
+   "opciones": [
+    "expuma",
+    "espuma"
+   ],
+   "respuesta": "espuma",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «espuma». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0072",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "peces",
+   "frase": "pe___es",
+   "opciones": [
+    "c",
+    "z"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «peces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0073",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "zapatilla",
+   "frase": "___apatilla",
+   "opciones": [
+    "s",
+    "z"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «zapatilla». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0074",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "trozo",
+   "frase": "tro___o",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «trozo». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0075",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "excursión",
+   "opciones": [
+    "escursión",
+    "excursión"
+   ],
+   "respuesta": "excursión",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «excursión». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0076",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estatua",
+   "opciones": [
+    "estatua",
+    "extatua"
+   ],
+   "respuesta": "estatua",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «estatua». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0077",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "exposición",
+   "opciones": [
+    "esposición",
+    "exposición"
+   ],
+   "respuesta": "exposición",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «exposición». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0078",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lápices",
+   "frase": "lápi___es",
+   "opciones": [
+    "z",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «lápices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0079",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "excelente",
+   "opciones": [
+    "escelente",
+    "excelente"
+   ],
+   "respuesta": "excelente",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «excelente». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0080",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cine",
+   "frase": "___ine",
+   "opciones": [
+    "c",
+    "z"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cine». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0081",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "nacer",
+   "opciones": [
+    "nacer",
+    "naser"
+   ],
+   "respuesta": "nacer",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «nacer». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0082",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "feliz",
+   "frase": "feli___",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «feliz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0083",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decir",
+   "opciones": [
+    "desir",
+    "decir"
+   ],
+   "respuesta": "decir",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «decir». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0084",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "azúcar",
+   "frase": "a___úcar",
+   "opciones": [
+    "s",
+    "z"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «azúcar». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0085",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "espejo",
+   "opciones": [
+    "expejo",
+    "espejo"
+   ],
+   "respuesta": "espejo",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «espejo». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0086",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "próximo",
+   "opciones": [
+    "prósimo",
+    "próximo"
+   ],
+   "respuesta": "próximo",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «próximo». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0087",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "boxeo",
@@ -1059,43 +1504,431 @@
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0062",
+   "id": "B5-0088",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "decir",
-   "frase": "de___ir",
+   "palabra": "zapato",
+   "frase": "___apato",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «zapato». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0089",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "zorro",
+   "frase": "___orro",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «zorro». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0090",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "texto",
+   "opciones": [
+    "testo",
+    "texto"
+   ],
+   "respuesta": "texto",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «texto». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0091",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "once",
+   "frase": "on___e",
    "opciones": [
     "s",
     "c"
    ],
    "respuesta": "c",
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "c_z"
    ],
-   "explicacion": "Se escribe «decir». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "explicacion": "Se escribe «once». Delante de e, i se escribe c; delante de a, o, u, z.",
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0063",
+   "id": "B5-0092",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "exacto",
-   "frase": "e___acto",
+   "palabra": "cereza",
+   "frase": "___ereza",
    "opciones": [
-    "x",
+    "s",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cereza». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0093",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cinco",
+   "frase": "___inco",
+   "opciones": [
+    "s",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cinco». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0094",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cebolla",
+   "frase": "___ebolla",
+   "opciones": [
+    "c",
     "s"
    ],
-   "respuesta": "x",
-   "dificultad": 3,
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cebolla». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0095",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "luz",
+   "frase": "lu___",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «luz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0096",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "felices",
+   "frase": "feli___es",
+   "opciones": [
+    "z",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «felices». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0097",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "esperar",
+   "opciones": [
+    "esperar",
+    "experar"
+   ],
+   "respuesta": "esperar",
+   "dificultad": 2,
    "skills": [
     "x_s"
    ],
-   "explicacion": "Se escribe «exacto». Esta palabra se escribe con x.",
+   "explicacion": "Se escribe «esperar». Esta palabra se escribe con s, no con x.",
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0064",
+   "id": "B5-0098",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lápiz",
+   "frase": "lápi___",
+   "opciones": [
+    "s",
+    "z"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «lápiz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0099",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "taxi",
+   "opciones": [
+    "tasi",
+    "taxi"
+   ],
+   "respuesta": "taxi",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «taxi». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0100",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "quince",
+   "frase": "quin___e",
+   "opciones": [
+    "c",
+    "s"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «quince». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0101",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "luces",
+   "frase": "lu___es",
+   "opciones": [
+    "c",
+    "z"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «luces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0102",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "extintor",
+   "opciones": [
+    "extintor",
+    "estintor"
+   ],
+   "respuesta": "extintor",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «extintor». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0103",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "experimento",
+   "opciones": [
+    "experimento",
+    "esperimento"
+   ],
+   "respuesta": "experimento",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «experimento». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0104",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hacer",
+   "opciones": [
+    "hacer",
+    "haser"
+   ],
+   "respuesta": "hacer",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «hacer». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0105",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "doce",
+   "frase": "do___e",
+   "opciones": [
+    "c",
+    "s"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «doce». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0106",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cepillo",
+   "frase": "___epillo",
+   "opciones": [
+    "s",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cepillo». Delante de e, i se escribe c; delante de a, o, u, z.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0107",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estrella",
+   "opciones": [
+    "extrella",
+    "estrella"
+   ],
+   "respuesta": "estrella",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «estrella». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0108",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "escuela",
+   "opciones": [
+    "escuela",
+    "excuela"
+   ],
+   "respuesta": "escuela",
+   "dificultad": 2,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «escuela». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0109",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cruz",
+   "frase": "cru___",
+   "opciones": [
+    "z",
+    "s"
+   ],
+   "respuesta": "z",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cruz». Esta palabra acaba en -z, no en -s.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0110",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "veces",
+   "frase": "ve___es",
+   "opciones": [
+    "c",
+    "z"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «veces». Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0111",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cielo",
+   "frase": "___ielo",
+   "opciones": [
+    "z",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 2,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «cielo». Delante de e, i se escribe c (cielo, cereza); delante de a, o, u se escribe z (zapato, zorro).",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0112",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "hacer",
@@ -1113,169 +1946,7 @@
    "regla_id": "c-z"
   },
   {
-   "id": "B5-0065",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "taxi",
-   "frase": "ta___i",
-   "opciones": [
-    "s",
-    "x"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «taxi». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0066",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "estrella",
-   "frase": "e___trella",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "s",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «estrella». Esta palabra se escribe con s, no con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0067",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "excursión",
-   "frase": "e___cursión",
-   "opciones": [
-    "s",
-    "x"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «excursión». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0068",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "explorar",
-   "frase": "e___plorar",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «explorar». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0069",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "oxígeno",
-   "frase": "o___ígeno",
-   "opciones": [
-    "s",
-    "x"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «oxígeno». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0070",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "exterior",
-   "frase": "e___terior",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «exterior». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0071",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "texto",
-   "frase": "te___to",
-   "opciones": [
-    "s",
-    "x"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «texto». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0072",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "explicar",
-   "frase": "e___plicar",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «explicar». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0073",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "examen",
-   "frase": "e___amen",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «examen». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0074",
+   "id": "B5-0113",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "espalda",
@@ -1293,47 +1964,11 @@
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0075",
+   "id": "B5-0114",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "extraño",
-   "frase": "e___traño",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «extraño». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0076",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "éxito",
-   "frase": "é___ito",
-   "opciones": [
-    "x",
-    "s"
-   ],
-   "respuesta": "x",
-   "dificultad": 3,
-   "skills": [
-    "x_s"
-   ],
-   "explicacion": "Se escribe «éxito». Esta palabra se escribe con x.",
-   "regla_id": "x-s"
-  },
-  {
-   "id": "B5-0077",
-   "tipo": "hueco",
-   "enunciado": "¿Qué letra falta?",
-   "palabra": "esperar",
-   "frase": "e___perar",
+   "palabra": "escuela",
+   "frase": "e___cuela",
    "opciones": [
     "s",
     "x"
@@ -1343,29 +1978,47 @@
    "skills": [
     "x_s"
    ],
-   "explicacion": "Se escribe «esperar». Esta palabra se escribe con s, no con x.",
+   "explicacion": "Se escribe «escuela». Esta palabra se escribe con s, no con x.",
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0078",
+   "id": "B5-0115",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
-   "palabra": "empezar",
-   "frase": "empe___ar",
+   "palabra": "exposición",
+   "frase": "e___posición",
    "opciones": [
     "s",
-    "z"
+    "x"
    ],
-   "respuesta": "z",
+   "respuesta": "x",
    "dificultad": 3,
    "skills": [
-    "c_z"
+    "x_s"
    ],
-   "explicacion": "Se escribe «empezar». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
-   "regla_id": "c-z"
+   "explicacion": "Se escribe «exposición». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
   },
   {
-   "id": "B5-0079",
+   "id": "B5-0116",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "auxilio",
+   "frase": "au___ilio",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «auxilio». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0117",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "estudiar",
@@ -1383,7 +2036,223 @@
    "regla_id": "x-s"
   },
   {
-   "id": "B5-0080",
+   "id": "B5-0118",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "taxi",
+   "frase": "ta___i",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «taxi». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0119",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "decir",
+   "frase": "de___ir",
+   "opciones": [
+    "s",
+    "c"
+   ],
+   "respuesta": "c",
+   "dificultad": 3,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «decir». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0120",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "experimento",
+   "frase": "e___perimento",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «experimento». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0121",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "sexto",
+   "frase": "se___to",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «sexto». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0122",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "máximo",
+   "frase": "má___imo",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «máximo». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0123",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "éxito",
+   "frase": "é___ito",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «éxito». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0124",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "estrella",
+   "frase": "e___trella",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "s",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «estrella». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0125",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "próximo",
+   "frase": "pró___imo",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «próximo». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0126",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "esperar",
+   "frase": "e___perar",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "s",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «esperar». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0127",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "extintor",
+   "frase": "e___tintor",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «extintor». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0128",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "explicar",
+   "frase": "e___plicar",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «explicar». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0129",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "conocer",
+   "frase": "cono___er",
+   "opciones": [
+    "c",
+    "s"
+   ],
+   "respuesta": "c",
+   "dificultad": 3,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «conocer». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0130",
    "tipo": "hueco",
    "enunciado": "¿Qué letra falta?",
    "palabra": "nacer",
@@ -1399,6 +2268,258 @@
    ],
    "explicacion": "Se escribe «nacer». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
    "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0131",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "texto",
+   "frase": "te___to",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «texto». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0132",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "excelente",
+   "frase": "e___celente",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «excelente». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0133",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "boxeo",
+   "frase": "bo___eo",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «boxeo». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0134",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "empezar",
+   "frase": "empe___ar",
+   "opciones": [
+    "s",
+    "z"
+   ],
+   "respuesta": "z",
+   "dificultad": 3,
+   "skills": [
+    "c_z"
+   ],
+   "explicacion": "Se escribe «empezar». Los verbos acabados en -cer y -cir se escriben con c: conocer, decir.",
+   "regla_id": "c-z"
+  },
+  {
+   "id": "B5-0135",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "exterior",
+   "frase": "e___terior",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «exterior». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0136",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "estatua",
+   "frase": "e___tatua",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "s",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «estatua». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0137",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "excursión",
+   "frase": "e___cursión",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «excursión». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0138",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "explorar",
+   "frase": "e___plorar",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «explorar». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0139",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "oxígeno",
+   "frase": "o___ígeno",
+   "opciones": [
+    "s",
+    "x"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «oxígeno». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0140",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "espuma",
+   "frase": "e___puma",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "s",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «espuma». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0141",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "espejo",
+   "frase": "e___pejo",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "s",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «espejo». Esta palabra se escribe con s, no con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0142",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "extraño",
+   "frase": "e___traño",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «extraño». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0143",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "exacto",
+   "frase": "e___acto",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «exacto». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
+  },
+  {
+   "id": "B5-0144",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "examen",
+   "frase": "e___amen",
+   "opciones": [
+    "x",
+    "s"
+   ],
+   "respuesta": "x",
+   "dificultad": 3,
+   "skills": [
+    "x_s"
+   ],
+   "explicacion": "Se escribe «examen». Esta palabra se escribe con x.",
+   "regla_id": "x-s"
   }
  ]
 }

@@ -5,123 +5,21 @@
    "id": "A14-0001",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ faltan dos días para las vacaciones.",
+   "frase": "___ he comido una manzana.",
    "opciones": [
-    "Solo",
-    "Sólo"
+    "Sólo",
+    "Solo"
    ],
    "respuesta": "Solo",
    "dificultad": 1,
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Solo faltan dos días para las vacaciones. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "explicacion": "Solo he comido una manzana. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
    "regla_id": "solo-demostrativos"
   },
   {
    "id": "A14-0002",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Tengo ___ cinco euros.",
-   "opciones": [
-    "sólo",
-    "solo"
-   ],
-   "respuesta": "solo",
-   "dificultad": 1,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Tengo solo cinco euros. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0003",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Juega ___ porque sus amigos están de viaje.",
-   "opciones": [
-    "sólo",
-    "solo"
-   ],
-   "respuesta": "solo",
-   "dificultad": 1,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Juega solo porque sus amigos están de viaje. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0004",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Hoy ___ hemos tenido tres clases.",
-   "opciones": [
-    "sólo",
-    "solo"
-   ],
-   "respuesta": "solo",
-   "dificultad": 1,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Hoy solo hemos tenido tres clases. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0005",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Viajó ___ por primera vez.",
-   "opciones": [
-    "solo",
-    "sólo"
-   ],
-   "respuesta": "solo",
-   "dificultad": 1,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Viajó solo por primera vez. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0006",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ quiero un vaso de agua.",
-   "opciones": [
-    "Sólo",
-    "Solo"
-   ],
-   "respuesta": "Solo",
-   "dificultad": 1,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Solo quiero un vaso de agua. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0007",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ tú sabes la respuesta.",
-   "opciones": [
-    "Sólo",
-    "Solo"
-   ],
-   "respuesta": "Solo",
-   "dificultad": 1,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Solo tú sabes la respuesta. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0008",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Me quedé ___ en casa toda la tarde.",
@@ -138,33 +36,220 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0009",
+   "id": "A14-0003",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ son mis amigos del colegio.",
+   "frase": "___ tú sabes la respuesta.",
    "opciones": [
-    "Éstos",
-    "Estos"
+    "Sólo",
+    "Solo"
    ],
-   "respuesta": "Estos",
-   "dificultad": 2,
+   "respuesta": "Solo",
+   "dificultad": 1,
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Estos son mis amigos del colegio. Los demostrativos se escriben sin tilde desde 2010.",
+   "explicacion": "Solo tú sabes la respuesta. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0004",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No estoy ___: estoy con mis amigos.",
+   "opciones": [
+    "solo",
+    "sólo"
+   ],
+   "respuesta": "solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "No estoy solo: estoy con mis amigos. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0005",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hoy ___ hemos tenido tres clases.",
+   "opciones": [
+    "sólo",
+    "solo"
+   ],
+   "respuesta": "solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Hoy solo hemos tenido tres clases. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0006",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ faltan dos días para las vacaciones.",
+   "opciones": [
+    "Solo",
+    "Sólo"
+   ],
+   "respuesta": "Solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Solo faltan dos días para las vacaciones. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0007",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ quiero un vaso de agua.",
+   "opciones": [
+    "Sólo",
+    "Solo"
+   ],
+   "respuesta": "Solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Solo quiero un vaso de agua. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0008",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ me quedan diez minutos.",
+   "opciones": [
+    "Solo",
+    "Sólo"
+   ],
+   "respuesta": "Solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Solo me quedan diez minutos. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0009",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Quiero ___ un poco.",
+   "opciones": [
+    "sólo",
+    "solo"
+   ],
+   "respuesta": "solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Quiero solo un poco. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
    "regla_id": "solo-demostrativos"
   },
   {
    "id": "A14-0010",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Viajó ___ por primera vez.",
+   "opciones": [
+    "solo",
+    "sólo"
+   ],
+   "respuesta": "solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Viajó solo por primera vez. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0011",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Juega ___ porque sus amigos están de viaje.",
+   "opciones": [
+    "sólo",
+    "solo"
+   ],
+   "respuesta": "solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Juega solo porque sus amigos están de viaje. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0012",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Tengo ___ cinco euros.",
+   "opciones": [
+    "sólo",
+    "solo"
+   ],
+   "respuesta": "solo",
+   "dificultad": 1,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Tengo solo cinco euros. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0013",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ son mis zapatillas nuevas.",
+   "opciones": [
+    "Estas",
+    "Éstas"
+   ],
+   "respuesta": "Estas",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Estas son mis zapatillas nuevas. Los demostrativos (estas, esas, aquellas…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0014",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ es increíble.",
+   "opciones": [
+    "Esto",
+    "Ésto"
+   ],
+   "respuesta": "Esto",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Esto es increíble. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0015",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Sólo tú sabes la respuesta.",
+   "frase": "Sólo he comido una manzana.",
    "opciones": [
     "Sólo",
-    "tú",
-    "sabes",
-    "la",
-    "respuesta."
+    "he",
+    "comido",
+    "una",
+    "manzana."
    ],
    "respuesta": 0,
    "correccion": "Solo",
@@ -172,11 +257,11 @@
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Lo correcto es: Solo tú sabes la respuesta. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "explicacion": "Lo correcto es: Solo he comido una manzana. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0011",
+   "id": "A14-0016",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Dame ___, por favor.",
@@ -193,17 +278,15 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0012",
+   "id": "A14-0017",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Hoy sólo hemos tenido tres clases.",
+   "frase": "Tengo sólo cinco euros.",
    "opciones": [
-    "Hoy",
+    "Tengo",
     "sólo",
-    "hemos",
-    "tenido",
-    "tres",
-    "clases."
+    "cinco",
+    "euros."
    ],
    "respuesta": 1,
    "correccion": "solo",
@@ -211,101 +294,82 @@
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Lo correcto es: Hoy solo hemos tenido tres clases. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0013",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "No quiero este, quiero ___.",
-   "opciones": [
-    "aquel",
-    "aquél"
-   ],
-   "respuesta": "aquel",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "No quiero este, quiero aquel. Los demostrativos se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0014",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ es mi libro favorito.",
-   "opciones": [
-    "Este",
-    "Éste"
-   ],
-   "respuesta": "Este",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Este es mi libro favorito. Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0015",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Sólo quiero un vaso de agua.",
-   "opciones": [
-    "Sólo",
-    "quiero",
-    "un",
-    "vaso",
-    "de",
-    "agua."
-   ],
-   "respuesta": 0,
-   "correccion": "Solo",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: Solo quiero un vaso de agua. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0016",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ no se hace.",
-   "opciones": [
-    "Éso",
-    "Eso"
-   ],
-   "respuesta": "Eso",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Eso no se hace. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0017",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Me gusta más ___.",
-   "opciones": [
-    "ésa",
-    "esa"
-   ],
-   "respuesta": "esa",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Me gusta más esa. Los demostrativos se escriben sin tilde desde 2010.",
+   "explicacion": "Lo correcto es: Tengo solo cinco euros. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
    "regla_id": "solo-demostrativos"
   },
   {
    "id": "A14-0018",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me gusta más ___.",
+   "opciones": [
+    "éste",
+    "este"
+   ],
+   "respuesta": "este",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Me gusta más este. Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0019",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ fue el mejor día de mi vida.",
+   "opciones": [
+    "Aquél",
+    "Aquel"
+   ],
+   "respuesta": "Aquel",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Aquel fue el mejor día de mi vida. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0020",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ son las montañas más altas.",
+   "opciones": [
+    "Aquellas",
+    "Aquéllas"
+   ],
+   "respuesta": "Aquellas",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Aquellas son las montañas más altas. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0021",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Quiero sólo un poco.",
+   "opciones": [
+    "Quiero",
+    "sólo",
+    "un",
+    "poco."
+   ],
+   "respuesta": 1,
+   "correccion": "solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Quiero solo un poco. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0022",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Viajó sólo por primera vez.",
@@ -326,7 +390,7 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0019",
+   "id": "A14-0023",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Juega sólo porque sus amigos están de viaje.",
@@ -350,7 +414,124 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0020",
+   "id": "A14-0024",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sólo tú sabes la respuesta.",
+   "opciones": [
+    "Sólo",
+    "tú",
+    "sabes",
+    "la",
+    "respuesta."
+   ],
+   "respuesta": 0,
+   "correccion": "Solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Solo tú sabes la respuesta. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0025",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No quiero este, quiero ___.",
+   "opciones": [
+    "aquel",
+    "aquél"
+   ],
+   "respuesta": "aquel",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "No quiero este, quiero aquel. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0026",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sólo faltan dos días para las vacaciones.",
+   "opciones": [
+    "Sólo",
+    "faltan",
+    "dos",
+    "días",
+    "para",
+    "las",
+    "vacaciones."
+   ],
+   "respuesta": 0,
+   "correccion": "Solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Solo faltan dos días para las vacaciones. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0027",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hoy sólo hemos tenido tres clases.",
+   "opciones": [
+    "Hoy",
+    "sólo",
+    "hemos",
+    "tenido",
+    "tres",
+    "clases."
+   ],
+   "respuesta": 1,
+   "correccion": "solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Hoy solo hemos tenido tres clases. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0028",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ es mi libro favorito.",
+   "opciones": [
+    "Este",
+    "Éste"
+   ],
+   "respuesta": "Este",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Este es mi libro favorito. Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0029",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ no se hace.",
+   "opciones": [
+    "Éso",
+    "Eso"
+   ],
+   "respuesta": "Eso",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Eso no se hace. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0030",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "¿Te gusta ___ o el otro?",
@@ -367,44 +548,135 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0021",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Tengo sólo cinco euros.",
-   "opciones": [
-    "Tengo",
-    "sólo",
-    "cinco",
-    "euros."
-   ],
-   "respuesta": 1,
-   "correccion": "solo",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: Tengo solo cinco euros. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0022",
+   "id": "A14-0031",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ es increíble.",
+   "frase": "Esta es la mía y ___ es la tuya.",
    "opciones": [
-    "Esto",
-    "Ésto"
+    "esa",
+    "ésa"
    ],
-   "respuesta": "Esto",
+   "respuesta": "esa",
    "dificultad": 2,
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Esto es increíble. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
+   "explicacion": "Esta es la mía y esa es la tuya. Los demostrativos se escriben sin tilde desde 2010.",
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0023",
+   "id": "A14-0032",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ no son míos.",
+   "opciones": [
+    "Esos",
+    "Ésos"
+   ],
+   "respuesta": "Esos",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Esos no son míos. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0033",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sólo me quedan diez minutos.",
+   "opciones": [
+    "Sólo",
+    "me",
+    "quedan",
+    "diez",
+    "minutos."
+   ],
+   "respuesta": 0,
+   "correccion": "Solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Solo me quedan diez minutos. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0034",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ son mis amigos del colegio.",
+   "opciones": [
+    "Éstos",
+    "Estos"
+   ],
+   "respuesta": "Estos",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Estos son mis amigos del colegio. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0035",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ fue muy divertido.",
+   "opciones": [
+    "Aquéllo",
+    "Aquello"
+   ],
+   "respuesta": "Aquello",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Aquello fue muy divertido. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0036",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Prefiero ___ que tienes en la mano.",
+   "opciones": [
+    "ese",
+    "ése"
+   ],
+   "respuesta": "ese",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Prefiero ese que tienes en la mano. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0037",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sólo quiero un vaso de agua.",
+   "opciones": [
+    "Sólo",
+    "quiero",
+    "un",
+    "vaso",
+    "de",
+    "agua."
+   ],
+   "respuesta": 0,
+   "correccion": "Solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Solo quiero un vaso de agua. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0038",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___ es mi hermana Carla.",
@@ -421,7 +693,64 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0024",
+   "id": "A14-0039",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ es el mejor jugador del equipo.",
+   "opciones": [
+    "Aquel",
+    "Aquél"
+   ],
+   "respuesta": "Aquel",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Aquel es el mejor jugador del equipo. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0040",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No estoy sólo: estoy con mis amigos.",
+   "opciones": [
+    "No",
+    "estoy",
+    "sólo:",
+    "estoy",
+    "con",
+    "mis",
+    "amigos."
+   ],
+   "respuesta": 2,
+   "correccion": "solo",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: No estoy solo: estoy con mis amigos. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0041",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me gusta más ___.",
+   "opciones": [
+    "ésa",
+    "esa"
+   ],
+   "respuesta": "esa",
+   "dificultad": 2,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Me gusta más esa. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0042",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Me quedé sólo en casa toda la tarde.",
@@ -445,163 +774,7 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0025",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Sólo faltan dos días para las vacaciones.",
-   "opciones": [
-    "Sólo",
-    "faltan",
-    "dos",
-    "días",
-    "para",
-    "las",
-    "vacaciones."
-   ],
-   "respuesta": 0,
-   "correccion": "Solo",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: Solo faltan dos días para las vacaciones. Desde 2010, «solo» se escribe SIEMPRE sin tilde, signifique «solamente» o «sin compañía».",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0026",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Prefiero ___ que tienes en la mano.",
-   "opciones": [
-    "ese",
-    "ése"
-   ],
-   "respuesta": "ese",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Prefiero ese que tienes en la mano. Los demostrativos se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0027",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ son las montañas más altas.",
-   "opciones": [
-    "Aquellas",
-    "Aquéllas"
-   ],
-   "respuesta": "Aquellas",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Aquellas son las montañas más altas. Los demostrativos se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0028",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ fue el mejor día de mi vida.",
-   "opciones": [
-    "Aquél",
-    "Aquel"
-   ],
-   "respuesta": "Aquel",
-   "dificultad": 2,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Aquel fue el mejor día de mi vida. Los demostrativos se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0029",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Te gusta éste o el otro?",
-   "opciones": [
-    "¿Te",
-    "gusta",
-    "éste",
-    "o",
-    "el",
-    "otro?"
-   ],
-   "respuesta": 2,
-   "correccion": "este",
-   "dificultad": 3,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: ¿Te gusta este o el otro? Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0030",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ésto es increíble.",
-   "opciones": [
-    "Ésto",
-    "es",
-    "increíble."
-   ],
-   "respuesta": 0,
-   "correccion": "Esto",
-   "dificultad": 3,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: Esto es increíble. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0031",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Me gusta más ésa.",
-   "opciones": [
-    "Me",
-    "gusta",
-    "más",
-    "ésa."
-   ],
-   "respuesta": 3,
-   "correccion": "esa",
-   "dificultad": 3,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: Me gusta más esa. Los demostrativos se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0032",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Éste es mi libro favorito.",
-   "opciones": [
-    "Éste",
-    "es",
-    "mi",
-    "libro",
-    "favorito."
-   ],
-   "respuesta": 0,
-   "correccion": "Este",
-   "dificultad": 3,
-   "skills": [
-    "solo_demostrativos"
-   ],
-   "explicacion": "Lo correcto es: Este es mi libro favorito. Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
-   "regla_id": "solo-demostrativos"
-  },
-  {
-   "id": "A14-0033",
+   "id": "A14-0043",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Aquéllas son las montañas más altas.",
@@ -623,48 +796,115 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0034",
+   "id": "A14-0044",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Éso no se hace.",
+   "frase": "Aquéllo fue muy divertido.",
    "opciones": [
-    "Éso",
-    "no",
-    "se",
-    "hace."
+    "Aquéllo",
+    "fue",
+    "muy",
+    "divertido."
    ],
    "respuesta": 0,
-   "correccion": "Eso",
+   "correccion": "Aquello",
    "dificultad": 3,
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Lo correcto es: Eso no se hace. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
+   "explicacion": "Lo correcto es: Aquello fue muy divertido. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0035",
+   "id": "A14-0045",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "No quiero este, quiero aquél.",
+   "frase": "Esta es la mía y ésa es la tuya.",
    "opciones": [
-    "No",
-    "quiero",
-    "este,",
-    "quiero",
-    "aquél."
+    "Esta",
+    "es",
+    "la",
+    "mía",
+    "y",
+    "ésa",
+    "es",
+    "la",
+    "tuya."
    ],
-   "respuesta": 4,
-   "correccion": "aquel",
+   "respuesta": 5,
+   "correccion": "esa",
    "dificultad": 3,
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Lo correcto es: No quiero este, quiero aquel. Los demostrativos se escriben sin tilde desde 2010.",
+   "explicacion": "Lo correcto es: Esta es la mía y esa es la tuya. Los demostrativos se escriben sin tilde desde 2010.",
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0036",
+   "id": "A14-0046",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Te gusta éste o el otro?",
+   "opciones": [
+    "¿Te",
+    "gusta",
+    "éste",
+    "o",
+    "el",
+    "otro?"
+   ],
+   "respuesta": 2,
+   "correccion": "este",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Te gusta este o el otro? Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0047",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ésos no son míos.",
+   "opciones": [
+    "Ésos",
+    "no",
+    "son",
+    "míos."
+   ],
+   "respuesta": 0,
+   "correccion": "Esos",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Esos no son míos. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0048",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Éstas son mis zapatillas nuevas.",
+   "opciones": [
+    "Éstas",
+    "son",
+    "mis",
+    "zapatillas",
+    "nuevas."
+   ],
+   "respuesta": 0,
+   "correccion": "Estas",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Estas son mis zapatillas nuevas. Los demostrativos (estas, esas, aquellas…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0049",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Aquél fue el mejor día de mi vida.",
@@ -688,27 +928,26 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0037",
+   "id": "A14-0050",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Dame ésos, por favor.",
+   "frase": "Ésto es increíble.",
    "opciones": [
-    "Dame",
-    "ésos,",
-    "por",
-    "favor."
+    "Ésto",
+    "es",
+    "increíble."
    ],
-   "respuesta": 1,
-   "correccion": "esos",
+   "respuesta": 0,
+   "correccion": "Esto",
    "dificultad": 3,
    "skills": [
     "solo_demostrativos"
    ],
-   "explicacion": "Lo correcto es: Dame esos, por favor. Los demostrativos se escriben sin tilde desde 2010.",
+   "explicacion": "Lo correcto es: Esto es increíble. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0038",
+   "id": "A14-0051",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Éstos son mis amigos del colegio.",
@@ -730,7 +969,7 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0039",
+   "id": "A14-0052",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Prefiero ése que tienes en la mano.",
@@ -753,7 +992,152 @@
    "regla_id": "solo-demostrativos"
   },
   {
-   "id": "A14-0040",
+   "id": "A14-0053",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No quiero este, quiero aquél.",
+   "opciones": [
+    "No",
+    "quiero",
+    "este,",
+    "quiero",
+    "aquél."
+   ],
+   "respuesta": 4,
+   "correccion": "aquel",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: No quiero este, quiero aquel. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0054",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Éste es mi libro favorito.",
+   "opciones": [
+    "Éste",
+    "es",
+    "mi",
+    "libro",
+    "favorito."
+   ],
+   "respuesta": 0,
+   "correccion": "Este",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Este es mi libro favorito. Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0055",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me gusta más éste.",
+   "opciones": [
+    "Me",
+    "gusta",
+    "más",
+    "éste."
+   ],
+   "respuesta": 3,
+   "correccion": "este",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Me gusta más este. Los demostrativos (este, ese, aquel…) se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0056",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Aquél es el mejor jugador del equipo.",
+   "opciones": [
+    "Aquél",
+    "es",
+    "el",
+    "mejor",
+    "jugador",
+    "del",
+    "equipo."
+   ],
+   "respuesta": 0,
+   "correccion": "Aquel",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Aquel es el mejor jugador del equipo. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0057",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Éso no se hace.",
+   "opciones": [
+    "Éso",
+    "no",
+    "se",
+    "hace."
+   ],
+   "respuesta": 0,
+   "correccion": "Eso",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Eso no se hace. «Esto», «eso» y «aquello» no han llevado tilde nunca.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0058",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me gusta más ésa.",
+   "opciones": [
+    "Me",
+    "gusta",
+    "más",
+    "ésa."
+   ],
+   "respuesta": 3,
+   "correccion": "esa",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Me gusta más esa. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0059",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Dame ésos, por favor.",
+   "opciones": [
+    "Dame",
+    "ésos,",
+    "por",
+    "favor."
+   ],
+   "respuesta": 1,
+   "correccion": "esos",
+   "dificultad": 3,
+   "skills": [
+    "solo_demostrativos"
+   ],
+   "explicacion": "Lo correcto es: Dame esos, por favor. Los demostrativos se escriben sin tilde desde 2010.",
+   "regla_id": "solo-demostrativos"
+  },
+  {
+   "id": "A14-0060",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Ésta es mi hermana Carla.",

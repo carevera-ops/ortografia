@@ -5,758 +5,117 @@
    "id": "A15-0001",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "felizmente",
+   "palabra": "velozmente",
    "clase": "aguda",
    "opciones": [
-    "felizmente",
-    "felízmente",
-    "felizménte"
+    "velozménte",
+    "velozmente",
+    "velózmente"
    ],
-   "respuesta": "felizmente",
+   "respuesta": "velozmente",
    "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "«felizmente» = «feliz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «feliz» no lleva tilde, así que «felizmente» tampoco.",
+   "explicacion": "«velozmente» = «veloz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «veloz» no lleva tilde, así que «velozmente» tampoco.",
    "regla_id": "mente-compuestos"
   },
   {
    "id": "A15-0002",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ponte",
-   "clase": "llana",
+   "palabra": "perdóname",
+   "clase": "esdrujula",
    "opciones": [
-    "pónte",
-    "ponte",
-    "ponté"
+    "perdonáme",
+    "perdóname",
+    "perdoname"
    ],
-   "respuesta": "ponte",
+   "respuesta": "perdóname",
    "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "pon-te: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "explicacion": "per-dó-na-me: es esdrújula (suena fuerte «dó»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
    "regla_id": "mente-compuestos"
   },
   {
    "id": "A15-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "claramente",
+   "palabra": "dile",
    "clase": "llana",
    "opciones": [
-    "claramente",
-    "claraménte",
-    "cláramente"
+    "dilé",
+    "díle",
+    "dile"
    ],
-   "respuesta": "claramente",
+   "respuesta": "dile",
    "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "«claramente» = «clara» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «clara» no lleva tilde, así que «claramente» tampoco.",
+   "explicacion": "di-le: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
    "regla_id": "mente-compuestos"
   },
   {
    "id": "A15-0004",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "decimoséptimo",
+   "palabra": "cálidamente",
    "clase": "esdrujula",
    "opciones": [
-    "décimoseptimo",
-    "decimoséptimo",
-    "decimoseptimo"
+    "cálidamente",
+    "calidamente"
    ],
-   "respuesta": "decimoséptimo",
+   "respuesta": "cálidamente",
    "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "de-ci-mo-sép-ti-mo: es esdrújula (suena fuerte «sép»), y estas llevan tilde siempre. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "explicacion": "«cálidamente» = «cálida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cálida» lleva tilde, así que «cálidamente» también.",
    "regla_id": "mente-compuestos"
   },
   {
    "id": "A15-0005",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "díselo",
+   "palabra": "dímelo",
    "clase": "esdrujula",
    "opciones": [
-    "disélo",
-    "diseló",
-    "díselo"
+    "dimélo",
+    "dimeló",
+    "dímelo"
    ],
-   "respuesta": "díselo",
+   "respuesta": "dímelo",
    "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "dí-se-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "explicacion": "dí-me-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
    "regla_id": "mente-compuestos"
   },
   {
    "id": "A15-0006",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cógelo",
-   "clase": "esdrujula",
+   "palabra": "perfectamente",
+   "clase": "llana",
    "opciones": [
-    "cógelo",
-    "cogelo",
-    "cogeló"
+    "perfectaménte",
+    "perféctamente",
+    "perfectamente"
    ],
-   "respuesta": "cógelo",
+   "respuesta": "perfectamente",
    "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "có-ge-lo: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "explicacion": "«perfectamente» = «perfecta» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «perfecta» no lleva tilde, así que «perfectamente» tampoco.",
    "regla_id": "mente-compuestos"
   },
   {
    "id": "A15-0007",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "comúnmente",
-   "clase": "aguda",
-   "opciones": [
-    "comunmente",
-    "comúnmente"
-   ],
-   "respuesta": "comúnmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«comúnmente» = «común» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «común» lleva tilde, así que «comúnmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0008",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "rompecabezas",
-   "clase": "llana",
-   "opciones": [
-    "rompecabezás",
-    "rómpecabezas",
-    "rompecabezas"
-   ],
-   "respuesta": "rompecabezas",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "rom-pe-ca-be-zas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0009",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "acércate",
-   "clase": "esdrujula",
-   "opciones": [
-    "ácercate",
-    "acercaté",
-    "acércate"
-   ],
-   "respuesta": "acércate",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "a-cér-ca-te: es esdrújula (suena fuerte «cér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0010",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tráelo",
-   "clase": "esdrujula",
-   "opciones": [
-    "traelo",
-    "tráelo",
-    "traélo"
-   ],
-   "respuesta": "tráelo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "trá-e-lo: es esdrújula (suena fuerte «trá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0011",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cumpleaños",
-   "clase": "llana",
-   "opciones": [
-    "cúmpleaños",
-    "cumpleaños",
-    "cumpléaños"
-   ],
-   "respuesta": "cumpleaños",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "cum-ple-a-ños: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0012",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "escríbeme",
-   "clase": "esdrujula",
-   "opciones": [
-    "éscribeme",
-    "escribemé",
-    "escríbeme"
-   ],
-   "respuesta": "escríbeme",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "es-crí-be-me: es esdrújula (suena fuerte «crí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0013",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "débilmente",
-   "clase": "llana",
-   "opciones": [
-    "débilmente",
-    "debilmente"
-   ],
-   "respuesta": "débilmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«débilmente» = «débil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «débil» lleva tilde, así que «débilmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0014",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "igualmente",
-   "clase": "aguda",
-   "opciones": [
-    "igualménte",
-    "igualmente",
-    "iguálmente"
-   ],
-   "respuesta": "igualmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«igualmente» = «igual» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «igual» no lleva tilde, así que «igualmente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0015",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vámonos",
-   "clase": "esdrujula",
-   "opciones": [
-    "vamónos",
-    "vamonós",
-    "vámonos"
-   ],
-   "respuesta": "vámonos",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "vá-mo-nos: es esdrújula (suena fuerte «vá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0016",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "baloncesto",
-   "clase": "llana",
-   "opciones": [
-    "báloncesto",
-    "baloncesto",
-    "balóncesto"
-   ],
-   "respuesta": "baloncesto",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "ba-lon-ces-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0017",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "realmente",
-   "clase": "aguda",
-   "opciones": [
-    "realmente",
-    "realménte",
-    "reálmente"
-   ],
-   "respuesta": "realmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«realmente» = «real» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «real» no lleva tilde, así que «realmente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0018",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hazlo",
-   "clase": "llana",
-   "opciones": [
-    "házlo",
-    "hazlo",
-    "hazló"
-   ],
-   "respuesta": "hazlo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "haz-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0019",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cómetelo",
-   "clase": "sobresdrujula",
-   "opciones": [
-    "cómetelo",
-    "cometeló",
-    "cometelo"
-   ],
-   "respuesta": "cómetelo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "có-me-te-lo: es sobresdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0020",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cuéntame",
-   "clase": "esdrujula",
-   "opciones": [
-    "cúentame",
-    "cuentamé",
-    "cuéntame"
-   ],
-   "respuesta": "cuéntame",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "cuén-ta-me: es esdrújula (suena fuerte «cuén»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0021",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "fácilmente",
-   "clase": "llana",
-   "opciones": [
-    "facilmente",
-    "fácilmente"
-   ],
-   "respuesta": "fácilmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«fácilmente» = «fácil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «fácil» lleva tilde, así que «fácilmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0022",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "asimismo",
-   "clase": "llana",
-   "opciones": [
-    "asimismo",
-    "asímismo",
-    "ásimismo"
-   ],
-   "respuesta": "asimismo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "a-si-mis-mo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0023",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "pásamelo",
-   "clase": "sobresdrujula",
-   "opciones": [
-    "pasamélo",
-    "pásamelo",
-    "pasamelo"
-   ],
-   "respuesta": "pásamelo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "pá-sa-me-lo: es sobresdrújula (suena fuerte «pá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0024",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "decimoctavo",
-   "clase": "llana",
-   "opciones": [
-    "decimoctavo",
-    "decimoctávo",
-    "decimóctavo"
-   ],
-   "respuesta": "decimoctavo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "de-ci-moc-ta-vo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0025",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ponlo",
-   "clase": "llana",
-   "opciones": [
-    "ponló",
-    "ponlo",
-    "pónlo"
-   ],
-   "respuesta": "ponlo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "pon-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0026",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "mírame",
-   "clase": "esdrujula",
-   "opciones": [
-    "miramé",
-    "mírame",
-    "mirame"
-   ],
-   "respuesta": "mírame",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "mí-ra-me: es esdrújula (suena fuerte «mí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0027",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cortésmente",
-   "clase": "aguda",
-   "opciones": [
-    "cortésmente",
-    "cortesmente"
-   ],
-   "respuesta": "cortésmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«cortésmente» = «cortés» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cortés» lleva tilde, así que «cortésmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0028",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "dame",
-   "clase": "llana",
-   "opciones": [
-    "dame",
-    "damé",
-    "dáme"
-   ],
-   "respuesta": "dame",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "da-me: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0029",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "estate",
-   "clase": "llana",
-   "opciones": [
-    "estaté",
-    "estáte",
-    "estate"
-   ],
-   "respuesta": "estate",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "es-ta-te: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0030",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cállate",
-   "clase": "esdrujula",
-   "opciones": [
-    "callaté",
-    "calláte",
-    "cállate"
-   ],
-   "respuesta": "cállate",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "cá-lla-te: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0031",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "puntapié",
-   "clase": "aguda",
-   "opciones": [
-    "puntapíe",
-    "puntapié",
-    "puntapie"
-   ],
-   "respuesta": "puntapié",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "pun-ta-pié: es aguda (suena fuerte «pié») y acaba en vocal, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0032",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "siéntate",
-   "clase": "esdrujula",
-   "opciones": [
-    "sientate",
-    "siéntate",
-    "síentate"
-   ],
-   "respuesta": "siéntate",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "sién-ta-te: es esdrújula (suena fuerte «sién»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0033",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "decimotercero",
-   "clase": "llana",
-   "opciones": [
-    "decimotercero",
-    "decimótercero",
-    "decimoterceró"
-   ],
-   "respuesta": "decimotercero",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "de-ci-mo-ter-ce-ro: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0034",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "suavemente",
-   "clase": "llana",
-   "opciones": [
-    "suavemente",
-    "suávemente",
-    "suaveménte"
-   ],
-   "respuesta": "suavemente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«suavemente» = «suave» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «suave» no lleva tilde, así que «suavemente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0035",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "difícilmente",
-   "clase": "llana",
-   "opciones": [
-    "difícilmente",
-    "dificilmente"
-   ],
-   "respuesta": "difícilmente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«difícilmente» = «difícil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «difícil» lleva tilde, así que «difícilmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0036",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tranquilamente",
-   "clase": "llana",
-   "opciones": [
-    "tranquílamente",
-    "tranquilamente",
-    "tranquilaménte"
-   ],
-   "respuesta": "tranquilamente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«tranquilamente» = «tranquila» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «tranquila» no lleva tilde, así que «tranquilamente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0037",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "públicamente",
-   "clase": "esdrujula",
-   "opciones": [
-    "publicamente",
-    "públicamente"
-   ],
-   "respuesta": "públicamente",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«públicamente» = «pública» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «pública» lleva tilde, así que «públicamente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0038",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "sacapuntas",
-   "clase": "llana",
-   "opciones": [
-    "sácapuntas",
-    "sacapuntas",
-    "sacapuntás"
-   ],
-   "respuesta": "sacapuntas",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "sa-ca-pun-tas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0039",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tiovivo",
-   "clase": "llana",
-   "opciones": [
-    "tiovivó",
-    "tiovívo",
-    "tiovivo"
-   ],
-   "respuesta": "tiovivo",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "tio-vi-vo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0040",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "dale",
-   "clase": "llana",
-   "opciones": [
-    "dale",
-    "dále",
-    "dalé"
-   ],
-   "respuesta": "dale",
-   "dificultad": 2,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "da-le: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0041",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "cuéntaselo",
@@ -775,7 +134,1082 @@
    "regla_id": "mente-compuestos"
   },
   {
+   "id": "A15-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "finalmente",
+   "clase": "aguda",
+   "opciones": [
+    "finálmente",
+    "finalmente",
+    "finalménte"
+   ],
+   "respuesta": "finalmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«finalmente» = «final» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «final» no lleva tilde, así que «finalmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "explícamelo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "explicameló",
+    "explícamelo",
+    "explicamelo"
+   ],
+   "respuesta": "explícamelo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ex-plí-ca-me-lo: es sobresdrújula (suena fuerte «plí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decimotercero",
+   "clase": "llana",
+   "opciones": [
+    "decimotercero",
+    "decimótercero",
+    "decimoterceró"
+   ],
+   "respuesta": "decimotercero",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-ter-ce-ro: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tráelo",
+   "clase": "esdrujula",
+   "opciones": [
+    "traelo",
+    "tráelo",
+    "traélo"
+   ],
+   "respuesta": "tráelo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "trá-e-lo: es esdrújula (suena fuerte «trá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vigesimoprimero",
+   "clase": "llana",
+   "opciones": [
+    "vigesimoprimeró",
+    "vigésimoprimero",
+    "vigesimoprimero"
+   ],
+   "respuesta": "vigesimoprimero",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vi-ge-si-mo-pri-me-ro: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "seguramente",
+   "clase": "llana",
+   "opciones": [
+    "seguramente",
+    "seguraménte",
+    "segúramente"
+   ],
+   "respuesta": "seguramente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«seguramente» = «segura» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «segura» no lleva tilde, así que «seguramente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ayúdame",
+   "clase": "esdrujula",
+   "opciones": [
+    "ayúdame",
+    "ayudame",
+    "ayudamé"
+   ],
+   "respuesta": "ayúdame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-yú-da-me: es esdrújula (suena fuerte «yú»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decimonoveno",
+   "clase": "llana",
+   "opciones": [
+    "decimonoveno",
+    "decimónoveno",
+    "decimonovéno"
+   ],
+   "respuesta": "decimonoveno",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-no-ve-no: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "malhumorado",
+   "clase": "llana",
+   "opciones": [
+    "malhumórado",
+    "malhúmorado",
+    "malhumorado"
+   ],
+   "respuesta": "malhumorado",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "mal-hu-mo-ra-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "alegremente",
+   "clase": "llana",
+   "opciones": [
+    "alégremente",
+    "alegreménte",
+    "alegremente"
+   ],
+   "respuesta": "alegremente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«alegremente» = «alegre» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «alegre» no lleva tilde, así que «alegremente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cuéntame",
+   "clase": "esdrujula",
+   "opciones": [
+    "cúentame",
+    "cuentamé",
+    "cuéntame"
+   ],
+   "respuesta": "cuéntame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cuén-ta-me: es esdrújula (suena fuerte «cuén»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tiovivo",
+   "clase": "llana",
+   "opciones": [
+    "tiovivó",
+    "tiovívo",
+    "tiovivo"
+   ],
+   "respuesta": "tiovivo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "tio-vi-vo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decimocuarto",
+   "clase": "llana",
+   "opciones": [
+    "decímocuarto",
+    "decimocuárto",
+    "decimocuarto"
+   ],
+   "respuesta": "decimocuarto",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-cuar-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tranquilamente",
+   "clase": "llana",
+   "opciones": [
+    "tranquílamente",
+    "tranquilamente",
+    "tranquilaménte"
+   ],
+   "respuesta": "tranquilamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«tranquilamente» = «tranquila» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «tranquila» no lleva tilde, así que «tranquilamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "escúchame",
+   "clase": "esdrujula",
+   "opciones": [
+    "escucháme",
+    "escúchame",
+    "escuchame"
+   ],
+   "respuesta": "escúchame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-cú-cha-me: es esdrújula (suena fuerte «cú»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "portaaviones",
+   "clase": "llana",
+   "opciones": [
+    "pórtaaviones",
+    "portaaviones",
+    "portaáviones"
+   ],
+   "respuesta": "portaaviones",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "por-ta-a-vio-nes: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "espérame",
+   "clase": "esdrujula",
+   "opciones": [
+    "esperame",
+    "espérame",
+    "esperáme"
+   ],
+   "respuesta": "espérame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-pé-ra-me: es esdrújula (suena fuerte «pé»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "comúnmente",
+   "clase": "aguda",
+   "opciones": [
+    "comunmente",
+    "comúnmente"
+   ],
+   "respuesta": "comúnmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«comúnmente» = «común» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «común» lleva tilde, así que «comúnmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pacíficamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "pacíficamente",
+    "pacificamente"
+   ],
+   "respuesta": "pacíficamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«pacíficamente» = «pacífica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «pacífica» lleva tilde, así que «pacíficamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "amablemente",
+   "clase": "llana",
+   "opciones": [
+    "amáblemente",
+    "amablemente",
+    "amableménte"
+   ],
+   "respuesta": "amablemente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«amablemente» = «amable» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «amable» no lleva tilde, así que «amablemente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "puntiagudo",
+   "clase": "llana",
+   "opciones": [
+    "puntiagudó",
+    "puntiagudo",
+    "púntiagudo"
+   ],
+   "respuesta": "puntiagudo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pun-tia-gu-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "boquiabierto",
+   "clase": "llana",
+   "opciones": [
+    "boquiabiertó",
+    "boquiábierto",
+    "boquiabierto"
+   ],
+   "respuesta": "boquiabierto",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "bo-quia-bier-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "únicamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "unicamente",
+    "únicamente"
+   ],
+   "respuesta": "únicamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«únicamente» = «única» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «única» lleva tilde, así que «únicamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "genialmente",
+   "clase": "aguda",
+   "opciones": [
+    "genialmente",
+    "genialménte",
+    "geniálmente"
+   ],
+   "respuesta": "genialmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«genialmente» = «genial» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «genial» no lleva tilde, así que «genialmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0032",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tímidamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "timidamente",
+    "tímidamente"
+   ],
+   "respuesta": "tímidamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«tímidamente» = «tímida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «tímida» lleva tilde, así que «tímidamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "abrelatas",
+   "clase": "llana",
+   "opciones": [
+    "abrelátas",
+    "abrelatás",
+    "abrelatas"
+   ],
+   "respuesta": "abrelatas",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-bre-la-tas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cortacésped",
+   "clase": "llana",
+   "opciones": [
+    "cortácesped",
+    "cortacésped",
+    "cortacesped"
+   ],
+   "respuesta": "cortacésped",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cor-ta-cés-ped: es llana y acaba en -d; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ferozmente",
+   "clase": "aguda",
+   "opciones": [
+    "ferózmente",
+    "ferozménte",
+    "ferozmente"
+   ],
+   "respuesta": "ferozmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«ferozmente» = «feroz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «feroz» no lleva tilde, así que «ferozmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "medianoche",
+   "clase": "llana",
+   "opciones": [
+    "medianoche",
+    "médianoche",
+    "mediánoche"
+   ],
+   "respuesta": "medianoche",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "me-dia-no-che: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hazlo",
+   "clase": "llana",
+   "opciones": [
+    "házlo",
+    "hazlo",
+    "hazló"
+   ],
+   "respuesta": "hazlo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "haz-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cumpleaños",
+   "clase": "llana",
+   "opciones": [
+    "cúmpleaños",
+    "cumpleaños",
+    "cumpléaños"
+   ],
+   "respuesta": "cumpleaños",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cum-ple-a-ños: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vigesimosegundo",
+   "clase": "llana",
+   "opciones": [
+    "vigesimosegundo",
+    "vigésimosegundo",
+    "vigesimósegundo"
+   ],
+   "respuesta": "vigesimosegundo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vi-ge-si-mo-se-gun-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0040",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dilo",
+   "clase": "llana",
+   "opciones": [
+    "dilo",
+    "dílo",
+    "diló"
+   ],
+   "respuesta": "dilo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "di-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0041",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ponlo",
+   "clase": "llana",
+   "opciones": [
+    "ponló",
+    "ponlo",
+    "pónlo"
+   ],
+   "respuesta": "ponlo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pon-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
    "id": "A15-0042",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "imagínatelo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "ímaginatelo",
+    "imaginatélo",
+    "imagínatelo"
+   ],
+   "respuesta": "imagínatelo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "i-ma-gí-na-te-lo: es sobresdrújula (suena fuerte «gí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0043",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "despiértate",
+   "clase": "esdrujula",
+   "opciones": [
+    "despiertaté",
+    "despiértate",
+    "despiertate"
+   ],
+   "respuesta": "despiértate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "des-piér-ta-te: es esdrújula (suena fuerte «piér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0044",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decimoctavo",
+   "clase": "llana",
+   "opciones": [
+    "decimoctavo",
+    "decimoctávo",
+    "decimóctavo"
+   ],
+   "respuesta": "decimoctavo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-moc-ta-vo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0045",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estupendamente",
+   "clase": "llana",
+   "opciones": [
+    "estupéndamente",
+    "estupendamente",
+    "estupendaménte"
+   ],
+   "respuesta": "estupendamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«estupendamente» = «estupenda» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «estupenda» no lleva tilde, así que «estupendamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "veinticinco",
+   "clase": "llana",
+   "opciones": [
+    "veintícinco",
+    "veinticinco",
+    "véinticinco"
+   ],
+   "respuesta": "veinticinco",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vein-ti-cin-co: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0047",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dámelo",
+   "clase": "esdrujula",
+   "opciones": [
+    "damelo",
+    "dámelo",
+    "damélo"
+   ],
+   "respuesta": "dámelo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dá-me-lo: es esdrújula (suena fuerte «dá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mírame",
+   "clase": "esdrujula",
+   "opciones": [
+    "miramé",
+    "mírame",
+    "mirame"
+   ],
+   "respuesta": "mírame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "mí-ra-me: es esdrújula (suena fuerte «mí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cariñosamente",
+   "clase": "llana",
+   "opciones": [
+    "cariñósamente",
+    "cariñosamente",
+    "cariñosaménte"
+   ],
+   "respuesta": "cariñosamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cariñosamente» = «cariñosa» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cariñosa» no lleva tilde, así que «cariñosamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ágilmente",
+   "clase": "llana",
+   "opciones": [
+    "agilmente",
+    "ágilmente"
+   ],
+   "respuesta": "ágilmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«ágilmente» = «ágil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «ágil» lleva tilde, así que «ágilmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0051",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "baloncesto",
+   "clase": "llana",
+   "opciones": [
+    "báloncesto",
+    "baloncesto",
+    "balóncesto"
+   ],
+   "respuesta": "baloncesto",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ba-lon-ces-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0052",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "comérselo",
+   "clase": "esdrujula",
+   "opciones": [
+    "comérselo",
+    "cómerselo",
+    "comerseló"
+   ],
+   "respuesta": "comérselo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "co-mér-se-lo: es esdrújula (suena fuerte «mér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0053",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cógelo",
+   "clase": "esdrujula",
+   "opciones": [
+    "cógelo",
+    "cogelo",
+    "cogeló"
+   ],
+   "respuesta": "cógelo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "có-ge-lo: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cortésmente",
+   "clase": "aguda",
+   "opciones": [
+    "cortésmente",
+    "cortesmente"
+   ],
+   "respuesta": "cortésmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cortésmente» = «cortés» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cortés» lleva tilde, así que «cortésmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0055",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sentémonos",
+   "clase": "esdrujula",
+   "opciones": [
+    "sentemonos",
+    "sentémonos",
+    "sentemonós"
+   ],
+   "respuesta": "sentémonos",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sen-té-mo-nos: es esdrújula (suena fuerte «té»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0056",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "especialmente",
+   "clase": "aguda",
+   "opciones": [
+    "especiálmente",
+    "especialménte",
+    "especialmente"
+   ],
+   "respuesta": "especialmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«especialmente» = «especial» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «especial» no lleva tilde, así que «especialmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0057",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "péinate",
+   "clase": "esdrujula",
+   "opciones": [
+    "peináte",
+    "peínate",
+    "péinate"
+   ],
+   "respuesta": "péinate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "péi-na-te: es esdrújula (suena fuerte «péi»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "olvídalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "olvidalo",
+    "olvídalo",
+    "ólvidalo"
+   ],
+   "respuesta": "olvídalo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ol-ví-da-lo: es esdrújula (suena fuerte «ví»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0059",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "fácilmente",
+   "clase": "llana",
+   "opciones": [
+    "facilmente",
+    "fácilmente"
+   ],
+   "respuesta": "fácilmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«fácilmente» = «fácil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «fácil» lleva tilde, así que «fácilmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0060",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "díselo",
+   "clase": "esdrujula",
+   "opciones": [
+    "disélo",
+    "diseló",
+    "díselo"
+   ],
+   "respuesta": "díselo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dí-se-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0061",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "aguanieve",
+   "clase": "llana",
+   "opciones": [
+    "aguaniéve",
+    "aguanieve",
+    "águanieve"
+   ],
+   "respuesta": "aguanieve",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-gua-nie-ve: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0062",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mágicamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "magicamente",
+    "mágicamente"
+   ],
+   "respuesta": "mágicamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«mágicamente» = «mágica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «mágica» lleva tilde, así que «mágicamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0063",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cógela",
+   "clase": "esdrujula",
+   "opciones": [
+    "cogelá",
+    "cogéla",
+    "cógela"
+   ],
+   "respuesta": "cógela",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "có-ge-la: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0064",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sacacorchos",
+   "clase": "llana",
+   "opciones": [
+    "sácacorchos",
+    "sacacorchos",
+    "sacacórchos"
+   ],
+   "respuesta": "sacacorchos",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sa-ca-cor-chos: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0065",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "pasatiempo",
@@ -794,55 +1228,150 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0043",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "cuéntame",
+   "id": "A15-0066",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dármelo",
    "clase": "esdrujula",
-   "respuesta": 2,
-   "dificultad": 3,
+   "opciones": [
+    "darmélo",
+    "darmeló",
+    "dármelo"
+   ],
+   "respuesta": "dármelo",
+   "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "cuén-ta-me: es esdrújula (suena fuerte «cuén»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "explicacion": "dár-me-lo: es esdrújula (suena fuerte «dár»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0044",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "tiovivo",
+   "id": "A15-0067",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ciérrala",
+   "clase": "esdrujula",
+   "opciones": [
+    "cíerrala",
+    "ciérrala",
+    "cierrala"
+   ],
+   "respuesta": "ciérrala",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cié-rra-la: es esdrújula (suena fuerte «cié»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0068",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "acuérdate",
+   "clase": "esdrujula",
+   "opciones": [
+    "ácuerdate",
+    "acuérdate",
+    "acuerdate"
+   ],
+   "respuesta": "acuérdate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-cuér-da-te: es esdrújula (suena fuerte «cuér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0069",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "guardabosques",
    "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
+   "opciones": [
+    "guardabosqués",
+    "guardabosques",
+    "guárdabosques"
+   ],
+   "respuesta": "guardabosques",
+   "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "tio-vi-vo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "explicacion": "guar-da-bos-ques: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0045",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "difícilmente",
+   "id": "A15-0070",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cómodamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "cómodamente",
+    "comodamente"
+   ],
+   "respuesta": "cómodamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cómodamente» = «cómoda» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cómoda» lleva tilde, así que «cómodamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0071",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "felizmente",
+   "clase": "aguda",
+   "opciones": [
+    "felizmente",
+    "felízmente",
+    "felizménte"
+   ],
+   "respuesta": "felizmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«felizmente» = «feliz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «feliz» no lleva tilde, así que «felizmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0072",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "diecinueve",
    "clase": "llana",
-   "respuesta": 3,
-   "dificultad": 3,
+   "opciones": [
+    "diecinuéve",
+    "diecinuevé",
+    "diecinueve"
+   ],
+   "respuesta": "diecinueve",
+   "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "«difícilmente» = «difícil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «difícil» lleva tilde, así que «difícilmente» también.",
+   "explicacion": "die-ci-nue-ve: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0046",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "id": "A15-0073",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "dale",
    "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
+   "opciones": [
+    "dale",
+    "dále",
+    "dalé"
+   ],
+   "respuesta": "dale",
+   "dificultad": 2,
    "skills": [
     "mente_compuestos"
    ],
@@ -850,7 +1379,1033 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0047",
+   "id": "A15-0074",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "limpiaparabrisas",
+   "clase": "llana",
+   "opciones": [
+    "limpiapárabrisas",
+    "limpiaparabrísas",
+    "limpiaparabrisas"
+   ],
+   "respuesta": "limpiaparabrisas",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "lim-pia-pa-ra-bri-sas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0075",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "veintiséis",
+   "clase": "aguda",
+   "opciones": [
+    "veintíseis",
+    "veintiseís",
+    "veintiséis"
+   ],
+   "respuesta": "veintiséis",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vein-ti-séis: es aguda (suena fuerte «séis») y acaba en -s, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0076",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vístete",
+   "clase": "esdrujula",
+   "opciones": [
+    "vístete",
+    "vistéte",
+    "vistete"
+   ],
+   "respuesta": "vístete",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vís-te-te: es esdrújula (suena fuerte «vís»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0077",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pasamontañas",
+   "clase": "llana",
+   "opciones": [
+    "pasamontañas",
+    "pasamóntañas",
+    "pasámontañas"
+   ],
+   "respuesta": "pasamontañas",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pa-sa-mon-ta-ñas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0078",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "oírlo",
+   "clase": "llana",
+   "opciones": [
+    "óirlo",
+    "oírlo",
+    "oirlo"
+   ],
+   "respuesta": "oírlo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "o-ír-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0079",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cuídate",
+   "clase": "esdrujula",
+   "opciones": [
+    "cuidate",
+    "cuídate",
+    "cuidaté"
+   ],
+   "respuesta": "cuídate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cuí-da-te: es esdrújula (suena fuerte «cuí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0080",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ponérselo",
+   "clase": "esdrujula",
+   "opciones": [
+    "ponérselo",
+    "ponerselo",
+    "pónerselo"
+   ],
+   "respuesta": "ponérselo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "po-nér-se-lo: es esdrújula (suena fuerte «nér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0081",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mírala",
+   "clase": "esdrujula",
+   "opciones": [
+    "miralá",
+    "mirála",
+    "mírala"
+   ],
+   "respuesta": "mírala",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "mí-ra-la: es esdrújula (suena fuerte «mí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0082",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "levántate",
+   "clase": "esdrujula",
+   "opciones": [
+    "levantaté",
+    "levantáte",
+    "levántate"
+   ],
+   "respuesta": "levántate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "le-ván-ta-te: es esdrújula (suena fuerte «ván»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0083",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lavaplatos",
+   "clase": "llana",
+   "opciones": [
+    "lavaplatos",
+    "laváplatos",
+    "lavaplátos"
+   ],
+   "respuesta": "lavaplatos",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "la-va-pla-tos: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0084",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "últimamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "ultimamente",
+    "últimamente"
+   ],
+   "respuesta": "últimamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«últimamente» = «última» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «última» lleva tilde, así que «últimamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0085",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decírselo",
+   "clase": "esdrujula",
+   "opciones": [
+    "decírselo",
+    "décirselo",
+    "decirsélo"
+   ],
+   "respuesta": "decírselo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-cír-se-lo: es esdrújula (suena fuerte «cír»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0086",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cómetelo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "cómetelo",
+    "cometeló",
+    "cometelo"
+   ],
+   "respuesta": "cómetelo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "có-me-te-lo: es sobresdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0087",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "búscalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "búscalo",
+    "buscálo",
+    "buscalo"
+   ],
+   "respuesta": "búscalo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "bús-ca-lo: es esdrújula (suena fuerte «bús»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0088",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rompecabezas",
+   "clase": "llana",
+   "opciones": [
+    "rompecabezás",
+    "rómpecabezas",
+    "rompecabezas"
+   ],
+   "respuesta": "rompecabezas",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "rom-pe-ca-be-zas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0089",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "parachoques",
+   "clase": "llana",
+   "opciones": [
+    "parachoqués",
+    "parachoques",
+    "párachoques"
+   ],
+   "respuesta": "parachoques",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pa-ra-cho-ques: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0090",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "débilmente",
+   "clase": "llana",
+   "opciones": [
+    "débilmente",
+    "debilmente"
+   ],
+   "respuesta": "débilmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«débilmente» = «débil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «débil» lleva tilde, así que «débilmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0091",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dieciocho",
+   "clase": "llana",
+   "opciones": [
+    "dieciocho",
+    "dieciócho",
+    "diéciocho"
+   ],
+   "respuesta": "dieciocho",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "die-cio-cho: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0092",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tenlo",
+   "clase": "llana",
+   "opciones": [
+    "ténlo",
+    "tenlo",
+    "tenló"
+   ],
+   "respuesta": "tenlo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ten-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0093",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cállate",
+   "clase": "esdrujula",
+   "opciones": [
+    "callaté",
+    "calláte",
+    "cállate"
+   ],
+   "respuesta": "cállate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cá-lla-te: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0094",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "automáticamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "automáticamente",
+    "automaticamente"
+   ],
+   "respuesta": "automáticamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«automáticamente» = «automática» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «automática» lleva tilde, así que «automáticamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0095",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dame",
+   "clase": "llana",
+   "opciones": [
+    "dame",
+    "damé",
+    "dáme"
+   ],
+   "respuesta": "dame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "da-me: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0096",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "totalmente",
+   "clase": "aguda",
+   "opciones": [
+    "totalmente",
+    "totálmente",
+    "totalménte"
+   ],
+   "respuesta": "totalmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«totalmente» = «total» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «total» no lleva tilde, así que «totalmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0097",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "escríbeme",
+   "clase": "esdrujula",
+   "opciones": [
+    "éscribeme",
+    "escribemé",
+    "escríbeme"
+   ],
+   "respuesta": "escríbeme",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-crí-be-me: es esdrújula (suena fuerte «crí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0098",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "realmente",
+   "clase": "aguda",
+   "opciones": [
+    "realmente",
+    "realménte",
+    "reálmente"
+   ],
+   "respuesta": "realmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«realmente» = «real» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «real» no lleva tilde, así que «realmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0099",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sencillamente",
+   "clase": "llana",
+   "opciones": [
+    "sencíllamente",
+    "sencillaménte",
+    "sencillamente"
+   ],
+   "respuesta": "sencillamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«sencillamente» = «sencilla» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «sencilla» no lleva tilde, así que «sencillamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0100",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sordomudo",
+   "clase": "llana",
+   "opciones": [
+    "sordomudo",
+    "sordomudó",
+    "sórdomudo"
+   ],
+   "respuesta": "sordomudo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sor-do-mu-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0101",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "claramente",
+   "clase": "llana",
+   "opciones": [
+    "claramente",
+    "claraménte",
+    "cláramente"
+   ],
+   "respuesta": "claramente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«claramente» = «clara» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «clara» no lleva tilde, así que «claramente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0102",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "difícilmente",
+   "clase": "llana",
+   "opciones": [
+    "difícilmente",
+    "dificilmente"
+   ],
+   "respuesta": "difícilmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«difícilmente» = «difícil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «difícil» lleva tilde, así que «difícilmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0103",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ciempiés",
+   "clase": "aguda",
+   "opciones": [
+    "ciempiés",
+    "ciempies",
+    "ciempíes"
+   ],
+   "respuesta": "ciempiés",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ciem-piés: es aguda (suena fuerte «piés») y acaba en -s, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0104",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vámonos",
+   "clase": "esdrujula",
+   "opciones": [
+    "vamónos",
+    "vamonós",
+    "vámonos"
+   ],
+   "respuesta": "vámonos",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vá-mo-nos: es esdrújula (suena fuerte «vá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0105",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "suavemente",
+   "clase": "llana",
+   "opciones": [
+    "suavemente",
+    "suávemente",
+    "suaveménte"
+   ],
+   "respuesta": "suavemente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«suavemente» = «suave» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «suave» no lleva tilde, así que «suavemente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0106",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sinvergüenza",
+   "clase": "llana",
+   "opciones": [
+    "sinvérgüenza",
+    "sinvergüenzá",
+    "sinvergüenza"
+   ],
+   "respuesta": "sinvergüenza",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sin-ver-güen-za: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0107",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lávate",
+   "clase": "esdrujula",
+   "opciones": [
+    "lavate",
+    "lávate",
+    "laváte"
+   ],
+   "respuesta": "lávate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "lá-va-te: es esdrújula (suena fuerte «lá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0108",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "prácticamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "practicamente",
+    "prácticamente"
+   ],
+   "respuesta": "prácticamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«prácticamente» = «práctica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «práctica» lleva tilde, así que «prácticamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0109",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tómalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "tomalo",
+    "tómalo",
+    "tomálo"
+   ],
+   "respuesta": "tómalo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "tó-ma-lo: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0110",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "decimoséptimo",
+   "clase": "esdrujula",
+   "opciones": [
+    "décimoseptimo",
+    "decimoséptimo",
+    "decimoseptimo"
+   ],
+   "respuesta": "decimoséptimo",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-sép-ti-mo: es esdrújula (suena fuerte «sép»), y estas llevan tilde siempre. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0111",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "normalmente",
+   "clase": "aguda",
+   "opciones": [
+    "normalmente",
+    "normalménte",
+    "normálmente"
+   ],
+   "respuesta": "normalmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«normalmente» = «normal» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «normal» no lleva tilde, así que «normalmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0112",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estate",
+   "clase": "llana",
+   "opciones": [
+    "estaté",
+    "estáte",
+    "estate"
+   ],
+   "respuesta": "estate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-ta-te: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0113",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hispanohablante",
+   "clase": "llana",
+   "opciones": [
+    "hispanohablante",
+    "híspanohablante",
+    "hispanóhablante"
+   ],
+   "respuesta": "hispanohablante",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "his-pa-no-ha-blan-te: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0114",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bocacalle",
+   "clase": "llana",
+   "opciones": [
+    "bocácalle",
+    "bocacálle",
+    "bocacalle"
+   ],
+   "respuesta": "bocacalle",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "bo-ca-ca-lle: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0115",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rápidamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "rápidamente",
+    "rapidamente"
+   ],
+   "respuesta": "rápidamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«rápidamente» = «rápida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «rápida» lleva tilde, así que «rápidamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0116",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "quédate",
+   "clase": "esdrujula",
+   "opciones": [
+    "quédate",
+    "quedáte",
+    "quedaté"
+   ],
+   "respuesta": "quédate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "qué-da-te: es esdrújula (suena fuerte «qué»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0117",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "llámame",
+   "clase": "esdrujula",
+   "opciones": [
+    "llamame",
+    "llámame",
+    "llamáme"
+   ],
+   "respuesta": "llámame",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "llá-ma-me: es esdrújula (suena fuerte «llá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0118",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "públicamente",
+   "clase": "esdrujula",
+   "opciones": [
+    "publicamente",
+    "públicamente"
+   ],
+   "respuesta": "públicamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«públicamente» = «pública» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «pública» lleva tilde, así que «públicamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0119",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "increíblemente",
+   "clase": "llana",
+   "opciones": [
+    "increiblemente",
+    "increíblemente"
+   ],
+   "respuesta": "increíblemente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«increíblemente» = «increíble» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «increíble» lleva tilde, así que «increíblemente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0120",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "actualmente",
+   "clase": "aguda",
+   "opciones": [
+    "actuálmente",
+    "actualmente",
+    "actualménte"
+   ],
+   "respuesta": "actualmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«actualmente» = «actual» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «actual» no lleva tilde, así que «actualmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0121",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "acércate",
+   "clase": "esdrujula",
+   "opciones": [
+    "ácercate",
+    "acercaté",
+    "acércate"
+   ],
+   "respuesta": "acércate",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-cér-ca-te: es esdrújula (suena fuerte «cér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0122",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cruelmente",
+   "opciones": [
+    "cruélmente",
+    "cruelmente",
+    "cruelménte"
+   ],
+   "respuesta": "cruelmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cruelmente» = «cruel» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cruel» no lleva tilde, así que «cruelmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0123",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "igualmente",
+   "clase": "aguda",
+   "opciones": [
+    "igualménte",
+    "igualmente",
+    "iguálmente"
+   ],
+   "respuesta": "igualmente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«igualmente» = «igual» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «igual» no lleva tilde, así que «igualmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0124",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rascacielos",
+   "clase": "llana",
+   "opciones": [
+    "rascacielos",
+    "rascácielos",
+    "ráscacielos"
+   ],
+   "respuesta": "rascacielos",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ras-ca-cie-los: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0125",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lentamente",
+   "clase": "llana",
+   "opciones": [
+    "lentamente",
+    "léntamente",
+    "lentaménte"
+   ],
+   "respuesta": "lentamente",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«lentamente» = «lenta» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «lenta» no lleva tilde, así que «lentamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0126",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "veintiún",
+   "clase": "aguda",
+   "opciones": [
+    "veintíun",
+    "véintiun",
+    "veintiún"
+   ],
+   "respuesta": "veintiún",
+   "dificultad": 2,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vein-tiún: es aguda (suena fuerte «tiún») y acaba en -n, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0127",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "veintiséis",
+   "clase": "aguda",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vein-ti-séis: es aguda (suena fuerte «séis») y acaba en -s, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0128",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "velozmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«velozmente» = «veloz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «veloz» no lleva tilde, así que «velozmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0129",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "estate",
@@ -864,329 +2419,7 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0048",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "pásamelo",
-   "clase": "sobresdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "pá-sa-me-lo: es sobresdrújula (suena fuerte «pá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0049",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "cállate",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "cá-lla-te: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0050",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "sacapuntas",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "sa-ca-pun-tas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0051",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "débilmente",
-   "clase": "llana",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«débilmente» = «débil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «débil» lleva tilde, así que «débilmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0052",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "cortésmente",
-   "clase": "aguda",
-   "respuesta": 4,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«cortésmente» = «cortés» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cortés» lleva tilde, así que «cortésmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0053",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "dímelo",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "dí-me-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0054",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "rompecabezas",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "rom-pe-ca-be-zas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0055",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "tranquilamente",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«tranquilamente» = «tranquila» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «tranquila» no lleva tilde, así que «tranquilamente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0056",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ágilmente",
-   "clase": "llana",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«ágilmente» = «ágil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «ágil» lleva tilde, así que «ágilmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0057",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "seguramente",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«seguramente» = «segura» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «segura» no lleva tilde, así que «seguramente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0058",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "baloncesto",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "ba-lon-ces-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0059",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "medianoche",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "me-dia-no-che: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0060",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ciempiés",
-   "clase": "aguda",
-   "respuesta": 6,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "ciem-piés: es aguda (suena fuerte «piés») y acaba en -s, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0061",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "lavaplatos",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "la-va-pla-tos: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0062",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "fácilmente",
-   "clase": "llana",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«fácilmente» = «fácil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «fácil» lleva tilde, así que «fácilmente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0063",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "igualmente",
-   "clase": "aguda",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«igualmente» = «igual» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «igual» no lleva tilde, así que «igualmente» tampoco.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0064",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "díselo",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "dí-se-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0065",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "vámonos",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "vá-mo-nos: es esdrújula (suena fuerte «vá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0066",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "explícamelo",
-   "clase": "sobresdrujula",
-   "respuesta": 4,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "ex-plí-ca-me-lo: es sobresdrújula (suena fuerte «plí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0067",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "prácticamente",
-   "clase": "esdrujula",
-   "respuesta": 2,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«prácticamente» = «práctica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «práctica» lleva tilde, así que «prácticamente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0068",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "levántate",
-   "clase": "esdrujula",
-   "respuesta": 3,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "le-ván-ta-te: es esdrújula (suena fuerte «ván»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0069",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ponte",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "pon-te: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0070",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "rápidamente",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«rápidamente» = «rápida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «rápida» lleva tilde, así que «rápidamente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0071",
+   "id": "A15-0130",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "cómetelo",
@@ -1200,49 +2433,7 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0072",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "públicamente",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "«públicamente» = «pública» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «pública» lleva tilde, así que «públicamente» también.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0073",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "cuéntaselo",
-   "clase": "sobresdrujula",
-   "respuesta": 2,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "cuén-ta-se-lo: es sobresdrújula (suena fuerte «cuén»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0074",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ponlo",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "mente_compuestos"
-   ],
-   "explicacion": "pon-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
-   "regla_id": "mente-compuestos"
-  },
-  {
-   "id": "A15-0075",
+   "id": "A15-0131",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "únicamente",
@@ -1256,7 +2447,329 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0076",
+   "id": "A15-0132",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "totalmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«totalmente» = «total» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «total» no lleva tilde, así que «totalmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0133",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "automáticamente",
+   "clase": "esdrujula",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«automáticamente» = «automática» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «automática» lleva tilde, así que «automáticamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0134",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "hazlo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "haz-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0135",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dilo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "di-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0136",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "alegremente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«alegremente» = «alegre» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «alegre» no lleva tilde, así que «alegremente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0137",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "explícamelo",
+   "clase": "sobresdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ex-plí-ca-me-lo: es sobresdrújula (suena fuerte «plí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0138",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "abrelatas",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-bre-la-tas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0139",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "suavemente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«suavemente» = «suave» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «suave» no lleva tilde, así que «suavemente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0140",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tímidamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«tímidamente» = «tímida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «tímida» lleva tilde, así que «tímidamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0141",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "públicamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«públicamente» = «pública» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «pública» lleva tilde, así que «públicamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0142",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pásamelo",
+   "clase": "sobresdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pá-sa-me-lo: es sobresdrújula (suena fuerte «pá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0143",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "normalmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«normalmente» = «normal» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «normal» no lleva tilde, así que «normalmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0144",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "acuérdate",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-cuér-da-te: es esdrújula (suena fuerte «cuér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0145",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "rascacielos",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ras-ca-cie-los: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0146",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ciempiés",
+   "clase": "aguda",
+   "respuesta": 6,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ciem-piés: es aguda (suena fuerte «piés») y acaba en -s, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0147",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "prácticamente",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«prácticamente» = «práctica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «práctica» lleva tilde, así que «prácticamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0148",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cuídate",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cuí-da-te: es esdrújula (suena fuerte «cuí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0149",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "perdóname",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "per-dó-na-me: es esdrújula (suena fuerte «dó»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0150",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "veintiún",
+   "clase": "aguda",
+   "respuesta": 6,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vein-tiún: es aguda (suena fuerte «tiún») y acaba en -n, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0151",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "bocacalle",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "bo-ca-ca-lle: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0152",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cortacésped",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cor-ta-cés-ped: es llana y acaba en -d; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0153",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "escríbeme",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-crí-be-me: es esdrújula (suena fuerte «crí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0154",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "difícilmente",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«difícilmente» = «difícil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «difícil» lleva tilde, así que «difícilmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0155",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "decimoctavo",
@@ -1270,21 +2783,49 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0077",
+   "id": "A15-0156",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "cómodamente",
+   "palabra": "sentémonos",
    "clase": "esdrujula",
-   "respuesta": 1,
+   "respuesta": 4,
    "dificultad": 3,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "«cómodamente» = «cómoda» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cómoda» lleva tilde, así que «cómodamente» también.",
+   "explicacion": "sen-té-mo-nos: es esdrújula (suena fuerte «té»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0078",
+   "id": "A15-0157",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sencillamente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«sencillamente» = «sencilla» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «sencilla» no lleva tilde, así que «sencillamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0158",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "comérselo",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "co-mér-se-lo: es esdrújula (suena fuerte «mér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0159",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "claramente",
@@ -1298,21 +2839,889 @@
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0079",
+   "id": "A15-0160",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "lentamente",
+   "palabra": "fácilmente",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«fácilmente» = «fácil» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «fácil» lleva tilde, así que «fácilmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0161",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cumpleaños",
    "clase": "llana",
    "respuesta": -1,
    "dificultad": 3,
    "skills": [
     "mente_compuestos"
    ],
-   "explicacion": "«lentamente» = «lenta» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «lenta» no lleva tilde, así que «lentamente» tampoco.",
+   "explicacion": "cum-ple-a-ños: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
    "regla_id": "mente-compuestos"
   },
   {
-   "id": "A15-0080",
+   "id": "A15-0162",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "lávate",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "lá-va-te: es esdrújula (suena fuerte «lá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0163",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "aguanieve",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-gua-nie-ve: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0164",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ferozmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«ferozmente» = «feroz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «feroz» no lleva tilde, así que «ferozmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0165",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "péinate",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "péi-na-te: es esdrújula (suena fuerte «péi»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0166",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ponlo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pon-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0167",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "decimocuarto",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-cuar-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0168",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "medianoche",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "me-dia-no-che: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0169",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "diecinueve",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "die-ci-nue-ve: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0170",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "estupendamente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«estupendamente» = «estupenda» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «estupenda» no lleva tilde, así que «estupendamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0171",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "igualmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«igualmente» = «igual» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «igual» no lleva tilde, así que «igualmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0172",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tiovivo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "tio-vi-vo: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0173",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cuéntame",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cuén-ta-me: es esdrújula (suena fuerte «cuén»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0174",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tranquilamente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«tranquilamente» = «tranquila» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «tranquila» no lleva tilde, así que «tranquilamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0175",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "vigesimosegundo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vi-ge-si-mo-se-gun-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0176",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cógela",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "có-ge-la: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0177",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cuéntaselo",
+   "clase": "sobresdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cuén-ta-se-lo: es sobresdrújula (suena fuerte «cuén»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0178",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sacapuntas",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sa-ca-pun-tas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0179",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "levántate",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "le-ván-ta-te: es esdrújula (suena fuerte «ván»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0180",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "vigesimoprimero",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vi-ge-si-mo-pri-me-ro: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0181",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "portaaviones",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "por-ta-a-vio-nes: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0182",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "guardabosques",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "guar-da-bos-ques: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0183",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "parachoques",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pa-ra-cho-ques: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0184",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "perfectamente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«perfectamente» = «perfecta» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «perfecta» no lleva tilde, así que «perfectamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0185",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "felizmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«felizmente» = «feliz» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «feliz» no lleva tilde, así que «felizmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0186",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "amablemente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«amablemente» = «amable» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «amable» no lleva tilde, así que «amablemente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0187",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "hispanohablante",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "his-pa-no-ha-blan-te: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0188",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "búscalo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "bús-ca-lo: es esdrújula (suena fuerte «bús»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0189",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sordomudo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sor-do-mu-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0190",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "olvídalo",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ol-ví-da-lo: es esdrújula (suena fuerte «ví»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0191",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "realmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«realmente» = «real» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «real» no lleva tilde, así que «realmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0192",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "lógicamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«lógicamente» = «lógica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «lógica» lleva tilde, así que «lógicamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0193",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "márchate",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "már-cha-te: es esdrújula (suena fuerte «már»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0194",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "decírselo",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-cír-se-lo: es esdrújula (suena fuerte «cír»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0195",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "puntiagudo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pun-tia-gu-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0196",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ayúdame",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-yú-da-me: es esdrújula (suena fuerte «yú»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0197",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tenlo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ten-lo: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0198",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "increíblemente",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«increíblemente» = «increíble» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «increíble» lleva tilde, así que «increíblemente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0199",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "espérame",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-pé-ra-me: es esdrújula (suena fuerte «pé»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0200",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "decimotercero",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-ter-ce-ro: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0201",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "decimoséptimo",
+   "clase": "esdrujula",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-sép-ti-mo: es esdrújula (suena fuerte «sép»), y estas llevan tilde siempre. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0202",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mírala",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "mí-ra-la: es esdrújula (suena fuerte «mí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0203",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pacíficamente",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«pacíficamente» = «pacífica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «pacífica» lleva tilde, así que «pacíficamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0204",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "quédate",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "qué-da-te: es esdrújula (suena fuerte «qué»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0205",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dieciocho",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "die-cio-cho: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0206",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "agridulce",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "a-gri-dul-ce: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0207",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mágicamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«mágicamente» = «mágica» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «mágica» lleva tilde, así que «mágicamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0208",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pasamontañas",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pa-sa-mon-ta-ñas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0209",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "veinticinco",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vein-ti-cin-co: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0210",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "decimonoveno",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "de-ci-mo-no-ve-no: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0211",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cómodamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cómodamente» = «cómoda» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cómoda» lleva tilde, así que «cómodamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0212",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "boquiabierto",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "bo-quia-bier-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0213",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cálidamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cálidamente» = «cálida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cálida» lleva tilde, así que «cálidamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0214",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "imagínatelo",
+   "clase": "sobresdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "i-ma-gí-na-te-lo: es sobresdrújula (suena fuerte «gí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0215",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ponérselo",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "po-nér-se-lo: es esdrújula (suena fuerte «nér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0216",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tómalo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "tó-ma-lo: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0217",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "últimamente",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«últimamente» = «última» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «última» lleva tilde, así que «últimamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0218",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sinvergüenza",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sin-ver-güen-za: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0219",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ponte",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pon-te: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0220",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "siéntate",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sién-ta-te: es esdrújula (suena fuerte «sién»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0221",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "actualmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«actualmente» = «actual» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «actual» no lleva tilde, así que «actualmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0222",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cariñosamente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cariñosamente» = «cariñosa» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cariñosa» no lleva tilde, así que «cariñosamente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0223",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "acércate",
@@ -1323,6 +3732,383 @@
     "mente_compuestos"
    ],
    "explicacion": "a-cér-ca-te: es esdrújula (suena fuerte «cér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0224",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dame",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "da-me: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0225",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cruelmente",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cruelmente» = «cruel» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cruel» no lleva tilde, así que «cruelmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0226",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "escúchame",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "es-cú-cha-me: es esdrújula (suena fuerte «cú»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0227",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "seguramente",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«seguramente» = «segura» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «segura» no lleva tilde, así que «seguramente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0228",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pasatiempo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pa-sa-tiem-po: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0229",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "malhumorado",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "mal-hu-mo-ra-do: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0230",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cortésmente",
+   "clase": "aguda",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«cortésmente» = «cortés» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «cortés» lleva tilde, así que «cortésmente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0231",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dígaselo",
+   "clase": "sobresdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dí-ga-se-lo: es sobresdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0232",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dale",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "da-le: es llana y acaba en vocal, así que no lleva tilde. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0233",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "rápidamente",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«rápidamente» = «rápida» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «rápida» lleva tilde, así que «rápidamente» también.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0234",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "díselo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dí-se-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0235",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dámelo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dá-me-lo: es esdrújula (suena fuerte «dá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0236",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "lavaplatos",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "la-va-pla-tos: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0237",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "especialmente",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "«especialmente» = «especial» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «especial» no lleva tilde, así que «especialmente» tampoco.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0238",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "vístete",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "vís-te-te: es esdrújula (suena fuerte «vís»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0239",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dímelo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dí-me-lo: es esdrújula (suena fuerte «dí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0240",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "despiértate",
+   "clase": "esdrujula",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "des-piér-ta-te: es esdrújula (suena fuerte «piér»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0241",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mírame",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "mí-ra-me: es esdrújula (suena fuerte «mí»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0242",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sacacorchos",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "sa-ca-cor-chos: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0243",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "rompecabezas",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "rom-pe-ca-be-zas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0244",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dármelo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "dár-me-lo: es esdrújula (suena fuerte «dár»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0245",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cógelo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "có-ge-lo: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0246",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cállate",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "cá-lla-te: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0247",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ábrela",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "á-bre-la: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre. Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0248",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "baloncesto",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "ba-lon-ces-to: es llana y acaba en vocal, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0249",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "limpiaparabrisas",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "lim-pia-pa-ra-bri-sas: es llana y acaba en -s, así que no lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
+   "regla_id": "mente-compuestos"
+  },
+  {
+   "id": "A15-0250",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "puntapié",
+   "clase": "aguda",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "mente_compuestos"
+   ],
+   "explicacion": "pun-ta-pié: es aguda (suena fuerte «pié») y acaba en vocal, así que lleva tilde. En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.",
    "regla_id": "mente-compuestos"
   }
  ]

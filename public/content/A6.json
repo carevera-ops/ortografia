@@ -3,49 +3,28 @@
  "items": [
   {
    "id": "A6-0001",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "sábado",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "célula",
    "clase": "esdrujula",
    "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
+    "celulá",
+    "celúla",
+    "célula"
    ],
-   "respuesta": "esdrújula",
+   "respuesta": "célula",
    "dificultad": 1,
    "skills": [
-    "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "sá-ba-do: la sílaba tónica es «sá», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
+   "explicacion": "cé-lu-la: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
   },
   {
    "id": "A6-0002",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "plástico",
-   "clase": "esdrujula",
-   "opciones": [
-    "plastíco",
-    "plasticó",
-    "plástico"
-   ],
-   "respuesta": "plástico",
-   "dificultad": 1,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "plás-ti-co: es esdrújula (suena fuerte «plás»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0003",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "página",
+   "palabra": "águila",
    "clase": "esdrujula",
    "opciones": [
     "aguda",
@@ -59,129 +38,70 @@
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "pá-gi-na: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "explicacion": "á-gui-la: la sílaba tónica es «á», la antepenúltima, así que es esdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0004",
+   "id": "A6-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "mágico",
+   "palabra": "búfalo",
    "clase": "esdrujula",
    "opciones": [
-    "mágico",
-    "magíco",
-    "magico"
+    "búfalo",
+    "bufaló",
+    "bufalo"
    ],
-   "respuesta": "mágico",
+   "respuesta": "búfalo",
    "dificultad": 1,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "má-gi-co: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "explicacion": "bú-fa-lo: es esdrújula (suena fuerte «bú»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0004",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pacífico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pa-cí-fi-co: la sílaba tónica es «cí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
   },
   {
    "id": "A6-0005",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "película",
+   "palabra": "plátano",
    "clase": "esdrujula",
    "opciones": [
-    "película",
-    "pelicúla",
-    "pélicula"
+    "plátano",
+    "platanó",
+    "platano"
    ],
-   "respuesta": "película",
+   "respuesta": "plátano",
    "dificultad": 1,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "pe-lí-cu-la: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
+   "explicacion": "plá-ta-no: es esdrújula (suena fuerte «plá»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
    "id": "A6-0006",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "rápido",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 1,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "rá-pi-do: la sílaba tónica es «rá», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0007",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "médico",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 1,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "mé-di-co: la sílaba tónica es «mé», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0008",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "miércoles",
-   "clase": "esdrujula",
-   "opciones": [
-    "miércoles",
-    "miercóles",
-    "miercoles"
-   ],
-   "respuesta": "miércoles",
-   "dificultad": 1,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "miér-co-les: es esdrújula (suena fuerte «miér»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0009",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "rápido",
-   "clase": "esdrujula",
-   "opciones": [
-    "rapído",
-    "rapidó",
-    "rápido"
-   ],
-   "respuesta": "rápido",
-   "dificultad": 1,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "rá-pi-do: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0010",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "lámpara",
@@ -200,26 +120,7 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0011",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "sábado",
-   "clase": "esdrujula",
-   "opciones": [
-    "sábado",
-    "sabado",
-    "sabádo"
-   ],
-   "respuesta": "sábado",
-   "dificultad": 1,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "sá-ba-do: es esdrújula (suena fuerte «sá»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0012",
+   "id": "A6-0007",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "último",
@@ -240,48 +141,1342 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0013",
+   "id": "A6-0008",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "plátano",
+   "palabra": "pájaro",
    "clase": "esdrujula",
    "opciones": [
-    "plátano",
-    "platanó",
-    "platano"
+    "pajaró",
+    "pájaro",
+    "pajaro"
    ],
-   "respuesta": "plátano",
+   "respuesta": "pájaro",
    "dificultad": 1,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "plá-ta-no: es esdrújula (suena fuerte «plá»), y estas llevan tilde siempre.",
+   "explicacion": "pá-ja-ro: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0009",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pálido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pá-li-do: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mecánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "mecaníco",
+    "mecánico",
+    "mecanico"
+   ],
+   "respuesta": "mecánico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "me-cá-ni-co: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "elástico",
+   "clase": "esdrujula",
+   "opciones": [
+    "elasticó",
+    "elastíco",
+    "elástico"
+   ],
+   "respuesta": "elástico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "e-lás-ti-co: es esdrújula (suena fuerte «lás»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0012",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "bolígrafo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "bo-lí-gra-fo: la sílaba tónica es «lí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "árboles",
+   "clase": "esdrujula",
+   "opciones": [
+    "árboles",
+    "arbolés",
+    "arboles"
+   ],
+   "respuesta": "árboles",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ár-bo-les: es esdrújula (suena fuerte «ár»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
    "id": "A6-0014",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "teléfono",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cómico",
    "clase": "esdrujula",
    "opciones": [
-    "télefono",
-    "telefonó",
-    "teléfono"
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
    ],
-   "respuesta": "teléfono",
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "có-mi-co: la sílaba tónica es «có», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "película",
+   "clase": "esdrujula",
+   "opciones": [
+    "película",
+    "pelicúla",
+    "pélicula"
+   ],
+   "respuesta": "película",
    "dificultad": 1,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "te-lé-fo-no: es esdrújula (suena fuerte «lé»), y estas llevan tilde siempre.",
+   "explicacion": "pe-lí-cu-la: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0015",
+   "id": "A6-0016",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "práctica",
+   "palabra": "histórico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "his-tó-ri-co: la sílaba tónica es «tó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0017",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "página",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pá-gi-na: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mágico",
+   "clase": "esdrujula",
+   "opciones": [
+    "mágico",
+    "magíco",
+    "magico"
+   ],
+   "respuesta": "mágico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "má-gi-co: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0019",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "sólido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "só-li-do: la sílaba tónica es «só», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0020",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pá-ni-co: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sólido",
+   "clase": "esdrujula",
+   "opciones": [
+    "solidó",
+    "solído",
+    "sólido"
+   ],
+   "respuesta": "sólido",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "só-li-do: es esdrújula (suena fuerte «só»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0022",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "trágico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "trá-gi-co: la sílaba tónica es «trá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "príncipe",
+   "clase": "esdrujula",
+   "opciones": [
+    "príncipe",
+    "princípe",
+    "principe"
+   ],
+   "respuesta": "príncipe",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "prín-ci-pe: es esdrújula (suena fuerte «prín»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0024",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cámara",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "cá-ma-ra: la sílaba tónica es «cá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "único",
+   "clase": "esdrujula",
+   "opciones": [
+    "unicó",
+    "uníco",
+    "único"
+   ],
+   "respuesta": "único",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ú-ni-co: es esdrújula (suena fuerte «ú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cápsula",
+   "clase": "esdrujula",
+   "opciones": [
+    "capsulá",
+    "capsúla",
+    "cápsula"
+   ],
+   "respuesta": "cápsula",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cáp-su-la: es esdrújula (suena fuerte «cáp»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "eléctrico",
+   "clase": "esdrujula",
+   "opciones": [
+    "electríco",
+    "électrico",
+    "eléctrico"
+   ],
+   "respuesta": "eléctrico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "e-léc-tri-co: es esdrújula (suena fuerte «léc»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "ángulo",
+    "angúlo",
+    "angulo"
+   ],
+   "respuesta": "ángulo",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "án-gu-lo: es esdrújula (suena fuerte «án»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pacífico",
+   "clase": "esdrujula",
+   "opciones": [
+    "pacificó",
+    "pacífico",
+    "pacifico"
+   ],
+   "respuesta": "pacífico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pa-cí-fi-co: es esdrújula (suena fuerte «cí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0030",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "búfalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "bú-fa-lo: la sílaba tónica es «bú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0031",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cálido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "cá-li-do: la sílaba tónica es «cá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0032",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "ángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "án-gu-lo: la sílaba tónica es «án», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0033",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cápsula",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "cáp-su-la: la sílaba tónica es «cáp», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0034",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "húmedo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "hú-me-do: la sílaba tónica es «hú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0035",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "lápices",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "lá-pi-ces: la sílaba tónica es «lá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0036",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "sábado",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "sá-ba-do: la sílaba tónica es «sá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0037",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "príncipe",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "prín-ci-pe: la sílaba tónica es «prín», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "panico",
+    "pánico",
+    "paníco"
+   ],
+   "respuesta": "pánico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pá-ni-co: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cómodo",
+   "clase": "esdrujula",
+   "opciones": [
+    "comodo",
+    "cómodo",
+    "comódo"
+   ],
+   "respuesta": "cómodo",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "có-mo-do: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0040",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lágrima",
+   "clase": "esdrujula",
+   "opciones": [
+    "lágrima",
+    "lagrima",
+    "lagrimá"
+   ],
+   "respuesta": "lágrima",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "lá-gri-ma: es esdrújula (suena fuerte «lá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0041",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "plástico",
+   "clase": "esdrujula",
+   "opciones": [
+    "plastíco",
+    "plasticó",
+    "plástico"
+   ],
+   "respuesta": "plástico",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "plás-ti-co: es esdrújula (suena fuerte «plás»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0042",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "romántico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ro-mán-ti-co: la sílaba tónica es «mán», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0043",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cántaro",
+   "clase": "esdrujula",
+   "opciones": [
+    "cántaro",
+    "cantaro",
+    "cantáro"
+   ],
+   "respuesta": "cántaro",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cán-ta-ro: es esdrújula (suena fuerte «cán»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0044",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lápices",
+   "clase": "esdrujula",
+   "opciones": [
+    "lapicés",
+    "lapíces",
+    "lápices"
+   ],
+   "respuesta": "lápices",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "lá-pi-ces: es esdrújula (suena fuerte «lá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0045",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "miércoles",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "miér-co-les: la sílaba tónica es «miér», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0046",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "eléctrico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "e-léc-tri-co: la sílaba tónica es «léc», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0047",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "árboles",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ár-bo-les: la sílaba tónica es «ár», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0048",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "góndola",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "gón-do-la: la sílaba tónica es «gón», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cálido",
+   "clase": "esdrujula",
+   "opciones": [
+    "calidó",
+    "calído",
+    "cálido"
+   ],
+   "respuesta": "cálido",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cá-li-do: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0050",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "célula",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "cé-lu-la: la sílaba tónica es «cé», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0051",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sílaba",
+   "clase": "esdrujula",
+   "opciones": [
+    "silába",
+    "silabá",
+    "sílaba"
+   ],
+   "respuesta": "sílaba",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "sí-la-ba: es esdrújula (suena fuerte «sí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0052",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "árido",
+   "clase": "esdrujula",
+   "opciones": [
+    "árido",
+    "arido",
+    "aridó"
+   ],
+   "respuesta": "árido",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-ri-do: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0053",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pétalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pé-ta-lo: la sílaba tónica es «pé», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ácido",
+   "clase": "esdrujula",
+   "opciones": [
+    "acidó",
+    "acído",
+    "ácido"
+   ],
+   "respuesta": "ácido",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-ci-do: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0055",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "artístico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ar-tís-ti-co: la sílaba tónica es «tís», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0056",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "ácido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "á-ci-do: la sílaba tónica es «á», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0057",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "águila",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguila",
+    "águila",
+    "aguilá"
+   ],
+   "respuesta": "águila",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-gui-la: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sábado",
+   "clase": "esdrujula",
+   "opciones": [
+    "sábado",
+    "sabado",
+    "sabádo"
+   ],
+   "respuesta": "sábado",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "sá-ba-do: es esdrújula (suena fuerte «sá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0059",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pétalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "petálo",
+    "pétalo",
+    "petalo"
+   ],
+   "respuesta": "pétalo",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pé-ta-lo: es esdrújula (suena fuerte «pé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0060",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "miércoles",
+   "clase": "esdrujula",
+   "opciones": [
+    "miércoles",
+    "miercóles",
+    "miercoles"
+   ],
+   "respuesta": "miércoles",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "miér-co-les: es esdrújula (suena fuerte «miér»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0061",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rápido",
+   "clase": "esdrujula",
+   "opciones": [
+    "rapído",
+    "rapidó",
+    "rápido"
+   ],
+   "respuesta": "rápido",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "rá-pi-do: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0062",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cómodo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "có-mo-do: la sílaba tónica es «có», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0063",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "sílaba",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "sí-la-ba: la sílaba tónica es «sí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0064",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estómago",
+   "clase": "esdrujula",
+   "opciones": [
+    "estomago",
+    "estómago",
+    "estomagó"
+   ],
+   "respuesta": "estómago",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "es-tó-ma-go: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0065",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cámara",
+   "clase": "esdrujula",
+   "opciones": [
+    "cámara",
+    "camara",
+    "camará"
+   ],
+   "respuesta": "cámara",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cá-ma-ra: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0066",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pájaro",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pá-ja-ro: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0067",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "te-lé-fo-no: la sílaba tónica es «lé», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0068",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "único",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ú-ni-co: la sílaba tónica es «ú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0069",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "atlético",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "at-lé-ti-co: la sílaba tónica es «lé», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0070",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pálido",
+   "clase": "esdrujula",
+   "opciones": [
+    "palidó",
+    "palído",
+    "pálido"
+   ],
+   "respuesta": "pálido",
+   "dificultad": 1,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pá-li-do: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0071",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "rápido",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "rá-pi-do: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0072",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "árabe",
+   "clase": "esdrujula",
+   "opciones": [
+    "árabe",
+    "arábe",
+    "arabe"
+   ],
+   "respuesta": "árabe",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-ra-be: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0073",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "crímenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "crimenes",
+    "crímenes",
+    "crimenés"
+   ],
+   "respuesta": "crímenes",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "crí-me-nes: es esdrújula (suena fuerte «crí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0074",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dinámico",
+   "clase": "esdrujula",
+   "opciones": [
+    "dinamicó",
+    "dinámico",
+    "dinamico"
+   ],
+   "respuesta": "dinámico",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "di-ná-mi-co: es esdrújula (suena fuerte «ná»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0075",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "imágenes",
    "clase": "esdrujula",
    "opciones": [
     "aguda",
@@ -295,25 +1490,11 @@
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "prác-ti-ca: la sílaba tónica es «prác», la antepenúltima, así que es esdrújula.",
+   "explicacion": "i-má-ge-nes: la sílaba tónica es «má», la antepenúltima, así que es esdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0016",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "lámpara",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "lám-pa-ra: es esdrújula (suena fuerte «lám»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0017",
+   "id": "A6-0076",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "lógico",
@@ -332,154 +1513,7 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0018",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "término",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 2,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "tér-mi-no: la sílaba tónica es «tér», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0019",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "música",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "mú-si-ca: es esdrújula (suena fuerte «mú»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0020",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "gramática",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 2,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "gra-má-ti-ca: la sílaba tónica es «má», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0021",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "química",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 2,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "quí-mi-ca: la sílaba tónica es «quí», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0022",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "rápido",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "rá-pi-do: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0023",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "América",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 2,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "A-mé-ri-ca: la sílaba tónica es «mé», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0024",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "miércoles",
-   "clase": "esdrujula",
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "miér-co-les: es esdrújula (suena fuerte «miér»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0025",
-   "tipo": "clasificar",
-   "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "círculo",
-   "clase": "esdrujula",
-   "opciones": [
-    "aguda",
-    "llana",
-    "esdrújula",
-    "sobresdrújula"
-   ],
-   "respuesta": "esdrújula",
-   "dificultad": 2,
-   "skills": [
-    "clasificacion",
-    "esdrujulas"
-   ],
-   "explicacion": "cír-cu-lo: la sílaba tónica es «cír», la antepenúltima, así que es esdrújula.",
-   "regla_id": "clasificacion"
-  },
-  {
-   "id": "A6-0026",
+   "id": "A6-0077",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "plástico",
@@ -493,45 +1527,68 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0027",
+   "id": "A6-0078",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "exámenes",
+   "palabra": "fantástico",
    "clase": "esdrujula",
    "opciones": [
-    "examénes",
-    "examenés",
-    "exámenes"
+    "fantástico",
+    "fantastíco",
+    "fántastico"
    ],
-   "respuesta": "exámenes",
+   "respuesta": "fantástico",
    "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "e-xá-me-nes: es esdrújula (suena fuerte «xá»), y estas llevan tilde siempre.",
+   "explicacion": "fan-tás-ti-co: es esdrújula (suena fuerte «tás»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0028",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "murciélago",
+   "id": "A6-0079",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "católico",
    "clase": "esdrujula",
    "opciones": [
-    "murciélago",
-    "múrcielago",
-    "murcíelago"
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
    ],
-   "respuesta": "murciélago",
+   "respuesta": "esdrújula",
    "dificultad": 2,
    "skills": [
+    "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "mur-cié-la-go: es esdrújula (suena fuerte «cié»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
+   "explicacion": "ca-tó-li-co: la sílaba tónica es «tó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0029",
+   "id": "A6-0080",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "diámetro",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "diá-me-tro: la sílaba tónica es «diá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0081",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "exámenes",
@@ -552,26 +1609,574 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0030",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "química",
+   "id": "A6-0082",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "jóvenes",
    "clase": "esdrujula",
    "opciones": [
-    "quimica",
-    "química",
-    "qúimica"
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
    ],
-   "respuesta": "química",
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "jó-ve-nes: la sílaba tónica es «jó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0083",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gramática",
+   "clase": "esdrujula",
+   "opciones": [
+    "gramática",
+    "grámatica",
+    "gramatíca"
+   ],
+   "respuesta": "gramática",
    "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "quí-mi-ca: es esdrújula (suena fuerte «quí»), y estas llevan tilde siempre.",
+   "explicacion": "gra-má-ti-ca: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0031",
+   "id": "A6-0084",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tímido",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "tí-mi-do: es esdrújula (suena fuerte «tí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0085",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "célula",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cé-lu-la: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0086",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "árido",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-ri-do: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0087",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "o-cé-a-no: la sílaba tónica es «cé», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0088",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "opciones": [
+    "epocá",
+    "epóca",
+    "época"
+   ],
+   "respuesta": "época",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "é-po-ca: es esdrújula (suena fuerte «é»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0089",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "exótico",
+   "clase": "esdrujula",
+   "opciones": [
+    "exótico",
+    "éxotico",
+    "exotíco"
+   ],
+   "respuesta": "exótico",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "e-xó-ti-co: es esdrújula (suena fuerte «xó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0090",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sílaba",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "sí-la-ba: es esdrújula (suena fuerte «sí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0091",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "término",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "tér-mi-no: la sílaba tónica es «tér», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0092",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sólido",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "só-li-do: es esdrújula (suena fuerte «só»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0093",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "átona",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "á-to-na: la sílaba tónica es «á», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0094",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jóvenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "jovenés",
+    "jovénes",
+    "jóvenes"
+   ],
+   "respuesta": "jóvenes",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "jó-ve-nes: es esdrújula (suena fuerte «jó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0095",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "milímetro",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "mi-lí-me-tro: la sílaba tónica es «lí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0096",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "volcánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "volcánico",
+    "volcaníco",
+    "vólcanico"
+   ],
+   "respuesta": "volcánico",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "vol-cá-ni-co: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0097",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "artístico",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ar-tís-ti-co: es esdrújula (suena fuerte «tís»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0098",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cerámica",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ce-rá-mi-ca: la sílaba tónica es «rá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0099",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "científico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "cien-tí-fi-co: la sílaba tónica es «tí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0100",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "simpático",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "sim-pá-ti-co: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0101",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "nítido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ní-ti-do: la sílaba tónica es «ní», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0102",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "opciones": [
+    "oceano",
+    "océano",
+    "oceanó"
+   ],
+   "respuesta": "océano",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "o-cé-a-no: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0103",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gótico",
+   "clase": "esdrujula",
+   "opciones": [
+    "gotico",
+    "gótico",
+    "goticó"
+   ],
+   "respuesta": "gótico",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "gó-ti-co: es esdrújula (suena fuerte «gó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0104",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pétalo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pé-ta-lo: es esdrújula (suena fuerte «pé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0105",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "romántico",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ro-mán-ti-co: es esdrújula (suena fuerte «mán»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0106",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "orgánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "or-gá-ni-co: la sílaba tónica es «gá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0107",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "dinámico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "di-ná-mi-co: la sílaba tónica es «ná», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0108",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "húmedo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "hú-me-do: es esdrújula (suena fuerte «hú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0109",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "é-po-ca: la sílaba tónica es «é», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0110",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "micrófono",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "mi-cró-fo-no: es esdrújula (suena fuerte «cró»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0111",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fósforo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "fós-fo-ro: la sílaba tónica es «fós», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0112",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "márgenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "már-ge-nes: la sílaba tónica es «már», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0113",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "árabe",
@@ -592,43 +2197,29 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0032",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "cámara",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "cá-ma-ra: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0033",
+   "id": "A6-0114",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "árabe",
+   "palabra": "centímetro",
    "clase": "esdrujula",
    "opciones": [
-    "árabe",
-    "arábe",
-    "arabe"
+    "centimétro",
+    "centimetró",
+    "centímetro"
    ],
-   "respuesta": "árabe",
+   "respuesta": "centímetro",
    "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "á-ra-be: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "explicacion": "cen-tí-me-tro: es esdrújula (suena fuerte «tí»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0034",
+   "id": "A6-0115",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "atmósfera",
+   "palabra": "volcánico",
    "clase": "esdrujula",
    "opciones": [
     "aguda",
@@ -637,19 +2228,19 @@
     "sobresdrújula"
    ],
    "respuesta": "esdrújula",
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "at-mós-fe-ra: la sílaba tónica es «mós», la antepenúltima, así que es esdrújula.",
+   "explicacion": "vol-cá-ni-co: la sílaba tónica es «cá», la antepenúltima, así que es esdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0035",
+   "id": "A6-0116",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "volúmenes",
+   "palabra": "polígono",
    "clase": "esdrujula",
    "opciones": [
     "aguda",
@@ -658,55 +2249,130 @@
     "sobresdrújula"
    ],
    "respuesta": "esdrújula",
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "vo-lú-me-nes: la sílaba tónica es «lú», la antepenúltima, así que es esdrújula.",
+   "explicacion": "po-lí-go-no: la sílaba tónica es «lí», la antepenúltima, así que es esdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0036",
+   "id": "A6-0117",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "simpático",
+   "palabra": "mecánico",
    "clase": "esdrujula",
-   "respuesta": 4,
-   "dificultad": 3,
+   "respuesta": 3,
+   "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "sim-pá-ti-co: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "explicacion": "me-cá-ni-co: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0037",
+   "id": "A6-0118",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "económico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "e-co-nó-mi-co: la sílaba tónica es «nó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0119",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "trágico",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "trá-gi-co: es esdrújula (suena fuerte «trá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0120",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cuéntamelo",
-   "clase": "sobresdrujula",
+   "palabra": "gélido",
+   "clase": "esdrujula",
    "opciones": [
-    "cuentamélo",
-    "cuentamelo",
-    "cuéntamelo"
+    "gélido",
+    "gelído",
+    "gelido"
    ],
-   "respuesta": "cuéntamelo",
-   "dificultad": 3,
+   "respuesta": "gélido",
+   "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "cuén-ta-me-lo: es sobresdrújula (suena fuerte «cuén»), y estas llevan tilde siempre.",
+   "explicacion": "gé-li-do: es esdrújula (suena fuerte «gé»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0038",
+   "id": "A6-0121",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "vértice",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "vér-ti-ce: la sílaba tónica es «vér», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0122",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "relámpago",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "re-lám-pa-go: es esdrújula (suena fuerte «lám»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0123",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "matemáticas",
    "clase": "esdrujula",
-   "respuesta": 5,
-   "dificultad": 3,
+   "opciones": [
+    "matematicas",
+    "matemáticas",
+    "matématicas"
+   ],
+   "respuesta": "matemáticas",
+   "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
@@ -714,125 +2380,890 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0039",
+   "id": "A6-0124",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "océano",
+   "palabra": "único",
    "clase": "esdrujula",
-   "respuesta": 2,
-   "dificultad": 3,
+   "respuesta": 0,
+   "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "o-cé-a-no: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "explicacion": "ú-ni-co: es esdrújula (suena fuerte «ú»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0040",
+   "id": "A6-0125",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "devuélvemelo",
-   "clase": "sobresdrujula",
-   "opciones": [
-    "devuelvemeló",
-    "devuélvemelo",
-    "devuelvemélo"
-   ],
-   "respuesta": "devuélvemelo",
-   "dificultad": 3,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "de-vuél-ve-me-lo: es sobresdrújula (suena fuerte «vuél»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0041",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "paréntesis",
+   "palabra": "átona",
    "clase": "esdrujula",
    "opciones": [
-    "paréntesis",
-    "parentesis",
-    "párentesis"
+    "atóna",
+    "atoná",
+    "átona"
    ],
-   "respuesta": "paréntesis",
-   "dificultad": 3,
+   "respuesta": "átona",
+   "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "pa-rén-te-sis: es esdrújula (suena fuerte «rén»), y estas llevan tilde siempre.",
+   "explicacion": "á-to-na: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0042",
+   "id": "A6-0126",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tónica",
+   "palabra": "márgenes",
    "clase": "esdrujula",
    "opciones": [
-    "tonicá",
-    "tónica",
-    "tonica"
+    "margénes",
+    "margenés",
+    "márgenes"
    ],
-   "respuesta": "tónica",
-   "dificultad": 3,
+   "respuesta": "márgenes",
+   "dificultad": 2,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "tó-ni-ca: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre.",
+   "explicacion": "már-ge-nes: es esdrújula (suena fuerte «már»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0043",
+   "id": "A6-0127",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "fantástico",
-   "clase": "esdrujula",
-   "respuesta": 4,
-   "dificultad": 3,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "fan-tás-ti-co: es esdrújula (suena fuerte «tás»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0044",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tráemelo",
-   "clase": "sobresdrujula",
-   "opciones": [
-    "traemeló",
-    "traémelo",
-    "tráemelo"
-   ],
-   "respuesta": "tráemelo",
-   "dificultad": 3,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "trá-e-me-lo: es sobresdrújula (suena fuerte «trá»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0045",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "kilómetro",
+   "palabra": "pacífico",
    "clase": "esdrujula",
    "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pa-cí-fi-co: es esdrújula (suena fuerte «cí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0128",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "opciones": [
+    "piramide",
+    "pirámide",
+    "piramíde"
+   ],
+   "respuesta": "pirámide",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pi-rá-mi-de: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0129",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "murciélago",
+   "clase": "esdrujula",
+   "opciones": [
+    "murciélago",
+    "múrcielago",
+    "murcíelago"
+   ],
+   "respuesta": "murciélago",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "mur-cié-la-go: es esdrújula (suena fuerte «cié»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0130",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "crímenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "crí-me-nes: la sílaba tónica es «crí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0131",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "góndola",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "gón-do-la: es esdrújula (suena fuerte «gón»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0132",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pájaro",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pá-ja-ro: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0133",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "lógico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ló-gi-co: la sílaba tónica es «ló», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0134",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "político",
+   "clase": "esdrujula",
+   "opciones": [
+    "politicó",
+    "pólitico",
+    "político"
+   ],
+   "respuesta": "político",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "po-lí-ti-co: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0135",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "termómetro",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ter-mó-me-tro: la sílaba tónica es «mó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0136",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "película",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pe-lí-cu-la: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0137",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "exótico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "e-xó-ti-co: la sílaba tónica es «xó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0138",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pi-rá-mi-de: la sílaba tónica es «rá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0139",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "imágenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "imágenes",
+    "ímagenes",
+    "imagénes"
+   ],
+   "respuesta": "imágenes",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "i-má-ge-nes: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0140",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "gélido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "gé-li-do: la sílaba tónica es «gé», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0141",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "gramática",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "gra-má-ti-ca: la sílaba tónica es «má», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0142",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "atlético",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "at-lé-ti-co: es esdrújula (suena fuerte «lé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0143",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "académico",
+   "clase": "esdrujula",
+   "opciones": [
+    "ácademico",
+    "acádemico",
+    "académico"
+   ],
+   "respuesta": "académico",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "a-ca-dé-mi-co: es esdrújula (suena fuerte «dé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0144",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cántaro",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cán-ta-ro: es esdrújula (suena fuerte «cán»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0145",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cápsula",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cáp-su-la: es esdrújula (suena fuerte «cáp»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0146",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "te-lé-fo-no: es esdrújula (suena fuerte «lé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0147",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "regímenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "regimenes",
+    "regímenes",
+    "régimenes"
+   ],
+   "respuesta": "regímenes",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "re-gí-me-nes: es esdrújula (suena fuerte «gí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0148",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "triángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "trián-gu-lo: la sílaba tónica es «trián», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0149",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "brújula",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "brú-ju-la: es esdrújula (suena fuerte «brú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0150",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "nítido",
+   "clase": "esdrujula",
+   "opciones": [
+    "nitido",
+    "nítido",
+    "nitído"
+   ],
+   "respuesta": "nítido",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ní-ti-do: es esdrújula (suena fuerte «ní»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0151",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cómico",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "có-mi-co: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0152",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "física",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "fí-si-ca: la sílaba tónica es «fí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0153",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "química",
+   "clase": "esdrujula",
+   "opciones": [
+    "quimica",
+    "química",
+    "qúimica"
+   ],
+   "respuesta": "química",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "quí-mi-ca: es esdrújula (suena fuerte «quí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0154",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "física",
+   "clase": "esdrujula",
+   "opciones": [
+    "fisica",
+    "física",
+    "fisicá"
+   ],
+   "respuesta": "física",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "fí-si-ca: es esdrújula (suena fuerte «fí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0155",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "católico",
+   "clase": "esdrujula",
+   "opciones": [
+    "catolico",
+    "católico",
+    "catolíco"
+   ],
+   "respuesta": "católico",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ca-tó-li-co: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0156",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cómodo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "có-mo-do: es esdrújula (suena fuerte «có»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0157",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "histórico",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "his-tó-ri-co: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0158",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "gótico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "gó-ti-co: la sílaba tónica es «gó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0159",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "plátano",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "plá-ta-no: es esdrújula (suena fuerte «plá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0160",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "milímetro",
+   "clase": "esdrujula",
+   "opciones": [
+    "milimétro",
+    "milímetro",
+    "milimetro"
+   ],
+   "respuesta": "milímetro",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "mi-lí-me-tro: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0161",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "música",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "mú-si-ca: es esdrújula (suena fuerte «mú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0162",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "águila",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-gui-la: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0163",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "lápices",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "lá-pi-ces: es esdrújula (suena fuerte «lá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0164",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vértice",
+   "clase": "esdrujula",
+   "opciones": [
+    "vértice",
+    "vertíce",
+    "vertice"
+   ],
+   "respuesta": "vértice",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "vér-ti-ce: es esdrújula (suena fuerte «vér»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0165",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "periódico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pe-rió-di-co: la sílaba tónica es «rió», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0166",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "Á-fri-ca: la sílaba tónica es «Á», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0167",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "América",
+   "clase": "esdrujula",
+   "opciones": [
+    "América",
+    "Ámerica",
+    "Ameríca"
+   ],
+   "respuesta": "América",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "A-mé-ri-ca: es esdrújula (suena fuerte «mé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0168",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "árboles",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ár-bo-les: es esdrújula (suena fuerte «ár»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0169",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cerámica",
+   "clase": "esdrujula",
+   "opciones": [
+    "ceramicá",
+    "ceramíca",
+    "cerámica"
+   ],
+   "respuesta": "cerámica",
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ce-rá-mi-ca: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0170",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "príncipe",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "prín-ci-pe: es esdrújula (suena fuerte «prín»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0171",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fantástico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "fan-tás-ti-co: la sílaba tónica es «tás», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0172",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pídeselo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "pideselo",
+    "pídeselo",
+    "pidesélo"
+   ],
+   "respuesta": "pídeselo",
    "dificultad": 3,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "ki-ló-me-tro: es esdrújula (suena fuerte «ló»), y estas llevan tilde siempre.",
+   "explicacion": "pí-de-se-lo: es sobresdrújula (suena fuerte «pí»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0046",
+   "id": "A6-0173",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "electrónico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "e-lec-tró-ni-co: la sílaba tónica es «tró», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0174",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "llévatelo",
@@ -853,7 +3284,199 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0047",
+   "id": "A6-0175",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "espárrago",
+   "clase": "esdrujula",
+   "opciones": [
+    "espárrago",
+    "esparrago",
+    "ésparrago"
+   ],
+   "respuesta": "espárrago",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "es-pá-rra-go: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0176",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "murciélago",
+   "clase": "esdrujula",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "mur-cié-la-go: es esdrújula (suena fuerte «cié»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0177",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "periódico",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pe-rió-di-co: es esdrújula (suena fuerte «rió»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0178",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sobresdrújula",
+   "clase": "esdrujula",
+   "opciones": [
+    "sobresdrújula",
+    "sobresdrujulá",
+    "sobrésdrujula"
+   ],
+   "respuesta": "sobresdrújula",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "so-bres-drú-ju-la: es esdrújula (suena fuerte «drú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0179",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "kilómetro",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ki-ló-me-tro: es esdrújula (suena fuerte «ló»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0180",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "jóvenes",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "jó-ve-nes: es esdrújula (suena fuerte «jó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0181",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0182",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "esdrújula",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "es-drú-ju-la: la sílaba tónica es «drú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0183",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "gótico",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "gó-ti-co: es esdrújula (suena fuerte «gó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0184",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "crímenes",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "crí-me-nes: es esdrújula (suena fuerte «crí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0185",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "volcánico",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "vol-cá-ni-co: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0186",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "volúmenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "vo-lú-me-nes: la sílaba tónica es «lú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0187",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "régimen",
@@ -874,10 +3497,24 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0048",
+   "id": "A6-0188",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "político",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "po-lí-ti-co: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0189",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "cuéntamelo",
+   "palabra": "devuélvemelo",
    "clase": "sobresdrujula",
    "opciones": [
     "aguda",
@@ -891,30 +3528,154 @@
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "cuén-ta-me-lo: la sílaba tónica es «cuén», una anterior a la antepenúltima, así que es sobresdrújula.",
+   "explicacion": "de-vuél-ve-me-lo: la sílaba tónica es «vuél», una anterior a la antepenúltima, así que es sobresdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0049",
+   "id": "A6-0190",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "esdrújula",
+   "palabra": "ejército",
    "clase": "esdrujula",
    "opciones": [
-    "ésdrujula",
-    "esdrújula",
-    "esdrujula"
+    "ejército",
+    "ejercitó",
+    "éjercito"
    ],
-   "respuesta": "esdrújula",
+   "respuesta": "ejército",
    "dificultad": 3,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "es-drú-ju-la: es esdrújula (suena fuerte «drú»), y estas llevan tilde siempre.",
+   "explicacion": "e-jér-ci-to: es esdrújula (suena fuerte «jér»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0050",
+   "id": "A6-0191",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "fantástico",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "fan-tás-ti-co: es esdrújula (suena fuerte «tás»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0192",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "é-po-ca: es esdrújula (suena fuerte «é»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0193",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "régimen",
+   "clase": "esdrujula",
+   "opciones": [
+    "regimén",
+    "regímen",
+    "régimen"
+   ],
+   "respuesta": "régimen",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ré-gi-men: es esdrújula (suena fuerte «ré»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0194",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "vehículo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ve-hí-cu-lo: la sílaba tónica es «hí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0195",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "física",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "fí-si-ca: es esdrújula (suena fuerte «fí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0196",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "espárrago",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "es-pá-rra-go: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0197",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "explícaselo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "sobresdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ex-plí-ca-se-lo: la sílaba tónica es «plí», una anterior a la antepenúltima, así que es sobresdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0198",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "tónica",
@@ -935,47 +3696,42 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0051",
+   "id": "A6-0199",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "informático",
-   "clase": "esdrujula",
+   "palabra": "cuéntamelo",
+   "clase": "sobresdrujula",
    "opciones": [
     "aguda",
     "llana",
     "esdrújula",
     "sobresdrújula"
    ],
-   "respuesta": "esdrújula",
+   "respuesta": "sobresdrújula",
    "dificultad": 3,
    "skills": [
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "in-for-má-ti-co: la sílaba tónica es «má», la antepenúltima, así que es esdrújula.",
+   "explicacion": "cuén-ta-me-lo: la sílaba tónica es «cuén», una anterior a la antepenúltima, así que es sobresdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0052",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vehículo",
+   "id": "A6-0200",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "regímenes",
    "clase": "esdrujula",
-   "opciones": [
-    "vehículo",
-    "vehiculo",
-    "véhiculo"
-   ],
-   "respuesta": "vehículo",
+   "respuesta": 3,
    "dificultad": 3,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "re-gí-me-nes: es esdrújula (suena fuerte «gí»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0053",
+   "id": "A6-0201",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
    "palabra": "guárdamelo",
@@ -996,71 +3752,177 @@
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0054",
+   "id": "A6-0202",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "exámenes",
+   "palabra": "económico",
    "clase": "esdrujula",
-   "respuesta": 2,
+   "respuesta": 4,
    "dificultad": 3,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "e-xá-me-nes: es esdrújula (suena fuerte «xá»), y estas llevan tilde siempre.",
+   "explicacion": "e-co-nó-mi-co: es esdrújula (suena fuerte «nó»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0055",
+   "id": "A6-0203",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cómetelo",
+   "palabra": "electrónico",
+   "clase": "esdrujula",
+   "opciones": [
+    "electrónico",
+    "electroníco",
+    "électronico"
+   ],
+   "respuesta": "electrónico",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "e-lec-tró-ni-co: es esdrújula (suena fuerte «tró»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0204",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cuéntamelo",
    "clase": "sobresdrujula",
    "opciones": [
-    "cómetelo",
-    "cometeló",
-    "cometelo"
+    "cuentamélo",
+    "cuentamelo",
+    "cuéntamelo"
    ],
-   "respuesta": "cómetelo",
+   "respuesta": "cuéntamelo",
    "dificultad": 3,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "có-me-te-lo: es sobresdrújula (suena fuerte «có»), y estas llevan tilde siempre.",
+   "explicacion": "cuén-ta-me-lo: es sobresdrújula (suena fuerte «cuén»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0056",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "América",
-   "clase": "esdrujula",
-   "respuesta": 2,
-   "dificultad": 3,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "A-mé-ri-ca: es esdrújula (suena fuerte «mé»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0057",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "África",
-   "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0058",
+   "id": "A6-0205",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "pídeselo",
+   "palabra": "atmósfera",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "at-mós-fe-ra: la sílaba tónica es «mós», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0206",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "atmósfera",
+   "clase": "esdrujula",
+   "opciones": [
+    "atmósfera",
+    "átmosfera",
+    "atmosféra"
+   ],
+   "respuesta": "atmósfera",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "at-mós-fe-ra: es esdrújula (suena fuerte «mós»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0207",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "gélido",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "gé-li-do: es esdrújula (suena fuerte «gé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0208",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "rectángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "rec-tán-gu-lo: la sílaba tónica es «tán», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0209",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "paréntesis",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pa-rén-te-sis: la sílaba tónica es «rén», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0210",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "resúmenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "resumenés",
+    "résumenes",
+    "resúmenes"
+   ],
+   "respuesta": "resúmenes",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "re-sú-me-nes: es esdrújula (suena fuerte «sú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0211",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cómpratelo",
    "clase": "sobresdrujula",
    "opciones": [
     "aguda",
@@ -1074,51 +3936,107 @@
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "pí-de-se-lo: la sílaba tónica es «pí», una anterior a la antepenúltima, así que es sobresdrújula.",
+   "explicacion": "cóm-pra-te-lo: la sílaba tónica es «cóm», una anterior a la antepenúltima, así que es sobresdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0059",
+   "id": "A6-0212",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rectángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "réctangulo",
+    "rectangúlo",
+    "rectángulo"
+   ],
+   "respuesta": "rectángulo",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "rec-tán-gu-lo: es esdrújula (suena fuerte «tán»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0213",
    "tipo": "clasificar",
    "enunciado": "¿Qué tipo de palabra es?",
-   "palabra": "cómetelo",
-   "clase": "sobresdrujula",
+   "palabra": "sobresdrújula",
+   "clase": "esdrujula",
    "opciones": [
     "aguda",
     "llana",
     "esdrújula",
     "sobresdrújula"
    ],
-   "respuesta": "sobresdrújula",
+   "respuesta": "esdrújula",
    "dificultad": 3,
    "skills": [
     "clasificacion",
     "esdrujulas"
    ],
-   "explicacion": "có-me-te-lo: la sílaba tónica es «có», una anterior a la antepenúltima, así que es sobresdrújula.",
+   "explicacion": "so-bres-drú-ju-la: la sílaba tónica es «drú», la antepenúltima, así que es esdrújula.",
    "regla_id": "clasificacion"
   },
   {
-   "id": "A6-0060",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hipopótamo",
+   "id": "A6-0214",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cerámica",
    "clase": "esdrujula",
-   "opciones": [
-    "hipopótamo",
-    "hipopotámo",
-    "hípopotamo"
-   ],
-   "respuesta": "hipopótamo",
+   "respuesta": 3,
    "dificultad": 3,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "hi-po-pó-ta-mo: es esdrújula (suena fuerte «pó»), y estas llevan tilde siempre.",
+   "explicacion": "ce-rá-mi-ca: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0061",
+   "id": "A6-0215",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "informático",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "in-for-má-ti-co: la sílaba tónica es «má», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0216",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "helicóptero",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "he-li-cóp-te-ro: la sílaba tónica es «cóp», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0217",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "dígamelo",
@@ -1137,7 +4055,631 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0062",
+   "id": "A6-0218",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "científico",
+   "clase": "esdrujula",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cien-tí-fi-co: es esdrújula (suena fuerte «tí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0219",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "fósforo",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "fós-fo-ro: es esdrújula (suena fuerte «fós»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0220",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "explícaselo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "explícaselo",
+    "éxplicaselo",
+    "explicáselo"
+   ],
+   "respuesta": "explícaselo",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ex-plí-ca-se-lo: es sobresdrújula (suena fuerte «plí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0221",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "lógico",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ló-gi-co: es esdrújula (suena fuerte «ló»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0222",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "volúmenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "vólumenes",
+    "volumenés",
+    "volúmenes"
+   ],
+   "respuesta": "volúmenes",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "vo-lú-me-nes: es esdrújula (suena fuerte «lú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0223",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "llévatelo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "llévatelo",
+    "llevatelo",
+    "llevateló"
+   ],
+   "respuesta": "llévatelo",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "llé-va-te-lo: es sobresdrújula (suena fuerte «llé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0224",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "paréntesis",
+   "clase": "esdrujula",
+   "opciones": [
+    "paréntesis",
+    "parentesis",
+    "párentesis"
+   ],
+   "respuesta": "paréntesis",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pa-rén-te-sis: es esdrújula (suena fuerte «rén»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0225",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "hipopótamo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "hi-po-pó-ta-mo: la sílaba tónica es «pó», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0226",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "exótico",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "e-xó-ti-co: es esdrújula (suena fuerte «xó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0227",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "árabe",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "á-ra-be: es esdrújula (suena fuerte «á»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0228",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "triángulo",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "trián-gu-lo: es esdrújula (suena fuerte «trián»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0229",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "resúmenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula",
+    "sobresdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "re-sú-me-nes: la sílaba tónica es «sú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A6-0230",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "orígenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "orígenes",
+    "órigenes",
+    "origénes"
+   ],
+   "respuesta": "orígenes",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "o-rí-ge-nes: es esdrújula (suena fuerte «rí»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0231",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "gramática",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "gra-má-ti-ca: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0232",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "informático",
+   "clase": "esdrujula",
+   "opciones": [
+    "informático",
+    "informatíco",
+    "informaticó"
+   ],
+   "respuesta": "informático",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "in-for-má-ti-co: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0233",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "vértice",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "vér-ti-ce: es esdrújula (suena fuerte «vér»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0234",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vehículo",
+   "clase": "esdrujula",
+   "opciones": [
+    "vehículo",
+    "vehiculo",
+    "véhiculo"
+   ],
+   "respuesta": "vehículo",
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0235",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "matemáticas",
+   "clase": "esdrujula",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ma-te-má-ti-cas: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0236",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "termómetro",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ter-mó-me-tro: es esdrújula (suena fuerte «mó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0237",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "periódico",
+   "clase": "esdrujula",
+   "respuesta": "periódico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "pe-rió-di-co: es esdrújula (suena fuerte «rió»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0238",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "fósforo",
+   "clase": "esdrujula",
+   "respuesta": "fósforo",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "fós-fo-ro: es esdrújula (suena fuerte «fós»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0239",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "paréntesis",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "pa-rén-te-sis: es esdrújula (suena fuerte «rén»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0240",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "murciélago",
+   "clase": "esdrujula",
+   "respuesta": "murciélago",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "mur-cié-la-go: es esdrújula (suena fuerte «cié»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0241",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "fantástico",
+   "clase": "esdrujula",
+   "respuesta": "fantástico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "fan-tás-ti-co: es esdrújula (suena fuerte «tás»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0242",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "márgenes",
+   "clase": "esdrujula",
+   "respuesta": "márgenes",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "már-ge-nes: es esdrújula (suena fuerte «már»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0243",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "jóvenes",
+   "clase": "esdrujula",
+   "respuesta": "jóvenes",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "jó-ve-nes: es esdrújula (suena fuerte «jó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0244",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "química",
+   "clase": "esdrujula",
+   "respuesta": "química",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "quí-mi-ca: es esdrújula (suena fuerte «quí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0245",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "esdrújula",
+   "clase": "esdrujula",
+   "respuesta": 4,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "es-drú-ju-la: es esdrújula (suena fuerte «drú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0246",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "volcánico",
+   "clase": "esdrujula",
+   "respuesta": "volcánico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "vol-cá-ni-co: es esdrújula (suena fuerte «cá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0247",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "gélido",
+   "clase": "esdrujula",
+   "respuesta": "gélido",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "gé-li-do: es esdrújula (suena fuerte «gé»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0248",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "crímenes",
+   "clase": "esdrujula",
+   "respuesta": "crímenes",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "crí-me-nes: es esdrújula (suena fuerte «crí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0249",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "triángulo",
+   "clase": "esdrujula",
+   "respuesta": "triángulo",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "trián-gu-lo: es esdrújula (suena fuerte «trián»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0250",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "vértice",
+   "clase": "esdrujula",
+   "respuesta": "vértice",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "vér-ti-ce: es esdrújula (suena fuerte «vér»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0251",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "respuesta": "océano",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "o-cé-a-no: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0252",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "espárrago",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "es-pá-rra-go: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0253",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cuéntamelo",
+   "clase": "sobresdrujula",
+   "respuesta": 2,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cuén-ta-me-lo: es sobresdrújula (suena fuerte «cuén»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0254",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "respuesta": "pirámide",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "pi-rá-mi-de: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0255",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cómpratelo",
+   "clase": "sobresdrujula",
+   "respuesta": 1,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "cóm-pra-te-lo: es sobresdrújula (suena fuerte «cóm»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0256",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "régimen",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "ré-gi-men: es esdrújula (suena fuerte «ré»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0257",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "centímetro",
+   "clase": "esdrujula",
+   "respuesta": "centímetro",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "cen-tí-me-tro: es esdrújula (suena fuerte «tí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0258",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "volúmenes",
@@ -1151,21 +4693,125 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0063",
+   "id": "A6-0259",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "termómetro",
+   "clase": "esdrujula",
+   "respuesta": "termómetro",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "ter-mó-me-tro: es esdrújula (suena fuerte «mó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0260",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "helicóptero",
+   "palabra": "cráteres",
    "clase": "esdrujula",
-   "respuesta": 5,
+   "respuesta": 2,
    "dificultad": 4,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "he-li-cóp-te-ro: es esdrújula (suena fuerte «cóp»), y estas llevan tilde siempre.",
+   "explicacion": "crá-te-res: es esdrújula (suena fuerte «crá»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0064",
+   "id": "A6-0261",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "informático",
+   "clase": "esdrujula",
+   "respuesta": 6,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "in-for-má-ti-co: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0262",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "física",
+   "clase": "esdrujula",
+   "respuesta": "física",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "fí-si-ca: es esdrújula (suena fuerte «fí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0263",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "científico",
+   "clase": "esdrujula",
+   "respuesta": "científico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "cien-tí-fi-co: es esdrújula (suena fuerte «tí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0264",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "exámenes",
+   "clase": "esdrujula",
+   "respuesta": "exámenes",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "e-xá-me-nes: es esdrújula (suena fuerte «xá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0265",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "respuesta": "época",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "é-po-ca: es esdrújula (suena fuerte «é»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0266",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "milímetro",
+   "clase": "esdrujula",
+   "respuesta": "milímetro",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "mi-lí-me-tro: es esdrújula (suena fuerte «lí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0267",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "tónica",
@@ -1179,35 +4825,65 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0065",
+   "id": "A6-0268",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "hipopótamo",
+   "palabra": "electrónico",
    "clase": "esdrujula",
-   "respuesta": 5,
+   "respuesta": 6,
    "dificultad": 4,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "hi-po-pó-ta-mo: es esdrújula (suena fuerte «pó»), y estas llevan tilde siempre.",
+   "explicacion": "e-lec-tró-ni-co: es esdrújula (suena fuerte «tró»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0066",
+   "id": "A6-0269",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "económico",
+   "clase": "esdrujula",
+   "respuesta": "económico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "e-co-nó-mi-co: es esdrújula (suena fuerte «nó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0270",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "académico",
+   "clase": "esdrujula",
+   "respuesta": "académico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "a-ca-dé-mi-co: es esdrújula (suena fuerte «dé»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0271",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "vehículo",
-   "clase": "esdrujula",
-   "respuesta": 3,
+   "palabra": "dígamelo",
+   "clase": "sobresdrujula",
+   "respuesta": 1,
    "dificultad": 4,
    "skills": [
     "esdrujulas"
    ],
-   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "dí-ga-me-lo: es sobresdrújula (suena fuerte «dí»), y estas llevan tilde siempre.",
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0067",
+   "id": "A6-0272",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "cómetelo",
@@ -1221,46 +4897,419 @@
    "regla_id": "esdrujulas"
   },
   {
-   "id": "A6-0068",
+   "id": "A6-0273",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "simpático",
+   "clase": "esdrujula",
+   "respuesta": "simpático",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "sim-pá-ti-co: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0274",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "orígenes",
+   "palabra": "sobresdrújula",
+   "clase": "esdrujula",
+   "respuesta": 8,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "so-bres-drú-ju-la: es esdrújula (suena fuerte «drú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0275",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "hipopótamo",
+   "clase": "esdrujula",
+   "respuesta": 5,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "hi-po-pó-ta-mo: es esdrújula (suena fuerte «pó»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0276",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "resúmenes",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "re-sú-me-nes: es esdrújula (suena fuerte «sú»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0277",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "católico",
+   "clase": "esdrujula",
+   "respuesta": "católico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "ca-tó-li-co: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0278",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "guárdamelo",
+   "clase": "sobresdrujula",
+   "respuesta": 2,
+   "dificultad": 4,
+   "skills": [
+    "esdrujulas"
+   ],
+   "explicacion": "guár-da-me-lo: es sobresdrújula (suena fuerte «guár»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0279",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "dinámico",
+   "clase": "esdrujula",
+   "respuesta": "dinámico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "di-ná-mi-co: es esdrújula (suena fuerte «ná»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0280",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ejército",
    "clase": "esdrujula",
    "respuesta": 2,
    "dificultad": 4,
    "skills": [
     "esdrujulas"
    ],
+   "explicacion": "e-jér-ci-to: es esdrújula (suena fuerte «jér»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A6-0281",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "orgánico",
+   "clase": "esdrujula",
+   "respuesta": "orgánico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "or-gá-ni-co: es esdrújula (suena fuerte «gá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0282",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "gótico",
+   "clase": "esdrujula",
+   "respuesta": "gótico",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "gó-ti-co: es esdrújula (suena fuerte «gó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0283",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "devuélvemelo",
+   "clase": "sobresdrujula",
+   "respuesta": "devuélvemelo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "de-vuél-ve-me-lo: es sobresdrújula (suena fuerte «vuél»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0284",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "esdrújula",
+   "clase": "esdrujula",
+   "respuesta": "esdrújula",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "es-drú-ju-la: es esdrújula (suena fuerte «drú»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0285",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "atmósfera",
+   "clase": "esdrujula",
+   "respuesta": "atmósfera",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "at-mós-fe-ra: es esdrújula (suena fuerte «mós»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0286",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "régimen",
+   "clase": "esdrujula",
+   "respuesta": "régimen",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "ré-gi-men: es esdrújula (suena fuerte «ré»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0287",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "guárdamelo",
+   "clase": "sobresdrujula",
+   "respuesta": "guárdamelo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "guár-da-me-lo: es sobresdrújula (suena fuerte «guár»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0288",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cuéntamelo",
+   "clase": "sobresdrujula",
+   "respuesta": "cuéntamelo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "cuén-ta-me-lo: es sobresdrújula (suena fuerte «cuén»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0289",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "electrónico",
+   "clase": "esdrujula",
+   "respuesta": "electrónico",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "e-lec-tró-ni-co: es esdrújula (suena fuerte «tró»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0290",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cómetelo",
+   "clase": "sobresdrujula",
+   "respuesta": "cómetelo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "có-me-te-lo: es sobresdrújula (suena fuerte «có»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0291",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "volúmenes",
+   "clase": "esdrujula",
+   "respuesta": "volúmenes",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "vo-lú-me-nes: es esdrújula (suena fuerte «lú»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0292",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "informático",
+   "clase": "esdrujula",
+   "respuesta": "informático",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "in-for-má-ti-co: es esdrújula (suena fuerte «má»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0293",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "dígamelo",
+   "clase": "sobresdrujula",
+   "respuesta": "dígamelo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "dí-ga-me-lo: es sobresdrújula (suena fuerte «dí»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0294",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cómpratelo",
+   "clase": "sobresdrujula",
+   "respuesta": "cómpratelo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "cóm-pra-te-lo: es sobresdrújula (suena fuerte «cóm»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0295",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "hipopótamo",
+   "clase": "esdrujula",
+   "respuesta": "hipopótamo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "hi-po-pó-ta-mo: es esdrújula (suena fuerte «pó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0296",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "espárrago",
+   "clase": "esdrujula",
+   "respuesta": "espárrago",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "es-pá-rra-go: es esdrújula (suena fuerte «pá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0297",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tónica",
+   "clase": "esdrujula",
+   "respuesta": "tónica",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "tó-ni-ca: es esdrújula (suena fuerte «tó»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0298",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "resúmenes",
+   "clase": "esdrujula",
+   "respuesta": "resúmenes",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "re-sú-me-nes: es esdrújula (suena fuerte «sú»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0299",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "vehículo",
+   "clase": "esdrujula",
+   "respuesta": "vehículo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A6-0300",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "orígenes",
+   "clase": "esdrujula",
+   "respuesta": "orígenes",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
    "explicacion": "o-rí-ge-nes: es esdrújula (suena fuerte «rí»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0069",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "pídeselo",
-   "clase": "sobresdrujula",
-   "respuesta": 1,
-   "dificultad": 4,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "pí-de-se-lo: es sobresdrújula (suena fuerte «pí»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
-  },
-  {
-   "id": "A6-0070",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "explícaselo",
-   "clase": "sobresdrujula",
-   "respuesta": 4,
-   "dificultad": 4,
-   "skills": [
-    "esdrujulas"
-   ],
-   "explicacion": "ex-plí-ca-se-lo: es sobresdrújula (suena fuerte «plí»), y estas llevan tilde siempre.",
-   "regla_id": "esdrujulas"
+   "regla_id": "reglas"
   }
  ]
 }

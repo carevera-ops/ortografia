@@ -5,365 +5,6 @@
    "id": "A16-0001",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Cádiz",
-   "clase": "llana",
-   "opciones": [
-    "Cadiz",
-    "Cadíz",
-    "Cádiz"
-   ],
-   "respuesta": "Cádiz",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Cá-diz: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0002",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "atrás",
-   "clase": "aguda",
-   "respuesta": "atrás",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "a-trás: es aguda (suena fuerte «trás») y acaba en -s, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0003",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "camión",
-   "clase": "aguda",
-   "respuesta": "camión",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "ca-mión: es aguda (suena fuerte «mión») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0004",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Úbeda",
-   "clase": "esdrujula",
-   "opciones": [
-    "Úbeda",
-    "Ubeda",
-    "Ubéda"
-   ],
-   "respuesta": "Úbeda",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Ú-be-da: es esdrújula (suena fuerte «Ú»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0005",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ÁRBOL",
-   "clase": "llana",
-   "opciones": [
-    "ARBÓL",
-    "ÁRBOL",
-    "ARBOL"
-   ],
-   "respuesta": "ÁRBOL",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "ÁR-BOL: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0006",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Óscar",
-   "clase": "llana",
-   "opciones": [
-    "Oscar",
-    "Óscar",
-    "Oscár"
-   ],
-   "respuesta": "Óscar",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Ós-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0007",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "botón",
-   "clase": "aguda",
-   "respuesta": "botón",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "bo-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0008",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "galleta",
-   "clase": "llana",
-   "respuesta": "galleta",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "ga-lle-ta: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0009",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "azul",
-   "clase": "aguda",
-   "respuesta": "azul",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "a-zul: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0010",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "allí",
-   "clase": "aguda",
-   "respuesta": "allí",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "a-llí: es aguda (suena fuerte «llí») y acaba en vocal, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0011",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ÉXITO",
-   "clase": "esdrujula",
-   "opciones": [
-    "EXITO",
-    "ÉXITO",
-    "EXÍTO"
-   ],
-   "respuesta": "ÉXITO",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "É-XI-TO: es esdrújula (suena fuerte «É»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0012",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "PAÍS",
-   "clase": "aguda",
-   "opciones": [
-    "PAÍS",
-    "PAIS",
-    "PÁIS"
-   ],
-   "respuesta": "PAÍS",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "PA-ÍS: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0013",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "además",
-   "clase": "aguda",
-   "respuesta": "además",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "a-de-más: es aguda (suena fuerte «más») y acaba en -s, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0014",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "JAMÁS",
-   "clase": "aguda",
-   "opciones": [
-    "JAMÁS",
-    "JAMAS",
-    "JÁMAS"
-   ],
-   "respuesta": "JAMÁS",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "JA-MÁS: es aguda (suena fuerte «MÁS») y acaba en -s, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0015",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Ángel",
-   "clase": "llana",
-   "opciones": [
-    "Angél",
-    "Angel",
-    "Ángel"
-   ],
-   "respuesta": "Ángel",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0016",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Ávila",
-   "clase": "esdrujula",
-   "opciones": [
-    "Avilá",
-    "Avíla",
-    "Ávila"
-   ],
-   "respuesta": "Ávila",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Á-vi-la: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0017",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "álbum",
-   "clase": "llana",
-   "respuesta": "álbum",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "ál-bum: es llana y acaba en -m; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0018",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "profesor",
-   "clase": "aguda",
-   "respuesta": "profesor",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "pro-fe-sor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0019",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "MÚSICA",
-   "clase": "esdrujula",
-   "opciones": [
-    "MÚSICA",
-    "MUSICA",
-    "MUSICÁ"
-   ],
-   "respuesta": "MÚSICA",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "MÚ-SI-CA: es esdrújula (suena fuerte «MÚ»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0020",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "LÁPIZ",
-   "clase": "llana",
-   "opciones": [
-    "LÁPIZ",
-    "LAPÍZ",
-    "LAPIZ"
-   ],
-   "respuesta": "LÁPIZ",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "LÁ-PIZ: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0021",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "cárcel",
-   "clase": "llana",
-   "respuesta": "cárcel",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "cár-cel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0022",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "Íñigo",
    "clase": "esdrujula",
    "opciones": [
@@ -380,147 +21,26 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0023",
+   "id": "A16-0002",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "León",
-   "clase": "aguda",
-   "opciones": [
-    "Leon",
-    "Léon",
-    "León"
-   ],
-   "respuesta": "León",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Le-ón: es aguda (suena fuerte «ón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0024",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Mérida",
+   "palabra": "Córdoba",
    "clase": "esdrujula",
    "opciones": [
-    "Meridá",
-    "Merída",
-    "Mérida"
+    "Córdoba",
+    "Cordoba",
+    "Cordóba"
    ],
-   "respuesta": "Mérida",
+   "respuesta": "Córdoba",
    "dificultad": 2,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "Mé-ri-da: es esdrújula (suena fuerte «Mé»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "Cór-do-ba: es esdrújula (suena fuerte «Cór»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0025",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "pantalón",
-   "clase": "aguda",
-   "respuesta": "pantalón",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "pan-ta-lón: es aguda (suena fuerte «lón») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0026",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Atlántico",
-   "clase": "esdrujula",
-   "opciones": [
-    "Átlantico",
-    "Atlantíco",
-    "Atlántico"
-   ],
-   "respuesta": "Atlántico",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "At-lán-ti-co: es esdrújula (suena fuerte «lán»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0027",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "dormí",
-   "clase": "aguda",
-   "respuesta": "dormí",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "dor-mí: es aguda (suena fuerte «mí») y acaba en vocal, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0028",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Canadá",
-   "clase": "aguda",
-   "opciones": [
-    "Canadá",
-    "Cánada",
-    "Canada"
-   ],
-   "respuesta": "Canadá",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0029",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "alegría",
-   "clase": "llana",
-   "respuesta": "alegría",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "a-le-grí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0030",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ÚLTIMO",
-   "clase": "esdrujula",
-   "opciones": [
-    "ÚLTIMO",
-    "ULTIMO",
-    "ULTIMÓ"
-   ],
-   "respuesta": "ÚLTIMO",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "ÚL-TI-MO: es esdrújula (suena fuerte «ÚL»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0031",
+   "id": "A16-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "Álava",
@@ -539,313 +59,45 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0032",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "jamón",
-   "clase": "aguda",
-   "respuesta": "jamón",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "ja-món: es aguda (suena fuerte «món») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0033",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "manzana",
-   "clase": "llana",
-   "respuesta": "manzana",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "man-za-na: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0034",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "escuela",
-   "clase": "llana",
-   "respuesta": "escuela",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "es-cue-la: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0035",
+   "id": "A16-0004",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ÁFRICA",
+   "palabra": "Mérida",
    "clase": "esdrujula",
    "opciones": [
-    "AFRICÁ",
-    "AFRÍCA",
-    "ÁFRICA"
+    "Meridá",
+    "Merída",
+    "Mérida"
    ],
-   "respuesta": "ÁFRICA",
+   "respuesta": "Mérida",
    "dificultad": 2,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "Á-FRI-CA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "Mé-ri-da: es esdrújula (suena fuerte «Mé»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0036",
+   "id": "A16-0005",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Perú",
+   "palabra": "PAÍS",
    "clase": "aguda",
    "opciones": [
-    "Perú",
-    "Peru",
-    "Péru"
+    "PAÍS",
+    "PAIS",
+    "PÁIS"
    ],
-   "respuesta": "Perú",
+   "respuesta": "PAÍS",
    "dificultad": 2,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "PA-ÍS: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0037",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "CAMIÓN",
-   "clase": "aguda",
-   "opciones": [
-    "CAMIÓN",
-    "CÁMION",
-    "CAMION"
-   ],
-   "respuesta": "CAMIÓN",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "CA-MIÓN: es aguda (suena fuerte «MIÓN») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0038",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Ámsterdam",
-   "clase": "esdrujula",
-   "opciones": [
-    "Amstérdam",
-    "Ámsterdam",
-    "Amsterdam"
-   ],
-   "respuesta": "Ámsterdam",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Áms-ter-dam: es esdrújula (suena fuerte «Áms»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0039",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "móvil",
-   "clase": "llana",
-   "respuesta": "móvil",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "mó-vil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0040",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "tía",
-   "clase": "llana",
-   "respuesta": "tía",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0041",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "lunes",
-   "clase": "llana",
-   "respuesta": "lunes",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "lu-nes: es llana y acaba en -s, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0042",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "azúcar",
-   "clase": "llana",
-   "respuesta": "azúcar",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "a-zú-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0043",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Panamá",
-   "clase": "aguda",
-   "opciones": [
-    "Panáma",
-    "Pánama",
-    "Panamá"
-   ],
-   "respuesta": "Panamá",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0044",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Japón",
-   "clase": "aguda",
-   "opciones": [
-    "Japon",
-    "Japón",
-    "Jápon"
-   ],
-   "respuesta": "Japón",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Ja-pón: es aguda (suena fuerte «pón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0045",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "África",
-   "clase": "esdrujula",
-   "opciones": [
-    "Afríca",
-    "Africá",
-    "África"
-   ],
-   "respuesta": "África",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0046",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "están",
-   "clase": "aguda",
-   "respuesta": "están",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "es-tán: es aguda (suena fuerte «tán») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0047",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Málaga",
-   "clase": "esdrujula",
-   "opciones": [
-    "Málaga",
-    "Malaga",
-    "Malagá"
-   ],
-   "respuesta": "Málaga",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Má-la-ga: es esdrújula (suena fuerte «Má»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0048",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Ángela",
-   "clase": "esdrujula",
-   "opciones": [
-    "Angela",
-    "Ángela",
-    "Angelá"
-   ],
-   "respuesta": "Ángela",
-   "dificultad": 2,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Án-ge-la: es esdrújula (suena fuerte «Án»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0049",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "árboles",
-   "clase": "esdrujula",
-   "respuesta": "árboles",
-   "dificultad": 2,
-   "skills": [
-    "dictado",
-    "esdrujulas"
-   ],
-   "explicacion": "ár-bo-les: es esdrújula (suena fuerte «ár»), y estas llevan tilde siempre.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0050",
+   "id": "A16-0006",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "ÓRGANO",
@@ -864,41 +116,494 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0051",
+   "id": "A16-0007",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ÁGUILA",
+   "palabra": "Ámsterdam",
    "clase": "esdrujula",
    "opciones": [
-    "ÁGUILA",
-    "AGUÍLA",
-    "AGUILA"
+    "Amstérdam",
+    "Ámsterdam",
+    "Amsterdam"
    ],
-   "respuesta": "ÁGUILA",
+   "respuesta": "Ámsterdam",
    "dificultad": 2,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "Á-GUI-LA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "Áms-ter-dam: es esdrújula (suena fuerte «Áms»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0052",
+   "id": "A16-0008",
    "tipo": "dictado",
    "enunciado": "Escucha y escribe la palabra",
-   "palabra": "perro",
+   "palabra": "allí",
+   "clase": "aguda",
+   "respuesta": "allí",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-llí: es aguda (suena fuerte «llí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Panamá",
+   "clase": "aguda",
+   "opciones": [
+    "Panáma",
+    "Pánama",
+    "Panamá"
+   ],
+   "respuesta": "Panamá",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "opciones": [
+    "Afríca",
+    "Africá",
+    "África"
+   ],
+   "respuesta": "África",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0011",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "allá",
+   "clase": "aguda",
+   "respuesta": "allá",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-llá: es aguda (suena fuerte «llá») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ángel",
    "clase": "llana",
-   "respuesta": "perro",
+   "opciones": [
+    "Angél",
+    "Angel",
+    "Ángel"
+   ],
+   "respuesta": "Ángel",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0013",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "botiquín",
+   "clase": "aguda",
+   "respuesta": "botiquín",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "bo-ti-quín: es aguda (suena fuerte «quín») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0014",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "brújula",
+   "clase": "esdrujula",
+   "respuesta": "brújula",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "brú-ju-la: es esdrújula (suena fuerte «brú»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0015",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "clavel",
+   "clase": "aguda",
+   "respuesta": "clavel",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "cla-vel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÁRBOL",
+   "clase": "llana",
+   "opciones": [
+    "ARBÓL",
+    "ÁRBOL",
+    "ARBOL"
+   ],
+   "respuesta": "ÁRBOL",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÁR-BOL: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÚLTIMO",
+   "clase": "esdrujula",
+   "opciones": [
+    "ÚLTIMO",
+    "ULTIMO",
+    "ULTIMÓ"
+   ],
+   "respuesta": "ÚLTIMO",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÚL-TI-MO: es esdrújula (suena fuerte «ÚL»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0018",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "jabón",
+   "clase": "aguda",
+   "respuesta": "jabón",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ja-bón: es aguda (suena fuerte «bón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ávila",
+   "clase": "esdrujula",
+   "opciones": [
+    "Avilá",
+    "Avíla",
+    "Ávila"
+   ],
+   "respuesta": "Ávila",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-vi-la: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Atlántico",
+   "clase": "esdrujula",
+   "opciones": [
+    "Átlantico",
+    "Atlantíco",
+    "Atlántico"
+   ],
+   "respuesta": "Atlántico",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "At-lán-ti-co: es esdrújula (suena fuerte «lán»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0021",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "juguetería",
+   "clase": "llana",
+   "respuesta": "juguetería",
    "dificultad": 2,
    "skills": [
     "dictado",
     "llanas"
    ],
-   "explicacion": "pe-rro: es llana y acaba en vocal, así que no lleva tilde.",
+   "explicacion": "ju-gue-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "reglas"
   },
   {
-   "id": "A16-0053",
+   "id": "A16-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "MÚSICA",
+   "clase": "esdrujula",
+   "opciones": [
+    "MÚSICA",
+    "MUSICA",
+    "MUSICÁ"
+   ],
+   "respuesta": "MÚSICA",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "MÚ-SI-CA: es esdrújula (suena fuerte «MÚ»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0023",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "champú",
+   "clase": "aguda",
+   "respuesta": "champú",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "cham-pú: es aguda (suena fuerte «pú») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0024",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "menú",
+   "clase": "aguda",
+   "respuesta": "menú",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "me-nú: es aguda (suena fuerte «nú») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0025",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "bondad",
+   "clase": "aguda",
+   "respuesta": "bondad",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "bon-dad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Úbeda",
+   "clase": "esdrujula",
+   "opciones": [
+    "Úbeda",
+    "Ubeda",
+    "Ubéda"
+   ],
+   "respuesta": "Úbeda",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ú-be-da: es esdrújula (suena fuerte «Ú»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0027",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "trébol",
+   "clase": "llana",
+   "respuesta": "trébol",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "tré-bol: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0028",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "canción",
+   "clase": "aguda",
+   "respuesta": "canción",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "can-ción: es aguda (suena fuerte «ción») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0029",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "pera",
+   "clase": "llana",
+   "respuesta": "pera",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "pe-ra: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Perú",
+   "clase": "aguda",
+   "opciones": [
+    "Perú",
+    "Peru",
+    "Péru"
+   ],
+   "respuesta": "Perú",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "León",
+   "clase": "aguda",
+   "opciones": [
+    "Leon",
+    "Léon",
+    "León"
+   ],
+   "respuesta": "León",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Le-ón: es aguda (suena fuerte «ón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0032",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
+   "respuesta": "teléfono",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "te-lé-fo-no: es esdrújula (suena fuerte «lé»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0033",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tejado",
+   "clase": "llana",
+   "respuesta": "tejado",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "te-ja-do: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "JAMÁS",
+   "clase": "aguda",
+   "opciones": [
+    "JAMÁS",
+    "JAMAS",
+    "JÁMAS"
+   ],
+   "respuesta": "JAMÁS",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "JA-MÁS: es aguda (suena fuerte «MÁS») y acaba en -s, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0035",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "sopa",
+   "clase": "llana",
+   "respuesta": "sopa",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "so-pa: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0036",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "Álvaro",
@@ -917,28 +622,328 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0054",
+   "id": "A16-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Japón",
+   "clase": "aguda",
+   "opciones": [
+    "Japon",
+    "Japón",
+    "Jápon"
+   ],
+   "respuesta": "Japón",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ja-pón: es aguda (suena fuerte «pón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Óscar",
+   "clase": "llana",
+   "opciones": [
+    "Oscar",
+    "Óscar",
+    "Oscár"
+   ],
+   "respuesta": "Óscar",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ós-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0039",
    "tipo": "dictado",
    "enunciado": "Escucha y escribe la palabra",
-   "palabra": "policía",
+   "palabra": "dragón",
+   "clase": "aguda",
+   "respuesta": "dragón",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "dra-gón: es aguda (suena fuerte «gón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0040",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "subió",
+   "clase": "aguda",
+   "respuesta": "subió",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "su-bió: es aguda (suena fuerte «bió») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0041",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "martes",
    "clase": "llana",
-   "respuesta": "policía",
+   "respuesta": "martes",
    "dificultad": 2,
    "skills": [
     "dictado",
     "llanas"
    ],
-   "explicacion": "po-li-cí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "mar-tes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0042",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÁGUILA",
+   "clase": "esdrujula",
+   "opciones": [
+    "ÁGUILA",
+    "AGUÍLA",
+    "AGUILA"
+   ],
+   "respuesta": "ÁGUILA",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-GUI-LA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0043",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Cádiz",
+   "clase": "llana",
+   "opciones": [
+    "Cadiz",
+    "Cadíz",
+    "Cádiz"
+   ],
+   "respuesta": "Cádiz",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Cá-diz: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0044",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "CAMIÓN",
+   "clase": "aguda",
+   "opciones": [
+    "CAMIÓN",
+    "CÁMION",
+    "CAMION"
+   ],
+   "respuesta": "CAMIÓN",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "CA-MIÓN: es aguda (suena fuerte «MIÓN») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0045",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "lobo",
+   "clase": "llana",
+   "respuesta": "lobo",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "lo-bo: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0046",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "amargo",
+   "clase": "llana",
+   "respuesta": "amargo",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "a-mar-go: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0047",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "lágrima",
+   "clase": "esdrujula",
+   "respuesta": "lágrima",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "lá-gri-ma: es esdrújula (suena fuerte «lá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÁFRICA",
+   "clase": "esdrujula",
+   "opciones": [
+    "AFRICÁ",
+    "AFRÍCA",
+    "ÁFRICA"
+   ],
+   "respuesta": "ÁFRICA",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-FRI-CA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0049",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "fútbol",
+   "clase": "llana",
+   "respuesta": "fútbol",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "fút-bol: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "LÁPIZ",
+   "clase": "llana",
+   "opciones": [
+    "LÁPIZ",
+    "LAPÍZ",
+    "LAPIZ"
+   ],
+   "respuesta": "LÁPIZ",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "LÁ-PIZ: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0051",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Canadá",
+   "clase": "aguda",
+   "opciones": [
+    "Canadá",
+    "Cánada",
+    "Canada"
+   ],
+   "respuesta": "Canadá",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0052",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ángela",
+   "clase": "esdrujula",
+   "opciones": [
+    "Angela",
+    "Ángela",
+    "Angelá"
+   ],
+   "respuesta": "Ángela",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-ge-la: es esdrújula (suena fuerte «Án»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0053",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Málaga",
+   "clase": "esdrujula",
+   "opciones": [
+    "Málaga",
+    "Malaga",
+    "Malagá"
+   ],
+   "respuesta": "Málaga",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Má-la-ga: es esdrújula (suena fuerte «Má»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0054",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tortilla",
+   "clase": "llana",
+   "respuesta": "tortilla",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "tor-ti-lla: es llana y acaba en vocal, así que no lleva tilde.",
    "regla_id": "reglas"
   },
   {
    "id": "A16-0055",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "ÉXITO",
    "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
+   "opciones": [
+    "EXITO",
+    "ÉXITO",
+    "EXÍTO"
+   ],
+   "respuesta": "ÉXITO",
+   "dificultad": 2,
    "skills": [
     "mayusculas_tilde"
    ],
@@ -947,196 +952,21 @@
   },
   {
    "id": "A16-0056",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Japón",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "calcetín",
    "clase": "aguda",
-   "respuesta": 3,
+   "respuesta": "calcetín",
    "dificultad": 3,
    "skills": [
-    "mayusculas_tilde"
+    "dictado",
+    "agudas"
    ],
-   "explicacion": "Ja-pón: es aguda (suena fuerte «pón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
+   "explicacion": "cal-ce-tín: es aguda (suena fuerte «tín») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
   },
   {
    "id": "A16-0057",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ÚLTIMO",
-   "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "ÚL-TI-MO: es esdrújula (suena fuerte «ÚL»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0058",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "heroína",
-   "clase": "llana",
-   "respuesta": "heroína",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "he-ro-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0059",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "caída",
-   "clase": "llana",
-   "respuesta": "caída",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "ca-í-da: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0060",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "taller",
-   "clase": "aguda",
-   "respuesta": "taller",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "ta-ller: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0061",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "tormenta",
-   "clase": "llana",
-   "respuesta": "tormenta",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "tor-men-ta: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0062",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Cádiz",
-   "clase": "llana",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Cá-diz: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0063",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Canadá",
-   "clase": "aguda",
-   "respuesta": 5,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0064",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "resumen",
-   "clase": "llana",
-   "respuesta": "resumen",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "re-su-men: es llana y acaba en -n, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0065",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "CAMIÓN",
-   "clase": "aguda",
-   "respuesta": 4,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "CA-MIÓN: es aguda (suena fuerte «MIÓN») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0066",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "tractor",
-   "clase": "aguda",
-   "respuesta": "tractor",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "trac-tor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0067",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "jardín",
-   "clase": "aguda",
-   "respuesta": "jardín",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "jar-dín: es aguda (suena fuerte «dín») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0068",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "farol",
-   "clase": "aguda",
-   "respuesta": "farol",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "fa-rol: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0069",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "Ángela",
@@ -1150,193 +980,21 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0070",
+   "id": "A16-0058",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "África",
+   "palabra": "ÉXITO",
    "clase": "esdrujula",
    "respuesta": 0,
    "dificultad": 3,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "É-XI-TO: es esdrújula (suena fuerte «É»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0071",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Córdoba",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Cór-do-ba: es esdrújula (suena fuerte «Cór»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0072",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "francés",
-   "clase": "aguda",
-   "respuesta": "francés",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "fran-cés: es aguda (suena fuerte «cés») y acaba en -s, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0073",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Mérida",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Mé-ri-da: es esdrújula (suena fuerte «Mé»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0074",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "vivirán",
-   "clase": "aguda",
-   "respuesta": "vivirán",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "vi-vi-rán: es aguda (suena fuerte «rán») y acaba en -n, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0075",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "LÁPIZ",
-   "clase": "llana",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "LÁ-PIZ: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0076",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ÓRGANO",
-   "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "ÓR-GA-NO: es esdrújula (suena fuerte «ÓR»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0077",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "débil",
-   "clase": "llana",
-   "respuesta": "débil",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "dé-bil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0078",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Ángel",
-   "clase": "llana",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0079",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "PAÍS",
-   "clase": "aguda",
-   "respuesta": 2,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "PA-ÍS: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0080",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Óscar",
-   "clase": "llana",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Ós-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0081",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Ámsterdam",
-   "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Áms-ter-dam: es esdrújula (suena fuerte «Áms»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0082",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "examen",
-   "clase": "llana",
-   "respuesta": "examen",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "e-xa-men: es llana y acaba en -n, así que no lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0083",
+   "id": "A16-0059",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "Úbeda",
@@ -1350,107 +1008,7 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0084",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "anís",
-   "clase": "aguda",
-   "respuesta": "anís",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "agudas"
-   ],
-   "explicacion": "a-nís: es aguda (suena fuerte «nís») y acaba en -s, así que lleva tilde.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0085",
-   "tipo": "dictado",
-   "enunciado": "Escucha y escribe la palabra",
-   "palabra": "cafeína",
-   "clase": "llana",
-   "respuesta": "cafeína",
-   "dificultad": 3,
-   "skills": [
-    "dictado",
-    "llanas"
-   ],
-   "explicacion": "ca-fe-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "reglas"
-  },
-  {
-   "id": "A16-0086",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ÁFRICA",
-   "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Á-FRI-CA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0087",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Panamá",
-   "clase": "aguda",
-   "respuesta": 5,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0088",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ÁRBOL",
-   "clase": "llana",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "ÁR-BOL: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0089",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "ÁGUILA",
-   "clase": "esdrujula",
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Á-GUI-LA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0090",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Málaga",
-   "clase": "esdrujula",
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "mayusculas_tilde"
-   ],
-   "explicacion": "Má-la-ga: es esdrújula (suena fuerte «Má»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
-   "regla_id": "mayusculas-tilde"
-  },
-  {
-   "id": "A16-0091",
+   "id": "A16-0060",
    "tipo": "dictado",
    "enunciado": "Escucha y escribe la palabra",
    "palabra": "pirámide",
@@ -1465,7 +1023,63 @@
    "regla_id": "reglas"
   },
   {
-   "id": "A16-0092",
+   "id": "A16-0061",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "PAÍS",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "PA-ÍS: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0062",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Mérida",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Mé-ri-da: es esdrújula (suena fuerte «Mé»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0063",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "CAMIÓN",
+   "clase": "aguda",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "CA-MIÓN: es aguda (suena fuerte «MIÓN») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0064",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Ángel",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0065",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "León",
@@ -1479,21 +1093,182 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0093",
+   "id": "A16-0066",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "beberán",
+   "clase": "aguda",
+   "respuesta": "beberán",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "be-be-rán: es aguda (suena fuerte «rán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0067",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cumpleaños",
+   "clase": "llana",
+   "respuesta": "cumpleaños",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "cum-ple-a-ños: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0068",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "JAMÁS",
+   "palabra": "Panamá",
    "clase": "aguda",
-   "respuesta": 3,
+   "respuesta": 5,
    "dificultad": 3,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "JA-MÁS: es aguda (suena fuerte «MÁS») y acaba en -s, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0094",
+   "id": "A16-0069",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Ámsterdam",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Áms-ter-dam: es esdrújula (suena fuerte «Áms»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0070",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tonel",
+   "clase": "aguda",
+   "respuesta": "tonel",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "to-nel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0071",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Cádiz",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Cá-diz: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0072",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "camaleón",
+   "clase": "aguda",
+   "respuesta": "camaleón",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ca-ma-le-ón: es aguda (suena fuerte «ón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0073",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÁGUILA",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-GUI-LA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0074",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "caligrafía",
+   "clase": "llana",
+   "respuesta": "caligrafía",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ca-li-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0075",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÚLTIMO",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÚL-TI-MO: es esdrújula (suena fuerte «ÚL»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0076",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "escribir",
+   "clase": "aguda",
+   "respuesta": "escribir",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "es-cri-bir: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0077",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "amistad",
+   "clase": "aguda",
+   "respuesta": "amistad",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-mis-tad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0078",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "MÚSICA",
@@ -1507,21 +1282,238 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0095",
+   "id": "A16-0079",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "camiones",
+   "clase": "llana",
+   "respuesta": "camiones",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ca-mio-nes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0080",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Atlántico",
+   "palabra": "ÁFRICA",
    "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-FRI-CA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0081",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Japón",
+   "clase": "aguda",
    "respuesta": 3,
    "dificultad": 3,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "At-lán-ti-co: es esdrújula (suena fuerte «lán»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "Ja-pón: es aguda (suena fuerte «pón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0096",
+   "id": "A16-0082",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Íñigo",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Í-ñi-go: es esdrújula (suena fuerte «Í»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0083",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tractor",
+   "clase": "aguda",
+   "respuesta": "tractor",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "trac-tor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0084",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Córdoba",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Cór-do-ba: es esdrújula (suena fuerte «Cór»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0085",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "LÁPIZ",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "LÁ-PIZ: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0086",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "chalé",
+   "clase": "aguda",
+   "respuesta": "chalé",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "cha-lé: es aguda (suena fuerte «lé») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0087",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "periódico",
+   "clase": "esdrujula",
+   "respuesta": "periódico",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "pe-rió-di-co: es esdrújula (suena fuerte «rió»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0088",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "jardines",
+   "clase": "llana",
+   "respuesta": "jardines",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "jar-di-nes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0089",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÁRBOL",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÁR-BOL: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0090",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÓRGANO",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÓR-GA-NO: es esdrújula (suena fuerte «ÓR»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0091",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tendrá",
+   "clase": "aguda",
+   "respuesta": "tendrá",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ten-drá: es aguda (suena fuerte «drá») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0092",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "actitud",
+   "clase": "aguda",
+   "respuesta": "actitud",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ac-ti-tud: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0093",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Málaga",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Má-la-ga: es esdrújula (suena fuerte «Má»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0094",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Perú",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0095",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "Álava",
@@ -1535,37 +1527,124 @@
    "regla_id": "mayusculas-tilde"
   },
   {
+   "id": "A16-0096",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Canadá",
+   "clase": "aguda",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
    "id": "A16-0097",
    "tipo": "dictado",
    "enunciado": "Escucha y escribe la palabra",
-   "palabra": "cartón",
-   "clase": "aguda",
-   "respuesta": "cartón",
+   "palabra": "librería",
+   "clase": "llana",
+   "respuesta": "librería",
    "dificultad": 3,
    "skills": [
     "dictado",
-    "agudas"
+    "llanas"
    ],
-   "explicacion": "car-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "explicacion": "li-bre-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "reglas"
   },
   {
    "id": "A16-0098",
    "tipo": "dictado",
    "enunciado": "Escucha y escribe la palabra",
-   "palabra": "mujer",
+   "palabra": "andaluz",
    "clase": "aguda",
-   "respuesta": "mujer",
+   "respuesta": "andaluz",
    "dificultad": 3,
    "skills": [
     "dictado",
     "agudas"
    ],
-   "explicacion": "mu-jer: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "explicacion": "an-da-luz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
    "regla_id": "reglas"
   },
   {
    "id": "A16-0099",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "JAMÁS",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "JA-MÁS: es aguda (suena fuerte «MÁS») y acaba en -s, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0100",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "armonía",
+   "clase": "llana",
+   "respuesta": "armonía",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ar-mo-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0101",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "energía",
+   "clase": "llana",
+   "respuesta": "energía",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "e-ner-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0102",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Óscar",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ós-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0103",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cafeína",
+   "clase": "llana",
+   "respuesta": "cafeína",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ca-fe-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0104",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "Ávila",
@@ -1579,18 +1658,1855 @@
    "regla_id": "mayusculas-tilde"
   },
   {
-   "id": "A16-0100",
+   "id": "A16-0105",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "Perú",
-   "clase": "aguda",
+   "palabra": "Álvaro",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ál-va-ro: es esdrújula (suena fuerte «Ál»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0106",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0107",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Atlántico",
+   "clase": "esdrujula",
    "respuesta": 3,
    "dificultad": 3,
    "skills": [
     "mayusculas_tilde"
    ],
-   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "explicacion": "At-lán-ti-co: es esdrújula (suena fuerte «lán»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
    "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0108",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El autobús esta lleno.",
+    "El autobús está lleno.",
+    "El autobus está lleno."
+   ],
+   "respuesta": "El autobús está lleno.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El autobús está lleno. Fíjate bien en cada palabra con tilde: autobús, está.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0109",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "En el jardín hay un caracol.",
+    "En él jardín hay un caracol.",
+    "En el jardin hay un caracol."
+   ],
+   "respuesta": "En el jardín hay un caracol.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: En el jardín hay un caracol. Fíjate bien en cada palabra con tilde: jardín.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0110",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Después de comer, leere un rato.",
+    "Despues de comer, leeré un rato.",
+    "Después de comer, leeré un rato."
+   ],
+   "respuesta": "Después de comer, leeré un rato.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Después de comer, leeré un rato. Fíjate bien en cada palabra con tilde: Después, leeré.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0111",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi hermano está jugando con el.",
+    "Mi hermano esta jugando con él.",
+    "Mi hermano está jugando con él."
+   ],
+   "respuesta": "Mi hermano está jugando con él.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi hermano está jugando con él. Fíjate bien en cada palabra con tilde: está, él.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0112",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi telefono no tiene batería.",
+    "Mi teléfono no tiene batería.",
+    "Mi teléfono no tiene bateria."
+   ],
+   "respuesta": "Mi teléfono no tiene batería.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi teléfono no tiene batería. Fíjate bien en cada palabra con tilde: teléfono, batería.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0113",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Lucía y Raul son vecinos.",
+    "Lucia y Raúl son vecinos.",
+    "Lucía y Raúl son vecinos."
+   ],
+   "respuesta": "Lucía y Raúl son vecinos.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Lucía y Raúl son vecinos. Fíjate bien en cada palabra con tilde: Lucía, Raúl.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0114",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Me duele el estómago.",
+    "Me duele el estomago.",
+    "Me duele él estómago."
+   ],
+   "respuesta": "Me duele el estómago.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Me duele el estómago. Fíjate bien en cada palabra con tilde: estómago.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0115",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El tiburón tiene muchos dientes.",
+   "respuesta": "El tiburón tiene muchos dientes.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El tiburón tiene muchos dientes. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0116",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El delfín es muy inteligente.",
+    "Él delfín es muy inteligente.",
+    "El delfin es muy inteligente."
+   ],
+   "respuesta": "El delfín es muy inteligente.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El delfín es muy inteligente. Fíjate bien en cada palabra con tilde: delfín.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0117",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Quizá llueva esta tarde.",
+   "respuesta": "Quizá llueva esta tarde.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Quizá llueva esta tarde. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0118",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El pingüino vive en el hielo.",
+    "El pingüino vive en él hielo.",
+    "Él pingüino vive en el hielo."
+   ],
+   "respuesta": "El pingüino vive en el hielo.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El pingüino vive en el hielo. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0119",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mí país es muy bonito.",
+    "Mi país es muy bonito.",
+    "Mi pais es muy bonito."
+   ],
+   "respuesta": "Mi país es muy bonito.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi país es muy bonito. Fíjate bien en cada palabra con tilde: país.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0120",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mañana iré al médico.",
+    "Mañana ire al médico.",
+    "Mañana iré al medico."
+   ],
+   "respuesta": "Mañana iré al médico.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mañana iré al médico. Fíjate bien en cada palabra con tilde: iré, médico.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0121",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Esta canción es mi favorita.",
+   "respuesta": "Esta canción es mi favorita.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Esta canción es mi favorita. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0122",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El sábado jugué al fútbol.",
+    "El sabado jugué al fútbol.",
+    "El sábado jugue al fútbol."
+   ],
+   "respuesta": "El sábado jugué al fútbol.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El sábado jugué al fútbol. Fíjate bien en cada palabra con tilde: sábado, jugué, fútbol.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0123",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Él no sabe nadar todavía.",
+    "El no sabe nadar todavía.",
+    "Él no sabe nadar todavia."
+   ],
+   "respuesta": "Él no sabe nadar todavía.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Él no sabe nadar todavía. Fíjate bien en cada palabra con tilde: Él, todavía.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0124",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "En el jardín hay un caracol.",
+   "respuesta": "En el jardín hay un caracol.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: En el jardín hay un caracol. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0125",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "La tía de Andrés es médica.",
+    "La tía de Andrés es medica.",
+    "La tia de Andrés es médica."
+   ],
+   "respuesta": "La tía de Andrés es médica.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: La tía de Andrés es médica. Fíjate bien en cada palabra con tilde: tía, Andrés, médica.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0126",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Me encanta el olor del césped.",
+    "Me encanta él olor del césped.",
+    "Me encanta el olor del cesped."
+   ],
+   "respuesta": "Me encanta el olor del césped.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Me encanta el olor del césped. Fíjate bien en cada palabra con tilde: césped.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0127",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Me encanta el olor del césped.",
+   "respuesta": "Me encanta el olor del césped.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Me encanta el olor del césped. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0128",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi abuelo me conto una historia.",
+    "Mi abuelo me contó una historia.",
+    "Mí abuelo me contó una historia."
+   ],
+   "respuesta": "Mi abuelo me contó una historia.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi abuelo me contó una historia. Fíjate bien en cada palabra con tilde: contó.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0129",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Ayer vi una película.",
+   "respuesta": "Ayer vi una película.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Ayer vi una película. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0130",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El búho vuela de noche.",
+   "respuesta": "El búho vuela de noche.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El búho vuela de noche. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0131",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El miércoles tenemos examen.",
+   "respuesta": "El miércoles tenemos examen.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El miércoles tenemos examen. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0132",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El volcan está dormido.",
+    "El volcán está dormido.",
+    "El volcán esta dormido."
+   ],
+   "respuesta": "El volcán está dormido.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El volcán está dormido. Fíjate bien en cada palabra con tilde: volcán, está.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0133",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Hoy he aprendido muchísimo.",
+   "respuesta": "Hoy he aprendido muchísimo.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Hoy he aprendido muchísimo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0134",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El tiburón tiene muchos dientes.",
+    "El tiburon tiene muchos dientes.",
+    "Él tiburón tiene muchos dientes."
+   ],
+   "respuesta": "El tiburón tiene muchos dientes.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El tiburón tiene muchos dientes. Fíjate bien en cada palabra con tilde: tiburón.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0135",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Raúl perdio su reloj.",
+    "Raul perdió su reloj.",
+    "Raúl perdió su reloj."
+   ],
+   "respuesta": "Raúl perdió su reloj.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Raúl perdió su reloj. Fíjate bien en cada palabra con tilde: Raúl, perdió.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0136",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El búho vuela de noche.",
+    "El buho vuela de noche.",
+    "Él búho vuela de noche."
+   ],
+   "respuesta": "El búho vuela de noche.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El búho vuela de noche. Fíjate bien en cada palabra con tilde: búho.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0137",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Cuándo es la fiesta?",
+    "¿Cuando es la fiesta?",
+    "¿Cuandó es la fiesta?"
+   ],
+   "respuesta": "¿Cuándo es la fiesta?",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuándo es la fiesta? Fíjate bien en cada palabra con tilde: Cuándo.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0138",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El oceano es enorme.",
+    "El océano es enorme.",
+    "Él océano es enorme."
+   ],
+   "respuesta": "El océano es enorme.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El océano es enorme. Fíjate bien en cada palabra con tilde: océano.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0139",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Por qué no vienes conmigo?",
+   "respuesta": "¿Por qué no vienes conmigo?",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: ¿Por qué no vienes conmigo? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0140",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "La música me hace feliz.",
+   "respuesta": "La música me hace feliz.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: La música me hace feliz. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0141",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Habia una vez un murciélago.",
+    "Había una vez un murciélago.",
+    "Había una vez un murcielago."
+   ],
+   "respuesta": "Había una vez un murciélago.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Había una vez un murciélago. Fíjate bien en cada palabra con tilde: Había, murciélago.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0142",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Cómo se llama tu perro?",
+   "respuesta": "¿Cómo se llama tu perro?",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: ¿Cómo se llama tu perro? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0143",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Tu tienes un balón nuevo.",
+    "Tú tienes un balón nuevo.",
+    "Tú tienes un balon nuevo."
+   ],
+   "respuesta": "Tú tienes un balón nuevo.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Tú tienes un balón nuevo. Fíjate bien en cada palabra con tilde: Tú, balón.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0144",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "La policía detuvo al ladrón.",
+    "La policia detuvo al ladrón.",
+    "La policía detuvo al ladron."
+   ],
+   "respuesta": "La policía detuvo al ladrón.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: La policía detuvo al ladrón. Fíjate bien en cada palabra con tilde: policía, ladrón.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0145",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Cuándo es la fiesta?",
+   "respuesta": "¿Cuándo es la fiesta?",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: ¿Cuándo es la fiesta? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0146",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El héroe salvo a la princesa.",
+    "El heroe salvó a la princesa.",
+    "El héroe salvó a la princesa."
+   ],
+   "respuesta": "El héroe salvó a la princesa.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El héroe salvó a la princesa. Fíjate bien en cada palabra con tilde: héroe, salvó.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0147",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ese champú huele a limón.",
+    "Ese champú huele a limon.",
+    "Ese champu huele a limón."
+   ],
+   "respuesta": "Ese champú huele a limón.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Ese champú huele a limón. Fíjate bien en cada palabra con tilde: champú, limón.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0148",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Quién ha comido el platano?",
+    "¿Quien ha comido el plátano?",
+    "¿Quién ha comido el plátano?"
+   ],
+   "respuesta": "¿Quién ha comido el plátano?",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: ¿Quién ha comido el plátano? Fíjate bien en cada palabra con tilde: Quién, plátano.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0149",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El delfín es muy inteligente.",
+   "respuesta": "El delfín es muy inteligente.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El delfín es muy inteligente. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0150",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Todavia no sé la lección.",
+    "Todavía no sé la lección.",
+    "Todavía no sé la leccion."
+   ],
+   "respuesta": "Todavía no sé la lección.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Todavía no sé la lección. Fíjate bien en cada palabra con tilde: Todavía, sé, lección.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0151",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El lápiz es de María.",
+    "El lapiz es de María.",
+    "El lápiz es de Maria."
+   ],
+   "respuesta": "El lápiz es de María.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El lápiz es de María. Fíjate bien en cada palabra con tilde: lápiz, María.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0152",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El avión despego a las tres.",
+    "El avion despegó a las tres.",
+    "El avión despegó a las tres."
+   ],
+   "respuesta": "El avión despegó a las tres.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El avión despegó a las tres. Fíjate bien en cada palabra con tilde: avión, despegó.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0153",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¡Qué dia tan bonito!",
+    "¡Que día tan bonito!",
+    "¡Qué día tan bonito!"
+   ],
+   "respuesta": "¡Qué día tan bonito!",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: ¡Qué día tan bonito! Fíjate bien en cada palabra con tilde: Qué, día.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0154",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ayer vi una pelicula.",
+    "Ayer vi una película.",
+    "Ayer vi una pélicula."
+   ],
+   "respuesta": "Ayer vi una película.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Ayer vi una película. Fíjate bien en cada palabra con tilde: película.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0155",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi compañero de pupitre es simpático.",
+    "Mi compañero de pupitre es simpatico.",
+    "Mí compañero de pupitre es simpático."
+   ],
+   "respuesta": "Mi compañero de pupitre es simpático.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi compañero de pupitre es simpático. Fíjate bien en cada palabra con tilde: simpático.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0156",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "La araña tejió su telaraña.",
+    "La araña tejio su telaraña.",
+    "La araña téjio su telaraña."
+   ],
+   "respuesta": "La araña tejió su telaraña.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: La araña tejió su telaraña. Fíjate bien en cada palabra con tilde: tejió.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0157",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi mamá compro un melón.",
+    "Mi mamá compró un melón.",
+    "Mi mama compró un melón."
+   ],
+   "respuesta": "Mi mamá compró un melón.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi mamá compró un melón. Fíjate bien en cada palabra con tilde: mamá, compró, melón.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0158",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Dónde esta mi lápiz?",
+    "¿Dónde está mi lapiz?",
+    "¿Dónde está mi lápiz?"
+   ],
+   "respuesta": "¿Dónde está mi lápiz?",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: ¿Dónde está mi lápiz? Fíjate bien en cada palabra con tilde: Dónde, está, lápiz.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0159",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "La musica me hace feliz.",
+    "La música me hace feliz.",
+    "La musíca me hace feliz."
+   ],
+   "respuesta": "La música me hace feliz.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: La música me hace feliz. Fíjate bien en cada palabra con tilde: música.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0160",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El café esta muy caliente.",
+    "El cafe está muy caliente.",
+    "El café está muy caliente."
+   ],
+   "respuesta": "El café está muy caliente.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El café está muy caliente. Fíjate bien en cada palabra con tilde: café, está.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0161",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "La lampara está encendida.",
+    "La lámpara está encendida.",
+    "La lámpara esta encendida."
+   ],
+   "respuesta": "La lámpara está encendida.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: La lámpara está encendida. Fíjate bien en cada palabra con tilde: lámpara, está.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0162",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Hoy he aprendido múchisimo.",
+    "Hoy he aprendido muchísimo.",
+    "Hoy he aprendido muchisimo."
+   ],
+   "respuesta": "Hoy he aprendido muchísimo.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Hoy he aprendido muchísimo. Fíjate bien en cada palabra con tilde: muchísimo.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0163",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Cómo sé llama tu perro?",
+    "¿Como se llama tu perro?",
+    "¿Cómo se llama tu perro?"
+   ],
+   "respuesta": "¿Cómo se llama tu perro?",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: ¿Cómo se llama tu perro? Fíjate bien en cada palabra con tilde: Cómo.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0164",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El océano es enorme.",
+   "respuesta": "El océano es enorme.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El océano es enorme. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0165",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi tío vive en el campo.",
+   "respuesta": "Mi tío vive en el campo.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi tío vive en el campo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0166",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi tío vive en el campo.",
+    "Mí tío vive en el campo.",
+    "Mi tio vive en el campo."
+   ],
+   "respuesta": "Mi tío vive en el campo.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Mi tío vive en el campo. Fíjate bien en cada palabra con tilde: tío.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0167",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "La cigüeña hizo su nido.",
+   "respuesta": "La cigüeña hizo su nido.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: La cigüeña hizo su nido. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0168",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El pingüino vive en el hielo.",
+   "respuesta": "El pingüino vive en el hielo.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El pingüino vive en el hielo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0169",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Hoy hace mucho frío.",
+   "respuesta": "Hoy hace mucho frío.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Hoy hace mucho frío. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0170",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Me duele el estómago.",
+   "respuesta": "Me duele el estómago.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Me duele el estómago. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0171",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Sofía dibujo un dragón.",
+    "Sofía dibujó un dragon.",
+    "Sofía dibujó un dragón."
+   ],
+   "respuesta": "Sofía dibujó un dragón.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Sofía dibujó un dragón. Fíjate bien en cada palabra con tilde: Sofía, dibujó, dragón.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0172",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El pájaro está en el árbol.",
+    "El pajaro está en el árbol.",
+    "El pájaro esta en el árbol."
+   ],
+   "respuesta": "El pájaro está en el árbol.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El pájaro está en el árbol. Fíjate bien en cada palabra con tilde: pájaro, está, árbol.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0173",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Encontré un fosil en la excursión.",
+    "Encontré un fósil en la excursión.",
+    "Encontre un fósil en la excursión."
+   ],
+   "respuesta": "Encontré un fósil en la excursión.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Encontré un fósil en la excursión. Fíjate bien en cada palabra con tilde: Encontré, fósil, excursión.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0174",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El ratón comió queso.",
+    "El ratón comio queso.",
+    "El raton comió queso."
+   ],
+   "respuesta": "El ratón comió queso.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El ratón comió queso. Fíjate bien en cada palabra con tilde: ratón, comió.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0175",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El sofá es muy cómodo.",
+    "El sofa es muy cómodo.",
+    "El sofá es muy comodo."
+   ],
+   "respuesta": "El sofá es muy cómodo.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El sofá es muy cómodo. Fíjate bien en cada palabra con tilde: sofá, cómodo.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0176",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi país es muy bonito.",
+   "respuesta": "Mi país es muy bonito.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi país es muy bonito. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0177",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El jabalí corrio por el bosque.",
+    "El jabali corrió por el bosque.",
+    "El jabalí corrió por el bosque."
+   ],
+   "respuesta": "El jabalí corrió por el bosque.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El jabalí corrió por el bosque. Fíjate bien en cada palabra con tilde: jabalí, corrió.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0178",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El camión llego muy tarde.",
+    "El camion llegó muy tarde.",
+    "El camión llegó muy tarde."
+   ],
+   "respuesta": "El camión llegó muy tarde.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El camión llegó muy tarde. Fíjate bien en cada palabra con tilde: camión, llegó.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0179",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi abuelo me contó una historia.",
+   "respuesta": "Mi abuelo me contó una historia.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi abuelo me contó una historia. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0180",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "La araña tejió su telaraña.",
+   "respuesta": "La araña tejió su telaraña.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: La araña tejió su telaraña. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0181",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Te lo explicaré más tarde.",
+    "Te lo explicare más tarde.",
+    "Te lo explicaré mas tarde."
+   ],
+   "respuesta": "Te lo explicaré más tarde.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Te lo explicaré más tarde. Fíjate bien en cada palabra con tilde: explicaré, más.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0182",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Quizá llueva ésta tarde.",
+    "Quizá llueva esta tarde.",
+    "Quiza llueva esta tarde."
+   ],
+   "respuesta": "Quizá llueva esta tarde.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Quizá llueva esta tarde. Fíjate bien en cada palabra con tilde: Quizá.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0183",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El miércoles tenemos examen.",
+    "El miercoles tenemos examen.",
+    "Él miércoles tenemos examen."
+   ],
+   "respuesta": "El miércoles tenemos examen.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El miércoles tenemos examen. Fíjate bien en cada palabra con tilde: miércoles.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0184",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi compañero de pupitre es simpático.",
+   "respuesta": "Mi compañero de pupitre es simpático.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi compañero de pupitre es simpático. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0185",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ésta canción es mi favorita.",
+    "Esta cancion es mi favorita.",
+    "Esta canción es mi favorita."
+   ],
+   "respuesta": "Esta canción es mi favorita.",
+   "dificultad": 4,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Esta canción es mi favorita. Fíjate bien en cada palabra con tilde: canción.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0186",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Tú tienes un balón nuevo.",
+   "respuesta": "Tú tienes un balón nuevo.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Tú tienes un balón nuevo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0187",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Joaquín sacó un diez en el examen.",
+   "respuesta": "Joaquín sacó un diez en el examen.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Joaquín sacó un diez en el examen. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0188",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Dónde está mi lápiz?",
+   "respuesta": "¿Dónde está mi lápiz?",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: ¿Dónde está mi lápiz? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0189",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Después de comer, leeré un rato.",
+   "respuesta": "Después de comer, leeré un rato.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Después de comer, leeré un rato. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0190",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El jabalí corrió por el bosque.",
+   "respuesta": "El jabalí corrió por el bosque.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El jabalí corrió por el bosque. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0191",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El sofá es muy cómodo.",
+   "respuesta": "El sofá es muy cómodo.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El sofá es muy cómodo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0192",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El camión llegó muy tarde.",
+   "respuesta": "El camión llegó muy tarde.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El camión llegó muy tarde. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0193",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi mamá compró un melón.",
+   "respuesta": "Mi mamá compró un melón.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi mamá compró un melón. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0194",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El pájaro está en el árbol.",
+   "respuesta": "El pájaro está en el árbol.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El pájaro está en el árbol. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0195",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Había una vez un murciélago.",
+   "respuesta": "Había una vez un murciélago.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Había una vez un murciélago. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0196",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El ratón comió queso.",
+   "respuesta": "El ratón comió queso.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El ratón comió queso. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0197",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Encontré un fósil en la excursión.",
+   "respuesta": "Encontré un fósil en la excursión.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Encontré un fósil en la excursión. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0198",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El héroe salvó a la princesa.",
+   "respuesta": "El héroe salvó a la princesa.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El héroe salvó a la princesa. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0199",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Él no sabe nadar todavía.",
+   "respuesta": "Él no sabe nadar todavía.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Él no sabe nadar todavía. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0200",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "La tía de Andrés es médica.",
+   "respuesta": "La tía de Andrés es médica.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: La tía de Andrés es médica. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0201",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El volcán está dormido.",
+   "respuesta": "El volcán está dormido.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El volcán está dormido. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0202",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El café está muy caliente.",
+   "respuesta": "El café está muy caliente.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El café está muy caliente. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0203",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El sábado jugué al fútbol.",
+   "respuesta": "El sábado jugué al fútbol.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El sábado jugué al fútbol. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0204",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El ratón se escondio en el sótano.",
+    "El ratón se escondió en el sotano.",
+    "El ratón se escondió en el sótano."
+   ],
+   "respuesta": "El ratón se escondió en el sótano.",
+   "dificultad": 5,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El ratón se escondió en el sótano. Fíjate bien en cada palabra con tilde: ratón, escondió, sótano.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0205",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El lápiz es de María.",
+   "respuesta": "El lápiz es de María.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El lápiz es de María. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0206",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Raúl perdió su reloj.",
+   "respuesta": "Raúl perdió su reloj.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Raúl perdió su reloj. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0207",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Todavía no sé la lección.",
+   "respuesta": "Todavía no sé la lección.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Todavía no sé la lección. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0208",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi hermano está jugando con él.",
+   "respuesta": "Mi hermano está jugando con él.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi hermano está jugando con él. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0209",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El avión despegó a las tres.",
+   "respuesta": "El avión despegó a las tres.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El avión despegó a las tres. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0210",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mañana iré al médico.",
+   "respuesta": "Mañana iré al médico.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mañana iré al médico. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0211",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El autobús está lleno.",
+   "respuesta": "El autobús está lleno.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El autobús está lleno. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0212",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "La policía detuvo al ladrón.",
+   "respuesta": "La policía detuvo al ladrón.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: La policía detuvo al ladrón. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0213",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Joaquín sacó un diez en el examen.",
+    "Joaquin sacó un diez en el examen.",
+    "Joaquín saco un diez en el examen."
+   ],
+   "respuesta": "Joaquín sacó un diez en el examen.",
+   "dificultad": 5,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: Joaquín sacó un diez en el examen. Fíjate bien en cada palabra con tilde: Joaquín, sacó.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0214",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "La lámpara está encendida.",
+   "respuesta": "La lámpara está encendida.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: La lámpara está encendida. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0215",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El ratón se escondió en el sótano.",
+   "respuesta": "El ratón se escondió en el sótano.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El ratón se escondió en el sótano. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0216",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Sofía dibujó un dragón.",
+   "respuesta": "Sofía dibujó un dragón.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Sofía dibujó un dragón. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0217",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El arbitro pitó el final del partido.",
+    "El árbitro pitó el final del partido.",
+    "El árbitro pito el final del partido."
+   ],
+   "respuesta": "El árbitro pitó el final del partido.",
+   "dificultad": 5,
+   "skills": [
+    "frases"
+   ],
+   "explicacion": "Lo correcto es: El árbitro pitó el final del partido. Fíjate bien en cada palabra con tilde: árbitro, pitó.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0218",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Lucía y Raúl son vecinos.",
+   "respuesta": "Lucía y Raúl son vecinos.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Lucía y Raúl son vecinos. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0219",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El árbitro pitó el final del partido.",
+   "respuesta": "El árbitro pitó el final del partido.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: El árbitro pitó el final del partido. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0220",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¡Qué día tan bonito!",
+   "respuesta": "¡Qué día tan bonito!",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: ¡Qué día tan bonito! (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0221",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi teléfono no tiene batería.",
+   "respuesta": "Mi teléfono no tiene batería.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Mi teléfono no tiene batería. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0222",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Te lo explicaré más tarde.",
+   "respuesta": "Te lo explicaré más tarde.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Te lo explicaré más tarde. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0223",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Quién ha comido el plátano?",
+   "respuesta": "¿Quién ha comido el plátano?",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: ¿Quién ha comido el plátano? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0224",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Ese champú huele a limón.",
+   "respuesta": "Ese champú huele a limón.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "frases"
+   ],
+   "explicacion": "La frase es: Ese champú huele a limón. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
   }
  ]
 }

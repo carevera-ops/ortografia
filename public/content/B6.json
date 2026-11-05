@@ -5,72 +5,38 @@
    "id": "B6-0001",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Vamos ___ la playa.",
+   "frase": "___, me llamo Sara.",
    "opciones": [
-    "ha",
-    "a"
+    "Hola",
+    "Ola"
    ],
-   "respuesta": "a",
+   "respuesta": "Hola",
    "dificultad": 1,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Vamos a la playa. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
+   "explicacion": "Hola, me llamo Sara. «Hola» (con h) es el saludo.",
    "regla_id": "homofonos"
   },
   {
    "id": "B6-0002",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Mi hermano ___ ganado el concurso.",
+   "frase": "Ya he ___ los deberes.",
    "opciones": [
-    "ha",
-    "a"
-   ],
-   "respuesta": "ha",
-   "dificultad": 1,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Mi hermano ha ganado el concurso. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0003",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "¿Qué has ___ hoy?",
-   "opciones": [
-    "echo",
-    "hecho"
+    "hecho",
+    "echo"
    ],
    "respuesta": "hecho",
    "dificultad": 1,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "¿Qué has hecho hoy? «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "explicacion": "Ya he hecho los deberes. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0004",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Una ___ enorme mojó la toalla.",
-   "opciones": [
-    "ola",
-    "hola"
-   ],
-   "respuesta": "ola",
-   "dificultad": 1,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Una ola enorme mojó la toalla. «Ola» (sin h) es la del mar.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0005",
+   "id": "B6-0003",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Mi madre ___ hecho una tarta.",
@@ -87,59 +53,7 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0006",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Le dije ___ a mi vecina.",
-   "opciones": [
-    "hola",
-    "ola"
-   ],
-   "respuesta": "hola",
-   "dificultad": 1,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Le dije hola a mi vecina. «Hola» (con h) es el saludo.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0007",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ha ___ un dibujo precioso.",
-   "opciones": [
-    "hecho",
-    "echo"
-   ],
-   "respuesta": "hecho",
-   "dificultad": 1,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Ha hecho un dibujo precioso. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0008",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "En mi clase ___ veinte alumnos.",
-   "opciones": [
-    "ahí",
-    "ay",
-    "hay"
-   ],
-   "respuesta": "hay",
-   "dificultad": 1,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "En mi clase hay veinte alumnos. «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0009",
+   "id": "B6-0004",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___ muchos niños en el parque.",
@@ -157,7 +71,58 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0010",
+   "id": "B6-0005",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Has ___ la cama?",
+   "opciones": [
+    "echo",
+    "hecho"
+   ],
+   "respuesta": "hecho",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¿Has hecho la cama? «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0006",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Este jersey está ___ de lana.",
+   "opciones": [
+    "echo",
+    "hecho"
+   ],
+   "respuesta": "hecho",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Este jersey está hecho de lana. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0007",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi hermano ___ ganado el concurso.",
+   "opciones": [
+    "ha",
+    "a"
+   ],
+   "respuesta": "ha",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Mi hermano ha ganado el concurso. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0008",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___, ¿qué tal estás?",
@@ -174,24 +139,41 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0011",
+   "id": "B6-0009",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Ya he ___ los deberes.",
+   "frase": "Le dije ___ a mi vecina.",
    "opciones": [
-    "hecho",
-    "echo"
+    "hola",
+    "ola"
+   ],
+   "respuesta": "hola",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Le dije hola a mi vecina. «Hola» (con h) es el saludo.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0010",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Qué has ___ hoy?",
+   "opciones": [
+    "echo",
+    "hecho"
    ],
    "respuesta": "hecho",
    "dificultad": 1,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Ya he hecho los deberes. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "explicacion": "¿Qué has hecho hoy? «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0012",
+   "id": "B6-0011",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Voy ___ comprar pan.",
@@ -208,7 +190,129 @@
    "regla_id": "homofonos"
   },
   {
+   "id": "B6-0012",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ha ___ un dibujo precioso.",
+   "opciones": [
+    "hecho",
+    "echo"
+   ],
+   "respuesta": "hecho",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Ha hecho un dibujo precioso. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "regla_id": "homofonos"
+  },
+  {
    "id": "B6-0013",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Sobre la mesa ___ un libro.",
+   "opciones": [
+    "ahí",
+    "hay",
+    "ay"
+   ],
+   "respuesta": "hay",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Sobre la mesa hay un libro. «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0014",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vamos ___ la playa.",
+   "opciones": [
+    "ha",
+    "a"
+   ],
+   "respuesta": "a",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Vamos a la playa. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0015",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ alguien en casa?",
+   "opciones": [
+    "Ay",
+    "Ahí",
+    "Hay"
+   ],
+   "respuesta": "Hay",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¿Hay alguien en casa? «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0016",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "En mi clase ___ veinte alumnos.",
+   "opciones": [
+    "ahí",
+    "ay",
+    "hay"
+   ],
+   "respuesta": "hay",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "En mi clase hay veinte alumnos. «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0017",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vamos ___ jugar al parque.",
+   "opciones": [
+    "ha",
+    "a"
+   ],
+   "respuesta": "a",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Vamos a jugar al parque. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0018",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Lucía ___ terminado los deberes.",
+   "opciones": [
+    "ha",
+    "a"
+   ],
+   "respuesta": "ha",
+   "dificultad": 1,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lucía ha terminado los deberes. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0019",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "¿___ leche en la nevera?",
@@ -226,297 +330,93 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0014",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Hay una ___ alrededor del jardín.",
-   "opciones": [
-    "vaya",
-    "valla",
-    "baya"
-   ],
-   "respuesta": "valla",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Hay una valla alrededor del jardín. «Valla» es una cerca o barrera.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0015",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Me gusta saltar las ___.",
-   "opciones": [
-    "olas",
-    "holas"
-   ],
-   "respuesta": "olas",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Me gusta saltar las olas. «Olas» (sin h) son las del mar.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0016",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ está tu hermano.",
-   "opciones": [
-    "Hay",
-    "Ahí",
-    "Ay"
-   ],
-   "respuesta": "Ahí",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Ahí está tu hermano. «Ahí» indica un lugar: ahí está, ponlo ahí.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0017",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Tiene que ___ un error.",
-   "opciones": [
-    "haber",
-    "a ver"
-   ],
-   "respuesta": "haber",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Tiene que haber un error. «Haber» es un verbo: tiene que haber, puede haber.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0018",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "El agua sale por un ___.",
-   "opciones": [
-    "tubo",
-    "tuvo"
-   ],
-   "respuesta": "tubo",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "El agua sale por un tubo. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0019",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Si me ___ triste, dame un abrazo.",
-   "opciones": [
-    "ves",
-    "vez"
-   ],
-   "respuesta": "ves",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Si me ves triste, dame un abrazo. «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
-   "regla_id": "homofonos"
-  },
-  {
    "id": "B6-0020",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ mañana.",
+   "frase": "Una ___ enorme mojó la toalla.",
    "opciones": [
-    "Asta",
-    "Hasta"
+    "ola",
+    "hola"
    ],
-   "respuesta": "Hasta",
-   "dificultad": 2,
+   "respuesta": "ola",
+   "dificultad": 1,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Hasta mañana. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "explicacion": "Una ola enorme mojó la toalla. «Ola» (sin h) es la del mar.",
    "regla_id": "homofonos"
   },
   {
    "id": "B6-0021",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Le dije ola a mi vecina.",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Esa ___ era enorme.",
    "opciones": [
-    "Le",
-    "dije",
-    "ola",
-    "a",
-    "mi",
-    "vecina."
+    "hola",
+    "ola"
    ],
-   "respuesta": 2,
-   "correccion": "hola",
-   "dificultad": 2,
+   "respuesta": "ola",
+   "dificultad": 1,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Le dije hola a mi vecina. «Hola» (con h) es el saludo.",
+   "explicacion": "Esa ola era enorme. «Ola» (sin h) es la del mar.",
    "regla_id": "homofonos"
   },
   {
    "id": "B6-0022",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Yo ___ terminado el examen.",
+   "frase": "¿Quién ___ llamado?",
    "opciones": [
-    "e",
-    "he"
+    "a",
+    "ha"
    ],
-   "respuesta": "he",
-   "dificultad": 2,
+   "respuesta": "ha",
+   "dificultad": 1,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Yo he terminado el examen. «He» (con h) es del verbo haber: he desayunado, he terminado.",
+   "explicacion": "¿Quién ha llamado? «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
    "regla_id": "homofonos"
   },
   {
    "id": "B6-0023",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Una hola enorme mojó la toalla.",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___, qué daño me he hecho!",
    "opciones": [
-    "Una",
-    "hola",
-    "enorme",
-    "mojó",
-    "la",
-    "toalla."
+    "Ay",
+    "Ahí",
+    "Hay"
    ],
-   "respuesta": 1,
-   "correccion": "ola",
+   "respuesta": "Ay",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Una ola enorme mojó la toalla. «Ola» (sin h) es la del mar.",
+   "explicacion": "¡Ay, qué daño me he hecho! «¡Ay!» es una exclamación de dolor o susto.",
    "regla_id": "homofonos"
   },
   {
    "id": "B6-0024",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Qué has echo hoy?",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Las vacas comen ___.",
    "opciones": [
-    "¿Qué",
-    "has",
-    "echo",
-    "hoy?"
+    "hierba",
+    "hierva"
    ],
-   "respuesta": 2,
-   "correccion": "hecho",
+   "respuesta": "hierba",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: ¿Qué has hecho hoy? «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "explicacion": "Las vacas comen hierba. «Hierba» (con b) es la planta verde que comen las vacas.",
    "regla_id": "homofonos"
   },
   {
    "id": "B6-0025",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Se ___ para escuchar la música.",
-   "opciones": [
-    "calló",
-    "cayó"
-   ],
-   "respuesta": "calló",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Se calló para escuchar la música. «Calló» (con ll) es del verbo callar (quedarse en silencio).",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0026",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ola, ¿qué tal estás?",
-   "opciones": [
-    "Ola,",
-    "¿qué",
-    "tal",
-    "estás?"
-   ],
-   "respuesta": 0,
-   "correccion": "Hola",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Hola, ¿qué tal estás? «Hola» (con h) es el saludo.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0027",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "La pelota no para de ___.",
-   "opciones": [
-    "votar",
-    "botar"
-   ],
-   "respuesta": "botar",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "La pelota no para de botar. «Botar» (con b) es lo que hace una pelota al rebotar.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0028",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Es un paisaje muy ___.",
-   "opciones": [
-    "vello",
-    "bello"
-   ],
-   "respuesta": "bello",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Es un paisaje muy bello. «Bello» (con b) significa bonito.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0029",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Todavía no ___ desayunado.",
-   "opciones": [
-    "he",
-    "e"
-   ],
-   "respuesta": "he",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Todavía no he desayunado. «He» (con h) es del verbo haber: he desayunado, he terminado.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0030",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___, ¿quién ha sido?",
@@ -533,154 +433,41 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0031",
+   "id": "B6-0026",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "¡___ sorpresa!",
+   "frase": "___ mañana.",
    "opciones": [
-    "Valla",
-    "Vaya",
-    "Baya"
+    "Asta",
+    "Hasta"
    ],
-   "respuesta": "Vaya",
+   "respuesta": "Hasta",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "¡Vaya sorpresa! «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "explicacion": "Hasta mañana. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0032",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ya he echo los deberes.",
-   "opciones": [
-    "Ya",
-    "he",
-    "echo",
-    "los",
-    "deberes."
-   ],
-   "respuesta": 2,
-   "correccion": "hecho",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Ya he hecho los deberes. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0033",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mi hermano a ganado el concurso.",
-   "opciones": [
-    "Mi",
-    "hermano",
-    "a",
-    "ganado",
-    "el",
-    "concurso."
-   ],
-   "respuesta": 2,
-   "correccion": "ha",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Mi hermano ha ganado el concurso. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0034",
+   "id": "B6-0027",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Siempre ___ sal a la ensalada.",
+   "frase": "Otra ___ has llegado tarde.",
    "opciones": [
-    "echo",
-    "hecho"
+    "ves",
+    "vez"
    ],
-   "respuesta": "echo",
+   "respuesta": "vez",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Siempre echo sal a la ensalada. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "explicacion": "Otra vez has llegado tarde. «Vez» (con z) es una ocasión: otra vez, había una vez.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0035",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Quiero que ___ contigo.",
-   "opciones": [
-    "vaya",
-    "baya",
-    "valla"
-   ],
-   "respuesta": "vaya",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Quiero que vaya contigo. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0036",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Sabe ___ el balón con las dos manos.",
-   "opciones": [
-    "votar",
-    "botar"
-   ],
-   "respuesta": "botar",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Sabe botar el balón con las dos manos. «Botar» (con b) es lo que hace una pelota al rebotar.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0037",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Yo ___ las cartas al buzón.",
-   "opciones": [
-    "echo",
-    "hecho"
-   ],
-   "respuesta": "echo",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Yo echo las cartas al buzón. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0038",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Vamos ___ la película.",
-   "opciones": [
-    "haber",
-    "a ver"
-   ],
-   "respuesta": "a ver",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Vamos a ver la película. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0039",
+   "id": "B6-0028",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Deja la mochila ___, encima de la silla.",
@@ -698,207 +485,111 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0040",
+   "id": "B6-0029",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Ayer ___ fiebre.",
+   "frase": "Había una ___ un dragón.",
    "opciones": [
-    "tuvo",
-    "tubo"
+    "ves",
+    "vez"
    ],
-   "respuesta": "tuvo",
+   "respuesta": "vez",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Ayer tuvo fiebre. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
+   "explicacion": "Había una vez un dragón. «Vez» (con z) es una ocasión: otra vez, había una vez.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0041",
+   "id": "B6-0030",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Cuando entró la profesora, todo el mundo se ___.",
+   "frase": "Sabe ___ el balón con las dos manos.",
+   "opciones": [
+    "votar",
+    "botar"
+   ],
+   "respuesta": "botar",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Sabe botar el balón con las dos manos. «Botar» (con b) es lo que hace una pelota al rebotar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0031",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Más ___ de las montañas hay un lago.",
+   "opciones": [
+    "allá",
+    "halla",
+    "haya"
+   ],
+   "respuesta": "allá",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Más allá de las montañas hay un lago. «Allá» indica un lugar lejano.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0032",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Puede ___ tormenta esta tarde.",
+   "opciones": [
+    "haber",
+    "a ver"
+   ],
+   "respuesta": "haber",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Puede haber tormenta esta tarde. «Haber» es un verbo: tiene que haber, puede haber.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0033",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ está tu hermano.",
+   "opciones": [
+    "Hay",
+    "Ahí",
+    "Ay"
+   ],
+   "respuesta": "Ahí",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Ahí está tu hermano. «Ahí» indica un lugar: ahí está, ponlo ahí.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0034",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi hermano se ___ de la bici.",
    "opciones": [
     "calló",
     "cayó"
    ],
-   "respuesta": "calló",
+   "respuesta": "cayó",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Cuando entró la profesora, todo el mundo se calló. «Calló» (con ll) es del verbo callar (quedarse en silencio).",
+   "explicacion": "Mi hermano se cayó de la bici. «Cayó» (con y) es del verbo caer.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0042",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Caminamos ___ el río.",
-   "opciones": [
-    "asta",
-    "hasta"
-   ],
-   "respuesta": "hasta",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Caminamos hasta el río. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0043",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ponlo ___ mismo.",
-   "opciones": [
-    "ay",
-    "ahí",
-    "hay"
-   ],
-   "respuesta": "ahí",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Ponlo ahí mismo. «Ahí» indica un lugar: ahí está, ponlo ahí.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0044",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Vamos ha la playa.",
-   "opciones": [
-    "Vamos",
-    "ha",
-    "la",
-    "playa."
-   ],
-   "respuesta": 1,
-   "correccion": "a",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Vamos a la playa. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0045",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Mi madre ___ que trabajar el sábado.",
-   "opciones": [
-    "tubo",
-    "tuvo"
-   ],
-   "respuesta": "tuvo",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Mi madre tuvo que trabajar el sábado. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0046",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Ahí leche en la nevera?",
-   "opciones": [
-    "¿Ahí",
-    "leche",
-    "en",
-    "la",
-    "nevera?"
-   ],
-   "respuesta": 0,
-   "correccion": "Hay",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: ¿Hay leche en la nevera? «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0047",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ojalá ___ pizza para cenar.",
-   "opciones": [
-    "halla",
-    "allá",
-    "haya"
-   ],
-   "respuesta": "haya",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Ojalá haya pizza para cenar. «Haya» es del verbo haber (ojalá haya) o un árbol.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0048",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Voy ha comprar pan.",
-   "opciones": [
-    "Voy",
-    "ha",
-    "comprar",
-    "pan."
-   ],
-   "respuesta": 1,
-   "correccion": "a",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Voy a comprar pan. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0049",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "¡___, qué susto!",
-   "opciones": [
-    "Ahí",
-    "Ay",
-    "Hay"
-   ],
-   "respuesta": "Ay",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "¡Ay, qué susto! «¡Ay!» es una exclamación de dolor o susto.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0050",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Mi abuela es una mujer muy ___.",
-   "opciones": [
-    "savia",
-    "sabia"
-   ],
-   "respuesta": "sabia",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Mi abuela es una mujer muy sabia. «Sabia» (con b) es una persona que sabe mucho.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0051",
+   "id": "B6-0035",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "No quiero ___ la mesa con el compás.",
@@ -915,114 +606,24 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0052",
+   "id": "B6-0036",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Te ___ mucho de menos.",
+   "frase": "El balón dejó de ___.",
    "opciones": [
-    "echo",
-    "hecho"
+    "votar",
+    "botar"
    ],
-   "respuesta": "echo",
+   "respuesta": "botar",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Te echo mucho de menos. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "explicacion": "El balón dejó de botar. «Botar» (con b) es lo que hace una pelota al rebotar.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0053",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ahí muchos niños en el parque.",
-   "opciones": [
-    "Ahí",
-    "muchos",
-    "niños",
-    "en",
-    "el",
-    "parque."
-   ],
-   "respuesta": 0,
-   "correccion": "Hay",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Hay muchos niños en el parque. «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0054",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Necesito un ___ de pegamento.",
-   "opciones": [
-    "tubo",
-    "tuvo"
-   ],
-   "respuesta": "tubo",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Necesito un tubo de pegamento. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0055",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Estudié ___ las ocho.",
-   "opciones": [
-    "asta",
-    "hasta"
-   ],
-   "respuesta": "hasta",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Estudié hasta las ocho. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0056",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Otra ___ has llegado tarde.",
-   "opciones": [
-    "ves",
-    "vez"
-   ],
-   "respuesta": "vez",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Otra vez has llegado tarde. «Vez» (con z) es una ocasión: otra vez, había una vez.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0057",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Voy ___ a mi abuela.",
-   "opciones": [
-    "haber",
-    "a ver"
-   ],
-   "respuesta": "a ver",
-   "dificultad": 2,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Voy a ver a mi abuela. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0058",
+   "id": "B6-0037",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "En mi clase ahí veinte alumnos.",
@@ -1044,7 +645,414 @@
    "regla_id": "homofonos"
   },
   {
+   "id": "B6-0038",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Los mayores de edad pueden ___.",
+   "opciones": [
+    "botar",
+    "votar"
+   ],
+   "respuesta": "votar",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Los mayores de edad pueden votar. «Votar» (con v) es elegir en unas votaciones.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0039",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hay que ___ el queso para la pizza.",
+   "opciones": [
+    "rayar",
+    "rallar"
+   ],
+   "respuesta": "rallar",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Hay que rallar el queso para la pizza. «Rallar» (con ll) es desmenuzar con un rallador: rallar queso.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0040",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Caminamos ___ el río.",
+   "opciones": [
+    "asta",
+    "hasta"
+   ],
+   "respuesta": "hasta",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Caminamos hasta el río. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0041",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No creo que ___ a llover.",
+   "opciones": [
+    "vaya",
+    "baya",
+    "valla"
+   ],
+   "respuesta": "vaya",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "No creo que vaya a llover. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0042",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Te ___ mucho de menos.",
+   "opciones": [
+    "echo",
+    "hecho"
+   ],
+   "respuesta": "echo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Te echo mucho de menos. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0043",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Vamos ha jugar al parque.",
+   "opciones": [
+    "Vamos",
+    "ha",
+    "jugar",
+    "al",
+    "parque."
+   ],
+   "respuesta": 1,
+   "correccion": "a",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Vamos a jugar al parque. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0044",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "La hoja ___ del árbol.",
+   "opciones": [
+    "cayó",
+    "calló"
+   ],
+   "respuesta": "cayó",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "La hoja cayó del árbol. «Cayó» (con y) es del verbo caer.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0045",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Si me ___ triste, dame un abrazo.",
+   "opciones": [
+    "ves",
+    "vez"
+   ],
+   "respuesta": "ves",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Si me ves triste, dame un abrazo. «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0046",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ visto un arcoíris.",
+   "opciones": [
+    "E",
+    "He"
+   ],
+   "respuesta": "He",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "He visto un arcoíris. «He» (con h) es del verbo haber: he desayunado, he terminado.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0047",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi madre ___ que trabajar el sábado.",
+   "opciones": [
+    "tubo",
+    "tuvo"
+   ],
+   "respuesta": "tuvo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Mi madre tuvo que trabajar el sábado. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0048",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi casa está más ___ del puente.",
+   "opciones": [
+    "halla",
+    "allá",
+    "haya"
+   ],
+   "respuesta": "allá",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Mi casa está más allá del puente. «Allá» indica un lugar lejano.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0049",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El vaso se ___ al suelo.",
+   "opciones": [
+    "cayó",
+    "calló"
+   ],
+   "respuesta": "cayó",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "El vaso se cayó al suelo. «Cayó» (con y) es del verbo caer.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0050",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El agua sale por un ___.",
+   "opciones": [
+    "tubo",
+    "tuvo"
+   ],
+   "respuesta": "tubo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "El agua sale por un tubo. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0051",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El caballo saltó la ___.",
+   "opciones": [
+    "valla",
+    "baya",
+    "vaya"
+   ],
+   "respuesta": "valla",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "El caballo saltó la valla. «Valla» es una cerca o barrera.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0052",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Por última ___, recoge tu cuarto.",
+   "opciones": [
+    "vez",
+    "ves"
+   ],
+   "respuesta": "vez",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Por última vez, recoge tu cuarto. «Vez» (con z) es una ocasión: otra vez, había una vez.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0053",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___, me he pillado el dedo!",
+   "opciones": [
+    "Ay",
+    "Ahí",
+    "Hay"
+   ],
+   "respuesta": "Ay",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¡Ay, me he pillado el dedo! «¡Ay!» es una exclamación de dolor o susto.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0054",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Contamos ___ diez.",
+   "opciones": [
+    "hasta",
+    "asta"
+   ],
+   "respuesta": "hasta",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Contamos hasta diez. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0055",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Le dije ola a mi vecina.",
+   "opciones": [
+    "Le",
+    "dije",
+    "ola",
+    "a",
+    "mi",
+    "vecina."
+   ],
+   "respuesta": 2,
+   "correccion": "hola",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Le dije hola a mi vecina. «Hola» (con h) es el saludo.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0056",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Qué has echo hoy?",
+   "opciones": [
+    "¿Qué",
+    "has",
+    "echo",
+    "hoy?"
+   ],
+   "respuesta": 2,
+   "correccion": "hecho",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¿Qué has hecho hoy? «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0057",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vamos ___ la película.",
+   "opciones": [
+    "haber",
+    "a ver"
+   ],
+   "respuesta": "a ver",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Vamos a ver la película. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0058",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mañana vamos a ___ en clase.",
+   "opciones": [
+    "votar",
+    "botar"
+   ],
+   "respuesta": "votar",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Mañana vamos a votar en clase. «Votar» (con v) es elegir en unas votaciones.",
+   "regla_id": "homofonos"
+  },
+  {
    "id": "B6-0059",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Se ___ para escuchar la música.",
+   "opciones": [
+    "calló",
+    "cayó"
+   ],
+   "respuesta": "calló",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Se calló para escuchar la música. «Calló» (con ll) es del verbo callar (quedarse en silencio).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0060",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ la luna?",
+   "opciones": [
+    "Ves",
+    "Vez"
+   ],
+   "respuesta": "Ves",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¿Ves la luna? «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0061",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Ha echo un dibujo precioso.",
@@ -1065,24 +1073,195 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0060",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Mi hermano se ___ de la bici.",
+   "id": "B6-0062",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi madre a hecho una tarta.",
    "opciones": [
-    "calló",
-    "cayó"
+    "Mi",
+    "madre",
+    "a",
+    "hecho",
+    "una",
+    "tarta."
    ],
-   "respuesta": "cayó",
+   "respuesta": 2,
+   "correccion": "ha",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Mi hermano se cayó de la bici. «Cayó» (con y) es del verbo caer.",
+   "explicacion": "Lo correcto es: Mi madre ha hecho una tarta. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0061",
+   "id": "B6-0063",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ojalá ___ pizza para cenar.",
+   "opciones": [
+    "halla",
+    "allá",
+    "haya"
+   ],
+   "respuesta": "haya",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Ojalá haya pizza para cenar. «Haya» es del verbo haber (ojalá haya) o un árbol.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0064",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Yo ___ las cartas al buzón.",
+   "opciones": [
+    "echo",
+    "hecho"
+   ],
+   "respuesta": "echo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Yo echo las cartas al buzón. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0065",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Ahí alguien en casa?",
+   "opciones": [
+    "¿Ahí",
+    "alguien",
+    "en",
+    "casa?"
+   ],
+   "respuesta": 0,
+   "correccion": "Hay",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¿Hay alguien en casa? «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0066",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Ahí leche en la nevera?",
+   "opciones": [
+    "¿Ahí",
+    "leche",
+    "en",
+    "la",
+    "nevera?"
+   ],
+   "respuesta": 0,
+   "correccion": "Hay",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¿Hay leche en la nevera? «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0067",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Espero que te ___ bien el examen.",
+   "opciones": [
+    "baya",
+    "vaya",
+    "valla"
+   ],
+   "respuesta": "vaya",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Espero que te vaya bien el examen. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0068",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vengo ___ a mi primo.",
+   "opciones": [
+    "haber",
+    "a ver"
+   ],
+   "respuesta": "a ver",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Vengo a ver a mi primo. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0069",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Siempre ___ sal a la ensalada.",
+   "opciones": [
+    "echo",
+    "hecho"
+   ],
+   "respuesta": "echo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Siempre echo sal a la ensalada. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0070",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ola, me llamo Sara.",
+   "opciones": [
+    "Ola,",
+    "me",
+    "llamo",
+    "Sara."
+   ],
+   "respuesta": 0,
+   "correccion": "Hola",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Hola, me llamo Sara. «Hola» (con h) es el saludo.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0071",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hay una ___ alrededor del jardín.",
+   "opciones": [
+    "vaya",
+    "valla",
+    "baya"
+   ],
+   "respuesta": "valla",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Hay una valla alrededor del jardín. «Valla» es una cerca o barrera.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0072",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "En clase vamos a ___ al delegado.",
@@ -1099,61 +1278,330 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0062",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Hay que ___ el queso para la pizza.",
+   "id": "B6-0073",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Quién a llamado?",
    "opciones": [
-    "rayar",
-    "rallar"
+    "¿Quién",
+    "a",
+    "llamado?"
    ],
-   "respuesta": "rallar",
+   "respuesta": 1,
+   "correccion": "ha",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Hay que rallar el queso para la pizza. «Rallar» (con ll) es desmenuzar con un rallador: rallar queso.",
+   "explicacion": "Lo correcto es: ¿Quién ha llamado? «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0063",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Las vacas comen ___.",
+   "id": "B6-0074",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Has echo la cama?",
    "opciones": [
-    "hierba",
-    "hierva"
+    "¿Has",
+    "echo",
+    "la",
+    "cama?"
    ],
-   "respuesta": "hierba",
+   "respuesta": 1,
+   "correccion": "hecho",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Las vacas comen hierba. «Hierba» (con b) es la planta verde que comen las vacas.",
+   "explicacion": "Lo correcto es: ¿Has hecho la cama? «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0064",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Había una ___ un dragón.",
+   "id": "B6-0075",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sobre la mesa ahí un libro.",
    "opciones": [
-    "ves",
-    "vez"
+    "Sobre",
+    "la",
+    "mesa",
+    "ahí",
+    "un",
+    "libro."
    ],
-   "respuesta": "vez",
+   "respuesta": 3,
+   "correccion": "hay",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Había una vez un dragón. «Vez» (con z) es una ocasión: otra vez, había una vez.",
+   "explicacion": "Lo correcto es: Sobre la mesa hay un libro. «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0065",
+   "id": "B6-0076",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "No creo que ___ a llover.",
+   "frase": "Es un paisaje muy ___.",
+   "opciones": [
+    "vello",
+    "bello"
+   ],
+   "respuesta": "bello",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Es un paisaje muy bello. «Bello» (con b) significa bonito.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0077",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Va a ___ una fiesta en el colegio.",
+   "opciones": [
+    "a ver",
+    "haber"
+   ],
+   "respuesta": "haber",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Va a haber una fiesta en el colegio. «Haber» es un verbo: tiene que haber, puede haber.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0078",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Cuando ___ terminado, te aviso.",
+   "opciones": [
+    "allá",
+    "haya",
+    "halla"
+   ],
+   "respuesta": "haya",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Cuando haya terminado, te aviso. «Haya» es del verbo haber (ojalá haya) o un árbol.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0079",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ponlo ___ mismo.",
+   "opciones": [
+    "ay",
+    "ahí",
+    "hay"
+   ],
+   "respuesta": "ahí",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Ponlo ahí mismo. «Ahí» indica un lugar: ahí está, ponlo ahí.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0080",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ viene el autobús.",
+   "opciones": [
+    "Ay",
+    "Hay",
+    "Ahí"
+   ],
+   "respuesta": "Ahí",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Ahí viene el autobús. «Ahí» indica un lugar: ahí está, ponlo ahí.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0081",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi hermano a ganado el concurso.",
+   "opciones": [
+    "Mi",
+    "hermano",
+    "a",
+    "ganado",
+    "el",
+    "concurso."
+   ],
+   "respuesta": 2,
+   "correccion": "ha",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Mi hermano ha ganado el concurso. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0082",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pintamos la ___ del jardín.",
+   "opciones": [
+    "vaya",
+    "valla",
+    "baya"
+   ],
+   "respuesta": "valla",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Pintamos la valla del jardín. «Valla» es una cerca o barrera.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0083",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Cuando entró la profesora, todo el mundo se ___.",
+   "opciones": [
+    "calló",
+    "cayó"
+   ],
+   "respuesta": "calló",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Cuando entró la profesora, todo el mundo se calló. «Calló» (con ll) es del verbo callar (quedarse en silencio).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0084",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Esa hola era enorme.",
+   "opciones": [
+    "Esa",
+    "hola",
+    "era",
+    "enorme."
+   ],
+   "respuesta": 1,
+   "correccion": "ola",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Esa ola era enorme. «Ola» (sin h) es la del mar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0085",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ gol has marcado!",
+   "opciones": [
+    "Valla",
+    "Vaya",
+    "Baya"
+   ],
+   "respuesta": "Vaya",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¡Vaya gol has marcado! «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0086",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Voy ha comprar pan.",
+   "opciones": [
+    "Voy",
+    "ha",
+    "comprar",
+    "pan."
+   ],
+   "respuesta": 1,
+   "correccion": "a",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Voy a comprar pan. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0087",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Voy ___ a mi abuela.",
+   "opciones": [
+    "haber",
+    "a ver"
+   ],
+   "respuesta": "a ver",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Voy a ver a mi abuela. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0088",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vamos ___ si llueve.",
+   "opciones": [
+    "haber",
+    "a ver"
+   ],
+   "respuesta": "a ver",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Vamos a ver si llueve. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0089",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ahí muchos niños en el parque.",
+   "opciones": [
+    "Ahí",
+    "muchos",
+    "niños",
+    "en",
+    "el",
+    "parque."
+   ],
+   "respuesta": 0,
+   "correccion": "Hay",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Hay muchos niños en el parque. «Hay» es del verbo haber: indica que algo existe (hay niños, ¿hay leche?).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0090",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Quiero que ___ contigo.",
    "opciones": [
     "vaya",
     "baya",
@@ -1164,11 +1612,234 @@
    "skills": [
     "homofonos"
    ],
-   "explicacion": "No creo que vaya a llover. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "explicacion": "Quiero que vaya contigo. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0066",
+   "id": "B6-0091",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Se rompió el ___ del agua.",
+   "opciones": [
+    "tuvo",
+    "tubo"
+   ],
+   "respuesta": "tubo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Se rompió el tubo del agua. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0092",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi abuela es una mujer muy ___.",
+   "opciones": [
+    "savia",
+    "sabia"
+   ],
+   "respuesta": "sabia",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Mi abuela es una mujer muy sabia. «Sabia» (con b) es una persona que sabe mucho.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0093",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Necesito un ___ de pegamento.",
+   "opciones": [
+    "tubo",
+    "tuvo"
+   ],
+   "respuesta": "tubo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Necesito un tubo de pegamento. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0094",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Una hola enorme mojó la toalla.",
+   "opciones": [
+    "Una",
+    "hola",
+    "enorme",
+    "mojó",
+    "la",
+    "toalla."
+   ],
+   "respuesta": 1,
+   "correccion": "ola",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Una ola enorme mojó la toalla. «Ola» (sin h) es la del mar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0095",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___, qué susto!",
+   "opciones": [
+    "Ahí",
+    "Ay",
+    "Hay"
+   ],
+   "respuesta": "Ay",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¡Ay, qué susto! «¡Ay!» es una exclamación de dolor o susto.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0096",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Este jersey está echo de lana.",
+   "opciones": [
+    "Este",
+    "jersey",
+    "está",
+    "echo",
+    "de",
+    "lana."
+   ],
+   "respuesta": 3,
+   "correccion": "hecho",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Este jersey está hecho de lana. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0097",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me gusta saltar las ___.",
+   "opciones": [
+    "olas",
+    "holas"
+   ],
+   "respuesta": "olas",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Me gusta saltar las olas. «Olas» (sin h) son las del mar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0098",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Nos tumbamos en la ___.",
+   "opciones": [
+    "hierba",
+    "hierva"
+   ],
+   "respuesta": "hierba",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Nos tumbamos en la hierba. «Hierba» (con b) es la planta verde que comen las vacas.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0099",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Lucía a terminado los deberes.",
+   "opciones": [
+    "Lucía",
+    "a",
+    "terminado",
+    "los",
+    "deberes."
+   ],
+   "respuesta": 1,
+   "correccion": "ha",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Lucía ha terminado los deberes. «Ha» (con h) es del verbo haber y va delante de otro verbo: ha ganado, ha hecho.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0100",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ya he echo los deberes.",
+   "opciones": [
+    "Ya",
+    "he",
+    "echo",
+    "los",
+    "deberes."
+   ],
+   "respuesta": 2,
+   "correccion": "hecho",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Ya he hecho los deberes. «Hecho» (con h) es del verbo hacer: he hecho los deberes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0101",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ aquel pájaro?",
+   "opciones": [
+    "Vez",
+    "Ves"
+   ],
+   "respuesta": "Ves",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¿Ves aquel pájaro? «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0102",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ mucha suerte en el sorteo.",
+   "opciones": [
+    "Tuvo",
+    "Tubo"
+   ],
+   "respuesta": "Tuvo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Tuvo mucha suerte en el sorteo. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0103",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Debe de ___ mucha gente en la playa.",
@@ -1185,46 +1856,184 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0067",
+   "id": "B6-0104",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Mi casa está más ___ del puente.",
+   "frase": "Tiene que ___ un error.",
    "opciones": [
-    "halla",
-    "allá",
-    "haya"
+    "haber",
+    "a ver"
    ],
-   "respuesta": "allá",
+   "respuesta": "haber",
    "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Mi casa está más allá del puente. «Allá» indica un lugar lejano.",
+   "explicacion": "Tiene que haber un error. «Haber» es un verbo: tiene que haber, puede haber.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0068",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Yo e terminado el examen.",
+   "id": "B6-0105",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ayer ___ fiebre.",
    "opciones": [
-    "Yo",
-    "e",
-    "terminado",
-    "el",
-    "examen."
+    "tuvo",
+    "tubo"
    ],
-   "respuesta": 1,
-   "correccion": "he",
-   "dificultad": 3,
+   "respuesta": "tuvo",
+   "dificultad": 2,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Yo he terminado el examen. «He» (con h) es del verbo haber: he desayunado, he terminado.",
+   "explicacion": "Ayer tuvo fiebre. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0069",
+   "id": "B6-0106",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Vamos ha la playa.",
+   "opciones": [
+    "Vamos",
+    "ha",
+    "la",
+    "playa."
+   ],
+   "respuesta": 1,
+   "correccion": "a",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Vamos a la playa. «A» (sin h) es una preposición: voy a la playa, voy a comprar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0107",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Estudié ___ las ocho.",
+   "opciones": [
+    "asta",
+    "hasta"
+   ],
+   "respuesta": "hasta",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Estudié hasta las ocho. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0108",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ sorpresa!",
+   "opciones": [
+    "Valla",
+    "Vaya",
+    "Baya"
+   ],
+   "respuesta": "Vaya",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "¡Vaya sorpresa! «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0109",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ de menos a mis amigos del campamento.",
+   "opciones": [
+    "Hecho",
+    "Echo"
+   ],
+   "respuesta": "Echo",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Echo de menos a mis amigos del campamento. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0110",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Todavía no ___ desayunado.",
+   "opciones": [
+    "he",
+    "e"
+   ],
+   "respuesta": "he",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Todavía no he desayunado. «He» (con h) es del verbo haber: he desayunado, he terminado.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0111",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "La pelota no para de ___.",
+   "opciones": [
+    "votar",
+    "botar"
+   ],
+   "respuesta": "botar",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "La pelota no para de botar. «Botar» (con b) es lo que hace una pelota al rebotar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0112",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ola, ¿qué tal estás?",
+   "opciones": [
+    "Ola,",
+    "¿qué",
+    "tal",
+    "estás?"
+   ],
+   "respuesta": 0,
+   "correccion": "Hola",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Hola, ¿qué tal estás? «Hola» (con h) es el saludo.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0113",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Yo ___ terminado el examen.",
+   "opciones": [
+    "e",
+    "he"
+   ],
+   "respuesta": "he",
+   "dificultad": 2,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Yo he terminado el examen. «He» (con h) es del verbo haber: he desayunado, he terminado.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0114",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Vamos haber la película.",
@@ -1244,62 +2053,53 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0070",
+   "id": "B6-0115",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "No creo que valla a llover.",
+   "frase": "Ponlo hay mismo.",
    "opciones": [
-    "No",
-    "creo",
-    "que",
-    "valla",
-    "a",
-    "llover."
+    "Ponlo",
+    "hay",
+    "mismo."
    ],
-   "respuesta": 3,
-   "correccion": "vaya",
+   "respuesta": 1,
+   "correccion": "ahí",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: No creo que vaya a llover. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "explicacion": "Lo correcto es: Ponlo ahí mismo. «Ahí» indica un lugar: ahí está, ponlo ahí.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0071",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mi casa está más haya del puente.",
+   "id": "B6-0116",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Aprendimos matemáticas ___ inglés.",
    "opciones": [
-    "Mi",
-    "casa",
-    "está",
-    "más",
-    "haya",
-    "del",
-    "puente."
+    "he",
+    "e"
    ],
-   "respuesta": 4,
-   "correccion": "allá",
+   "respuesta": "e",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Mi casa está más allá del puente. «Allá» indica un lugar lejano.",
+   "explicacion": "Aprendimos matemáticas e inglés. «E» sustituye a «y» delante de palabras que empiezan por el sonido i: padres e hijos.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0072",
+   "id": "B6-0117",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¡Hay, qué daño me he hecho!",
+   "frase": "¡Ahí, me he pillado el dedo!",
    "opciones": [
-    "¡Hay,",
-    "qué",
-    "daño",
+    "¡Ahí,",
     "me",
     "he",
-    "hecho!"
+    "pillado",
+    "el",
+    "dedo!"
    ],
    "respuesta": 0,
    "correccion": "Ay",
@@ -1307,177 +2107,53 @@
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: ¡Ay, qué daño me he hecho! «¡Ay!» es una exclamación de dolor o susto.",
+   "explicacion": "Lo correcto es: ¡Ay, me he pillado el dedo! «¡Ay!» es una exclamación de dolor o susto.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0073",
+   "id": "B6-0118",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Hay está tu hermano.",
+   "frase": "Tubo mucha suerte en el sorteo.",
    "opciones": [
-    "Hay",
-    "está",
-    "tu",
-    "hermano."
-   ],
-   "respuesta": 0,
-   "correccion": "Ahí",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Ahí está tu hermano. «Ahí» indica un lugar: ahí está, ponlo ahí.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0074",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Necesito un tuvo de pegamento.",
-   "opciones": [
-    "Necesito",
-    "un",
-    "tuvo",
-    "de",
-    "pegamento."
-   ],
-   "respuesta": 2,
-   "correccion": "tubo",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Necesito un tubo de pegamento. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0075",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "El arándano es una ___.",
-   "opciones": [
-    "valla",
-    "baya",
-    "vaya"
-   ],
-   "respuesta": "baya",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "El arándano es una baya. «Baya» es un tipo de fruto pequeño, como el arándano.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0076",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "El vaso se calló al suelo.",
-   "opciones": [
-    "El",
-    "vaso",
-    "se",
-    "calló",
-    "al",
-    "suelo."
-   ],
-   "respuesta": 3,
-   "correccion": "cayó",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: El vaso se cayó al suelo. «Cayó» (con y) es del verbo caer.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0077",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Deja la mochila hay, encima de la silla.",
-   "opciones": [
-    "Deja",
-    "la",
-    "mochila",
-    "hay,",
-    "encima",
-    "de",
-    "la",
-    "silla."
-   ],
-   "respuesta": 3,
-   "correccion": "ahí",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Deja la mochila ahí, encima de la silla. «Ahí» indica un lugar: ahí está, ponlo ahí.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0078",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "No quiero rallar la mesa con el compás.",
-   "opciones": [
-    "No",
-    "quiero",
-    "rallar",
-    "la",
-    "mesa",
-    "con",
+    "Tubo",
+    "mucha",
+    "suerte",
+    "en",
     "el",
-    "compás."
-   ],
-   "respuesta": 2,
-   "correccion": "rayar",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: No quiero rayar la mesa con el compás. «Rayar» (con y) es hacer rayas o arañazos.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0079",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Espera a que ___ el agua.",
-   "opciones": [
-    "hierva",
-    "hierba"
-   ],
-   "respuesta": "hierva",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Espera a que hierva el agua. «Hierva» (con v) es del verbo hervir.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0080",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Haber, ¿quién ha sido?",
-   "opciones": [
-    "Haber,",
-    "¿quién",
-    "ha",
-    "sido?"
+    "sorteo."
    ],
    "respuesta": 0,
-   "correccion": "A ver",
+   "correccion": "Tuvo",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: A ver, ¿quién ha sido? «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "explicacion": "Lo correcto es: Tuvo mucha suerte en el sorteo. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0081",
+   "id": "B6-0119",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Quiero que valla contigo.",
+   "opciones": [
+    "Quiero",
+    "que",
+    "valla",
+    "contigo."
+   ],
+   "respuesta": 2,
+   "correccion": "vaya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Quiero que vaya contigo. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0120",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Todavía no e desayunado.",
@@ -1497,7 +2173,67 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0082",
+   "id": "B6-0121",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Valla sorpresa!",
+   "opciones": [
+    "¡Valla",
+    "sorpresa!"
+   ],
+   "respuesta": 0,
+   "correccion": "Vaya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¡Vaya sorpresa! «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0122",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi madre tubo que trabajar el sábado.",
+   "opciones": [
+    "Mi",
+    "madre",
+    "tubo",
+    "que",
+    "trabajar",
+    "el",
+    "sábado."
+   ],
+   "respuesta": 2,
+   "correccion": "tuvo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Mi madre tuvo que trabajar el sábado. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0123",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Vez aquel pájaro?",
+   "opciones": [
+    "¿Vez",
+    "aquel",
+    "pájaro?"
+   ],
+   "respuesta": 0,
+   "correccion": "Ves",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¿Ves aquel pájaro? «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0124",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Mi hermano se calló de la bici.",
@@ -1520,154 +2256,115 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0083",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "La ___ sube por el tronco del árbol.",
-   "opciones": [
-    "sabia",
-    "savia"
-   ],
-   "respuesta": "savia",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "La savia sube por el tronco del árbol. «Savia» (con v) es el líquido que circula por las plantas.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0084",
+   "id": "B6-0125",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ponlo hay mismo.",
+   "frase": "E visto un arcoíris.",
    "opciones": [
-    "Ponlo",
-    "hay",
-    "mismo."
-   ],
-   "respuesta": 1,
-   "correccion": "ahí",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Ponlo ahí mismo. «Ahí» indica un lugar: ahí está, ponlo ahí.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0085",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Si me vez triste, dame un abrazo.",
-   "opciones": [
-    "Si",
-    "me",
-    "vez",
-    "triste,",
-    "dame",
+    "E",
+    "visto",
     "un",
-    "abrazo."
+    "arcoíris."
    ],
-   "respuesta": 2,
-   "correccion": "ves",
+   "respuesta": 0,
+   "correccion": "He",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Si me ves triste, dame un abrazo. «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "explicacion": "Lo correcto es: He visto un arcoíris. «He» (con h) es del verbo haber: he desayunado, he terminado.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0086",
+   "id": "B6-0126",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Estudié asta las ocho.",
-   "opciones": [
-    "Estudié",
-    "asta",
-    "las",
-    "ocho."
-   ],
-   "respuesta": 1,
-   "correccion": "hasta",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Estudié hasta las ocho. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0087",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "En clase vamos a botar al delegado.",
-   "opciones": [
-    "En",
-    "clase",
-    "vamos",
-    "a",
-    "botar",
-    "al",
-    "delegado."
-   ],
-   "respuesta": 4,
-   "correccion": "votar",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: En clase vamos a votar al delegado. «Votar» (con v) es elegir en unas votaciones.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0088",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mi abuela es una mujer muy savia.",
+   "frase": "Mi casa está más haya del puente.",
    "opciones": [
     "Mi",
-    "abuela",
-    "es",
-    "una",
-    "mujer",
-    "muy",
-    "savia."
+    "casa",
+    "está",
+    "más",
+    "haya",
+    "del",
+    "puente."
    ],
-   "respuesta": 6,
-   "correccion": "sabia",
+   "respuesta": 4,
+   "correccion": "allá",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Mi abuela es una mujer muy sabia. «Sabia» (con b) es una persona que sabe mucho.",
+   "explicacion": "Lo correcto es: Mi casa está más allá del puente. «Allá» indica un lugar lejano.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0089",
+   "id": "B6-0127",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Los mayores de edad pueden botar.",
+   "frase": "Hay que rayar el queso para la pizza.",
    "opciones": [
-    "Los",
-    "mayores",
-    "de",
-    "edad",
-    "pueden",
-    "botar."
+    "Hay",
+    "que",
+    "rayar",
+    "el",
+    "queso",
+    "para",
+    "la",
+    "pizza."
    ],
-   "respuesta": 5,
-   "correccion": "votar",
+   "respuesta": 2,
+   "correccion": "rallar",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Los mayores de edad pueden votar. «Votar» (con v) es elegir en unas votaciones.",
+   "explicacion": "Lo correcto es: Hay que rallar el queso para la pizza. «Rallar» (con ll) es desmenuzar con un rallador: rallar queso.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0090",
+   "id": "B6-0128",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ayer tubo fiebre.",
+   "opciones": [
+    "Ayer",
+    "tubo",
+    "fiebre."
+   ],
+   "respuesta": 1,
+   "correccion": "tuvo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Ayer tuvo fiebre. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0129",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El agua sale por un tuvo.",
+   "opciones": [
+    "El",
+    "agua",
+    "sale",
+    "por",
+    "un",
+    "tuvo."
+   ],
+   "respuesta": 5,
+   "correccion": "tubo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: El agua sale por un tubo. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0130",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Asta mañana.",
@@ -1685,28 +2382,67 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0091",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Me gusta saltar las holas.",
+   "id": "B6-0131",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "La bandera ondea en lo alto del ___.",
    "opciones": [
-    "Me",
-    "gusta",
-    "saltar",
-    "las",
-    "holas."
+    "hasta",
+    "asta"
    ],
-   "respuesta": 4,
-   "correccion": "olas",
+   "respuesta": "asta",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Me gusta saltar las olas. «Olas» (sin h) son las del mar.",
+   "explicacion": "La bandera ondea en lo alto del asta. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0092",
+   "id": "B6-0132",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Por última ves, recoge tu cuarto.",
+   "opciones": [
+    "Por",
+    "última",
+    "ves,",
+    "recoge",
+    "tu",
+    "cuarto."
+   ],
+   "respuesta": 2,
+   "correccion": "vez",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Por última vez, recoge tu cuarto. «Vez» (con z) es una ocasión: otra vez, había una vez.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0133",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ojalá halla pizza para cenar.",
+   "opciones": [
+    "Ojalá",
+    "halla",
+    "pizza",
+    "para",
+    "cenar."
+   ],
+   "respuesta": 1,
+   "correccion": "haya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Ojalá haya pizza para cenar. «Haya» es del verbo haber (ojalá haya) o un árbol.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0134",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Sabe votar el balón con las dos manos.",
@@ -1730,7 +2466,316 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0093",
+   "id": "B6-0135",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Había una ves un dragón.",
+   "opciones": [
+    "Había",
+    "una",
+    "ves",
+    "un",
+    "dragón."
+   ],
+   "respuesta": 2,
+   "correccion": "vez",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Había una vez un dragón. «Vez» (con z) es una ocasión: otra vez, había una vez.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0136",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No quiero rallar la mesa con el compás.",
+   "opciones": [
+    "No",
+    "quiero",
+    "rallar",
+    "la",
+    "mesa",
+    "con",
+    "el",
+    "compás."
+   ],
+   "respuesta": 2,
+   "correccion": "rayar",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: No quiero rayar la mesa con el compás. «Rayar» (con y) es hacer rayas o arañazos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0137",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Más haya de las montañas hay un lago.",
+   "opciones": [
+    "Más",
+    "haya",
+    "de",
+    "las",
+    "montañas",
+    "hay",
+    "un",
+    "lago."
+   ],
+   "respuesta": 1,
+   "correccion": "allá",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Más allá de las montañas hay un lago. «Allá» indica un lugar lejano.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0138",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El tesoro se ___ en una isla.",
+   "opciones": [
+    "haya",
+    "halla",
+    "allá"
+   ],
+   "respuesta": "halla",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "El tesoro se halla en una isla. «Halla» es del verbo hallar (encontrar, estar): el tesoro se halla en una isla.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0139",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi abuela es una mujer muy savia.",
+   "opciones": [
+    "Mi",
+    "abuela",
+    "es",
+    "una",
+    "mujer",
+    "muy",
+    "savia."
+   ],
+   "respuesta": 6,
+   "correccion": "sabia",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Mi abuela es una mujer muy sabia. «Sabia» (con b) es una persona que sabe mucho.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0140",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "La ___ sube por el tronco del árbol.",
+   "opciones": [
+    "sabia",
+    "savia"
+   ],
+   "respuesta": "savia",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "La savia sube por el tronco del árbol. «Savia» (con v) es el líquido que circula por las plantas.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0141",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Se cayó para escuchar la música.",
+   "opciones": [
+    "Se",
+    "cayó",
+    "para",
+    "escuchar",
+    "la",
+    "música."
+   ],
+   "respuesta": 1,
+   "correccion": "calló",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Se calló para escuchar la música. «Calló» (con ll) es del verbo callar (quedarse en silencio).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0142",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Siempre hecho sal a la ensalada.",
+   "opciones": [
+    "Siempre",
+    "hecho",
+    "sal",
+    "a",
+    "la",
+    "ensalada."
+   ],
+   "respuesta": 1,
+   "correccion": "echo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Siempre echo sal a la ensalada. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0143",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Estudié asta las ocho.",
+   "opciones": [
+    "Estudié",
+    "asta",
+    "las",
+    "ocho."
+   ],
+   "respuesta": 1,
+   "correccion": "hasta",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Estudié hasta las ocho. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0144",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Espero que te valla bien el examen.",
+   "opciones": [
+    "Espero",
+    "que",
+    "te",
+    "valla",
+    "bien",
+    "el",
+    "examen."
+   ],
+   "respuesta": 3,
+   "correccion": "vaya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Espero que te vaya bien el examen. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0145",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Vez la luna?",
+   "opciones": [
+    "¿Vez",
+    "la",
+    "luna?"
+   ],
+   "respuesta": 0,
+   "correccion": "Ves",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¿Ves la luna? «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0146",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Espera a que ___ el agua.",
+   "opciones": [
+    "hierva",
+    "hierba"
+   ],
+   "respuesta": "hierva",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Espera a que hierva el agua. «Hierva» (con v) es del verbo hervir.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0147",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Contamos asta diez.",
+   "opciones": [
+    "Contamos",
+    "asta",
+    "diez."
+   ],
+   "respuesta": 1,
+   "correccion": "hasta",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Contamos hasta diez. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0148",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "En clase vamos a botar al delegado.",
+   "opciones": [
+    "En",
+    "clase",
+    "vamos",
+    "a",
+    "botar",
+    "al",
+    "delegado."
+   ],
+   "respuesta": 4,
+   "correccion": "votar",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: En clase vamos a votar al delegado. «Votar» (con v) es elegir en unas votaciones.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0149",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Tiene mucho ___ en los brazos.",
+   "opciones": [
+    "bello",
+    "vello"
+   ],
+   "respuesta": "vello",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Tiene mucho vello en los brazos. «Vello» (con v) es el pelo fino del cuerpo.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0150",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Hay una vaya alrededor del jardín.",
@@ -1752,166 +2797,92 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0094",
+   "id": "B6-0151",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Te hecho mucho de menos.",
+   "frase": "¡Ahí, qué susto!",
    "opciones": [
-    "Te",
-    "hecho",
-    "mucho",
-    "de",
-    "menos."
-   ],
-   "respuesta": 1,
-   "correccion": "echo",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Te echo mucho de menos. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0095",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "El tesoro se ___ en una isla.",
-   "opciones": [
-    "haya",
-    "halla",
-    "allá"
-   ],
-   "respuesta": "halla",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "El tesoro se halla en una isla. «Halla» es del verbo hallar (encontrar, estar): el tesoro se halla en una isla.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0096",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "El ciervo tiene un ___ rota.",
-   "opciones": [
-    "asta",
-    "hasta"
-   ],
-   "respuesta": "asta",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "El ciervo tiene un asta rota. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0097",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "El caballo saltó la vaya.",
-   "opciones": [
-    "El",
-    "caballo",
-    "saltó",
-    "la",
-    "vaya."
-   ],
-   "respuesta": 4,
-   "correccion": "valla",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: El caballo saltó la valla. «Valla» es una cerca o barrera.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0098",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Yo hecho las cartas al buzón.",
-   "opciones": [
-    "Yo",
-    "hecho",
-    "las",
-    "cartas",
-    "al",
-    "buzón."
-   ],
-   "respuesta": 1,
-   "correccion": "echo",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Yo echo las cartas al buzón. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0099",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Voy haber a mi abuela.",
-   "opciones": [
-    "Voy",
-    "haber",
-    "a",
-    "mi",
-    "abuela."
-   ],
-   "respuesta": 1,
-   "correccion": "a ver",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Voy a ver a mi abuela. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0100",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Vez aquel pájaro?",
-   "opciones": [
-    "¿Vez",
-    "aquel",
-    "pájaro?"
+    "¡Ahí,",
+    "qué",
+    "susto!"
    ],
    "respuesta": 0,
-   "correccion": "Ves",
+   "correccion": "Ay",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: ¿Ves aquel pájaro? «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "explicacion": "Lo correcto es: ¡Ay, qué susto! «¡Ay!» es una exclamación de dolor o susto.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0101",
+   "id": "B6-0152",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Caminamos asta el río.",
+   "frase": "Se rompió el tuvo del agua.",
    "opciones": [
-    "Caminamos",
-    "asta",
+    "Se",
+    "rompió",
     "el",
-    "río."
+    "tuvo",
+    "del",
+    "agua."
    ],
-   "respuesta": 1,
-   "correccion": "hasta",
+   "respuesta": 3,
+   "correccion": "tubo",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Caminamos hasta el río. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
+   "explicacion": "Lo correcto es: Se rompió el tubo del agua. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0102",
+   "id": "B6-0153",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hecho de menos a mis amigos del campamento.",
+   "opciones": [
+    "Hecho",
+    "de",
+    "menos",
+    "a",
+    "mis",
+    "amigos",
+    "del",
+    "campamento."
+   ],
+   "respuesta": 0,
+   "correccion": "Echo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Echo de menos a mis amigos del campamento. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0154",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hay está tu hermano.",
+   "opciones": [
+    "Hay",
+    "está",
+    "tu",
+    "hermano."
+   ],
+   "respuesta": 0,
+   "correccion": "Ahí",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Ahí está tu hermano. «Ahí» indica un lugar: ahí está, ponlo ahí.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0155",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "La pelota no para de votar.",
@@ -1933,25 +2904,152 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0103",
+   "id": "B6-0156",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¡Valla sorpresa!",
+   "frase": "Vamos haber si llueve.",
    "opciones": [
-    "¡Valla",
-    "sorpresa!"
+    "Vamos",
+    "haber",
+    "si",
+    "llueve."
    ],
-   "respuesta": 0,
-   "correccion": "Vaya",
+   "respuesta": 1,
+   "correccion": "a ver",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: ¡Vaya sorpresa! «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "explicacion": "Lo correcto es: Vamos a ver si llueve. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0104",
+   "id": "B6-0157",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vinieron padres ___ hijos.",
+   "opciones": [
+    "he",
+    "e"
+   ],
+   "respuesta": "e",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Vinieron padres e hijos. «E» sustituye a «y» delante de palabras que empiezan por el sonido i: padres e hijos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0158",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Hay, qué daño me he hecho!",
+   "opciones": [
+    "¡Hay,",
+    "qué",
+    "daño",
+    "me",
+    "he",
+    "hecho!"
+   ],
+   "respuesta": 0,
+   "correccion": "Ay",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¡Ay, qué daño me he hecho! «¡Ay!» es una exclamación de dolor o susto.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0159",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El vaso se calló al suelo.",
+   "opciones": [
+    "El",
+    "vaso",
+    "se",
+    "calló",
+    "al",
+    "suelo."
+   ],
+   "respuesta": 3,
+   "correccion": "cayó",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: El vaso se cayó al suelo. «Cayó» (con y) es del verbo caer.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0160",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Nos tumbamos en la hierva.",
+   "opciones": [
+    "Nos",
+    "tumbamos",
+    "en",
+    "la",
+    "hierva."
+   ],
+   "respuesta": 4,
+   "correccion": "hierba",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Nos tumbamos en la hierba. «Hierba» (con b) es la planta verde que comen las vacas.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0161",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No creo que valla a llover.",
+   "opciones": [
+    "No",
+    "creo",
+    "que",
+    "valla",
+    "a",
+    "llover."
+   ],
+   "respuesta": 3,
+   "correccion": "vaya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: No creo que vaya a llover. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0162",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Voy haber a mi abuela.",
+   "opciones": [
+    "Voy",
+    "haber",
+    "a",
+    "mi",
+    "abuela."
+   ],
+   "respuesta": 1,
+   "correccion": "a ver",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Voy a ver a mi abuela. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0163",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Cuando entró la profesora, todo el mundo se cayó.",
@@ -1976,128 +3074,281 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0105",
+   "id": "B6-0164",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mi madre tubo que trabajar el sábado.",
+   "frase": "Pintamos la vaya del jardín.",
    "opciones": [
-    "Mi",
-    "madre",
-    "tubo",
-    "que",
-    "trabajar",
-    "el",
-    "sábado."
-   ],
-   "respuesta": 2,
-   "correccion": "tuvo",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Mi madre tuvo que trabajar el sábado. «Tuvo» (con v) es del verbo tener: tuvo fiebre.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0106",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Tiene mucho ___ en los brazos.",
-   "opciones": [
-    "bello",
-    "vello"
-   ],
-   "respuesta": "vello",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Tiene mucho vello en los brazos. «Vello» (con v) es el pelo fino del cuerpo.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0107",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Hay que rayar el queso para la pizza.",
-   "opciones": [
-    "Hay",
-    "que",
-    "rayar",
-    "el",
-    "queso",
-    "para",
+    "Pintamos",
     "la",
-    "pizza."
+    "vaya",
+    "del",
+    "jardín."
    ],
    "respuesta": 2,
-   "correccion": "rallar",
+   "correccion": "valla",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Hay que rallar el queso para la pizza. «Rallar» (con ll) es desmenuzar con un rallador: rallar queso.",
+   "explicacion": "Lo correcto es: Pintamos la valla del jardín. «Valla» es una cerca o barrera.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0108",
+   "id": "B6-0165",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Otra ves has llegado tarde.",
+   "frase": "Haber, ¿quién ha sido?",
    "opciones": [
-    "Otra",
-    "ves",
-    "has",
-    "llegado",
-    "tarde."
+    "Haber,",
+    "¿quién",
+    "ha",
+    "sido?"
+   ],
+   "respuesta": 0,
+   "correccion": "A ver",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: A ver, ¿quién ha sido? «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0166",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Los mayores de edad pueden botar.",
+   "opciones": [
+    "Los",
+    "mayores",
+    "de",
+    "edad",
+    "pueden",
+    "botar."
+   ],
+   "respuesta": 5,
+   "correccion": "votar",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Los mayores de edad pueden votar. «Votar» (con v) es elegir en unas votaciones.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0167",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Necesito un tuvo de pegamento.",
+   "opciones": [
+    "Necesito",
+    "un",
+    "tuvo",
+    "de",
+    "pegamento."
+   ],
+   "respuesta": 2,
+   "correccion": "tubo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Necesito un tubo de pegamento. «Tubo» (con b) es un cilindro hueco: un tubo de pasta de dientes.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0168",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El caballo saltó la vaya.",
+   "opciones": [
+    "El",
+    "caballo",
+    "saltó",
+    "la",
+    "vaya."
+   ],
+   "respuesta": 4,
+   "correccion": "valla",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: El caballo saltó la valla. «Valla» es una cerca o barrera.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0169",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Vengo haber a mi primo.",
+   "opciones": [
+    "Vengo",
+    "haber",
+    "a",
+    "mi",
+    "primo."
    ],
    "respuesta": 1,
-   "correccion": "vez",
+   "correccion": "a ver",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Otra vez has llegado tarde. «Vez» (con z) es una ocasión: otra vez, había una vez.",
+   "explicacion": "Lo correcto es: Vengo a ver a mi primo. «A ver» es «a» + «ver» (mirar): vamos a ver la peli. También se usa para pedir atención: «A ver, ¿quién ha sido?».",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0109",
+   "id": "B6-0170",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Deja la mochila hay, encima de la silla.",
+   "opciones": [
+    "Deja",
+    "la",
+    "mochila",
+    "hay,",
+    "encima",
+    "de",
+    "la",
+    "silla."
+   ],
+   "respuesta": 3,
+   "correccion": "ahí",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Deja la mochila ahí, encima de la silla. «Ahí» indica un lugar: ahí está, ponlo ahí.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0171",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Si me vez triste, dame un abrazo.",
+   "opciones": [
+    "Si",
+    "me",
+    "vez",
+    "triste,",
+    "dame",
+    "un",
+    "abrazo."
+   ],
+   "respuesta": 2,
+   "correccion": "ves",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Si me ves triste, dame un abrazo. «Ves» (con s) es del verbo ver: ¿ves aquel pájaro?",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0172",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me gusta saltar las holas.",
+   "opciones": [
+    "Me",
+    "gusta",
+    "saltar",
+    "las",
+    "holas."
+   ],
+   "respuesta": 4,
+   "correccion": "olas",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Me gusta saltar las olas. «Olas» (sin h) son las del mar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0173",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Yo hecho las cartas al buzón.",
+   "opciones": [
+    "Yo",
+    "hecho",
+    "las",
+    "cartas",
+    "al",
+    "buzón."
+   ],
+   "respuesta": 1,
+   "correccion": "echo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Yo echo las cartas al buzón. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0174",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El balón dejó de votar.",
+   "opciones": [
+    "El",
+    "balón",
+    "dejó",
+    "de",
+    "votar."
+   ],
+   "respuesta": 4,
+   "correccion": "botar",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: El balón dejó de botar. «Botar» (con b) es lo que hace una pelota al rebotar.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0175",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "La bandera ondea en lo alto del ___.",
+   "frase": "El ciervo tiene un ___ rota.",
    "opciones": [
-    "hasta",
-    "asta"
+    "asta",
+    "hasta"
    ],
    "respuesta": "asta",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "La bandera ondea en lo alto del asta. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
+   "explicacion": "El ciervo tiene un asta rota. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0110",
+   "id": "B6-0176",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¡Ahí, qué susto!",
+   "frase": "Hay viene el autobús.",
    "opciones": [
-    "¡Ahí,",
-    "qué",
-    "susto!"
+    "Hay",
+    "viene",
+    "el",
+    "autobús."
    ],
    "respuesta": 0,
-   "correccion": "Ay",
+   "correccion": "Ahí",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: ¡Ay, qué susto! «¡Ay!» es una exclamación de dolor o susto.",
+   "explicacion": "Lo correcto es: Ahí viene el autobús. «Ahí» indica un lugar: ahí está, ponlo ahí.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0111",
+   "id": "B6-0177",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Es un paisaje muy vello.",
@@ -2118,49 +3369,229 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0112",
+   "id": "B6-0178",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Quiero que valla contigo.",
+   "frase": "Caminamos asta el río.",
    "opciones": [
-    "Quiero",
-    "que",
-    "valla",
-    "contigo."
-   ],
-   "respuesta": 2,
-   "correccion": "vaya",
-   "dificultad": 3,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Quiero que vaya contigo. «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0113",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Se cayó para escuchar la música.",
-   "opciones": [
-    "Se",
-    "cayó",
-    "para",
-    "escuchar",
-    "la",
-    "música."
+    "Caminamos",
+    "asta",
+    "el",
+    "río."
    ],
    "respuesta": 1,
-   "correccion": "calló",
+   "correccion": "hasta",
    "dificultad": 3,
    "skills": [
     "homofonos"
    ],
-   "explicacion": "Lo correcto es: Se calló para escuchar la música. «Calló» (con ll) es del verbo callar (quedarse en silencio).",
+   "explicacion": "Lo correcto es: Caminamos hasta el río. «Hasta» (con h) indica un límite: hasta el río, hasta mañana.",
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0114",
+   "id": "B6-0179",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Valla gol has marcado!",
+   "opciones": [
+    "¡Valla",
+    "gol",
+    "has",
+    "marcado!"
+   ],
+   "respuesta": 0,
+   "correccion": "Vaya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: ¡Vaya gol has marcado! «Vaya» es del verbo ir (que vaya) o una exclamación (¡vaya!).",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0180",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mañana vamos a botar en clase.",
+   "opciones": [
+    "Mañana",
+    "vamos",
+    "a",
+    "botar",
+    "en",
+    "clase."
+   ],
+   "respuesta": 3,
+   "correccion": "votar",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Mañana vamos a votar en clase. «Votar» (con v) es elegir en unas votaciones.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0181",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Yo e terminado el examen.",
+   "opciones": [
+    "Yo",
+    "e",
+    "terminado",
+    "el",
+    "examen."
+   ],
+   "respuesta": 1,
+   "correccion": "he",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Yo he terminado el examen. «He» (con h) es del verbo haber: he desayunado, he terminado.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0182",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Las vacas comen hierva.",
+   "opciones": [
+    "Las",
+    "vacas",
+    "comen",
+    "hierva."
+   ],
+   "respuesta": 3,
+   "correccion": "hierba",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Las vacas comen hierba. «Hierba» (con b) es la planta verde que comen las vacas.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0183",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "La hoja calló del árbol.",
+   "opciones": [
+    "La",
+    "hoja",
+    "calló",
+    "del",
+    "árbol."
+   ],
+   "respuesta": 2,
+   "correccion": "cayó",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: La hoja cayó del árbol. «Cayó» (con y) es del verbo caer.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0184",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El toro tenía un ___ muy larga.",
+   "opciones": [
+    "asta",
+    "hasta"
+   ],
+   "respuesta": "asta",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "El toro tenía un asta muy larga. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0185",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Otra ves has llegado tarde.",
+   "opciones": [
+    "Otra",
+    "ves",
+    "has",
+    "llegado",
+    "tarde."
+   ],
+   "respuesta": 1,
+   "correccion": "vez",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Otra vez has llegado tarde. «Vez» (con z) es una ocasión: otra vez, había una vez.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0186",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Cuando halla terminado, te aviso.",
+   "opciones": [
+    "Cuando",
+    "halla",
+    "terminado,",
+    "te",
+    "aviso."
+   ],
+   "respuesta": 1,
+   "correccion": "haya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Cuando haya terminado, te aviso. «Haya» es del verbo haber (ojalá haya) o un árbol.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0187",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Te hecho mucho de menos.",
+   "opciones": [
+    "Te",
+    "hecho",
+    "mucho",
+    "de",
+    "menos."
+   ],
+   "respuesta": 1,
+   "correccion": "echo",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Te echo mucho de menos. «Echo» (sin h) es del verbo echar: echo sal, te echo de menos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0188",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El arándano es una ___.",
+   "opciones": [
+    "valla",
+    "baya",
+    "vaya"
+   ],
+   "respuesta": "baya",
+   "dificultad": 3,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "El arándano es una baya. «Baya» es un tipo de fruto pequeño, como el arándano.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0189",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "El tesoro se haya en una isla.",
@@ -2183,73 +3614,7 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0115",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "La bandera ondea en lo alto del hasta.",
-   "opciones": [
-    "La",
-    "bandera",
-    "ondea",
-    "en",
-    "lo",
-    "alto",
-    "del",
-    "hasta."
-   ],
-   "respuesta": 7,
-   "correccion": "asta",
-   "dificultad": 4,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: La bandera ondea en lo alto del asta. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0116",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Espera a que hierba el agua.",
-   "opciones": [
-    "Espera",
-    "a",
-    "que",
-    "hierba",
-    "el",
-    "agua."
-   ],
-   "respuesta": 3,
-   "correccion": "hierva",
-   "dificultad": 4,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Espera a que hierva el agua. «Hierva» (con v) es del verbo hervir.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0117",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Vinieron padres he hijos.",
-   "opciones": [
-    "Vinieron",
-    "padres",
-    "he",
-    "hijos."
-   ],
-   "respuesta": 2,
-   "correccion": "e",
-   "dificultad": 4,
-   "skills": [
-    "homofonos"
-   ],
-   "explicacion": "Lo correcto es: Vinieron padres e hijos. «E» sustituye a «y» delante de palabras que empiezan por el sonido i: padres e hijos.",
-   "regla_id": "homofonos"
-  },
-  {
-   "id": "B6-0118",
+   "id": "B6-0190",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "La sabia sube por el tronco del árbol.",
@@ -2273,7 +3638,73 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0119",
+   "id": "B6-0191",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "La bandera ondea en lo alto del hasta.",
+   "opciones": [
+    "La",
+    "bandera",
+    "ondea",
+    "en",
+    "lo",
+    "alto",
+    "del",
+    "hasta."
+   ],
+   "respuesta": 7,
+   "correccion": "asta",
+   "dificultad": 4,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: La bandera ondea en lo alto del asta. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0192",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Tiene mucho bello en los brazos.",
+   "opciones": [
+    "Tiene",
+    "mucho",
+    "bello",
+    "en",
+    "los",
+    "brazos."
+   ],
+   "respuesta": 2,
+   "correccion": "vello",
+   "dificultad": 4,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Tiene mucho vello en los brazos. «Vello» (con v) es el pelo fino del cuerpo.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0193",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Vinieron padres he hijos.",
+   "opciones": [
+    "Vinieron",
+    "padres",
+    "he",
+    "hijos."
+   ],
+   "respuesta": 2,
+   "correccion": "e",
+   "dificultad": 4,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Vinieron padres e hijos. «E» sustituye a «y» delante de palabras que empiezan por el sonido i: padres e hijos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0194",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "El arándano es una vaya.",
@@ -2294,7 +3725,7 @@
    "regla_id": "homofonos"
   },
   {
-   "id": "B6-0120",
+   "id": "B6-0195",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "El ciervo tiene un hasta rota.",
@@ -2313,6 +3744,71 @@
     "homofonos"
    ],
    "explicacion": "Lo correcto es: El ciervo tiene un asta rota. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0196",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Aprendimos matemáticas he inglés.",
+   "opciones": [
+    "Aprendimos",
+    "matemáticas",
+    "he",
+    "inglés."
+   ],
+   "respuesta": 2,
+   "correccion": "e",
+   "dificultad": 4,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Aprendimos matemáticas e inglés. «E» sustituye a «y» delante de palabras que empiezan por el sonido i: padres e hijos.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0197",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Espera a que hierba el agua.",
+   "opciones": [
+    "Espera",
+    "a",
+    "que",
+    "hierba",
+    "el",
+    "agua."
+   ],
+   "respuesta": 3,
+   "correccion": "hierva",
+   "dificultad": 4,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: Espera a que hierva el agua. «Hierva» (con v) es del verbo hervir.",
+   "regla_id": "homofonos"
+  },
+  {
+   "id": "B6-0198",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El toro tenía un hasta muy larga.",
+   "opciones": [
+    "El",
+    "toro",
+    "tenía",
+    "un",
+    "hasta",
+    "muy",
+    "larga."
+   ],
+   "respuesta": 4,
+   "correccion": "asta",
+   "dificultad": 4,
+   "skills": [
+    "homofonos"
+   ],
+   "explicacion": "Lo correcto es: El toro tenía un asta muy larga. «Asta» (sin h) es el palo de una bandera o el cuerno de un animal.",
    "regla_id": "homofonos"
   }
  ]

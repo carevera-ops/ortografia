@@ -5,61 +5,175 @@
    "id": "A9-0001",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "raíz",
-   "clase": "aguda",
+   "palabra": "reído",
+   "clase": "llana",
    "opciones": [
-    "ráiz",
-    "raiz",
-    "raíz"
+    "reído",
+    "réido",
+    "reido"
    ],
-   "respuesta": "raíz",
+   "respuesta": "reído",
    "dificultad": 1,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ra-íz: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "re-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
    "id": "A9-0002",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "búho",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «juguetería», las vocales «ue» forman…",
+   "palabra": "juguetería",
    "clase": "llana",
    "opciones": [
-    "buhó",
-    "buho",
-    "búho"
+    "diptongo",
+    "hiato",
+    "triptongo"
    ],
-   "respuesta": "búho",
+   "respuesta": "diptongo",
    "dificultad": 1,
    "skills": [
-    "hiatos"
+    "diptongos"
    ],
-   "explicacion": "bú-ho: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
+   "explicacion": "ju-gue-te-rí-a: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
   },
   {
    "id": "A9-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "día",
+   "palabra": "había",
    "clase": "llana",
    "opciones": [
-    "día",
-    "diá",
-    "dia"
+    "habia",
+    "había",
+    "habiá"
    ],
-   "respuesta": "día",
+   "respuesta": "había",
    "dificultad": 1,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "ha-bí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
    "id": "A9-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sandía",
+   "clase": "llana",
+   "opciones": [
+    "sándia",
+    "sandía",
+    "sandia"
+   ],
+   "respuesta": "sandía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "san-dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "melodía",
+   "clase": "llana",
+   "opciones": [
+    "melódia",
+    "melodiá",
+    "melodía"
+   ],
+   "respuesta": "melodía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "me-lo-dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "frutería",
+   "clase": "llana",
+   "opciones": [
+    "fruteriá",
+    "frutería",
+    "fruteria"
+   ],
+   "respuesta": "frutería",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fru-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mío",
+   "clase": "llana",
+   "opciones": [
+    "mio",
+    "mío",
+    "mió"
+   ],
+   "respuesta": "mío",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "mí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lejía",
+   "clase": "llana",
+   "opciones": [
+    "lejiá",
+    "léjia",
+    "lejía"
+   ],
+   "respuesta": "lejía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "le-jí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "reír",
+   "clase": "aguda",
+   "opciones": [
+    "réir",
+    "reir",
+    "reír"
+   ],
+   "respuesta": "reír",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0010",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "oído",
@@ -78,29 +192,333 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0005",
+   "id": "A9-0011",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "María",
+   "palabra": "día",
    "clase": "llana",
    "opciones": [
-    "Mariá",
-    "María",
-    "Maria"
+    "día",
+    "diá",
+    "dia"
    ],
-   "respuesta": "María",
+   "respuesta": "día",
    "dificultad": 1,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "Ma-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0006",
+   "id": "A9-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "raíz",
+   "clase": "aguda",
+   "opciones": [
+    "ráiz",
+    "raiz",
+    "raíz"
+   ],
+   "respuesta": "raíz",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ra-íz: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "carnicería",
+   "clase": "llana",
+   "opciones": [
+    "carniceriá",
+    "carnicéria",
+    "carnicería"
+   ],
+   "respuesta": "carnicería",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "car-ni-ce-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "manía",
+   "clase": "llana",
+   "opciones": [
+    "maniá",
+    "mánia",
+    "manía"
+   ],
+   "respuesta": "manía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ma-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "valentía",
+   "clase": "llana",
+   "opciones": [
+    "valentía",
+    "valéntia",
+    "valentiá"
+   ],
+   "respuesta": "valentía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "va-len-tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "país",
+   "clase": "aguda",
+   "opciones": [
+    "pais",
+    "páis",
+    "país"
+   ],
+   "respuesta": "país",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-ís: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "zapatería",
+   "clase": "llana",
+   "opciones": [
+    "zapáteria",
+    "zapatéria",
+    "zapatería"
+   ],
+   "respuesta": "zapatería",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "za-pa-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tío",
+   "clase": "llana",
+   "opciones": [
+    "tió",
+    "tío",
+    "tio"
+   ],
+   "respuesta": "tío",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "tí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "países",
+   "clase": "llana",
+   "opciones": [
+    "paises",
+    "países",
+    "paisés"
+   ],
+   "respuesta": "países",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-í-ses: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "escalofrío",
+   "clase": "llana",
+   "opciones": [
+    "escalófrio",
+    "éscalofrio",
+    "escalofrío"
+   ],
+   "respuesta": "escalofrío",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "es-ca-lo-frí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "comía",
+   "clase": "llana",
+   "opciones": [
+    "comiá",
+    "cómia",
+    "comía"
+   ],
+   "respuesta": "comía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "co-mí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "maíz",
+   "clase": "aguda",
+   "opciones": [
+    "maíz",
+    "maiz",
+    "máiz"
+   ],
+   "respuesta": "maíz",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ma-íz: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "alegría",
+   "clase": "llana",
+   "opciones": [
+    "alegriá",
+    "alegría",
+    "alegria"
+   ],
+   "respuesta": "alegría",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-le-grí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tía",
+   "clase": "llana",
+   "opciones": [
+    "tía",
+    "tia",
+    "tiá"
+   ],
+   "respuesta": "tía",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tontería",
+   "clase": "llana",
+   "opciones": [
+    "tonteria",
+    "tontería",
+    "tónteria"
+   ],
+   "respuesta": "tontería",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ton-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "peluquería",
+   "clase": "llana",
+   "opciones": [
+    "péluqueria",
+    "peluqueriá",
+    "peluquería"
+   ],
+   "respuesta": "peluquería",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pe-lu-que-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "baúles",
+   "clase": "llana",
+   "opciones": [
+    "báules",
+    "baulés",
+    "baúles"
+   ],
+   "respuesta": "baúles",
+   "dificultad": 1,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ba-ú-les: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0028",
    "tipo": "diptongo_hiato",
-   "enunciado": "En «Lucía», las vocales «ía» forman…",
-   "palabra": "Lucía",
+   "enunciado": "En «sabía», las vocales «ía» forman…",
+   "palabra": "sabía",
    "clase": "llana",
    "opciones": [
     "diptongo",
@@ -112,124 +530,30 @@
    "skills": [
     "hiatos"
    ],
-   "explicacion": "Lu-cí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "sa-bí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0007",
+   "id": "A9-0029",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "caída",
-   "clase": "llana",
+   "palabra": "héroe",
+   "clase": "esdrujula",
    "opciones": [
-    "caidá",
-    "caída",
-    "caida"
+    "héroe",
+    "heroe",
+    "heroé"
    ],
-   "respuesta": "caída",
+   "respuesta": "héroe",
    "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ca-í-da: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "hé-ro-e: es esdrújula (suena fuerte «hé»), y estas llevan tilde siempre.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0008",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ataúd",
-   "clase": "aguda",
-   "opciones": [
-    "ataúd",
-    "ataud",
-    "atáud"
-   ],
-   "respuesta": "ataúd",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "a-ta-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0009",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "oír",
-   "clase": "aguda",
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "o-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0010",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "museo",
-   "clase": "llana",
-   "opciones": [
-    "muséo",
-    "museó",
-    "museo"
-   ],
-   "respuesta": "museo",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "mu-se-o: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0011",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "alegría",
-   "clase": "llana",
-   "respuesta": 5,
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "a-le-grí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0012",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "comía",
-   "clase": "llana",
-   "respuesta": 3,
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "co-mí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0013",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "maíz",
-   "clase": "aguda",
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "ma-íz: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0014",
+   "id": "A9-0030",
    "tipo": "diptongo_hiato",
    "enunciado": "En «tía», las vocales «ía» forman…",
    "palabra": "tía",
@@ -248,14 +572,105 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0015",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «Lucía» lleva tilde?",
-   "palabra": "Lucía",
+   "id": "A9-0031",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «mayoría», las vocales «ía» forman…",
+   "palabra": "mayoría",
    "clase": "llana",
    "opciones": [
-    "Es llana y acaba en -s tras otra consonante → lleva tilde",
-    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ma-yo-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0032",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «países» lleva tilde?",
+   "palabra": "países",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "pa-í-ses: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0033",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "escalofrío",
+   "clase": "llana",
+   "respuesta": 8,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "es-ca-lo-frí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0034",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «biografía», las vocales «io» forman…",
+   "palabra": "biografía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 2,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "bio-gra-fí-a: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A9-0035",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «poesía», las vocales «oe» forman…",
+   "palabra": "poesía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "po-e-sí-a: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0036",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «escalofrío» lleva tilde?",
+   "palabra": "escalofrío",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
     "La i o la u suena fuerte y forma hiato → lleva tilde"
    ],
    "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
@@ -264,204 +679,44 @@
     "reglas",
     "llanas"
    ],
-   "explicacion": "Lu-cí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "es-ca-lo-frí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0016",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "canoa",
+   "id": "A9-0037",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mayoría",
    "clase": "llana",
-   "opciones": [
-    "canoá",
-    "canóa",
-    "canoa"
-   ],
-   "respuesta": "canoa",
+   "respuesta": 5,
    "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ca-no-a: es llana y acaba en vocal, así que no lleva tilde.",
+   "explicacion": "ma-yo-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0017",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "egoísta",
+   "id": "A9-0038",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «pastelería», las vocales «ía» forman…",
+   "palabra": "pastelería",
    "clase": "llana",
    "opciones": [
-    "egoísta",
-    "egoistá",
-    "égoista"
+    "diptongo",
+    "hiato",
+    "triptongo"
    ],
-   "respuesta": "egoísta",
+   "respuesta": "hiato",
    "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "e-go-ís-ta: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "pas-te-le-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0018",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «país» lleva tilde?",
-   "palabra": "país",
-   "clase": "aguda",
-   "opciones": [
-    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
-    "Es llana y acaba en -s tras otra consonante → lleva tilde",
-    "La i o la u suena fuerte y forma hiato → lleva tilde"
-   ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 2,
-   "skills": [
-    "reglas",
-    "agudas"
-   ],
-   "explicacion": "pa-ís: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0019",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «vivía» lleva tilde?",
-   "palabra": "vivía",
-   "clase": "llana",
-   "opciones": [
-    "Es llana y acaba en -s tras otra consonante → lleva tilde",
-    "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
-   ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 2,
-   "skills": [
-    "reglas",
-    "llanas"
-   ],
-   "explicacion": "vi-ví-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0020",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "actúa",
-   "clase": "llana",
-   "opciones": [
-    "actúa",
-    "áctua",
-    "actua"
-   ],
-   "respuesta": "actúa",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "ac-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0021",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "panadería",
-   "clase": "llana",
-   "opciones": [
-    "panaderiá",
-    "panadéria",
-    "panadería"
-   ],
-   "respuesta": "panadería",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "pa-na-de-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0022",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "geografía",
-   "clase": "llana",
-   "opciones": [
-    "geografía",
-    "géografia",
-    "geógrafia"
-   ],
-   "respuesta": "geografía",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "ge-o-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0023",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "peor",
-   "clase": "aguda",
-   "opciones": [
-    "péor",
-    "peor",
-    "peór"
-   ],
-   "respuesta": "peor",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "pe-or: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0024",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tecnología",
-   "clase": "llana",
-   "opciones": [
-    "tecnología",
-    "técnologia",
-    "tecnologia"
-   ],
-   "respuesta": "tecnología",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "tec-no-lo-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0025",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «María» lleva tilde?",
-   "palabra": "María",
-   "clase": "llana",
-   "opciones": [
-    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
-    "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
-   ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 2,
-   "skills": [
-    "reglas",
-    "llanas"
-   ],
-   "explicacion": "Ma-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0026",
+   "id": "A9-0039",
    "tipo": "explica_regla",
    "enunciado": "¿Por qué «comía» lleva tilde?",
    "palabra": "comía",
@@ -481,74 +736,87 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0027",
+   "id": "A9-0040",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "día",
+   "palabra": "batería",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ba-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0041",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "búho",
    "clase": "llana",
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "bú-ho: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0028",
+   "id": "A9-0042",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "freír",
-   "clase": "aguda",
-   "opciones": [
-    "freir",
-    "freír",
-    "fréir"
-   ],
-   "respuesta": "freír",
-   "dificultad": 2,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "fre-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0029",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «policía» lleva tilde?",
-   "palabra": "policía",
+   "palabra": "reúne",
    "clase": "llana",
    "opciones": [
-    "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es llana y acaba en -s tras otra consonante → lleva tilde",
-    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+    "réune",
+    "reúne",
+    "reune"
    ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 2,
-   "skills": [
-    "reglas",
-    "llanas"
-   ],
-   "explicacion": "po-li-cí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0030",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "baúl",
-   "clase": "aguda",
-   "respuesta": 2,
+   "respuesta": "reúne",
    "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ba-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "re-ú-ne: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0031",
+   "id": "A9-0043",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «países», las vocales «aí» forman…",
+   "palabra": "países",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-í-ses: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0044",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "bujía",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "bu-jí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0045",
    "tipo": "diptongo_hiato",
    "enunciado": "En «biología», las vocales «io» forman…",
    "palabra": "biología",
@@ -567,121 +835,433 @@
    "regla_id": "diptongos"
   },
   {
-   "id": "A9-0032",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «poeta» no lleva tilde?",
-   "palabra": "poeta",
+   "id": "A9-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "idea",
    "clase": "llana",
    "opciones": [
-    "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
-    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+    "idea",
+    "idéa",
+    "ídea"
    ],
-   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
-   "dificultad": 3,
+   "respuesta": "idea",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "i-de-a: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0047",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "simpatía",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "sim-pa-tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0048",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «baúles» lleva tilde?",
+   "palabra": "baúles",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
    "skills": [
     "reglas",
     "llanas"
    ],
-   "explicacion": "po-e-ta: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "llanas"
-  },
-  {
-   "id": "A9-0033",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "reúnen",
-   "clase": "llana",
-   "opciones": [
-    "reunén",
-    "réunen",
-    "reúnen"
-   ],
-   "respuesta": "reúnen",
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "re-ú-nen: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "ba-ú-les: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0034",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «biología» lleva tilde?",
-   "palabra": "biología",
+   "id": "A9-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "laúd",
+   "clase": "aguda",
+   "opciones": [
+    "láud",
+    "laúd",
+    "laud"
+   ],
+   "respuesta": "laúd",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "la-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0050",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «sandía», las vocales «ía» forman…",
+   "palabra": "sandía",
    "clase": "llana",
    "opciones": [
-    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "san-dí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0051",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cercanía",
+   "clase": "llana",
+   "opciones": [
+    "cércania",
+    "cercaniá",
+    "cercanía"
+   ],
+   "respuesta": "cercanía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cer-ca-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0052",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «fantasía», las vocales «ía» forman…",
+   "palabra": "fantasía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fan-ta-sí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0053",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "peluquería",
+   "clase": "llana",
+   "respuesta": 8,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pe-lu-que-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0054",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «zapatería» lleva tilde?",
+   "palabra": "zapatería",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "za-pa-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0055",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «María» lleva tilde?",
+   "palabra": "María",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
     "La i o la u suena fuerte y forma hiato → lleva tilde",
     "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
    ],
    "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "reglas",
     "llanas"
    ],
-   "explicacion": "bio-lo-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "Ma-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0035",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «grúa», las vocales «úa» forman…",
-   "palabra": "grúa",
+   "id": "A9-0056",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "creído",
    "clase": "llana",
    "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
+    "creidó",
+    "creído",
+    "creido"
    ],
-   "respuesta": "hiato",
-   "dificultad": 3,
+   "respuesta": "creído",
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "grú-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "cre-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0036",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «creer», las vocales «ee» forman…",
+   "id": "A9-0057",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "energía",
+   "clase": "llana",
+   "opciones": [
+    "énergia",
+    "enérgia",
+    "energía"
+   ],
+   "respuesta": "energía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-ner-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0058",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tenía» lleva tilde?",
+   "palabra": "tenía",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "te-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0059",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "púa",
+   "clase": "llana",
+   "opciones": [
+    "pua",
+    "púa",
+    "puá"
+   ],
+   "respuesta": "púa",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0060",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "raíz",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ra-íz: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0061",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "paseo",
+   "clase": "llana",
+   "opciones": [
+    "paseo",
+    "páseo",
+    "paseó"
+   ],
+   "respuesta": "paseo",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-se-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0062",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "creer",
    "clase": "aguda",
    "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
+    "créer",
+    "creer",
+    "creér"
    ],
-   "respuesta": "hiato",
-   "dificultad": 3,
+   "respuesta": "creer",
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "cre-er: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "explicacion": "cre-er: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0037",
+   "id": "A9-0063",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "caos",
+   "clase": "llana",
+   "opciones": [
+    "caós",
+    "cáos",
+    "caos"
+   ],
+   "respuesta": "caos",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-os: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0064",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «frío» lleva tilde?",
+   "palabra": "frío",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "frí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0065",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "feo",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
+   "palabra": "sonreír",
+   "clase": "aguda",
+   "respuesta": 5,
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "fe-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "explicacion": "son-re-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0038",
+   "id": "A9-0066",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "categoría",
+   "clase": "llana",
+   "opciones": [
+    "catégoria",
+    "categoriá",
+    "categoría"
+   ],
+   "respuesta": "categoría",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-te-go-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0067",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «sabía» lleva tilde?",
+   "palabra": "sabía",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "sa-bí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0068",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "actúa",
+   "clase": "llana",
+   "opciones": [
+    "actúa",
+    "áctua",
+    "actua"
+   ],
+   "respuesta": "actúa",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ac-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0069",
    "tipo": "diptongo_hiato",
-   "enunciado": "En «feo», las vocales «eo» forman…",
-   "palabra": "feo",
+   "enunciado": "En «día», las vocales «ía» forman…",
+   "palabra": "día",
    "clase": "llana",
    "opciones": [
     "diptongo",
@@ -689,21 +1269,324 @@
     "triptongo"
    ],
    "respuesta": "hiato",
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "fe-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "explicacion": "dí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0039",
+   "id": "A9-0070",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «vía», las vocales «ía» forman…",
+   "palabra": "vía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ví-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0071",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "canoa",
+   "clase": "llana",
+   "opciones": [
+    "canoá",
+    "canóa",
+    "canoa"
+   ],
+   "respuesta": "canoa",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-no-a: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0072",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "egoísta",
+   "clase": "llana",
+   "opciones": [
+    "egoísta",
+    "egoistá",
+    "égoista"
+   ],
+   "respuesta": "egoísta",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-go-ís-ta: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0073",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "vía",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ví-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0074",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tío» lleva tilde?",
+   "palabra": "tío",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "tí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0075",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "reír",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0076",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "leído",
+   "clase": "llana",
+   "opciones": [
+    "leido",
+    "leído",
+    "léido"
+   ],
+   "respuesta": "leído",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "le-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0077",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "museo",
+   "clase": "llana",
+   "opciones": [
+    "muséo",
+    "museó",
+    "museo"
+   ],
+   "respuesta": "museo",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "mu-se-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0078",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "juguetería",
+   "clase": "llana",
+   "respuesta": 8,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ju-gue-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0079",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «día» lleva tilde?",
+   "palabra": "día",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0080",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «rocío» lleva tilde?",
+   "palabra": "rocío",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ro-cí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0081",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "carnicería",
+   "clase": "llana",
+   "respuesta": 8,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "car-ni-ce-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0082",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "egoísmo",
+   "clase": "llana",
+   "opciones": [
+    "egóismo",
+    "egoismó",
+    "egoísmo"
+   ],
+   "respuesta": "egoísmo",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-go-ís-mo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0083",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «río» lleva tilde?",
+   "palabra": "río",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "rí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0084",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "países",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-í-ses: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0085",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "María",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "Ma-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0086",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tranvía» lleva tilde?",
+   "palabra": "tranvía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "tran-ví-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0087",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "biología",
    "clase": "llana",
-   "respuesta": 6,
-   "dificultad": 3,
+   "opciones": [
+    "biológia",
+    "biología",
+    "biologia"
+   ],
+   "respuesta": "biología",
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
@@ -711,24 +1594,63 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0040",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "peor",
-   "clase": "aguda",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
+   "id": "A9-0088",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «sandía» lleva tilde?",
+   "palabra": "sandía",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
    ],
-   "explicacion": "pe-or: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "san-dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0041",
+   "id": "A9-0089",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "reído",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0090",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ortografía",
+   "clase": "llana",
+   "opciones": [
+    "órtografia",
+    "ortografiá",
+    "ortografía"
+   ],
+   "respuesta": "ortografía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "or-to-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0091",
    "tipo": "diptongo_hiato",
-   "enunciado": "En «museo», las vocales «eo» forman…",
-   "palabra": "museo",
+   "enunciado": "En «había», las vocales «ía» forman…",
+   "palabra": "había",
    "clase": "llana",
    "opciones": [
     "diptongo",
@@ -736,40 +1658,617 @@
     "triptongo"
    ],
    "respuesta": "hiato",
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "mu-se-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "explicacion": "ha-bí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0042",
+   "id": "A9-0092",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Raúl",
-   "clase": "aguda",
+   "palabra": "sombrío",
+   "clase": "llana",
    "opciones": [
-    "Raúl",
-    "Raul",
-    "Rául"
+    "sombrio",
+    "sombrío",
+    "sómbrio"
    ],
-   "respuesta": "Raúl",
-   "dificultad": 3,
+   "respuesta": "sombrío",
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "Ra-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "som-brí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0043",
+   "id": "A9-0093",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "geografía",
+   "clase": "llana",
+   "opciones": [
+    "geografía",
+    "géografia",
+    "geógrafia"
+   ],
+   "respuesta": "geografía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ge-o-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0094",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "increíble",
+   "palabra": "raíces",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ra-í-ces: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0095",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tardío",
+   "clase": "llana",
+   "opciones": [
+    "tardió",
+    "tárdio",
+    "tardío"
+   ],
+   "respuesta": "tardío",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "tar-dí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0096",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "policía",
    "clase": "llana",
    "respuesta": 5,
-   "dificultad": 3,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "po-li-cí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0097",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "navío",
+   "clase": "llana",
+   "opciones": [
+    "navío",
+    "navió",
+    "navio"
+   ],
+   "respuesta": "navío",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "na-ví-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0098",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «reír», las vocales «eí» forman…",
+   "palabra": "reír",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-ír: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0099",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tía» lleva tilde?",
+   "palabra": "tía",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0100",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dúo",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "dú-o: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0101",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «oír», las vocales «oí» forman…",
+   "palabra": "oír",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-ír: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0102",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «reído», las vocales «eí» forman…",
+   "palabra": "reído",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-í-do: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0103",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "heroína",
+   "clase": "llana",
+   "opciones": [
+    "héroina",
+    "heroína",
+    "heroina"
+   ],
+   "respuesta": "heroína",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "he-ro-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0104",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "geometría",
+   "clase": "llana",
+   "opciones": [
+    "geometria",
+    "geometría",
+    "géometria"
+   ],
+   "respuesta": "geometría",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ge-o-me-trí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0105",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «oír» lleva tilde?",
+   "palabra": "oír",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "o-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0106",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "maíz",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ma-íz: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0107",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «raíces» lleva tilde?",
+   "palabra": "raíces",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ra-í-ces: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0108",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "caída",
+   "clase": "llana",
+   "opciones": [
+    "caidá",
+    "caída",
+    "caida"
+   ],
+   "respuesta": "caída",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-í-da: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0109",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ganzúa",
+   "clase": "llana",
+   "opciones": [
+    "ganzuá",
+    "gánzua",
+    "ganzúa"
+   ],
+   "respuesta": "ganzúa",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "gan-zú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0110",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «simpatía» lleva tilde?",
+   "palabra": "simpatía",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "sim-pa-tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0111",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «baúles», las vocales «aú» forman…",
+   "palabra": "baúles",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ba-ú-les: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0112",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «tío», las vocales «ío» forman…",
+   "palabra": "tío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "tí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0113",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «baúl», las vocales «aú» forman…",
+   "palabra": "baúl",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ba-úl: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0114",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "creíble",
+   "clase": "llana",
+   "opciones": [
+    "creiblé",
+    "creíble",
+    "creible"
+   ],
+   "respuesta": "creíble",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cre-í-ble: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0115",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «país», las vocales «aí» forman…",
+   "palabra": "país",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-ís: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0116",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «había» lleva tilde?",
+   "palabra": "había",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ha-bí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0117",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «mayoría» lleva tilde?",
+   "palabra": "mayoría",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ma-yo-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0118",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "armonía",
+   "clase": "llana",
+   "opciones": [
+    "ármonia",
+    "armonía",
+    "armonia"
+   ],
+   "respuesta": "armonía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ar-mo-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0119",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "economía",
+   "clase": "llana",
+   "opciones": [
+    "económia",
+    "economía",
+    "economiá"
+   ],
+   "respuesta": "economía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-co-no-mí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0120",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «baúl» lleva tilde?",
+   "palabra": "baúl",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ba-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0121",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "filosofía",
+   "clase": "llana",
+   "opciones": [
+    "fílosofia",
+    "filosofía",
+    "filosófia"
+   ],
+   "respuesta": "filosofía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fi-lo-so-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0122",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "fantasía",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fan-ta-sí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0123",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «bujía» lleva tilde?",
+   "palabra": "bujía",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "bu-jí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0124",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "increíble",
+   "clase": "llana",
+   "opciones": [
+    "increíble",
+    "íncreible",
+    "incréible"
+   ],
+   "respuesta": "increíble",
+   "dificultad": 2,
    "skills": [
     "hiatos"
    ],
@@ -777,7 +2276,497 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0044",
+   "id": "A9-0125",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «lío» lleva tilde?",
+   "palabra": "lío",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "lí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0126",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "había",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ha-bí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0127",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «rocío», las vocales «ío» forman…",
+   "palabra": "rocío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ro-cí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0128",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "panadería",
+   "clase": "llana",
+   "opciones": [
+    "panaderiá",
+    "panadéria",
+    "panadería"
+   ],
+   "respuesta": "panadería",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-na-de-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0129",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «poesía» lleva tilde?",
+   "palabra": "poesía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "po-e-sí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0130",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «lío», las vocales «ío» forman…",
+   "palabra": "lío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "lí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0131",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «melodía», las vocales «ía» forman…",
+   "palabra": "melodía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "me-lo-dí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0132",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «dúo», las vocales «úo» forman…",
+   "palabra": "dúo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "dú-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0133",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «tontería», las vocales «ía» forman…",
+   "palabra": "tontería",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ton-te-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0134",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "grúa",
+   "clase": "llana",
+   "opciones": [
+    "gruá",
+    "grua",
+    "grúa"
+   ],
+   "respuesta": "grúa",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "grú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0135",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ataúd",
+   "clase": "aguda",
+   "opciones": [
+    "ataúd",
+    "ataud",
+    "atáud"
+   ],
+   "respuesta": "ataúd",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-ta-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0136",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «búho», las vocales «úho» forman…",
+   "palabra": "búho",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "bú-ho: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0137",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "compañía",
+   "clase": "llana",
+   "opciones": [
+    "compáñia",
+    "compañiá",
+    "compañía"
+   ],
+   "respuesta": "compañía",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "com-pa-ñí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0138",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «valentía», las vocales «ía» forman…",
+   "palabra": "valentía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "va-len-tí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0139",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «manía» lleva tilde?",
+   "palabra": "manía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ma-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0140",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «escalofrío», las vocales «ío» forman…",
+   "palabra": "escalofrío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "es-ca-lo-frí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0141",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tontería",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ton-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0142",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tontería» lleva tilde?",
+   "palabra": "tontería",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ton-te-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0143",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "baúles",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ba-ú-les: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0144",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «oído», las vocales «oí» forman…",
+   "palabra": "oído",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 2,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-í-do: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0145",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «mío» lleva tilde?",
+   "palabra": "mío",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "mí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0146",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «cercanía» lleva tilde?",
+   "palabra": "cercanía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "cer-ca-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0147",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «sinfonía», las vocales «ía» forman…",
+   "palabra": "sinfonía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "sin-fo-ní-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0148",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "geometría",
+   "clase": "llana",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ge-o-me-trí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0149",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «feo» no lleva tilde?",
+   "palabra": "feo",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "fe-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A9-0150",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "creído",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cre-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0151",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "leído",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "le-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0152",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
    "palabra": "caída",
@@ -791,80 +2780,7 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0045",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "Eloísa",
-   "clase": "llana",
-   "opciones": [
-    "Elóisa",
-    "Eloisá",
-    "Eloísa"
-   ],
-   "respuesta": "Eloísa",
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "E-lo-í-sa: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0046",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «librería» lleva tilde?",
-   "palabra": "librería",
-   "clase": "llana",
-   "opciones": [
-    "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
-    "Es llana y acaba en -s tras otra consonante → lleva tilde"
-   ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 3,
-   "skills": [
-    "reglas",
-    "llanas"
-   ],
-   "explicacion": "li-bre-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0047",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «compañía» lleva tilde?",
-   "palabra": "compañía",
-   "clase": "llana",
-   "opciones": [
-    "Es esdrújula o sobresdrújula → siempre lleva tilde",
-    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
-    "La i o la u suena fuerte y forma hiato → lleva tilde"
-   ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 3,
-   "skills": [
-    "reglas",
-    "llanas"
-   ],
-   "explicacion": "com-pa-ñí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0048",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "actúa",
-   "clase": "llana",
-   "respuesta": 3,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "ac-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0049",
+   "id": "A9-0153",
    "tipo": "explica_regla",
    "enunciado": "¿Por qué «egoísta» lleva tilde?",
    "palabra": "egoísta",
@@ -884,7 +2800,1006 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0050",
+   "id": "A9-0154",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «sombrío», las vocales «ío» forman…",
+   "palabra": "sombrío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "som-brí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0155",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "egoísta",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-go-ís-ta: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0156",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "increíble",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "in-cre-í-ble: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0157",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «ría», las vocales «ía» forman…",
+   "palabra": "ría",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0158",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «correo» no lleva tilde?",
+   "palabra": "correo",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "co-rre-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A9-0159",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "categoría",
+   "clase": "llana",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-te-go-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0160",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «biografía» lleva tilde?",
+   "palabra": "biografía",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "bio-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0161",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «minoría» lleva tilde?",
+   "palabra": "minoría",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "mi-no-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0162",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "sombrío",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "som-brí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0163",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mediodía",
+   "clase": "llana",
+   "opciones": [
+    "mediodiá",
+    "mediodía",
+    "mediodia"
+   ],
+   "respuesta": "mediodía",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "me-dio-dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0164",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "armonía",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ar-mo-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0165",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «grúa», las vocales «úa» forman…",
+   "palabra": "grúa",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "grú-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0166",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "heroína",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "he-ro-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0167",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "museo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "mu-se-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0168",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «cercanía», las vocales «ía» forman…",
+   "palabra": "cercanía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cer-ca-ní-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0169",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «librería», las vocales «ía» forman…",
+   "palabra": "librería",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "li-bre-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0170",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «economía», las vocales «ía» forman…",
+   "palabra": "economía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-co-no-mí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0171",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "correo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "co-rre-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0172",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "leer",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "le-er: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0173",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «laúd», las vocales «aú» forman…",
+   "palabra": "laúd",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "la-úd: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0174",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "filosofía",
+   "clase": "llana",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fi-lo-so-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0175",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «héroe» lleva tilde?",
+   "palabra": "héroe",
+   "clase": "esdrujula",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es esdrújula o sobresdrújula → siempre lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "esdrujulas"
+   ],
+   "explicacion": "hé-ro-e: es esdrújula (suena fuerte «hé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A9-0176",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «leído» lleva tilde?",
+   "palabra": "leído",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "le-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0177",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "acentúa",
+   "clase": "llana",
+   "opciones": [
+    "acentua",
+    "acentúa",
+    "acéntua"
+   ],
+   "respuesta": "acentúa",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-cen-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0178",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "caos",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-os: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0179",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «poeta», las vocales «oe» forman…",
+   "palabra": "poeta",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "po-e-ta: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0180",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «canoa» no lleva tilde?",
+   "palabra": "canoa",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ca-no-a: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A9-0181",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «peor», las vocales «eo» forman…",
+   "palabra": "peor",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pe-or: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0182",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «feo», las vocales «eo» forman…",
+   "palabra": "feo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fe-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0183",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «correo», las vocales «eo» forman…",
+   "palabra": "correo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "co-rre-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0184",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «navío» lleva tilde?",
+   "palabra": "navío",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "na-ví-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0185",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «compañía», las vocales «ía» forman…",
+   "palabra": "compañía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "com-pa-ñí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0186",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «reúne», las vocales «eú» forman…",
+   "palabra": "reúne",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-ú-ne: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0187",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Eloísa",
+   "clase": "llana",
+   "opciones": [
+    "Elóisa",
+    "Eloisá",
+    "Eloísa"
+   ],
+   "respuesta": "Eloísa",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "E-lo-í-sa: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0188",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «prohíbe» lleva tilde?",
+   "palabra": "prohíbe",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "pro-hí-be: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0189",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «geografía» lleva tilde?",
+   "palabra": "geografía",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ge-o-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0190",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «leer», las vocales «ee» forman…",
+   "palabra": "leer",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "le-er: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0191",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cercanía",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cer-ca-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0192",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «increíble», las vocales «eí» forman…",
+   "palabra": "increíble",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "in-cre-í-ble: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0193",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «filosofía» lleva tilde?",
+   "palabra": "filosofía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "fi-lo-so-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0194",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ataúd",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-ta-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0195",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "geografía",
+   "clase": "llana",
+   "respuesta": 7,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ge-o-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0196",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "navío",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "na-ví-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0197",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «tardío», las vocales «ío» forman…",
+   "palabra": "tardío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "tar-dí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0198",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «proteína», las vocales «eí» forman…",
+   "palabra": "proteína",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pro-te-í-na: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0199",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "fotografía",
+   "clase": "llana",
+   "respuesta": 8,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fo-to-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0200",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «ironía», las vocales «ía» forman…",
+   "palabra": "ironía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "i-ro-ní-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0201",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «garantía» lleva tilde?",
+   "palabra": "garantía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ga-ran-tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0202",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «energía», las vocales «ía» forman…",
+   "palabra": "energía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-ner-gí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0203",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «panadería», las vocales «ía» forman…",
+   "palabra": "panadería",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-na-de-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0204",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «aéreo» lleva tilde?",
+   "palabra": "aéreo",
+   "clase": "esdrujula",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es esdrújula o sobresdrújula → siempre lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "esdrujulas"
+   ],
+   "explicacion": "a-é-re-o: es esdrújula (suena fuerte «é»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A9-0205",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «creíble» lleva tilde?",
+   "palabra": "creíble",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "cre-í-ble: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0206",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «librería» lleva tilde?",
+   "palabra": "librería",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "li-bre-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0207",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «ataúd» lleva tilde?",
+   "palabra": "ataúd",
+   "clase": "aguda",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "a-ta-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0208",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «creer», las vocales «ee» forman…",
+   "palabra": "creer",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cre-er: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0209",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «actúa», las vocales «úa» forman…",
+   "palabra": "actúa",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ac-tú-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0210",
    "tipo": "explica_regla",
    "enunciado": "¿Por qué «idea» no lleva tilde?",
    "palabra": "idea",
@@ -904,7 +3819,7 @@
    "regla_id": "llanas"
   },
   {
-   "id": "A9-0051",
+   "id": "A9-0211",
    "tipo": "diptongo_hiato",
    "enunciado": "En «teatro», las vocales «ea» forman…",
    "palabra": "teatro",
@@ -923,10 +3838,10 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0052",
+   "id": "A9-0212",
    "tipo": "diptongo_hiato",
-   "enunciado": "En «energía», las vocales «ía» forman…",
-   "palabra": "energía",
+   "enunciado": "En «minoría», las vocales «ía» forman…",
+   "palabra": "minoría",
    "clase": "llana",
    "opciones": [
     "diptongo",
@@ -938,30 +3853,354 @@
    "skills": [
     "hiatos"
    ],
-   "explicacion": "e-ner-gí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "mi-no-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0053",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vehículo",
-   "clase": "esdrujula",
-   "opciones": [
-    "vehículo",
-    "vehiculo",
-    "véhiculo"
-   ],
-   "respuesta": "vehículo",
+   "id": "A9-0213",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "creíble",
+   "clase": "llana",
+   "respuesta": 3,
    "dificultad": 3,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "cre-í-ble: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0054",
+   "id": "A9-0214",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «prohíbe», las vocales «ohí» forman…",
+   "palabra": "prohíbe",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pro-hí-be: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0215",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «sombrío» lleva tilde?",
+   "palabra": "sombrío",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "som-brí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0216",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «ortografía» lleva tilde?",
+   "palabra": "ortografía",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "or-to-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0217",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ironía",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "i-ro-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0218",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «desafío», las vocales «ío» forman…",
+   "palabra": "desafío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "de-sa-fí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0219",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "compañía",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "com-pa-ñí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0220",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «ataúd», las vocales «aú» forman…",
+   "palabra": "ataúd",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-ta-úd: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0221",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «categoría», las vocales «ía» forman…",
+   "palabra": "categoría",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-te-go-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0222",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «increíble» lleva tilde?",
+   "palabra": "increíble",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "in-cre-í-ble: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0223",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «océano», las vocales «éa» forman…",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-cé-a-no: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0224",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «océano» lleva tilde?",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es esdrújula o sobresdrújula → siempre lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "esdrujulas"
+   ],
+   "explicacion": "o-cé-a-no: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "regla_id": "esdrujulas"
+  },
+  {
+   "id": "A9-0225",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "energía",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-ner-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0226",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "grúa",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "grú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0227",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "evalúa",
+   "clase": "llana",
+   "opciones": [
+    "evalua",
+    "evalúa",
+    "eválua"
+   ],
+   "respuesta": "evalúa",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "e-va-lú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0228",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Andalucía» lleva tilde?",
+   "palabra": "Andalucía",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "An-da-lu-cí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0229",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tecnología» lleva tilde?",
+   "palabra": "tecnología",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "tec-no-lo-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0230",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «geometría» lleva tilde?",
+   "palabra": "geometría",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ge-o-me-trí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0231",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «héroe», las vocales «oe» forman…",
+   "palabra": "héroe",
+   "clase": "esdrujula",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "hé-ro-e: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0232",
    "tipo": "diptongo_hiato",
    "enunciado": "En «tecnología», las vocales «ía» forman…",
    "palabra": "tecnología",
@@ -980,109 +4219,29 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0055",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «reúne», las vocales «eú» forman…",
-   "palabra": "reúne",
-   "clase": "llana",
-   "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
-   ],
-   "respuesta": "hiato",
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "re-ú-ne: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0056",
+   "id": "A9-0233",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "poeta",
+   "palabra": "púa",
    "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "po-e-ta: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0057",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «egoísta», las vocales «oí» forman…",
-   "palabra": "egoísta",
-   "clase": "llana",
-   "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
-   ],
-   "respuesta": "hiato",
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "e-go-ís-ta: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0058",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "idea",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "i-de-a: es llana y acaba en vocal, así que no lleva tilde.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0059",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "creer",
-   "clase": "aguda",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "cre-er: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0060",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "héroe",
-   "clase": "esdrujula",
    "respuesta": 1,
    "dificultad": 3,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "hé-ro-e: es esdrújula (suena fuerte «hé»), y estas llevan tilde siempre.",
+   "explicacion": "pú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0061",
+   "id": "A9-0234",
    "tipo": "explica_regla",
-   "enunciado": "¿Por qué «actúa» lleva tilde?",
-   "palabra": "actúa",
+   "enunciado": "¿Por qué «creído» lleva tilde?",
+   "palabra": "creído",
    "clase": "llana",
    "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
     "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
-    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
    ],
    "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
    "dificultad": 3,
@@ -1090,176 +4249,165 @@
     "reglas",
     "llanas"
    ],
-   "explicacion": "ac-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "cre-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0062",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "id": "A9-0235",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «compañía» lleva tilde?",
+   "palabra": "compañía",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "com-pa-ñí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0236",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «fotografía» lleva tilde?",
+   "palabra": "fotografía",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "fo-to-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0237",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gradúa",
+   "clase": "llana",
+   "opciones": [
+    "gradúa",
+    "gradua",
+    "grádua"
+   ],
+   "respuesta": "gradúa",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "gra-dú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0238",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «economía» lleva tilde?",
+   "palabra": "economía",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "e-co-no-mí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0239",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «cafeína», las vocales «eí» forman…",
    "palabra": "cafeína",
    "clase": "llana",
-   "respuesta": 4,
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
    "dificultad": 3,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ca-fe-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "ca-fe-í-na: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0063",
+   "id": "A9-0240",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «osadía», las vocales «ía» forman…",
+   "palabra": "osadía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-sa-dí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0241",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "caos",
-   "clase": "llana",
-   "respuesta": -1,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "ca-os: es llana y acaba en -s, así que no lleva tilde.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0064",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "energía",
-   "clase": "llana",
-   "respuesta": 5,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "e-ner-gí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0065",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «laúd» lleva tilde?",
    "palabra": "laúd",
    "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "la-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0242",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «continúa» lleva tilde?",
+   "palabra": "continúa",
+   "clase": "llana",
    "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
     "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
     "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
    ],
    "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
    "dificultad": 3,
    "skills": [
     "reglas",
-    "agudas"
-   ],
-   "explicacion": "la-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0066",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «panadería», las vocales «ía» forman…",
-   "palabra": "panadería",
-   "clase": "llana",
-   "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
-   ],
-   "respuesta": "hiato",
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "pa-na-de-rí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0067",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "geografía",
-   "clase": "llana",
-   "respuesta": 7,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "ge-o-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0068",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "creído",
-   "clase": "llana",
-   "respuesta": 3,
-   "dificultad": 3,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "cre-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0069",
-   "tipo": "poner_tilde",
-   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
-   "palabra": "acentúa",
-   "clase": "llana",
-   "respuesta": 5,
-   "dificultad": 4,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "a-cen-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0070",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «gradúa», las vocales «úa» forman…",
-   "palabra": "gradúa",
-   "clase": "llana",
-   "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
-   ],
-   "respuesta": "hiato",
-   "dificultad": 4,
-   "skills": [
-    "hiatos"
-   ],
-   "explicacion": "gra-dú-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
-   "regla_id": "hiatos"
-  },
-  {
-   "id": "A9-0071",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «evalúa» lleva tilde?",
-   "palabra": "evalúa",
-   "clase": "llana",
-   "opciones": [
-    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
-    "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
-   ],
-   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
-   "dificultad": 4,
-   "skills": [
-    "reglas",
     "llanas"
    ],
-   "explicacion": "e-va-lú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "con-ti-nú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0072",
+   "id": "A9-0243",
    "tipo": "diptongo_hiato",
-   "enunciado": "En «prohíben», las vocales «ohí» forman…",
-   "palabra": "prohíben",
+   "enunciado": "En «egoísmo», las vocales «oí» forman…",
+   "palabra": "egoísmo",
    "clase": "llana",
    "opciones": [
     "diptongo",
@@ -1267,21 +4415,93 @@
     "triptongo"
    ],
    "respuesta": "hiato",
-   "dificultad": 4,
+   "dificultad": 3,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "pro-hí-ben: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "e-go-ís-mo: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0073",
+   "id": "A9-0244",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «peor» no lleva tilde?",
+   "palabra": "peor",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "pe-or: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A9-0245",
    "tipo": "poner_tilde",
    "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "paseo",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-se-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0246",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "gentío",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "gen-tí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0247",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «heroísmo», las vocales «oí» forman…",
+   "palabra": "heroísmo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "he-ro-ís-mo: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0248",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "búhos",
    "clase": "llana",
-   "respuesta": 1,
-   "dificultad": 4,
+   "opciones": [
+    "búhos",
+    "buhos",
+    "buhós"
+   ],
+   "respuesta": "búhos",
+   "dificultad": 3,
    "skills": [
     "hiatos"
    ],
@@ -1289,84 +4509,476 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0074",
+   "id": "A9-0249",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "osadía",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-sa-dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0250",
    "tipo": "explica_regla",
-   "enunciado": "¿Por qué «vehículo» lleva tilde?",
-   "palabra": "vehículo",
-   "clase": "esdrujula",
+   "enunciado": "¿Por qué «reúne» lleva tilde?",
+   "palabra": "reúne",
+   "clase": "llana",
    "opciones": [
-    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
     "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "re-ú-ne: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0251",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «Andalucía», las vocales «ía» forman…",
+   "palabra": "Andalucía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "An-da-lu-cí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0252",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «ganzúa», las vocales «úa» forman…",
+   "palabra": "ganzúa",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "gan-zú-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0253",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «cortesía», las vocales «ía» forman…",
+   "palabra": "cortesía",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cor-te-sí-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0254",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «ganzúa» lleva tilde?",
+   "palabra": "ganzúa",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "gan-zú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0255",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-cé-a-no: es esdrújula (suena fuerte «cé»), y estas llevan tilde siempre.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0256",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «caos» no lleva tilde?",
+   "palabra": "caos",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ca-os: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A9-0257",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «gentío», las vocales «ío» forman…",
+   "palabra": "gentío",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "gen-tí-o: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0258",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «creído», las vocales «eí» forman…",
+   "palabra": "creído",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cre-í-do: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0259",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «gentío» lleva tilde?",
+   "palabra": "gentío",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "gen-tí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0260",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "prohíbe",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pro-hí-be: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0261",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "peor",
+   "clase": "aguda",
+   "respuesta": "peor",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "pe-or: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0262",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Raúl» lleva tilde?",
+   "palabra": "Raúl",
+   "clase": "aguda",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
    ],
    "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
    "dificultad": 4,
    "skills": [
     "reglas",
-    "esdrujulas"
+    "agudas"
    ],
-   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "explicacion": "Ra-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0075",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «acentúa», las vocales «úa» forman…",
+   "id": "A9-0263",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "proteína",
+   "clase": "llana",
+   "respuesta": "proteína",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "pro-te-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0264",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "navío",
+   "clase": "llana",
+   "respuesta": "navío",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "na-ví-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0265",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «acentúa» lleva tilde?",
    "palabra": "acentúa",
    "clase": "llana",
    "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
    ],
-   "respuesta": "hiato",
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "a-cen-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0266",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "geografía",
+   "clase": "llana",
+   "respuesta": "geografía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ge-o-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0267",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "ironía",
+   "clase": "llana",
+   "respuesta": "ironía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "i-ro-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0268",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "reúnen",
+   "clase": "llana",
+   "respuesta": 2,
    "dificultad": 4,
    "skills": [
     "hiatos"
    ],
-   "explicacion": "a-cen-tú-a: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "re-ú-nen: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0076",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «Eloísa», las vocales «oí» forman…",
-   "palabra": "Eloísa",
+   "id": "A9-0269",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "rehúso",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-hú-so: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0270",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "teatro",
+   "clase": "llana",
+   "respuesta": "teatro",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "te-a-tro: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0271",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "caída",
+   "clase": "llana",
+   "respuesta": "caída",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ca-í-da: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0272",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Raúl",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "Ra-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0273",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "compañía",
+   "clase": "llana",
+   "respuesta": "compañía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "com-pa-ñí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0274",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «reúnen» lleva tilde?",
+   "palabra": "reúnen",
    "clase": "llana",
    "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
    ],
-   "respuesta": "hiato",
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
    "dificultad": 4,
    "skills": [
-    "hiatos"
+    "reglas",
+    "llanas"
    ],
-   "explicacion": "E-lo-í-sa: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "re-ú-nen: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0077",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «ahínco», las vocales «ahí» forman…",
-   "palabra": "ahínco",
+   "id": "A9-0275",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "grúa",
    "clase": "llana",
-   "opciones": [
-    "diptongo",
-    "hiato",
-    "triptongo"
-   ],
-   "respuesta": "hiato",
+   "respuesta": "grúa",
    "dificultad": 4,
    "skills": [
+    "dictado",
     "hiatos"
    ],
-   "explicacion": "a-hín-co: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
-   "regla_id": "hiatos"
+   "explicacion": "grú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
   },
   {
-   "id": "A9-0078",
+   "id": "A9-0276",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "caligrafía",
+   "clase": "llana",
+   "respuesta": "caligrafía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ca-li-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0277",
    "tipo": "explica_regla",
    "enunciado": "¿Por qué «búhos» lleva tilde?",
    "palabra": "búhos",
@@ -1386,11 +4998,100 @@
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0079",
-   "tipo": "diptongo_hiato",
-   "enunciado": "En «vehículo», las vocales «ehí» forman…",
+   "id": "A9-0278",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "economía",
+   "clase": "llana",
+   "respuesta": "economía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "e-co-no-mí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0279",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «prohíben» lleva tilde?",
+   "palabra": "prohíben",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "pro-hí-ben: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0280",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «rehúso» lleva tilde?",
+   "palabra": "rehúso",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "re-hú-so: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0281",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "transeúnte",
+   "clase": "llana",
+   "respuesta": 6,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "tran-se-ún-te: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0282",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «vehículo» lleva tilde?",
    "palabra": "vehículo",
    "clase": "esdrujula",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "esdrujulas"
+   ],
+   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0283",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «Saúl», las vocales «aú» forman…",
+   "palabra": "Saúl",
+   "clase": "aguda",
    "opciones": [
     "diptongo",
     "hiato",
@@ -1401,19 +5102,128 @@
    "skills": [
     "hiatos"
    ],
-   "explicacion": "ve-hí-cu-lo: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "explicacion": "Sa-úl: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
    "regla_id": "hiatos"
   },
   {
-   "id": "A9-0080",
-   "tipo": "explica_regla",
-   "enunciado": "¿Por qué «ahínco» lleva tilde?",
-   "palabra": "ahínco",
+   "id": "A9-0284",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "ganzúa",
+   "clase": "llana",
+   "respuesta": "ganzúa",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "gan-zú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0285",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "leído",
+   "clase": "llana",
+   "respuesta": "leído",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "le-í-do: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0286",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "freír",
+   "clase": "aguda",
+   "respuesta": "freír",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "fre-ír: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0287",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «búhos», las vocales «úho» forman…",
+   "palabra": "búhos",
    "clase": "llana",
    "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "bú-hos: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0288",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "ortografía",
+   "clase": "llana",
+   "respuesta": "ortografía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "or-to-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0289",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cafeína",
+   "clase": "llana",
+   "respuesta": "cafeína",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ca-fe-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0290",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "sinfonía",
+   "clase": "llana",
+   "respuesta": "sinfonía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "sin-fo-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0291",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «transeúnte» lleva tilde?",
+   "palabra": "transeúnte",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
     "La i o la u suena fuerte y forma hiato → lleva tilde",
-    "Es llana y acaba en -s tras otra consonante → lleva tilde",
-    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
    ],
    "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
    "dificultad": 4,
@@ -1421,8 +5231,455 @@
     "reglas",
     "llanas"
    ],
+   "explicacion": "tran-se-ún-te: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0292",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "ataúd",
+   "clase": "aguda",
+   "respuesta": "ataúd",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "a-ta-úd: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0293",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "heroína",
+   "clase": "llana",
+   "respuesta": "heroína",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "he-ro-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0294",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "armonía",
+   "clase": "llana",
+   "respuesta": "armonía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ar-mo-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0295",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "panadería",
+   "clase": "llana",
+   "respuesta": "panadería",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "pa-na-de-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0296",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «gradúa» lleva tilde?",
+   "palabra": "gradúa",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "gra-dú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0297",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "feo",
+   "clase": "llana",
+   "respuesta": "feo",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "fe-o: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0298",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cercanía",
+   "clase": "llana",
+   "respuesta": "cercanía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "cer-ca-ní-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0299",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «rehúso», las vocales «ehú» forman…",
+   "palabra": "rehúso",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-hú-so: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0300",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tardío",
+   "clase": "llana",
+   "respuesta": "tardío",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "tar-dí-o: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0301",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "idea",
+   "clase": "llana",
+   "respuesta": "idea",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "i-de-a: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0302",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Saúl» lleva tilde?",
+   "palabra": "Saúl",
+   "clase": "aguda",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "La i o la u suena fuerte y forma hiato → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "Sa-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0303",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "reúne",
+   "clase": "llana",
+   "respuesta": "reúne",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "re-ú-ne: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0304",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "caos",
+   "clase": "llana",
+   "respuesta": "caos",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ca-os: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0305",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "osadía",
+   "clase": "llana",
+   "respuesta": "osadía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "o-sa-dí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0306",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ahínco",
+   "clase": "llana",
+   "respuesta": 2,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
    "explicacion": "a-hín-co: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
    "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0307",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «reúnen», las vocales «eú» forman…",
+   "palabra": "reúnen",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "re-ú-nen: es hiato porque hay la i o la u lleva el golpe de voz, así que se separan (y llevan tilde).",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0308",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "categoría",
+   "clase": "llana",
+   "respuesta": "categoría",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ca-te-go-rí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0309",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "vehículo",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0310",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "prohíben",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pro-hí-ben: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0311",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Eloísa",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "E-lo-í-sa: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0312",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "acentúa",
+   "clase": "llana",
+   "respuesta": 5,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-cen-tú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0313",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "fotografía",
+   "clase": "llana",
+   "respuesta": "fotografía",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "fo-to-gra-fí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0314",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Saúl",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 4,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "Sa-úl: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A9-0315",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "reúnen",
+   "clase": "llana",
+   "respuesta": "reúnen",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "re-ú-nen: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0316",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "prohíben",
+   "clase": "llana",
+   "respuesta": "prohíben",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "pro-hí-ben: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0317",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "rehúso",
+   "clase": "llana",
+   "respuesta": "rehúso",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "re-hú-so: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0318",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "vehículo",
+   "clase": "esdrujula",
+   "respuesta": "vehículo",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "ve-hí-cu-lo: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0319",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "ahínco",
+   "clase": "llana",
+   "respuesta": "ahínco",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "a-hín-co: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A9-0320",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "evalúa",
+   "clase": "llana",
+   "respuesta": "evalúa",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "hiatos"
+   ],
+   "explicacion": "e-va-lú-a: la «u» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
   }
  ]
 }

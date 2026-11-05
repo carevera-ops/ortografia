@@ -5,191 +5,55 @@
    "id": "B3-0001",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hijo",
+   "palabra": "huerta",
    "opciones": [
-    "hijo",
-    "ijo"
+    "uerta",
+    "huerta"
    ],
-   "respuesta": "hijo",
+   "respuesta": "huerta",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hijo». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «huerta». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
    "regla_id": "h"
   },
   {
    "id": "B3-0002",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ahora",
+   "palabra": "humano",
    "opciones": [
-    "ahora",
-    "aora"
+    "umano",
+    "humano"
    ],
-   "respuesta": "ahora",
+   "respuesta": "humano",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «ahora». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «humano». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
    "regla_id": "h"
   },
   {
    "id": "B3-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hambre",
+   "palabra": "hablar",
    "opciones": [
-    "ambre",
-    "hambre"
+    "hablar",
+    "ablar"
    ],
-   "respuesta": "hambre",
+   "respuesta": "hablar",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hambre». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «hablar». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
    "regla_id": "h"
   },
   {
    "id": "B3-0004",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "prohibido",
-   "opciones": [
-    "prohibido",
-    "proibido"
-   ],
-   "respuesta": "prohibido",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «prohibido». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0005",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hielo",
-   "opciones": [
-    "ielo",
-    "hielo"
-   ],
-   "respuesta": "hielo",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hielo». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0006",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hermano",
-   "opciones": [
-    "hermano",
-    "ermano"
-   ],
-   "respuesta": "hermano",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hermano». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0007",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "helado",
-   "opciones": [
-    "helado",
-    "elado"
-   ],
-   "respuesta": "helado",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «helado». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0008",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "huele",
-   "opciones": [
-    "uele",
-    "huele"
-   ],
-   "respuesta": "huele",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «huele». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0009",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "rehacer",
-   "opciones": [
-    "reacer",
-    "rehacer"
-   ],
-   "respuesta": "rehacer",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «rehacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0010",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hacer",
-   "opciones": [
-    "hacer",
-    "acer"
-   ],
-   "respuesta": "hacer",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0011",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "huevo",
-   "opciones": [
-    "huevo",
-    "uevo"
-   ],
-   "respuesta": "huevo",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «huevo». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0012",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "hoy",
@@ -206,71 +70,207 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0013",
+   "id": "B3-0005",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hilo",
+   "palabra": "horario",
    "opciones": [
-    "ilo",
-    "hilo"
+    "horario",
+    "orario"
    ],
-   "respuesta": "hilo",
+   "respuesta": "horario",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hilo». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «horario». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "huésped",
+   "opciones": [
+    "huésped",
+    "uésped"
+   ],
+   "respuesta": "huésped",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huésped». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "horno",
+   "opciones": [
+    "orno",
+    "horno"
+   ],
+   "respuesta": "horno",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «horno». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "helado",
+   "opciones": [
+    "helado",
+    "elado"
+   ],
+   "respuesta": "helado",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «helado». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vehículo",
+   "opciones": [
+    "veículo",
+    "vehículo"
+   ],
+   "respuesta": "vehículo",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «vehículo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hiena",
+   "opciones": [
+    "iena",
+    "hiena"
+   ],
+   "respuesta": "hiena",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hiena». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "huracán",
+   "opciones": [
+    "huracán",
+    "uracán"
+   ],
+   "respuesta": "huracán",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huracán». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "huerto",
+   "opciones": [
+    "uerto",
+    "huerto"
+   ],
+   "respuesta": "huerto",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huerto». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "prohibido",
+   "opciones": [
+    "prohibido",
+    "proibido"
+   ],
+   "respuesta": "prohibido",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «prohibido». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
    "id": "B3-0014",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hormiga",
+   "palabra": "prohibir",
    "opciones": [
-    "hormiga",
-    "ormiga"
+    "prohibir",
+    "proibir"
    ],
-   "respuesta": "hormiga",
+   "respuesta": "prohibir",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hormiga». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «prohibir». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
    "id": "B3-0015",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "huella",
+   "palabra": "hongo",
    "opciones": [
-    "huella",
-    "uella"
+    "ongo",
+    "hongo"
    ],
-   "respuesta": "huella",
+   "respuesta": "hongo",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «huella». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "explicacion": "Se escribe «hongo». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
    "id": "B3-0016",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "almohada",
+   "palabra": "hielo",
    "opciones": [
-    "almoada",
-    "almohada"
+    "ielo",
+    "hielo"
    ],
-   "respuesta": "almohada",
+   "respuesta": "hielo",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «almohada». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «hielo». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
    "regla_id": "h"
   },
   {
@@ -294,21 +294,38 @@
    "id": "B3-0018",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vehículo",
+   "palabra": "rehacer",
    "opciones": [
-    "veículo",
-    "vehículo"
+    "reacer",
+    "rehacer"
    ],
-   "respuesta": "vehículo",
+   "respuesta": "rehacer",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «vehículo». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «rehacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
    "regla_id": "h"
   },
   {
    "id": "B3-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hilo",
+   "opciones": [
+    "ilo",
+    "hilo"
+   ],
+   "respuesta": "hilo",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hilo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0020",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "cohete",
@@ -325,7 +342,75 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0020",
+   "id": "B3-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "zanahoria",
+   "opciones": [
+    "zanahoria",
+    "zanaoria"
+   ],
+   "respuesta": "zanahoria",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «zanahoria». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hijo",
+   "opciones": [
+    "hijo",
+    "ijo"
+   ],
+   "respuesta": "hijo",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hijo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ahorrar",
+   "opciones": [
+    "aorrar",
+    "ahorrar"
+   ],
+   "respuesta": "ahorrar",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ahorrar». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hermano",
+   "opciones": [
+    "hermano",
+    "ermano"
+   ],
+   "respuesta": "hermano",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hermano». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0025",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "hueco",
@@ -342,75 +427,24 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0021",
+   "id": "B3-0026",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "búho",
+   "palabra": "hambre",
    "opciones": [
-    "búho",
-    "búo"
+    "ambre",
+    "hambre"
    ],
-   "respuesta": "búho",
+   "respuesta": "hambre",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «búho». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «hambre». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0022",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "deshacer",
-   "opciones": [
-    "deshacer",
-    "desacer"
-   ],
-   "respuesta": "deshacer",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «deshacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0023",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "huerto",
-   "opciones": [
-    "uerto",
-    "huerto"
-   ],
-   "respuesta": "huerto",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «huerto». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0024",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "huir",
-   "opciones": [
-    "huir",
-    "uir"
-   ],
-   "respuesta": "huir",
-   "dificultad": 1,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «huir». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0025",
+   "id": "B3-0027",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "hermoso",
@@ -427,474 +461,50 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0026",
+   "id": "B3-0028",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hablar",
+   "palabra": "cacahuete",
    "opciones": [
-    "hablar",
-    "ablar"
+    "cacahuete",
+    "cacauete"
    ],
-   "respuesta": "hablar",
+   "respuesta": "cacahuete",
    "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hablar». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0027",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "óvalo",
-   "opciones": [
-    "hóvalo",
-    "óvalo"
-   ],
-   "respuesta": "óvalo",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «óvalo». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0028",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "rehacer",
-   "frase": "re___acer",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «rehacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
+   "explicacion": "Se escribe «cacahuete». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
    "id": "B3-0029",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "horno",
-   "frase": "___orno",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "deshielo",
    "opciones": [
-    "nada",
-    "h"
+    "deshielo",
+    "desielo"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "deshielo",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «horno». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «deshielo». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
    "id": "B3-0030",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "abuelo",
-   "opciones": [
-    "habuelo",
-    "abuelo"
-   ],
-   "respuesta": "abuelo",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «abuelo». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0031",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "cohete",
-   "frase": "co___ete",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «cohete». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0032",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hipopótamo",
-   "opciones": [
-    "ipopótamo",
-    "hipopótamo"
-   ],
-   "respuesta": "hipopótamo",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hipopótamo». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0033",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "humo",
-   "opciones": [
-    "humo",
-    "umo"
-   ],
-   "respuesta": "humo",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «humo». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0034",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hambre",
-   "frase": "___ambre",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hambre». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0035",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hermoso",
-   "frase": "___ermoso",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hermoso». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0036",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "helado",
-   "frase": "___elado",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «helado». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0037",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "olor",
-   "opciones": [
-    "olor",
-    "holor"
-   ],
-   "respuesta": "olor",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «olor». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0038",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "prohibido",
-   "frase": "pro___ibido",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «prohibido». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0039",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "deshacer",
-   "frase": "des___acer",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «deshacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0040",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hueso",
-   "frase": "___ueso",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hueso». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0041",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "huella",
-   "frase": "___uella",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «huella». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0042",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "orden",
-   "opciones": [
-    "orden",
-    "horden"
-   ],
-   "respuesta": "orden",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «orden». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0043",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "harina",
-   "frase": "___arina",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «harina». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0044",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "oler",
-   "opciones": [
-    "oler",
-    "holer"
-   ],
-   "respuesta": "oler",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «oler». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0045",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "huerto",
-   "frase": "___uerto",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «huerto». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0046",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ermita",
-   "opciones": [
-    "hermita",
-    "ermita"
-   ],
-   "respuesta": "ermita",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «ermita». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0047",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "alumno",
-   "opciones": [
-    "halumno",
-    "alumno"
-   ],
-   "respuesta": "alumno",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «alumno». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0048",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "ahora",
-   "frase": "a___ora",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «ahora». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0049",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hilo",
-   "frase": "___ilo",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hilo». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0050",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "aire",
-   "opciones": [
-    "haire",
-    "aire"
-   ],
-   "respuesta": "aire",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «aire». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0051",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hermano",
-   "frase": "___ermano",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "h",
-   "dificultad": 2,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «hermano». Es una palabra con h que hay que aprender de memoria.",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0052",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "huevo",
-   "frase": "___uevo",
    "opciones": [
-    "h",
-    "nada"
+    "huevo",
+    "uevo"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "huevo",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
@@ -902,142 +512,152 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0053",
+   "id": "B3-0031",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "historia",
+   "palabra": "hipo",
    "opciones": [
-    "historia",
-    "istoria"
+    "ipo",
+    "hipo"
    ],
-   "respuesta": "historia",
-   "dificultad": 2,
+   "respuesta": "hipo",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «historia». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "explicacion": "Se escribe «hipo». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0054",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "almohada",
-   "frase": "almo___ada",
+   "id": "B3-0032",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "deshacer",
    "opciones": [
-    "nada",
-    "h"
+    "deshacer",
+    "desacer"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "deshacer",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «almohada». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «deshacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0055",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hijo",
-   "frase": "___ijo",
+   "id": "B3-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "huella",
    "opciones": [
-    "h",
-    "nada"
+    "huella",
+    "uella"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "huella",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hijo». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «huella». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0056",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hormiga",
-   "frase": "___ormiga",
+   "id": "B3-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "harina",
    "opciones": [
-    "h",
-    "nada"
+    "harina",
+    "arina"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "harina",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hormiga». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «harina». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0057",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "vehículo",
-   "frase": "ve___ículo",
+   "id": "B3-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "huir",
    "opciones": [
-    "nada",
-    "h"
+    "huir",
+    "uir"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "huir",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «vehículo». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «huir». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0058",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hueco",
-   "frase": "___ueco",
+   "id": "B3-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "búho",
    "opciones": [
-    "h",
-    "nada"
+    "búho",
+    "búo"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "búho",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hueco». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "explicacion": "Se escribe «búho». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0059",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "huele",
-   "frase": "___uele",
+   "id": "B3-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "humilde",
    "opciones": [
-    "nada",
-    "h"
+    "humilde",
+    "umilde"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "humilde",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «huele». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «humilde». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0060",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
+   "id": "B3-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hermana",
+   "opciones": [
+    "hermana",
+    "ermana"
+   ],
+   "respuesta": "hermana",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hermana». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
    "palabra": "hacer",
-   "frase": "___acer",
    "opciones": [
-    "h",
-    "nada"
+    "hacer",
+    "acer"
    ],
-   "respuesta": "h",
-   "dificultad": 2,
+   "respuesta": "hacer",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
@@ -1045,41 +665,92 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0061",
+   "id": "B3-0040",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "orilla",
+   "palabra": "ahora",
    "opciones": [
-    "horilla",
-    "orilla"
+    "ahora",
+    "aora"
    ],
-   "respuesta": "orilla",
-   "dificultad": 2,
+   "respuesta": "ahora",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «orilla». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "explicacion": "Se escribe «ahora». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0062",
+   "id": "B3-0041",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "uva",
+   "palabra": "almohada",
    "opciones": [
-    "uva",
-    "huva"
+    "almoada",
+    "almohada"
    ],
-   "respuesta": "uva",
-   "dificultad": 2,
+   "respuesta": "almohada",
+   "dificultad": 1,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «uva». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "explicacion": "Se escribe «almohada». Es una palabra con h que hay que aprender de memoria.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0063",
+   "id": "B3-0042",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "huele",
+   "opciones": [
+    "uele",
+    "huele"
+   ],
+   "respuesta": "huele",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huele». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0043",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hormiga",
+   "opciones": [
+    "hormiga",
+    "ormiga"
+   ],
+   "respuesta": "hormiga",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hormiga». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0044",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hidratar",
+   "opciones": [
+    "idratar",
+    "hidratar"
+   ],
+   "respuesta": "hidratar",
+   "dificultad": 1,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hidratar». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0045",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "hielo",
@@ -1097,7 +768,905 @@
    "regla_id": "h"
   },
   {
+   "id": "B3-0046",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hermano",
+   "frase": "___ermano",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hermano». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0047",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "oso",
+   "opciones": [
+    "hoso",
+    "oso"
+   ],
+   "respuesta": "oso",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «oso». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "arena",
+   "opciones": [
+    "harena",
+    "arena"
+   ],
+   "respuesta": "arena",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «arena». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "once",
+   "opciones": [
+    "once",
+    "honce"
+   ],
+   "respuesta": "once",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «once». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "uña",
+   "opciones": [
+    "uña",
+    "huña"
+   ],
+   "respuesta": "uña",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «uña». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0051",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "deshacer",
+   "frase": "des___acer",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «deshacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0052",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hipopótamo",
+   "opciones": [
+    "ipopótamo",
+    "hipopótamo"
+   ],
+   "respuesta": "hipopótamo",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hipopótamo». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0053",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hilo",
+   "frase": "___ilo",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hilo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ombligo",
+   "opciones": [
+    "hombligo",
+    "ombligo"
+   ],
+   "respuesta": "ombligo",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ombligo». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0055",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "cacahuete",
+   "frase": "caca___uete",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «cacahuete». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0056",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "helado",
+   "frase": "___elado",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «helado». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0057",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hidratar",
+   "frase": "___idratar",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hidratar». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0058",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "harina",
+   "frase": "___arina",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «harina». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0059",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "deshielo",
+   "frase": "des___ielo",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «deshielo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0060",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "prohibido",
+   "frase": "pro___ibido",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «prohibido». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0061",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huerta",
+   "frase": "___uerta",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huerta». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0062",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huella",
+   "frase": "___uella",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huella». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0063",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "horno",
+   "frase": "___orno",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «horno». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
    "id": "B3-0064",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "cohete",
+   "frase": "co___ete",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «cohete». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0065",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hijo",
+   "frase": "___ijo",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hijo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0066",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "orden",
+   "opciones": [
+    "orden",
+    "horden"
+   ],
+   "respuesta": "orden",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «orden». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0067",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huele",
+   "frase": "___uele",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huele». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0068",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hospital",
+   "opciones": [
+    "hospital",
+    "ospital"
+   ],
+   "respuesta": "hospital",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hospital». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0069",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hueco",
+   "frase": "___ueco",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hueco». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0070",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "uva",
+   "opciones": [
+    "uva",
+    "huva"
+   ],
+   "respuesta": "uva",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «uva». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0071",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "humano",
+   "frase": "___umano",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «humano». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0072",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "orilla",
+   "opciones": [
+    "horilla",
+    "orilla"
+   ],
+   "respuesta": "orilla",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «orilla». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0073",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "zanahoria",
+   "frase": "zana___oria",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «zanahoria». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0074",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "historia",
+   "opciones": [
+    "historia",
+    "istoria"
+   ],
+   "respuesta": "historia",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «historia». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0075",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hermoso",
+   "frase": "___ermoso",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hermoso». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0076",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hambre",
+   "frase": "___ambre",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hambre». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0077",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huevo",
+   "frase": "___uevo",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huevo». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0078",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "alumno",
+   "opciones": [
+    "halumno",
+    "alumno"
+   ],
+   "respuesta": "alumno",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «alumno». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0079",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "ahorrar",
+   "frase": "a___orrar",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ahorrar». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0080",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "horario",
+   "frase": "___orario",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «horario». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0081",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ocho",
+   "opciones": [
+    "hocho",
+    "ocho"
+   ],
+   "respuesta": "ocho",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ocho». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0082",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huerto",
+   "frase": "___uerto",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huerto». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0083",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "olvidar",
+   "opciones": [
+    "olvidar",
+    "holvidar"
+   ],
+   "respuesta": "olvidar",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «olvidar». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0084",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "ahora",
+   "frase": "a___ora",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ahora». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0085",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "error",
+   "opciones": [
+    "error",
+    "herror"
+   ],
+   "respuesta": "error",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «error». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0086",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hiena",
+   "frase": "___iena",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hiena». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0087",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huésped",
+   "frase": "___uésped",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huésped». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0088",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "abuelo",
+   "opciones": [
+    "habuelo",
+    "abuelo"
+   ],
+   "respuesta": "abuelo",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «abuelo». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0089",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ermita",
+   "opciones": [
+    "hermita",
+    "ermita"
+   ],
+   "respuesta": "ermita",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ermita». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0090",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "huracán",
+   "frase": "___uracán",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «huracán». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0091",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "almohada",
+   "frase": "almo___ada",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «almohada». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0092",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "óvalo",
+   "opciones": [
+    "hóvalo",
+    "óvalo"
+   ],
+   "respuesta": "óvalo",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «óvalo». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0093",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "olor",
+   "opciones": [
+    "olor",
+    "holor"
+   ],
+   "respuesta": "olor",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «olor». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0094",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "oler",
+   "opciones": [
+    "oler",
+    "holer"
+   ],
+   "respuesta": "oler",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «oler». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0095",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "vehículo",
+   "frase": "ve___ículo",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «vehículo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0096",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "prohibir",
+   "frase": "pro___ibir",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «prohibir». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0097",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "hoy",
@@ -1115,11 +1684,11 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0065",
+   "id": "B3-0098",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "búho",
-   "frase": "bú___o",
+   "palabra": "hacer",
+   "frase": "___acer",
    "opciones": [
     "h",
     "nada"
@@ -1129,28 +1698,45 @@
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «búho». Es una palabra con h que hay que aprender de memoria.",
+   "explicacion": "Se escribe «hacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0066",
+   "id": "B3-0099",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hospital",
+   "palabra": "humo",
    "opciones": [
-    "hospital",
-    "ospital"
+    "humo",
+    "umo"
    ],
-   "respuesta": "hospital",
+   "respuesta": "humo",
    "dificultad": 2,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hospital». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "explicacion": "Se escribe «humo». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0067",
+   "id": "B3-0100",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "iglesia",
+   "opciones": [
+    "iglesia",
+    "higlesia"
+   ],
+   "respuesta": "iglesia",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «iglesia». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0101",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "huir",
@@ -1168,11 +1754,190 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0068",
+   "id": "B3-0102",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "orden",
-   "frase": "___orden",
+   "palabra": "hermana",
+   "frase": "___ermana",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hermana». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0103",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hongo",
+   "frase": "___ongo",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hongo». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0104",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hormiga",
+   "frase": "___ormiga",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hormiga». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0105",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hipo",
+   "frase": "___ipo",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hipo». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0106",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hablar",
+   "frase": "___ablar",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hablar». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0107",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hueso",
+   "frase": "___ueso",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hueso». Las palabras que empiezan por hie-, hue-, hui- llevan h: hielo, huevo, huir.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0108",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "rehacer",
+   "frase": "re___acer",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «rehacer». Los verbos hacer, haber, hablar y habitar (y sus familias) llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0109",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "humilde",
+   "frase": "___umilde",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «humilde». Las palabras que empiezan por hie-, hue-, hui-, hum-, hip-, hidr- llevan h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0110",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "aire",
+   "opciones": [
+    "haire",
+    "aire"
+   ],
+   "respuesta": "aire",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «aire». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0111",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "búho",
+   "frase": "bú___o",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 2,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «búho». Es una palabra con h que hay que aprender de memoria.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0112",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "error",
+   "frase": "___error",
    "opciones": [
     "nada",
     "h"
@@ -1182,29 +1947,29 @@
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «orden». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "explicacion": "Se escribe «error». Esta palabra NO lleva h.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0069",
+   "id": "B3-0113",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "hipopótamo",
-   "frase": "___ipopótamo",
+   "palabra": "oso",
+   "frase": "___oso",
    "opciones": [
-    "nada",
-    "h"
+    "h",
+    "nada"
    ],
-   "respuesta": "h",
+   "respuesta": "nada",
    "dificultad": 3,
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «hipopótamo». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "explicacion": "Se escribe «oso». Esta palabra NO lleva h.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0070",
+   "id": "B3-0114",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "uva",
@@ -1222,43 +1987,7 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0071",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "olor",
-   "frase": "___olor",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "nada",
-   "dificultad": 3,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «olor». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0072",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "oler",
-   "frase": "___oler",
-   "opciones": [
-    "nada",
-    "h"
-   ],
-   "respuesta": "nada",
-   "dificultad": 3,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «oler». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0073",
+   "id": "B3-0115",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "ermita",
@@ -1276,25 +2005,7 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0074",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "aire",
-   "frase": "___aire",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "nada",
-   "dificultad": 3,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «aire». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0075",
+   "id": "B3-0116",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "óvalo",
@@ -1312,11 +2023,29 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0076",
+   "id": "B3-0117",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "alumno",
-   "frase": "___alumno",
+   "palabra": "oler",
+   "frase": "___oler",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «oler». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0118",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "orilla",
+   "frase": "___orilla",
    "opciones": [
     "h",
     "nada"
@@ -1326,15 +2055,69 @@
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «alumno». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "explicacion": "Se escribe «orilla». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
    "regla_id": "h"
   },
   {
-   "id": "B3-0077",
+   "id": "B3-0119",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "historia",
-   "frase": "___istoria",
+   "palabra": "arena",
+   "frase": "___arena",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «arena». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0120",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "olvidar",
+   "frase": "___olvidar",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «olvidar». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0121",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "ombligo",
+   "frase": "___ombligo",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ombligo». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0122",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hospital",
+   "frase": "___ospital",
    "opciones": [
     "h",
     "nada"
@@ -1344,29 +2127,11 @@
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «historia». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "explicacion": "Se escribe «hospital». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
    "regla_id": "h"
   },
   {
-   "id": "B3-0078",
-   "tipo": "hueco",
-   "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "abuelo",
-   "frase": "___abuelo",
-   "opciones": [
-    "h",
-    "nada"
-   ],
-   "respuesta": "nada",
-   "dificultad": 3,
-   "skills": [
-    "h"
-   ],
-   "explicacion": "Se escribe «abuelo». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
-   "regla_id": "h"
-  },
-  {
-   "id": "B3-0079",
+   "id": "B3-0123",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
    "palabra": "humo",
@@ -1384,11 +2149,11 @@
    "regla_id": "h"
   },
   {
-   "id": "B3-0080",
+   "id": "B3-0124",
    "tipo": "hueco",
    "enunciado": "¿Lleva h? Completa la palabra",
-   "palabra": "orilla",
-   "frase": "___orilla",
+   "palabra": "alumno",
+   "frase": "___alumno",
    "opciones": [
     "h",
     "nada"
@@ -1398,7 +2163,187 @@
    "skills": [
     "h"
    ],
-   "explicacion": "Se escribe «orilla». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "explicacion": "Se escribe «alumno». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0125",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "aire",
+   "frase": "___aire",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «aire». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0126",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "hipopótamo",
+   "frase": "___ipopótamo",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "h",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «hipopótamo». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0127",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "once",
+   "frase": "___once",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «once». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0128",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "olor",
+   "frase": "___olor",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «olor». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0129",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "uña",
+   "frase": "___uña",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «uña». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0130",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "iglesia",
+   "frase": "___iglesia",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «iglesia». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0131",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "abuelo",
+   "frase": "___abuelo",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «abuelo». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0132",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "ocho",
+   "frase": "___ocho",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «ocho». Esta palabra NO lleva h.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0133",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "historia",
+   "frase": "___istoria",
+   "opciones": [
+    "h",
+    "nada"
+   ],
+   "respuesta": "h",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «historia». Las palabras que empiezan por hum-, hip-, hosp-, hist- llevan h: humo, hipopótamo, hospital, historia.",
+   "regla_id": "h"
+  },
+  {
+   "id": "B3-0134",
+   "tipo": "hueco",
+   "enunciado": "¿Lleva h? Completa la palabra",
+   "palabra": "orden",
+   "frase": "___orden",
+   "opciones": [
+    "nada",
+    "h"
+   ],
+   "respuesta": "nada",
+   "dificultad": 3,
+   "skills": [
+    "h"
+   ],
+   "explicacion": "Se escribe «orden». Esta palabra NO lleva h. ¡No pongas haches donde no van!",
    "regla_id": "h"
   }
  ]

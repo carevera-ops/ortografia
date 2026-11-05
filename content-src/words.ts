@@ -9,6 +9,8 @@
  * El número de cada lista es el nivel de dificultad base (1 = vocabulario cotidiano).
  */
 
+import { AMBIGUAS_2, MONOSILABOS_TRAMPA_2 } from './words2.ts';
+
 export type Tier = 1 | 2 | 3;
 
 const split = (s: string) => s.trim().split(/\s+/);
@@ -109,14 +111,15 @@ export const MONOSILABOS: string[] = split(`fue fui dio vio pie guion truhan ti 
   soy doy voy pies cien Dios`);
 
 /** Monosílabos que la gente suele escribir mal con tilde (distractor tentador). */
-export const MONOSILABOS_TRAMPA = new Set(['fue', 'fui', 'dio', 'vio', 'pie', 'guion', 'truhan', 'ti', 'fe', 'di', 'vi', 'Dios']);
+export const MONOSILABOS_TRAMPA = new Set(['fue', 'fui', 'dio', 'vio', 'pie', 'guion', 'truhan', 'ti', 'fe', 'di', 'vi', 'Dios', ...MONOSILABOS_TRAMPA_2]);
 
 /**
  * Palabras cuya variante con/sin tilde TAMBIÉN existe (papá/papa, cantó/canto, sabía/sabia…).
  * No se usan en "¿Cuál está bien escrita?" ni en "Pon la tilde", porque ambas respuestas serían válidas.
  */
-export const AMBIGUAS = new Set(
-  split(`papá mamá bebé está llegó cantó saltó habló llegué inglés marqués público práctica
+export const AMBIGUAS = new Set([
+  ...split(`papá mamá bebé está llegó cantó saltó habló llegué inglés marqués público práctica
     último número término círculo médico página máquina dólar río frío tenía sabía continúa
     Lucía libro hablo canto salto termino`),
-);
+  ...AMBIGUAS_2,
+]);

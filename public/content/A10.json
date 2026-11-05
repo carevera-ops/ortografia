@@ -5,72 +5,21 @@
    "id": "A10-0001",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "gris",
+   "palabra": "fin",
    "opciones": [
-    "grís",
-    "gris"
+    "fin",
+    "fín"
    ],
-   "respuesta": "gris",
+   "respuesta": "fin",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«gris» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«fin» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
    "id": "A10-0002",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "rey",
-   "opciones": [
-    "réy",
-    "rey"
-   ],
-   "respuesta": "rey",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«rey» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0003",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "hoy",
-   "opciones": [
-    "hóy",
-    "hoy"
-   ],
-   "respuesta": "hoy",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«hoy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0004",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "soy",
-   "opciones": [
-    "soy",
-    "sóy"
-   ],
-   "respuesta": "soy",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«soy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0005",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "fiel",
@@ -87,24 +36,24 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0006",
+   "id": "A10-0003",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "pez",
+   "palabra": "plan",
    "opciones": [
-    "pez",
-    "péz"
+    "plán",
+    "plan"
    ],
-   "respuesta": "pez",
+   "respuesta": "plan",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«pez» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«plan» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0007",
+   "id": "A10-0004",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "luz",
@@ -118,6 +67,57 @@
     "monosilabos"
    ],
    "explicacion": "«luz» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ley",
+   "opciones": [
+    "léy",
+    "ley"
+   ],
+   "respuesta": "ley",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«ley» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mil",
+   "opciones": [
+    "mil",
+    "míl"
+   ],
+   "respuesta": "mil",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«mil» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "red",
+   "opciones": [
+    "red",
+    "réd"
+   ],
+   "respuesta": "red",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«red» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
@@ -141,157 +141,38 @@
    "id": "A10-0009",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "pan",
+   "palabra": "cien",
    "opciones": [
-    "pan",
-    "pán"
+    "cién",
+    "cien"
    ],
-   "respuesta": "pan",
+   "respuesta": "cien",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«pan» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«cien» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
    "id": "A10-0010",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "sal",
+   "palabra": "flor",
    "opciones": [
-    "sál",
-    "sal"
+    "flor",
+    "flór"
    ],
-   "respuesta": "sal",
+   "respuesta": "flor",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«sal» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«flor» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
    "id": "A10-0011",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "mar",
-   "opciones": [
-    "mar",
-    "már"
-   ],
-   "respuesta": "mar",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«mar» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0012",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "muy",
-   "opciones": [
-    "muy",
-    "múy"
-   ],
-   "respuesta": "muy",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«muy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0013",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vez",
-   "opciones": [
-    "vez",
-    "véz"
-   ],
-   "respuesta": "vez",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«vez» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0014",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "voy",
-   "opciones": [
-    "voy",
-    "vóy"
-   ],
-   "respuesta": "voy",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«voy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0015",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "voz",
-   "opciones": [
-    "vóz",
-    "voz"
-   ],
-   "respuesta": "voz",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«voz» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0016",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "dos",
-   "opciones": [
-    "dos",
-    "dós"
-   ],
-   "respuesta": "dos",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«dos» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0017",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "fin",
-   "opciones": [
-    "fin",
-    "fín"
-   ],
-   "respuesta": "fin",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«fin» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0018",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "tres",
@@ -308,58 +189,41 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0019",
+   "id": "A10-0012",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "sol",
+   "palabra": "bar",
    "opciones": [
-    "sól",
-    "sol"
+    "bar",
+    "bár"
    ],
-   "respuesta": "sol",
+   "respuesta": "bar",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«sol» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«bar» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0020",
+   "id": "A10-0013",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "bien",
+   "palabra": "gris",
    "opciones": [
-    "bién",
-    "bien"
+    "grís",
+    "gris"
    ],
-   "respuesta": "bien",
+   "respuesta": "gris",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«bien» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«gris» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0021",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "pies",
-   "opciones": [
-    "pies",
-    "piés"
-   ],
-   "respuesta": "pies",
-   "dificultad": 1,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«pies» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0022",
+   "id": "A10-0014",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "mes",
@@ -376,41 +240,75 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0023",
+   "id": "A10-0015",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "tren",
+   "palabra": "rey",
    "opciones": [
-    "trén",
-    "tren"
+    "réy",
+    "rey"
    ],
-   "respuesta": "tren",
+   "respuesta": "rey",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«tren» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«rey» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0024",
+   "id": "A10-0016",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "cien",
+   "palabra": "Juan",
    "opciones": [
-    "cién",
-    "cien"
+    "Juán",
+    "Juan"
    ],
-   "respuesta": "cien",
+   "respuesta": "Juan",
    "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«cien» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "explicacion": "«Juan» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0025",
+   "id": "A10-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "voy",
+   "opciones": [
+    "voy",
+    "vóy"
+   ],
+   "respuesta": "voy",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«voy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sol",
+   "opciones": [
+    "sól",
+    "sol"
+   ],
+   "respuesta": "sol",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«sol» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0019",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "doy",
@@ -427,58 +325,347 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0026",
+   "id": "A10-0020",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "dio",
+   "palabra": "pez",
    "opciones": [
-    "dió",
-    "dio"
+    "pez",
+    "péz"
    ],
-   "respuesta": "dio",
-   "dificultad": 2,
+   "respuesta": "pez",
+   "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«dio» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «dio» se escribe sin tilde.",
+   "explicacion": "«pez» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pan",
+   "opciones": [
+    "pan",
+    "pán"
+   ],
+   "respuesta": "pan",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«pan» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "voz",
+   "opciones": [
+    "vóz",
+    "voz"
+   ],
+   "respuesta": "voz",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«voz» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "soy",
+   "opciones": [
+    "soy",
+    "sóy"
+   ],
+   "respuesta": "soy",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«soy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sur",
+   "opciones": [
+    "sur",
+    "súr"
+   ],
+   "respuesta": "sur",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«sur» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vez",
+   "opciones": [
+    "vez",
+    "véz"
+   ],
+   "respuesta": "vez",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«vez» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "paz",
+   "opciones": [
+    "páz",
+    "paz"
+   ],
+   "respuesta": "paz",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«paz» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
    "id": "A10-0027",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "fe",
+   "palabra": "pies",
    "opciones": [
-    "fé",
-    "fe"
+    "pies",
+    "piés"
    ],
-   "respuesta": "fe",
-   "dificultad": 2,
+   "respuesta": "pies",
+   "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«fe» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «fe» se escribe sin tilde.",
+   "explicacion": "«pies» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
    "id": "A10-0028",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vio",
+   "palabra": "cruz",
    "opciones": [
-    "vió",
-    "vio"
+    "cruz",
+    "crúz"
    ],
-   "respuesta": "vio",
-   "dificultad": 2,
+   "respuesta": "cruz",
+   "dificultad": 1,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«vio» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «vio» se escribe sin tilde.",
+   "explicacion": "«cruz» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
    "regla_id": "monosilabos"
   },
   {
    "id": "A10-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tos",
+   "opciones": [
+    "tos",
+    "tós"
+   ],
+   "respuesta": "tos",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«tos» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gas",
+   "opciones": [
+    "gas",
+    "gás"
+   ],
+   "respuesta": "gas",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«gas» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mar",
+   "opciones": [
+    "mar",
+    "már"
+   ],
+   "respuesta": "mar",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«mar» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0032",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dos",
+   "opciones": [
+    "dos",
+    "dós"
+   ],
+   "respuesta": "dos",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«dos» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bien",
+   "opciones": [
+    "bién",
+    "bien"
+   ],
+   "respuesta": "bien",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«bien» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sal",
+   "opciones": [
+    "sál",
+    "sal"
+   ],
+   "respuesta": "sal",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«sal» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "muy",
+   "opciones": [
+    "muy",
+    "múy"
+   ],
+   "respuesta": "muy",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«muy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tren",
+   "opciones": [
+    "trén",
+    "tren"
+   ],
+   "respuesta": "tren",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«tren» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hoy",
+   "opciones": [
+    "hóy",
+    "hoy"
+   ],
+   "respuesta": "hoy",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«hoy» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "guau",
+   "opciones": [
+    "guau",
+    "guáu"
+   ],
+   "respuesta": "guau",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«guau» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "buey",
+   "opciones": [
+    "buéy",
+    "buey"
+   ],
+   "respuesta": "buey",
+   "dificultad": 1,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«buey» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…).",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0040",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "truhan",
@@ -495,41 +682,41 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0030",
+   "id": "A10-0041",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "fue",
+   "palabra": "huir",
    "opciones": [
-    "fué",
-    "fue"
+    "huír",
+    "huir"
    ],
-   "respuesta": "fue",
+   "respuesta": "huir",
    "dificultad": 2,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«fue» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «fue» se escribe sin tilde.",
+   "explicacion": "«huir» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «huir» se escribe sin tilde.",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0031",
+   "id": "A10-0042",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "vi",
+   "palabra": "dio",
    "opciones": [
-    "ví",
-    "vi"
+    "dió",
+    "dio"
    ],
-   "respuesta": "vi",
+   "respuesta": "dio",
    "dificultad": 2,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«vi» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «vi» se escribe sin tilde.",
+   "explicacion": "«dio» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «dio» se escribe sin tilde.",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0032",
+   "id": "A10-0043",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "pie",
@@ -546,58 +733,41 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0033",
+   "id": "A10-0044",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "fui",
+   "palabra": "guion",
    "opciones": [
-    "fui",
-    "fuí"
+    "guion",
+    "guión"
    ],
-   "respuesta": "fui",
+   "respuesta": "guion",
    "dificultad": 2,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«fui» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «fui» se escribe sin tilde.",
+   "explicacion": "«guion» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «guion» se escribe sin tilde.",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0034",
+   "id": "A10-0045",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "di",
+   "palabra": "Ruiz",
    "opciones": [
-    "dí",
-    "di"
+    "Ruíz",
+    "Ruiz"
    ],
-   "respuesta": "di",
+   "respuesta": "Ruiz",
    "dificultad": 2,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«di» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «di» se escribe sin tilde.",
+   "explicacion": "«Ruiz» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «Ruiz» se escribe sin tilde.",
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0035",
-   "tipo": "elegir",
-   "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "ti",
-   "opciones": [
-    "ti",
-    "tí"
-   ],
-   "respuesta": "ti",
-   "dificultad": 2,
-   "skills": [
-    "monosilabos"
-   ],
-   "explicacion": "«ti» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «ti» se escribe sin tilde.",
-   "regla_id": "monosilabos"
-  },
-  {
-   "id": "A10-0036",
+   "id": "A10-0046",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
    "palabra": "Dios",
@@ -614,20 +784,156 @@
    "regla_id": "monosilabos"
   },
   {
-   "id": "A10-0037",
+   "id": "A10-0047",
    "tipo": "elegir",
    "enunciado": "¿Cuál está bien escrita?",
-   "palabra": "guion",
+   "palabra": "fue",
    "opciones": [
-    "guion",
-    "guión"
+    "fué",
+    "fue"
    ],
-   "respuesta": "guion",
+   "respuesta": "fue",
    "dificultad": 2,
    "skills": [
     "monosilabos"
    ],
-   "explicacion": "«guion» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «guion» se escribe sin tilde.",
+   "explicacion": "«fue» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «fue» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "di",
+   "opciones": [
+    "dí",
+    "di"
+   ],
+   "respuesta": "di",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«di» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «di» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vi",
+   "opciones": [
+    "ví",
+    "vi"
+   ],
+   "respuesta": "vi",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«vi» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «vi» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vio",
+   "opciones": [
+    "vió",
+    "vio"
+   ],
+   "respuesta": "vio",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«vio» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «vio» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0051",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Luis",
+   "opciones": [
+    "Luis",
+    "Luís"
+   ],
+   "respuesta": "Luis",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«Luis» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «Luis» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0052",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hui",
+   "opciones": [
+    "huí",
+    "hui"
+   ],
+   "respuesta": "hui",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«hui» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «hui» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0053",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "fui",
+   "opciones": [
+    "fui",
+    "fuí"
+   ],
+   "respuesta": "fui",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«fui» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «fui» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "fe",
+   "opciones": [
+    "fé",
+    "fe"
+   ],
+   "respuesta": "fe",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«fe» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «fe» se escribe sin tilde.",
+   "regla_id": "monosilabos"
+  },
+  {
+   "id": "A10-0055",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ti",
+   "opciones": [
+    "ti",
+    "tí"
+   ],
+   "respuesta": "ti",
+   "dificultad": 2,
+   "skills": [
+    "monosilabos"
+   ],
+   "explicacion": "«ti» tiene una sola sílaba. Los monosílabos no llevan tilde, salvo los de la tilde diacrítica (tú, él, sí…). Aunque te suene raro, «ti» se escribe sin tilde.",
    "regla_id": "monosilabos"
   }
  ]

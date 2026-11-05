@@ -52,7 +52,7 @@ describe('banco de preguntas', () => {
   it('la palabra de cada ítem de acentuación cumple las reglas (salvo diacríticas)', () => {
     const errors: string[] = [];
     for (const it of all.filter(isAccentItem)) {
-      if (!it.palabra) continue;
+      if (!it.palabra || it.palabra.includes(' ')) continue; // las frases se validan palabra a palabra más abajo
       const w = it.palabra;
       if (DIACRITICAS.has(w.toLowerCase())) continue;
       // Adverbios en -mente: se valida el adjetivo (rápida-mente conserva la tilde de «rápida»).
@@ -171,10 +171,41 @@ describe('banco de preguntas', () => {
   });
 
   it('dictado: la palabra cumple las reglas', () => {
-    for (const it of all.filter((i) => i.tipo === 'dictado')) {
+    for (const it of all.filter((i) => i.tipo === 'dictado' && !i.palabra!.includes(' '))) {
       expect(checkWord(it.palabra!, syllabify(it.palabra!).length > 1 ? it.clase : undefined), it.id).toEqual({ ok: true });
       expect(it.respuesta).toBe(it.palabra);
     }
+  });
+
+  /** Palabras con tilde dentro de una frase correcta: deben cumplir las reglas (o ser diacríticas). */
+  const checkSentence = (id: string, sentence: string) => {
+    for (const tok of sentence.split(' ')) {
+      const core = tok.replace(/[¿¡.,;:!?«»"—()]/g, '');
+      if (!core || !/[áéíóú]/i.test(core) || DIACRITICAS.has(core.toLowerCase())) continue;
+      expect(checkWord(core), `${id}: «${core}» en «${sentence}»`).toEqual({ ok: true });
+    }
+  };
+
+  it('dictado de frases y «frase con todas las tildes»: las palabras con tilde son correctas', () => {
+    for (const it of all.filter((i) => i.tipo === 'dictado' && i.palabra!.includes(' '))) {
+      expect(it.respuesta).toBe(it.palabra);
+      checkSentence(it.id, it.palabra!);
+    }
+    for (const it of all.filter((i) => i.enunciado === '¿Qué frase tiene bien todas las tildes?')) {
+      checkSentence(it.id, it.respuesta as string);
+      expect(it.opciones!.filter((o) => o === it.respuesta)).toHaveLength(1);
+      for (const o of it.opciones!) expect(stripAccents(o), it.id).toBe(stripAccents(it.respuesta as string));
+    }
+  });
+
+  it('la escala de dificultad usa los cinco niveles', () => {
+    const levels = new Set(all.map((i) => i.dificultad));
+    expect([...levels].sort()).toEqual([1, 2, 3, 4, 5]);
+    expect(all.filter((i) => i.dificultad >= 4).length).toBeGreaterThan(300);
+  });
+
+  it('tamaño: al menos 4.000 preguntas', () => {
+    expect(all.length).toBeGreaterThanOrEqual(4000);
   });
 
   it('reparto de dificultades: cada unidad tiene ítems de varios niveles', () => {

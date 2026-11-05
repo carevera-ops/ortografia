@@ -16,9 +16,13 @@ export function grade(item: Item, value: AnswerValue): boolean {
   return value === r;
 }
 
-/** Para el dictado: se ignoran espacios sobrantes y la mayúscula inicial, pero NO las tildes. */
+/** Para el dictado: se ignoran mayúsculas, espacios sobrantes y signos de puntuación, pero NO las tildes. */
 export function normalizeDictation(s: string): string {
-  return s.trim().replace(/\s+/g, ' ').replace(/[.!?¡¿,;:]+$/g, '').toLowerCase();
+  return s
+    .replace(/[.!?¡¿,;:«»"—()-]/g, ' ')
+    .trim()
+    .replace(/\s+/g, ' ')
+    .toLowerCase();
 }
 
 /** Texto de la respuesta correcta, para mostrarlo en el feedback. */

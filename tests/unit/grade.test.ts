@@ -29,6 +29,9 @@ describe('corrección', () => {
     const it: Item = { ...base, tipo: 'dictado', palabra: 'camión', respuesta: 'camión' };
     expect(grade(it, 'Camión')).toBe(true);
     expect(grade(it, 'camion')).toBe(false);
+    const frase: Item = { ...base, tipo: 'dictado', palabra: '¿Dónde está mi lápiz?', respuesta: '¿Dónde está mi lápiz?' };
+    expect(grade(frase, 'dónde está mi lápiz')).toBe(true);
+    expect(grade(frase, '¿Donde está mi lápiz?')).toBe(false);
   });
   it('alineación carácter a carácter', () => {
     expect(alignChars('camion', 'camión').map((c) => c.status)).toEqual(['ok', 'ok', 'ok', 'ok', 'wrong', 'ok']);

@@ -66,8 +66,11 @@ export function buildLesson(opts: BuildOptions): Item[] {
   const [lo, bandHi] = levelBand(opts.unitItems, opts.level, opts.levels);
   // Si ya domina las habilidades de la unidad (≥ 70), el margen del nivel sube un punto:
   // así no se queda en preguntas que le resultan demasiado fáciles.
-  const unitSkills = [...new Set(opts.unitItems.flatMap((i) => i.skills))];
-  const unitMastery = unitSkills.length ? unitSkills.reduce((a, s) => a + (opts.mastery[s] ?? 0), 0) / unitSkills.length : 0;
+  // Se usa la habilidad principal de la unidad (la más frecuente), no las auxiliares como «dictado».
+  const counts = new Map<string, number>();
+  for (const it of opts.unitItems) for (const s of it.skills) counts.set(s, (counts.get(s) ?? 0) + 1);
+  const mainSkill = [...counts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+  const unitMastery = mainSkill ? (opts.mastery[mainSkill] ?? 0) : 0;
   const maxDiff = Math.max(...opts.unitItems.map((i) => i.dificultad));
   const hi = unitMastery >= 70 ? Math.min(maxDiff, bandHi + 1) : bandHi;
 

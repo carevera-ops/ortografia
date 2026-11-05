@@ -5,72 +5,21 @@
    "id": "A11-0001",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Mañana ___ lo cuento.",
+   "frase": "___ gato duerme todo el día.",
    "opciones": [
-    "te",
-    "té"
+    "Mi",
+    "Mí"
    ],
-   "respuesta": "te",
+   "respuesta": "Mi",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Mañana te lo cuento. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "explicacion": "Mi gato duerme todo el día. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
    "regla_id": "diacritica"
   },
   {
    "id": "A11-0002",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Vengo ___ la piscina.",
-   "opciones": [
-    "dé",
-    "de"
-   ],
-   "respuesta": "de",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Vengo de la piscina. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0003",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Este ___ está muy caliente.",
-   "opciones": [
-    "te",
-    "té"
-   ],
-   "respuesta": "té",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Este té está muy caliente. «Té» con tilde es la bebida.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0004",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Esto no depende de ___.",
-   "opciones": [
-    "mi",
-    "mí"
-   ],
-   "respuesta": "mí",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Esto no depende de mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0005",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "¿Quieres un ___ con limón?",
@@ -87,112 +36,44 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0006",
+   "id": "A11-0003",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ quiero mucho.",
+   "frase": "Esto no depende de ___.",
    "opciones": [
-    "Té",
-    "Te"
+    "mi",
+    "mí"
    ],
-   "respuesta": "Te",
+   "respuesta": "mí",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Te quiero mucho. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "explicacion": "Esto no depende de mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0007",
+   "id": "A11-0004",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ eres mi mejor amigo.",
+   "frase": "Mañana ___ lo cuento.",
    "opciones": [
-    "Tú",
-    "Tu"
+    "te",
+    "té"
    ],
-   "respuesta": "Tú",
+   "respuesta": "te",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Tú eres mi mejor amigo. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "explicacion": "Mañana te lo cuento. «Te» sin tilde es un pronombre: te quiero, te llamo.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0008",
+   "id": "A11-0005",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Si ___ quieres, jugamos otra partida.",
-   "opciones": [
-    "tu",
-    "tú"
-   ],
-   "respuesta": "tú",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Si tú quieres, jugamos otra partida. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0009",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "¿Has traído ___ mochila?",
-   "opciones": [
-    "tú",
-    "tu"
-   ],
-   "respuesta": "tu",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "¿Has traído tu mochila? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0010",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "La bici ___ Pablo es roja.",
-   "opciones": [
-    "de",
-    "dé"
-   ],
-   "respuesta": "de",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "La bici de Pablo es roja. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0011",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Deja ___ abrigo en la percha.",
-   "opciones": [
-    "tú",
-    "tu"
-   ],
-   "respuesta": "tu",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Deja tu abrigo en la percha. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0012",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Lo arregló ___ mismo.",
+   "frase": "Esa bici es de ___.",
    "opciones": [
     "el",
     "él"
@@ -202,28 +83,28 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo arregló él mismo. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "explicacion": "Esa bici es de él. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0013",
+   "id": "A11-0006",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "¿Te acuerdas de ___?",
+   "frase": "___ autobús llega a las nueve.",
    "opciones": [
-    "mí",
-    "mi"
+    "El",
+    "Él"
    ],
-   "respuesta": "mí",
+   "respuesta": "El",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "¿Te acuerdas de mí? «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "explicacion": "El autobús llega a las nueve. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0014",
+   "id": "A11-0007",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___ llamo luego.",
@@ -240,109 +121,24 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0015",
+   "id": "A11-0008",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ siempre llega puntual.",
+   "frase": "___ eres mi mejor amigo.",
    "opciones": [
-    "Él",
-    "El"
+    "Tú",
+    "Tu"
    ],
-   "respuesta": "Él",
+   "respuesta": "Tú",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Él siempre llega puntual. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "explicacion": "Tú eres mi mejor amigo. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0016",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Hemos ido con ___ al cine.",
-   "opciones": [
-    "él",
-    "el"
-   ],
-   "respuesta": "él",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Hemos ido con él al cine. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0017",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "¿___ gusta el chocolate?",
-   "opciones": [
-    "Té",
-    "Te"
-   ],
-   "respuesta": "Te",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "¿Te gusta el chocolate? «Te» sin tilde es un pronombre: te quiero, te llamo.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0018",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Este regalo es para ___.",
-   "opciones": [
-    "él",
-    "el"
-   ],
-   "respuesta": "él",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Este regalo es para él. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0019",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ sol calienta mucho en verano.",
-   "opciones": [
-    "El",
-    "Él"
-   ],
-   "respuesta": "El",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "El sol calienta mucho en verano. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0020",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Me encanta ___ dibujo del dragón.",
-   "opciones": [
-    "tu",
-    "tú"
-   ],
-   "respuesta": "tu",
-   "dificultad": 1,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Me encanta tu dibujo del dragón. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0021",
+   "id": "A11-0009",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Ese libro es para ___.",
@@ -359,20 +155,224 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0022",
+   "id": "A11-0010",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Un vaso ___ agua, por favor.",
+   "frase": "¿___ apetece un helado?",
    "opciones": [
-    "dé",
-    "de"
+    "Te",
+    "Té"
+   ],
+   "respuesta": "Te",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Te apetece un helado? «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0011",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ profesora explica muy bien.",
+   "opciones": [
+    "Mi",
+    "Mí"
+   ],
+   "respuesta": "Mi",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Mi profesora explica muy bien. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0012",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Deja ___ abrigo en la percha.",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tu",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Deja tu abrigo en la percha. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0013",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ quiero mucho.",
+   "opciones": [
+    "Té",
+    "Te"
+   ],
+   "respuesta": "Te",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Te quiero mucho. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0014",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Lo hizo por ___.",
+   "opciones": [
+    "mí",
+    "mi"
+   ],
+   "respuesta": "mí",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo hizo por mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0015",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Sin ___ no habríamos ganado.",
+   "opciones": [
+    "él",
+    "el"
+   ],
+   "respuesta": "él",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Sin él no habríamos ganado. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0016",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me encanta ___ dibujo del dragón.",
+   "opciones": [
+    "tu",
+    "tú"
+   ],
+   "respuesta": "tu",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Me encanta tu dibujo del dragón. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0017",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "He perdido ___ estuche nuevo.",
+   "opciones": [
+    "mi",
+    "mí"
+   ],
+   "respuesta": "mi",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "He perdido mi estuche nuevo. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0018",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Es la casa ___ mis tíos.",
+   "opciones": [
+    "de",
+    "dé"
    ],
    "respuesta": "de",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Un vaso de agua, por favor. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "explicacion": "Es la casa de mis tíos. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0019",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Has traído ___ mochila?",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tu",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Has traído tu mochila? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0020",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ sol calienta mucho en verano.",
+   "opciones": [
+    "El",
+    "Él"
+   ],
+   "respuesta": "El",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "El sol calienta mucho en verano. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0021",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Me prestas ___ goma de borrar?",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tu",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Me prestas tu goma de borrar? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0022",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ayer ___ llegaste antes que yo.",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tú",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Ayer tú llegaste antes que yo. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
    "regla_id": "diacritica"
   },
   {
@@ -396,38 +396,106 @@
    "id": "A11-0024",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Mi abuelo toma ___ todas las tardes.",
+   "frase": "Se lo dije a ___, no a ella.",
    "opciones": [
-    "te",
-    "té"
+    "el",
+    "él"
    ],
-   "respuesta": "té",
+   "respuesta": "él",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Mi abuelo toma té todas las tardes. «Té» con tilde es la bebida.",
+   "explicacion": "Se lo dije a él, no a ella. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
    "regla_id": "diacritica"
   },
   {
    "id": "A11-0025",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "___ gato duerme todo el día.",
+   "frase": "___ perro ladra mucho por las noches.",
    "opciones": [
-    "Mi",
-    "Mí"
+    "Tu",
+    "Tú"
    ],
-   "respuesta": "Mi",
+   "respuesta": "Tu",
    "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Mi gato duerme todo el día. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "explicacion": "Tu perro ladra mucho por las noches. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
    "regla_id": "diacritica"
   },
   {
    "id": "A11-0026",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Le dije a ___ que viniera.",
+   "opciones": [
+    "él",
+    "el"
+   ],
+   "respuesta": "él",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Le dije a él que viniera. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0027",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Vienes ___ al parque esta tarde?",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tú",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Vienes tú al parque esta tarde? «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0028",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ gusta el chocolate?",
+   "opciones": [
+    "Té",
+    "Te"
+   ],
+   "respuesta": "Te",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Te gusta el chocolate? «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0029",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ven a ___ casa esta tarde.",
+   "opciones": [
+    "mí",
+    "mi"
+   ],
+   "respuesta": "mi",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Ven a mi casa esta tarde. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0030",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "Me prestó ___ balón para el recreo.",
@@ -444,7 +512,143 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0027",
+   "id": "A11-0031",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi abuelo toma ___ todas las tardes.",
+   "opciones": [
+    "te",
+    "té"
+   ],
+   "respuesta": "té",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Mi abuelo toma té todas las tardes. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0032",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "La bici ___ Pablo es roja.",
+   "opciones": [
+    "de",
+    "dé"
+   ],
+   "respuesta": "de",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "La bici de Pablo es roja. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0033",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Un vaso ___ agua, por favor.",
+   "opciones": [
+    "dé",
+    "de"
+   ],
+   "respuesta": "de",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Un vaso de agua, por favor. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0034",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Vengo ___ la piscina.",
+   "opciones": [
+    "dé",
+    "de"
+   ],
+   "respuesta": "de",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Vengo de la piscina. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0035",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Es ___ cumpleaños el sábado?",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tu",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Es tu cumpleaños el sábado? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0036",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Este regalo es para ___.",
+   "opciones": [
+    "él",
+    "el"
+   ],
+   "respuesta": "él",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Este regalo es para él. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0037",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Si ___ quieres, jugamos otra partida.",
+   "opciones": [
+    "tu",
+    "tú"
+   ],
+   "respuesta": "tú",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Si tú quieres, jugamos otra partida. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0038",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ espero en la puerta.",
+   "opciones": [
+    "Te",
+    "Té"
+   ],
+   "respuesta": "Te",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Te espero en la puerta. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0039",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___ perro de Lucía es muy juguetón.",
@@ -461,51 +665,245 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0028",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Un vaso dé agua, por favor.",
+   "id": "A11-0040",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Es el libro ___ mi hermano.",
    "opciones": [
-    "Un",
-    "vaso",
     "dé",
-    "agua,",
-    "por",
-    "favor."
+    "de"
    ],
-   "respuesta": 2,
-   "correccion": "de",
-   "dificultad": 2,
+   "respuesta": "de",
+   "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Un vaso de agua, por favor. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "explicacion": "Es el libro de mi hermano. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0029",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "La bici dé Pablo es roja.",
+   "id": "A11-0041",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Te acuerdas de ___?",
    "opciones": [
-    "La",
-    "bici",
-    "dé",
-    "Pablo",
-    "es",
-    "roja."
+    "mí",
+    "mi"
    ],
-   "respuesta": 2,
-   "correccion": "de",
-   "dificultad": 2,
+   "respuesta": "mí",
+   "dificultad": 1,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: La bici de Pablo es roja. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "explicacion": "¿Te acuerdas de mí? «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0030",
+   "id": "A11-0042",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Delante de ___ se sienta Lucas.",
+   "opciones": [
+    "mi",
+    "mí"
+   ],
+   "respuesta": "mí",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Delante de mí se sienta Lucas. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0043",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ hermana juega al baloncesto.",
+   "opciones": [
+    "Tú",
+    "Tu"
+   ],
+   "respuesta": "Tu",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Tu hermana juega al baloncesto. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0044",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Esto es para ___?",
+   "opciones": [
+    "mi",
+    "mí"
+   ],
+   "respuesta": "mí",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Esto es para mí? «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0045",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Esto lo has dibujado ___, ¿verdad?",
+   "opciones": [
+    "tú",
+    "tu"
+   ],
+   "respuesta": "tú",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Esto lo has dibujado tú, ¿verdad? «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0046",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El ___ verde es un poco amargo.",
+   "opciones": [
+    "te",
+    "té"
+   ],
+   "respuesta": "té",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "El té verde es un poco amargo. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0047",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "En Inglaterra se bebe mucho ___.",
+   "opciones": [
+    "té",
+    "te"
+   ],
+   "respuesta": "té",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "En Inglaterra se bebe mucho té. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0048",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ abuela hace unas croquetas buenísimas.",
+   "opciones": [
+    "Mi",
+    "Mí"
+   ],
+   "respuesta": "Mi",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Mi abuela hace unas croquetas buenísimas. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0049",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hemos ido con ___ al cine.",
+   "opciones": [
+    "él",
+    "el"
+   ],
+   "respuesta": "él",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Hemos ido con él al cine. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0050",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ siempre llega puntual.",
+   "opciones": [
+    "Él",
+    "El"
+   ],
+   "respuesta": "Él",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Él siempre llega puntual. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0051",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Lo arregló ___ mismo.",
+   "opciones": [
+    "el",
+    "él"
+   ],
+   "respuesta": "él",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo arregló él mismo. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0052",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Este ___ está muy caliente.",
+   "opciones": [
+    "te",
+    "té"
+   ],
+   "respuesta": "té",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Este té está muy caliente. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0053",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Eso me lo dijiste ___ ayer.",
+   "opciones": [
+    "tu",
+    "tú"
+   ],
+   "respuesta": "tú",
+   "dificultad": 1,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Eso me lo dijiste tú ayer. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0054",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Me encanta tú dibujo del dragón.",
@@ -527,481 +925,10 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0031",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ese libro es para mi.",
-   "opciones": [
-    "Ese",
-    "libro",
-    "es",
-    "para",
-    "mi."
-   ],
-   "respuesta": 4,
-   "correccion": "mí",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Ese libro es para mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0032",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "He perdido mí estuche nuevo.",
-   "opciones": [
-    "He",
-    "perdido",
-    "mí",
-    "estuche",
-    "nuevo."
-   ],
-   "respuesta": 2,
-   "correccion": "mi",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: He perdido mi estuche nuevo. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0033",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Necesitamos ___ sillas para la fiesta.",
-   "opciones": [
-    "más",
-    "mas"
-   ],
-   "respuesta": "más",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Necesitamos más sillas para la fiesta. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0034",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ana solo habla de ___ misma.",
-   "opciones": [
-    "sí",
-    "si"
-   ],
-   "respuesta": "sí",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Ana solo habla de sí misma. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0035",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mí abuela hace unas croquetas buenísimas.",
-   "opciones": [
-    "Mí",
-    "abuela",
-    "hace",
-    "unas",
-    "croquetas",
-    "buenísimas."
-   ],
-   "respuesta": 0,
-   "correccion": "Mi",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Mi abuela hace unas croquetas buenísimas. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0036",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Quieres un te con limón?",
-   "opciones": [
-    "¿Quieres",
-    "un",
-    "te",
-    "con",
-    "limón?"
-   ],
-   "respuesta": 2,
-   "correccion": "té",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: ¿Quieres un té con limón? «Té» con tilde es la bebida.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0037",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Pedro ___ levanta muy temprano.",
-   "opciones": [
-    "se",
-    "sé"
-   ],
-   "respuesta": "se",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Pedro se levanta muy temprano. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0038",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "¡___, hemos ganado el partido!",
-   "opciones": [
-    "Si",
-    "Sí"
-   ],
-   "respuesta": "Sí",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "¡Sí, hemos ganado el partido! «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0039",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Vengo dé la piscina.",
-   "opciones": [
-    "Vengo",
-    "dé",
-    "la",
-    "piscina."
-   ],
-   "respuesta": 1,
-   "correccion": "de",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Vengo de la piscina. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0040",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Te acuerdas de mi?",
-   "opciones": [
-    "¿Te",
-    "acuerdas",
-    "de",
-    "mi?"
-   ],
-   "respuesta": 3,
-   "correccion": "mí",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: ¿Te acuerdas de mí? «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0041",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Té quiero mucho.",
-   "opciones": [
-    "Té",
-    "quiero",
-    "mucho."
-   ],
-   "respuesta": 0,
-   "correccion": "Te",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Te quiero mucho. «Te» sin tilde es un pronombre: te quiero, te llamo.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0042",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Tú hermana juega al baloncesto.",
-   "opciones": [
-    "Tú",
-    "hermana",
-    "juega",
-    "al",
-    "baloncesto."
-   ],
-   "respuesta": 0,
-   "correccion": "Tu",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Tu hermana juega al baloncesto. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0043",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Este regalo es para el.",
-   "opciones": [
-    "Este",
-    "regalo",
-    "es",
-    "para",
-    "el."
-   ],
-   "respuesta": 4,
-   "correccion": "él",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Este regalo es para él. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0044",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ahora te toca a ___.",
-   "opciones": [
-    "tí",
-    "ti"
-   ],
-   "respuesta": "ti",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Ahora te toca a ti. «Ti» nunca lleva tilde: no hay otro «ti» con el que confundirlo.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0045",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Me prestó él balón para el recreo.",
-   "opciones": [
-    "Me",
-    "prestó",
-    "él",
-    "balón",
-    "para",
-    "el",
-    "recreo."
-   ],
-   "respuesta": 2,
-   "correccion": "el",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Me prestó el balón para el recreo. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0046",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Esto no depende de mi.",
-   "opciones": [
-    "Esto",
-    "no",
-    "depende",
-    "de",
-    "mi."
-   ],
-   "respuesta": 4,
-   "correccion": "mí",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Esto no depende de mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0047",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Té llamo luego.",
-   "opciones": [
-    "Té",
-    "llamo",
-    "luego."
-   ],
-   "respuesta": 0,
-   "correccion": "Te",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Te llamo luego. «Te» sin tilde es un pronombre: te quiero, te llamo.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0048",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Cada día corro ___ rápido.",
-   "opciones": [
-    "mas",
-    "más"
-   ],
-   "respuesta": "más",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Cada día corro más rápido. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0049",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Él sol calienta mucho en verano.",
-   "opciones": [
-    "Él",
-    "sol",
-    "calienta",
-    "mucho",
-    "en",
-    "verano."
-   ],
-   "respuesta": 0,
-   "correccion": "El",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: El sol calienta mucho en verano. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0050",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Hemos ido con el al cine.",
-   "opciones": [
-    "Hemos",
-    "ido",
-    "con",
-    "el",
-    "al",
-    "cine."
-   ],
-   "respuesta": 3,
-   "correccion": "él",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Hemos ido con él al cine. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0051",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "El niño ___ lavó las manos antes de comer.",
-   "opciones": [
-    "sé",
-    "se"
-   ],
-   "respuesta": "se",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "El niño se lavó las manos antes de comer. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0052",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Pregúntale ___ quiere merendar.",
-   "opciones": [
-    "si",
-    "sí"
-   ],
-   "respuesta": "si",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Pregúntale si quiere merendar. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0053",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Este te está muy caliente.",
-   "opciones": [
-    "Este",
-    "te",
-    "está",
-    "muy",
-    "caliente."
-   ],
-   "respuesta": 1,
-   "correccion": "té",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Este té está muy caliente. «Té» con tilde es la bebida.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0054",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Es tú cumpleaños el sábado?",
-   "opciones": [
-    "¿Es",
-    "tú",
-    "cumpleaños",
-    "el",
-    "sábado?"
-   ],
-   "respuesta": 1,
-   "correccion": "tu",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: ¿Es tu cumpleaños el sábado? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
-   "regla_id": "diacritica"
-  },
-  {
    "id": "A11-0055",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Me gusta ___ el verano que el invierno.",
+   "frase": "Tres ___ dos son cinco.",
    "opciones": [
     "mas",
     "más"
@@ -1011,53 +938,11 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Me gusta más el verano que el invierno. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "explicacion": "Tres más dos son cinco. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
    "regla_id": "diacritica"
   },
   {
    "id": "A11-0056",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Deja tú abrigo en la percha.",
-   "opciones": [
-    "Deja",
-    "tú",
-    "abrigo",
-    "en",
-    "la",
-    "percha."
-   ],
-   "respuesta": 1,
-   "correccion": "tu",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Deja tu abrigo en la percha. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0057",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "El siempre llega puntual.",
-   "opciones": [
-    "El",
-    "siempre",
-    "llega",
-    "puntual."
-   ],
-   "respuesta": 0,
-   "correccion": "Él",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Él siempre llega puntual. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0058",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Ven a mí casa esta tarde.",
@@ -1079,29 +964,187 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0059",
+   "id": "A11-0057",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pedro se ríe de ___ mismo.",
+   "opciones": [
+    "si",
+    "sí"
+   ],
+   "respuesta": "sí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Pedro se ríe de sí mismo. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0058",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Vienes tu al parque esta tarde?",
+   "frase": "Él autobús llega a las nueve.",
    "opciones": [
-    "¿Vienes",
-    "tu",
-    "al",
-    "parque",
-    "esta",
-    "tarde?"
+    "Él",
+    "autobús",
+    "llega",
+    "a",
+    "las",
+    "nueve."
+   ],
+   "respuesta": 0,
+   "correccion": "El",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El autobús llega a las nueve. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0059",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Es el ___ alto de la clase.",
+   "opciones": [
+    "más",
+    "mas"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Es el más alto de la clase. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0060",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Te acuerdas de mi?",
+   "opciones": [
+    "¿Te",
+    "acuerdas",
+    "de",
+    "mi?"
+   ],
+   "respuesta": 3,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Te acuerdas de mí? «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0061",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Tu eres mi mejor amigo.",
+   "opciones": [
+    "Tu",
+    "eres",
+    "mi",
+    "mejor",
+    "amigo."
+   ],
+   "respuesta": 0,
+   "correccion": "Tú",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Tú eres mi mejor amigo. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0062",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El niño ___ lavó las manos antes de comer.",
+   "opciones": [
+    "sé",
+    "se"
+   ],
+   "respuesta": "se",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "El niño se lavó las manos antes de comer. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0063",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sin el no habríamos ganado.",
+   "opciones": [
+    "Sin",
+    "el",
+    "no",
+    "habríamos",
+    "ganado."
    ],
    "respuesta": 1,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Sin él no habríamos ganado. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0064",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi abuelo toma te todas las tardes.",
+   "opciones": [
+    "Mi",
+    "abuelo",
+    "toma",
+    "te",
+    "todas",
+    "las",
+    "tardes."
+   ],
+   "respuesta": 3,
+   "correccion": "té",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi abuelo toma té todas las tardes. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0065",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Esto lo has dibujado tu, ¿verdad?",
+   "opciones": [
+    "Esto",
+    "lo",
+    "has",
+    "dibujado",
+    "tu,",
+    "¿verdad?"
+   ],
+   "respuesta": 4,
    "correccion": "tú",
    "dificultad": 2,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: ¿Vienes tú al parque esta tarde? «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "explicacion": "Lo correcto es: Esto lo has dibujado tú, ¿verdad? «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0060",
+   "id": "A11-0066",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
    "frase": "___ te portas bien, iremos al zoo.",
@@ -1118,93 +1161,54 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0061",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Eso me lo dijiste tu ayer.",
-   "opciones": [
-    "Eso",
-    "me",
-    "lo",
-    "dijiste",
-    "tu",
-    "ayer."
-   ],
-   "respuesta": 4,
-   "correccion": "tú",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Eso me lo dijiste tú ayer. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0062",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mí gato duerme todo el día.",
-   "opciones": [
-    "Mí",
-    "gato",
-    "duerme",
-    "todo",
-    "el",
-    "día."
-   ],
-   "respuesta": 0,
-   "correccion": "Mi",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Mi gato duerme todo el día. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0063",
+   "id": "A11-0067",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Me preguntó si quería ir y le dije que ___.",
+   "frase": "¿Y ___ vamos al cine?",
    "opciones": [
     "sí",
     "si"
    ],
-   "respuesta": "sí",
+   "respuesta": "si",
    "dificultad": 2,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Me preguntó si quería ir y le dije que sí. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "explicacion": "¿Y si vamos al cine? «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0064",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Tres ___ dos son cinco.",
-   "opciones": [
-    "mas",
-    "más"
-   ],
-   "respuesta": "más",
-   "dificultad": 2,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Tres más dos son cinco. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0065",
+   "id": "A11-0068",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "¿Té gusta el chocolate?",
+   "frase": "Ese libro es para mi.",
    "opciones": [
-    "¿Té",
-    "gusta",
-    "el",
-    "chocolate?"
+    "Ese",
+    "libro",
+    "es",
+    "para",
+    "mi."
+   ],
+   "respuesta": 4,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ese libro es para mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0069",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Té espero en la puerta.",
+   "opciones": [
+    "Té",
+    "espero",
+    "en",
+    "la",
+    "puerta."
    ],
    "respuesta": 0,
    "correccion": "Te",
@@ -1212,11 +1216,33 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: ¿Te gusta el chocolate? «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "explicacion": "Lo correcto es: Te espero en la puerta. «Te» sin tilde es un pronombre: te quiero, te llamo.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0066",
+   "id": "A11-0070",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Delante de mi se sienta Lucas.",
+   "opciones": [
+    "Delante",
+    "de",
+    "mi",
+    "se",
+    "sienta",
+    "Lucas."
+   ],
+   "respuesta": 2,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Delante de mí se sienta Lucas. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0071",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Él perro de Lucía es muy juguetón.",
@@ -1239,43 +1265,1529 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0067",
+   "id": "A11-0072",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Quiero mas helado.",
+   "frase": "Lo hizo por mi.",
    "opciones": [
-    "Quiero",
-    "mas",
-    "helado."
+    "Lo",
+    "hizo",
+    "por",
+    "mi."
+   ],
+   "respuesta": 3,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Lo hizo por mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0073",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me preguntó si quería ir y le dije que ___.",
+   "opciones": [
+    "sí",
+    "si"
+   ],
+   "respuesta": "sí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Me preguntó si quería ir y le dije que sí. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0074",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "En Inglaterra se bebe mucho te.",
+   "opciones": [
+    "En",
+    "Inglaterra",
+    "se",
+    "bebe",
+    "mucho",
+    "te."
+   ],
+   "respuesta": 5,
+   "correccion": "té",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: En Inglaterra se bebe mucho té. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0075",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Es tú cumpleaños el sábado?",
+   "opciones": [
+    "¿Es",
+    "tú",
+    "cumpleaños",
+    "el",
+    "sábado?"
    ],
    "respuesta": 1,
+   "correccion": "tu",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Es tu cumpleaños el sábado? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0076",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Eso me lo dijiste tu ayer.",
+   "opciones": [
+    "Eso",
+    "me",
+    "lo",
+    "dijiste",
+    "tu",
+    "ayer."
+   ],
+   "respuesta": 4,
+   "correccion": "tú",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Eso me lo dijiste tú ayer. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0077",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Deja tú abrigo en la percha.",
+   "opciones": [
+    "Deja",
+    "tú",
+    "abrigo",
+    "en",
+    "la",
+    "percha."
+   ],
+   "respuesta": 1,
+   "correccion": "tu",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Deja tu abrigo en la percha. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0078",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Lo arregló el mismo.",
+   "opciones": [
+    "Lo",
+    "arregló",
+    "el",
+    "mismo."
+   ],
+   "respuesta": 2,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Lo arregló él mismo. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0079",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Esto es para mi?",
+   "opciones": [
+    "¿Esto",
+    "es",
+    "para",
+    "mi?"
+   ],
+   "respuesta": 3,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Esto es para mí? «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0080",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Dame un poco ___ de sopa.",
+   "opciones": [
+    "mas",
+    "más"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Dame un poco más de sopa. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0081",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Esa bici es de el.",
+   "opciones": [
+    "Esa",
+    "bici",
+    "es",
+    "de",
+    "el."
+   ],
+   "respuesta": 4,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Esa bici es de él. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0082",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Este te está muy caliente.",
+   "opciones": [
+    "Este",
+    "te",
+    "está",
+    "muy",
+    "caliente."
+   ],
+   "respuesta": 1,
+   "correccion": "té",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Este té está muy caliente. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0083",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ana solo habla de ___ misma.",
+   "opciones": [
+    "sí",
+    "si"
+   ],
+   "respuesta": "sí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Ana solo habla de sí misma. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0084",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ llueve, no iremos a la playa.",
+   "opciones": [
+    "Si",
+    "Sí"
+   ],
+   "respuesta": "Si",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Si llueve, no iremos a la playa. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0085",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pedro ___ levanta muy temprano.",
+   "opciones": [
+    "se",
+    "sé"
+   ],
+   "respuesta": "se",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Pedro se levanta muy temprano. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0086",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Se lo dije a el, no a ella.",
+   "opciones": [
+    "Se",
+    "lo",
+    "dije",
+    "a",
+    "el,",
+    "no",
+    "a",
+    "ella."
+   ],
+   "respuesta": 4,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Se lo dije a él, no a ella. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0087",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Le pregunté si venía y dijo que ___.",
+   "opciones": [
+    "si",
+    "sí"
+   ],
+   "respuesta": "sí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Le pregunté si venía y dijo que sí. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0088",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Es la casa dé mis tíos.",
+   "opciones": [
+    "Es",
+    "la",
+    "casa",
+    "dé",
+    "mis",
+    "tíos."
+   ],
+   "respuesta": 3,
+   "correccion": "de",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Es la casa de mis tíos. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0089",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Tú perro ladra mucho por las noches.",
+   "opciones": [
+    "Tú",
+    "perro",
+    "ladra",
+    "mucho",
+    "por",
+    "las",
+    "noches."
+   ],
+   "respuesta": 0,
+   "correccion": "Tu",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Tu perro ladra mucho por las noches. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0090",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___, hemos ganado el partido!",
+   "opciones": [
+    "Si",
+    "Sí"
+   ],
+   "respuesta": "Sí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¡Sí, hemos ganado el partido! «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0091",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mí gato duerme todo el día.",
+   "opciones": [
+    "Mí",
+    "gato",
+    "duerme",
+    "todo",
+    "el",
+    "día."
+   ],
+   "respuesta": 0,
+   "correccion": "Mi",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi gato duerme todo el día. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0092",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pregúntale ___ quiere merendar.",
+   "opciones": [
+    "si",
+    "sí"
+   ],
+   "respuesta": "si",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Pregúntale si quiere merendar. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0093",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Té apetece un helado?",
+   "opciones": [
+    "¿Té",
+    "apetece",
+    "un",
+    "helado?"
+   ],
+   "respuesta": 0,
+   "correccion": "Te",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Te apetece un helado? «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0094",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Té quiero mucho.",
+   "opciones": [
+    "Té",
+    "quiero",
+    "mucho."
+   ],
+   "respuesta": 0,
+   "correccion": "Te",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Te quiero mucho. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0095",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Esto no depende de mi.",
+   "opciones": [
+    "Esto",
+    "no",
+    "depende",
+    "de",
+    "mi."
+   ],
+   "respuesta": 4,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Esto no depende de mí. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0096",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mí abuela hace unas croquetas buenísimas.",
+   "opciones": [
+    "Mí",
+    "abuela",
+    "hace",
+    "unas",
+    "croquetas",
+    "buenísimas."
+   ],
+   "respuesta": 0,
+   "correccion": "Mi",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi abuela hace unas croquetas buenísimas. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0097",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me prestó él balón para el recreo.",
+   "opciones": [
+    "Me",
+    "prestó",
+    "él",
+    "balón",
+    "para",
+    "el",
+    "recreo."
+   ],
+   "respuesta": 2,
+   "correccion": "el",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Me prestó el balón para el recreo. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0098",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Un vaso dé agua, por favor.",
+   "opciones": [
+    "Un",
+    "vaso",
+    "dé",
+    "agua,",
+    "por",
+    "favor."
+   ],
+   "respuesta": 2,
+   "correccion": "de",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Un vaso de agua, por favor. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0099",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Tú hermana juega al baloncesto.",
+   "opciones": [
+    "Tú",
+    "hermana",
+    "juega",
+    "al",
+    "baloncesto."
+   ],
+   "respuesta": 0,
+   "correccion": "Tu",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Tu hermana juega al baloncesto. «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0100",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ me ha olvidado el bocadillo.",
+   "opciones": [
+    "Sé",
+    "Se"
+   ],
+   "respuesta": "Se",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Se me ha olvidado el bocadillo. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0101",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Le dije a el que viniera.",
+   "opciones": [
+    "Le",
+    "dije",
+    "a",
+    "el",
+    "que",
+    "viniera."
+   ],
+   "respuesta": 3,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Le dije a él que viniera. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0102",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Quieres un te con limón?",
+   "opciones": [
+    "¿Quieres",
+    "un",
+    "te",
+    "con",
+    "limón?"
+   ],
+   "respuesta": 2,
+   "correccion": "té",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Quieres un té con limón? «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0103",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El siempre llega puntual.",
+   "opciones": [
+    "El",
+    "siempre",
+    "llega",
+    "puntual."
+   ],
+   "respuesta": 0,
+   "correccion": "Él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Él siempre llega puntual. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0104",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Necesitamos ___ sillas para la fiesta.",
+   "opciones": [
+    "más",
+    "mas"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Necesitamos más sillas para la fiesta. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0105",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Si tu quieres, jugamos otra partida.",
+   "opciones": [
+    "Si",
+    "tu",
+    "quieres,",
+    "jugamos",
+    "otra",
+    "partida."
+   ],
+   "respuesta": 1,
+   "correccion": "tú",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Si tú quieres, jugamos otra partida. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0106",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "He perdido mí estuche nuevo.",
+   "opciones": [
+    "He",
+    "perdido",
+    "mí",
+    "estuche",
+    "nuevo."
+   ],
+   "respuesta": 2,
+   "correccion": "mi",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: He perdido mi estuche nuevo. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0107",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Quiero ___ helado.",
+   "opciones": [
+    "más",
+    "mas"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Quiero más helado. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0108",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ayer tu llegaste antes que yo.",
+   "opciones": [
+    "Ayer",
+    "tu",
+    "llegaste",
+    "antes",
+    "que",
+    "yo."
+   ],
+   "respuesta": 1,
+   "correccion": "tú",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ayer tú llegaste antes que yo. «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0109",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ lo has contado a tu madre?",
+   "opciones": [
+    "Sé",
+    "Se"
+   ],
+   "respuesta": "Se",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Se lo has contado a tu madre? «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0110",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hoy he leído ___ que ayer.",
+   "opciones": [
+    "mas",
+    "más"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Hoy he leído más que ayer. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0111",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hemos ido con el al cine.",
+   "opciones": [
+    "Hemos",
+    "ido",
+    "con",
+    "el",
+    "al",
+    "cine."
+   ],
+   "respuesta": 3,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Hemos ido con él al cine. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0112",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Él sol calienta mucho en verano.",
+   "opciones": [
+    "Él",
+    "sol",
+    "calienta",
+    "mucho",
+    "en",
+    "verano."
+   ],
+   "respuesta": 0,
+   "correccion": "El",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El sol calienta mucho en verano. «El» sin tilde es el artículo: va delante de un nombre (el perro, el sol).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0113",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ahora te toca a ___.",
+   "opciones": [
+    "tí",
+    "ti"
+   ],
+   "respuesta": "ti",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Ahora te toca a ti. «Ti» nunca lleva tilde: no hay otro «ti» con el que confundirlo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0114",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "María ___ ríe mucho con sus amigas.",
+   "opciones": [
+    "sé",
+    "se"
+   ],
+   "respuesta": "se",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "María se ríe mucho con sus amigas. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0115",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Té llamo luego.",
+   "opciones": [
+    "Té",
+    "llamo",
+    "luego."
+   ],
+   "respuesta": 0,
+   "correccion": "Te",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Te llamo luego. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0116",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Cada día corro ___ rápido.",
+   "opciones": [
+    "mas",
+    "más"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Cada día corro más rápido. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0117",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Me prestas tú goma de borrar?",
+   "opciones": [
+    "¿Me",
+    "prestas",
+    "tú",
+    "goma",
+    "de",
+    "borrar?"
+   ],
+   "respuesta": 2,
+   "correccion": "tu",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Me prestas tu goma de borrar? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0118",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "A mi me gusta mucho leer.",
+   "opciones": [
+    "A",
+    "mi",
+    "me",
+    "gusta",
+    "mucho",
+    "leer."
+   ],
+   "respuesta": 1,
+   "correccion": "mí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: A mí me gusta mucho leer. «Mí» con tilde es el pronombre que va detrás de una preposición (para mí, a mí, de mí).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0119",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No sé ___ vendrá mañana.",
+   "opciones": [
+    "si",
+    "sí"
+   ],
+   "respuesta": "si",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "No sé si vendrá mañana. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0120",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Creo que ___, que lo conseguiremos.",
+   "opciones": [
+    "si",
+    "sí"
+   ],
+   "respuesta": "sí",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Creo que sí, que lo conseguiremos. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0121",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Este regalo es para el.",
+   "opciones": [
+    "Este",
+    "regalo",
+    "es",
+    "para",
+    "el."
+   ],
+   "respuesta": 4,
+   "correccion": "él",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Este regalo es para él. «Él» con tilde es el pronombre: un chico o una persona (él vino, para él).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0122",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ estudias, aprobarás.",
+   "opciones": [
+    "Sí",
+    "Si"
+   ],
+   "respuesta": "Si",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Si estudias, aprobarás. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0123",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me gusta ___ el verano que el invierno.",
+   "opciones": [
+    "mas",
+    "más"
+   ],
+   "respuesta": "más",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Me gusta más el verano que el invierno. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0124",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El te verde es un poco amargo.",
+   "opciones": [
+    "El",
+    "te",
+    "verde",
+    "es",
+    "un",
+    "poco",
+    "amargo."
+   ],
+   "respuesta": 1,
+   "correccion": "té",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El té verde es un poco amargo. «Té» con tilde es la bebida.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0125",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mañana té lo cuento.",
+   "opciones": [
+    "Mañana",
+    "té",
+    "lo",
+    "cuento."
+   ],
+   "respuesta": 1,
+   "correccion": "te",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mañana te lo cuento. «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0126",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Es el libro dé mi hermano.",
+   "opciones": [
+    "Es",
+    "el",
+    "libro",
+    "dé",
+    "mi",
+    "hermano."
+   ],
+   "respuesta": 3,
+   "correccion": "de",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Es el libro de mi hermano. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0127",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Vengo dé la piscina.",
+   "opciones": [
+    "Vengo",
+    "dé",
+    "la",
+    "piscina."
+   ],
+   "respuesta": 1,
+   "correccion": "de",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Vengo de la piscina. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0128",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El perro ___ escondió debajo de la cama.",
+   "opciones": [
+    "se",
+    "sé"
+   ],
+   "respuesta": "se",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "El perro se escondió debajo de la cama. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0129",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Té gusta el chocolate?",
+   "opciones": [
+    "¿Té",
+    "gusta",
+    "el",
+    "chocolate?"
+   ],
+   "respuesta": 0,
+   "correccion": "Te",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Te gusta el chocolate? «Te» sin tilde es un pronombre: te quiero, te llamo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0130",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Has traído tú mochila?",
+   "opciones": [
+    "¿Has",
+    "traído",
+    "tú",
+    "mochila?"
+   ],
+   "respuesta": 2,
+   "correccion": "tu",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Has traído tu mochila? «Tu» sin tilde es posesivo: va delante de una cosa que es tuya (tu casa, tu mochila).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0131",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Vienes tu al parque esta tarde?",
+   "opciones": [
+    "¿Vienes",
+    "tu",
+    "al",
+    "parque",
+    "esta",
+    "tarde?"
+   ],
+   "respuesta": 1,
+   "correccion": "tú",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Vienes tú al parque esta tarde? «Tú» con tilde es el pronombre: la persona con la que hablas (tú eres, tú vienes).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0132",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "La bici dé Pablo es roja.",
+   "opciones": [
+    "La",
+    "bici",
+    "dé",
+    "Pablo",
+    "es",
+    "roja."
+   ],
+   "respuesta": 2,
+   "correccion": "de",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: La bici de Pablo es roja. «De» sin tilde es la preposición: casa de mis tíos, vaso de agua.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0133",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Dime ___ te gusta.",
+   "opciones": [
+    "sí",
+    "si"
+   ],
+   "respuesta": "si",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Dime si te gusta. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0134",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mí profesora explica muy bien.",
+   "opciones": [
+    "Mí",
+    "profesora",
+    "explica",
+    "muy",
+    "bien."
+   ],
+   "respuesta": 0,
+   "correccion": "Mi",
+   "dificultad": 2,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi profesora explica muy bien. «Mi» sin tilde es posesivo: va delante de algo que es mío (mi gato, mi casa).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0135",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ana solo habla de si misma.",
+   "opciones": [
+    "Ana",
+    "solo",
+    "habla",
+    "de",
+    "si",
+    "misma."
+   ],
+   "respuesta": 4,
+   "correccion": "sí",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ana solo habla de sí misma. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0136",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No ___ dónde está mi abrigo.",
+   "opciones": [
+    "se",
+    "sé"
+   ],
+   "respuesta": "sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "No sé dónde está mi abrigo. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0137",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me gusta mas el verano que el invierno.",
+   "opciones": [
+    "Me",
+    "gusta",
+    "mas",
+    "el",
+    "verano",
+    "que",
+    "el",
+    "invierno."
+   ],
+   "respuesta": 2,
    "correccion": "más",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Quiero más helado. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "explicacion": "Lo correcto es: Me gusta más el verano que el invierno. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0068",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ni ___ corriendo llegaremos a tiempo.",
+   "id": "A11-0138",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El niño sé lavó las manos antes de comer.",
    "opciones": [
-    "aún",
-    "aun"
+    "El",
+    "niño",
+    "sé",
+    "lavó",
+    "las",
+    "manos",
+    "antes",
+    "de",
+    "comer."
    ],
-   "respuesta": "aun",
+   "respuesta": 2,
+   "correccion": "se",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Ni aun corriendo llegaremos a tiempo. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "explicacion": "Lo correcto es: El niño se lavó las manos antes de comer. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0069",
+   "id": "A11-0139",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No quiero que me ___ miedo la película.",
+   "opciones": [
+    "dé",
+    "de"
+   ],
+   "respuesta": "dé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "No quiero que me dé miedo la película. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0140",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Has terminado? —___ no.",
+   "opciones": [
+    "Aún",
+    "Aun"
+   ],
+   "respuesta": "Aún",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Has terminado? —Aún no. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0141",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ya ___ montar en bici.",
+   "opciones": [
+    "se",
+    "sé"
+   ],
+   "respuesta": "sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Ya sé montar en bici. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0142",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hoy he leído mas que ayer.",
+   "opciones": [
+    "Hoy",
+    "he",
+    "leído",
+    "mas",
+    "que",
+    "ayer."
+   ],
+   "respuesta": 3,
+   "correccion": "más",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Hoy he leído más que ayer. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0143",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ bueno con tu hermano pequeño.",
+   "opciones": [
+    "Sé",
+    "Se"
+   ],
+   "respuesta": "Sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Sé bueno con tu hermano pequeño. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0144",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El perro sé escondió debajo de la cama.",
+   "opciones": [
+    "El",
+    "perro",
+    "sé",
+    "escondió",
+    "debajo",
+    "de",
+    "la",
+    "cama."
+   ],
+   "respuesta": 2,
+   "correccion": "se",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El perro se escondió debajo de la cama. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0145",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ los mayores se equivocan a veces.",
+   "opciones": [
+    "Aún",
+    "Aun"
+   ],
+   "respuesta": "Aun",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Aun los mayores se equivocan a veces. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0146",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No sé sí vendrá mañana.",
+   "opciones": [
+    "No",
+    "sé",
+    "sí",
+    "vendrá",
+    "mañana."
+   ],
+   "respuesta": 2,
+   "correccion": "si",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No sé si vendrá mañana. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0147",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Yo ___ que tú puedes hacerlo.",
+   "opciones": [
+    "sé",
+    "se"
+   ],
+   "respuesta": "sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Yo sé que tú puedes hacerlo. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0148",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hoy hace ___ más frío que ayer.",
+   "opciones": [
+    "aun",
+    "aún"
+   ],
+   "respuesta": "aún",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Hoy hace aún más frío que ayer. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0149",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Sé me ha olvidado el bocadillo.",
@@ -1297,24 +2809,202 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0070",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ los mayores se equivocan a veces.",
+   "id": "A11-0150",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Dime sí te gusta.",
    "opciones": [
-    "Aún",
-    "Aun"
+    "Dime",
+    "sí",
+    "te",
+    "gusta."
    ],
-   "respuesta": "Aun",
+   "respuesta": 1,
+   "correccion": "si",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Aun los mayores se equivocan a veces. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "explicacion": "Lo correcto es: Dime si te gusta. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0071",
+   "id": "A11-0151",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Sé lo has contado a tu madre?",
+   "opciones": [
+    "¿Sé",
+    "lo",
+    "has",
+    "contado",
+    "a",
+    "tu",
+    "madre?"
+   ],
+   "respuesta": 0,
+   "correccion": "Se",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Se lo has contado a tu madre? «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0152",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Le pregunté si venía y dijo que si.",
+   "opciones": [
+    "Le",
+    "pregunté",
+    "si",
+    "venía",
+    "y",
+    "dijo",
+    "que",
+    "si."
+   ],
+   "respuesta": 7,
+   "correccion": "sí",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Le pregunté si venía y dijo que sí. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0153",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ estás despierto?",
+   "opciones": [
+    "Aún",
+    "Aun"
+   ],
+   "respuesta": "Aún",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "¿Aún estás despierto? «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0154",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sí llueve, no iremos a la playa.",
+   "opciones": [
+    "Sí",
+    "llueve,",
+    "no",
+    "iremos",
+    "a",
+    "la",
+    "playa."
+   ],
+   "respuesta": 0,
+   "correccion": "Si",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Si llueve, no iremos a la playa. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0155",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Pregúntale sí quiere merendar.",
+   "opciones": [
+    "Pregúntale",
+    "sí",
+    "quiere",
+    "merendar."
+   ],
+   "respuesta": 1,
+   "correccion": "si",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pregúntale si quiere merendar. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0156",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ni ___ corriendo llegaremos a tiempo.",
+   "opciones": [
+    "aún",
+    "aun"
+   ],
+   "respuesta": "aun",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Ni aun corriendo llegaremos a tiempo. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0157",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No ___ la respuesta.",
+   "opciones": [
+    "sé",
+    "se"
+   ],
+   "respuesta": "sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "No sé la respuesta. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0158",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ amable con los demás.",
+   "opciones": [
+    "Se",
+    "Sé"
+   ],
+   "respuesta": "Sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Sé amable con los demás. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0159",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Dile que te ___ el cuaderno.",
+   "opciones": [
+    "de",
+    "dé"
+   ],
+   "respuesta": "dé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Dile que te dé el cuaderno. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0160",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "María sé ríe mucho con sus amigas.",
@@ -1337,10 +3027,82 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0072",
+   "id": "A11-0161",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Dile que te ___ el cuaderno.",
+   "frase": "Todos aprobaron, ___ los que no estudiaron.",
+   "opciones": [
+    "aun",
+    "aún"
+   ],
+   "respuesta": "aun",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Todos aprobaron, aun los que no estudiaron. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0162",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Lo intentó, ___ no pudo conseguirlo.",
+   "opciones": [
+    "más",
+    "mas"
+   ],
+   "respuesta": "mas",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo intentó, mas no pudo conseguirlo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0163",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ahora te toca a tí.",
+   "opciones": [
+    "Ahora",
+    "te",
+    "toca",
+    "a",
+    "tí."
+   ],
+   "respuesta": 4,
+   "correccion": "ti",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ahora te toca a ti. «Ti» nunca lleva tilde: no hay otro «ti» con el que confundirlo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0164",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pídele que te ___ un vaso de agua.",
+   "opciones": [
+    "dé",
+    "de"
+   ],
+   "respuesta": "dé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Pídele que te dé un vaso de agua. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0165",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Quiero que mi madre me ___ permiso.",
    "opciones": [
     "de",
     "dé"
@@ -1350,90 +3112,75 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Dile que te dé el cuaderno. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "explicacion": "Quiero que mi madre me dé permiso. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0073",
+   "id": "A11-0166",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Hoy hace ___ más frío que ayer.",
+   "frase": "Ojalá nos ___ más tiempo el profesor.",
    "opciones": [
-    "aun",
-    "aún"
+    "de",
+    "dé"
    ],
-   "respuesta": "aún",
+   "respuesta": "dé",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Hoy hace aún más frío que ayer. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "explicacion": "Ojalá nos dé más tiempo el profesor. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0074",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ no ha llegado el autobús.",
-   "opciones": [
-    "Aun",
-    "Aún"
-   ],
-   "respuesta": "Aún",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Aún no ha llegado el autobús. «Aún» con tilde significa «todavía»: aún no ha llegado.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0075",
+   "id": "A11-0167",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Es el mas alto de la clase.",
+   "frase": "Pedro se ríe de si mismo.",
    "opciones": [
-    "Es",
-    "el",
-    "mas",
-    "alto",
+    "Pedro",
+    "se",
+    "ríe",
     "de",
-    "la",
-    "clase."
+    "si",
+    "mismo."
    ],
-   "respuesta": 2,
+   "respuesta": 4,
+   "correccion": "sí",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pedro se ríe de sí mismo. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0168",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Necesitamos mas sillas para la fiesta.",
+   "opciones": [
+    "Necesitamos",
+    "mas",
+    "sillas",
+    "para",
+    "la",
+    "fiesta."
+   ],
+   "respuesta": 1,
    "correccion": "más",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Es el más alto de la clase. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "explicacion": "Lo correcto es: Necesitamos más sillas para la fiesta. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0076",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Sí estudias, aprobarás.",
-   "opciones": [
-    "Sí",
-    "estudias,",
-    "aprobarás."
-   ],
-   "respuesta": 0,
-   "correccion": "Si",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Si estudias, aprobarás. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0077",
+   "id": "A11-0169",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Quería ir, ___ estaba enfermo.",
+   "frase": "Quería ganar, ___ no lo consiguió.",
    "opciones": [
     "mas",
     "más"
@@ -1443,32 +3190,28 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Quería ir, mas estaba enfermo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "explicacion": "Quería ganar, mas no lo consiguió. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0078",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "No sé sí vendrá mañana.",
+   "id": "A11-0170",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Espero que me ___ tiempo a terminar.",
    "opciones": [
-    "No",
-    "sé",
-    "sí",
-    "vendrá",
-    "mañana."
+    "de",
+    "dé"
    ],
-   "respuesta": 2,
-   "correccion": "si",
+   "respuesta": "dé",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: No sé si vendrá mañana. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "explicacion": "Espero que me dé tiempo a terminar. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0079",
+   "id": "A11-0171",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Me preguntó si quería ir y le dije que si.",
@@ -1494,55 +3237,48 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0080",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Cada día corro mas rápido.",
-   "opciones": [
-    "Cada",
-    "día",
-    "corro",
-    "mas",
-    "rápido."
-   ],
-   "respuesta": 3,
-   "correccion": "más",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Cada día corro más rápido. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0081",
+   "id": "A11-0172",
    "tipo": "hueco",
    "enunciado": "Completa la frase",
-   "frase": "Todos aprobaron, ___ los que no estudiaron.",
+   "frase": "___ no ha llegado el autobús.",
    "opciones": [
-    "aun",
-    "aún"
+    "Aun",
+    "Aún"
    ],
-   "respuesta": "aun",
+   "respuesta": "Aún",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Todos aprobaron, aun los que no estudiaron. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "explicacion": "Aún no ha llegado el autobús. «Aún» con tilde significa «todavía»: aún no ha llegado.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0082",
+   "id": "A11-0173",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ así, quiero intentarlo.",
+   "opciones": [
+    "Aún",
+    "Aun"
+   ],
+   "respuesta": "Aun",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Aun así, quiero intentarlo. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0174",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Necesitamos mas sillas para la fiesta.",
+   "frase": "Quiero mas helado.",
    "opciones": [
-    "Necesitamos",
+    "Quiero",
     "mas",
-    "sillas",
-    "para",
-    "la",
-    "fiesta."
+    "helado."
    ],
    "respuesta": 1,
    "correccion": "más",
@@ -1550,103 +3286,33 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Necesitamos más sillas para la fiesta. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "explicacion": "Lo correcto es: Quiero más helado. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0083",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Lo intentó, ___ no pudo conseguirlo.",
-   "opciones": [
-    "más",
-    "mas"
-   ],
-   "respuesta": "mas",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo intentó, mas no pudo conseguirlo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0084",
+   "id": "A11-0175",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Pedro sé levanta muy temprano.",
+   "frase": "Creo que si, que lo conseguiremos.",
    "opciones": [
-    "Pedro",
-    "sé",
-    "levanta",
-    "muy",
-    "temprano."
+    "Creo",
+    "que",
+    "si,",
+    "que",
+    "lo",
+    "conseguiremos."
    ],
-   "respuesta": 1,
-   "correccion": "se",
+   "respuesta": 2,
+   "correccion": "sí",
    "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Pedro se levanta muy temprano. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "explicacion": "Lo correcto es: Creo que sí, que lo conseguiremos. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0085",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Pregúntale sí quiere merendar.",
-   "opciones": [
-    "Pregúntale",
-    "sí",
-    "quiere",
-    "merendar."
-   ],
-   "respuesta": 1,
-   "correccion": "si",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Pregúntale si quiere merendar. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0086",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Quiero que mi madre me ___ permiso.",
-   "opciones": [
-    "de",
-    "dé"
-   ],
-   "respuesta": "dé",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Quiero que mi madre me dé permiso. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0087",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Mi hermano ___ duerme.",
-   "opciones": [
-    "aun",
-    "aún"
-   ],
-   "respuesta": "aún",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Mi hermano aún duerme. «Aún» con tilde significa «todavía»: aún no ha llegado.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0088",
+   "id": "A11-0176",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Tres mas dos son cinco.",
@@ -1667,79 +3333,18 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0089",
+   "id": "A11-0177",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ana solo habla de si misma.",
+   "frase": "Es el mas alto de la clase.",
    "opciones": [
-    "Ana",
-    "solo",
-    "habla",
-    "de",
-    "si",
-    "misma."
-   ],
-   "respuesta": 4,
-   "correccion": "sí",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Ana solo habla de sí misma. «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0090",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ahora te toca a tí.",
-   "opciones": [
-    "Ahora",
-    "te",
-    "toca",
-    "a",
-    "tí."
-   ],
-   "respuesta": 4,
-   "correccion": "ti",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Ahora te toca a ti. «Ti» nunca lleva tilde: no hay otro «ti» con el que confundirlo.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0091",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Espero que me ___ tiempo a terminar.",
-   "opciones": [
-    "de",
-    "dé"
-   ],
-   "respuesta": "dé",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Espero que me dé tiempo a terminar. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0092",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Me gusta mas el verano que el invierno.",
-   "opciones": [
-    "Me",
-    "gusta",
+    "Es",
+    "el",
     "mas",
-    "el",
-    "verano",
-    "que",
-    "el",
-    "invierno."
+    "alto",
+    "de",
+    "la",
+    "clase."
    ],
    "respuesta": 2,
    "correccion": "más",
@@ -1747,11 +3352,195 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Me gusta más el verano que el invierno. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "explicacion": "Lo correcto es: Es el más alto de la clase. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0093",
+   "id": "A11-0178",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Si, hemos ganado el partido!",
+   "opciones": [
+    "¡Si,",
+    "hemos",
+    "ganado",
+    "el",
+    "partido!"
+   ],
+   "respuesta": 0,
+   "correccion": "Sí",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¡Sí, hemos ganado el partido! «Sí» con tilde es la afirmación (¡sí!) o el pronombre de «sí mismo».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0179",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Quería ir, ___ estaba enfermo.",
+   "opciones": [
+    "mas",
+    "más"
+   ],
+   "respuesta": "mas",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Quería ir, mas estaba enfermo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0180",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Cada día corro mas rápido.",
+   "opciones": [
+    "Cada",
+    "día",
+    "corro",
+    "mas",
+    "rápido."
+   ],
+   "respuesta": 3,
+   "correccion": "más",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Cada día corro más rápido. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0181",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi hermano es ___ más alto que mi padre.",
+   "opciones": [
+    "aun",
+    "aún"
+   ],
+   "respuesta": "aún",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Mi hermano es aún más alto que mi padre. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0182",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Sí estudias, aprobarás.",
+   "opciones": [
+    "Sí",
+    "estudias,",
+    "aprobarás."
+   ],
+   "respuesta": 0,
+   "correccion": "Si",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Si estudias, aprobarás. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0183",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ me quedan dos ejercicios.",
+   "opciones": [
+    "Aun",
+    "Aún"
+   ],
+   "respuesta": "Aún",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Aún me quedan dos ejercicios. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0184",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Mi hermano ___ duerme.",
+   "opciones": [
+    "aun",
+    "aún"
+   ],
+   "respuesta": "aún",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Mi hermano aún duerme. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0185",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ sabiendo la respuesta, se equivocó.",
+   "opciones": [
+    "Aun",
+    "Aún"
+   ],
+   "respuesta": "Aun",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Aun sabiendo la respuesta, se equivocó. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0186",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Lo ___ todo sobre los dinosaurios.",
+   "opciones": [
+    "sé",
+    "se"
+   ],
+   "respuesta": "sé",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo sé todo sobre los dinosaurios. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0187",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Pedro sé levanta muy temprano.",
+   "opciones": [
+    "Pedro",
+    "sé",
+    "levanta",
+    "muy",
+    "temprano."
+   ],
+   "respuesta": 1,
+   "correccion": "se",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pedro se levanta muy temprano. «Se» sin tilde es un pronombre: se levanta, se ríe, se me olvidó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0188",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Sí te portas bien, iremos al zoo.",
@@ -1774,182 +3563,133 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0094",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "___ bueno con tu hermano pequeño.",
-   "opciones": [
-    "Sé",
-    "Se"
-   ],
-   "respuesta": "Sé",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Sé bueno con tu hermano pequeño. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0095",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Ya ___ montar en bici.",
-   "opciones": [
-    "se",
-    "sé"
-   ],
-   "respuesta": "sé",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Ya sé montar en bici. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0096",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "Yo ___ que tú puedes hacerlo.",
-   "opciones": [
-    "sé",
-    "se"
-   ],
-   "respuesta": "sé",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Yo sé que tú puedes hacerlo. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0097",
+   "id": "A11-0189",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Sí llueve, no iremos a la playa.",
+   "frase": "¿Y sí vamos al cine?",
    "opciones": [
-    "Sí",
-    "llueve,",
-    "no",
-    "iremos",
-    "a",
-    "la",
-    "playa."
-   ],
-   "respuesta": 0,
-   "correccion": "Si",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Si llueve, no iremos a la playa. «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0098",
-   "tipo": "hueco",
-   "enunciado": "Completa la frase",
-   "frase": "No ___ la respuesta.",
-   "opciones": [
-    "sé",
-    "se"
-   ],
-   "respuesta": "sé",
-   "dificultad": 3,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "No sé la respuesta. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0099",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Aún así, quiero intentarlo.",
-   "opciones": [
-    "Aún",
-    "así,",
-    "quiero",
-    "intentarlo."
-   ],
-   "respuesta": 0,
-   "correccion": "Aun",
-   "dificultad": 4,
-   "skills": [
-    "diacritica"
-   ],
-   "explicacion": "Lo correcto es: Aun así, quiero intentarlo. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
-   "regla_id": "diacritica"
-  },
-  {
-   "id": "A11-0100",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Ya se montar en bici.",
-   "opciones": [
-    "Ya",
-    "se",
-    "montar",
-    "en",
-    "bici."
+    "¿Y",
+    "sí",
+    "vamos",
+    "al",
+    "cine?"
    ],
    "respuesta": 1,
-   "correccion": "sé",
-   "dificultad": 4,
+   "correccion": "si",
+   "dificultad": 3,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Ya sé montar en bici. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "explicacion": "Lo correcto es: ¿Y si vamos al cine? «Si» sin tilde es condicional o de duda: «si llueve…», «no sé si vendrá».",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0101",
+   "id": "A11-0190",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Espero que me de tiempo a terminar.",
+   "frase": "Dame un poco mas de sopa.",
    "opciones": [
-    "Espero",
-    "que",
-    "me",
+    "Dame",
+    "un",
+    "poco",
+    "mas",
     "de",
-    "tiempo",
-    "a",
-    "terminar."
+    "sopa."
    ],
    "respuesta": 3,
-   "correccion": "dé",
+   "correccion": "más",
+   "dificultad": 3,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Dame un poco más de sopa. «Más» con tilde indica cantidad o suma: más helado, tres más dos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0191",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Ahora te toca a ti.",
+   "respuesta": "Ahora te toca a ti.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Ahora te toca a ti. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0192",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Quería ir, mas estaba enfermo.",
+    "Queria ir, mas estaba enfermo.",
+    "Quería ir, más estaba enfermo."
+   ],
+   "respuesta": "Quería ir, mas estaba enfermo.",
    "dificultad": 4,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Espero que me dé tiempo a terminar. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "explicacion": "Lo correcto es: Quería ir, mas estaba enfermo. Fíjate bien en cada palabra con tilde: Quería.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0102",
+   "id": "A11-0193",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Vienes tú al parque esta tarde?",
+   "respuesta": "¿Vienes tú al parque esta tarde?",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: ¿Vienes tú al parque esta tarde? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0194",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Mi hermano aun duerme.",
+   "frase": "Se amable con los demás.",
    "opciones": [
-    "Mi",
-    "hermano",
-    "aun",
-    "duerme."
+    "Se",
+    "amable",
+    "con",
+    "los",
+    "demás."
    ],
-   "respuesta": 2,
-   "correccion": "aún",
+   "respuesta": 0,
+   "correccion": "Sé",
    "dificultad": 4,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Mi hermano aún duerme. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "explicacion": "Lo correcto es: Sé amable con los demás. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0103",
+   "id": "A11-0195",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Dame un poco más dé sopa.",
+    "Dame un poco más de sopa.",
+    "Dame un poco mas de sopa."
+   ],
+   "respuesta": "Dame un poco más de sopa.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Dame un poco más de sopa. Fíjate bien en cada palabra con tilde: más.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0196",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Lo se todo sobre los dinosaurios.",
@@ -1971,17 +3711,377 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0104",
+   "id": "A11-0197",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Esto no depende de mí.",
+   "respuesta": "Esto no depende de mí.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Esto no depende de mí. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0198",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi gato duerme todo el dia.",
+    "Mi gato duerme todo el día.",
+    "Mí gato duerme todo el día."
+   ],
+   "respuesta": "Mi gato duerme todo el día.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi gato duerme todo el día. Fíjate bien en cada palabra con tilde: día.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0199",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Aun no ha llegado el autobús.",
+   "frase": "No se dónde está mi abrigo.",
+   "opciones": [
+    "No",
+    "se",
+    "dónde",
+    "está",
+    "mi",
+    "abrigo."
+   ],
+   "respuesta": 1,
+   "correccion": "sé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No sé dónde está mi abrigo. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0200",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¡Sí, hemos ganado él partido!",
+    "¡Si, hemos ganado el partido!",
+    "¡Sí, hemos ganado el partido!"
+   ],
+   "respuesta": "¡Sí, hemos ganado el partido!",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¡Sí, hemos ganado el partido! Fíjate bien en cada palabra con tilde: Sí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0201",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Esto no depende de mi.",
+    "Esto no depende de mí.",
+    "Esto no depende dé mí."
+   ],
+   "respuesta": "Esto no depende de mí.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Esto no depende de mí. Fíjate bien en cada palabra con tilde: mí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0202",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi abuela hace unas croquetas buenísimas.",
+    "Mi abuela hace unas croquetas buenisimas.",
+    "Mí abuela hace unas croquetas buenísimas."
+   ],
+   "respuesta": "Mi abuela hace unas croquetas buenísimas.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi abuela hace unas croquetas buenísimas. Fíjate bien en cada palabra con tilde: buenísimas.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0203",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Creo que si, que lo conseguiremos.",
+    "Creo qué sí, que lo conseguiremos.",
+    "Creo que sí, que lo conseguiremos."
+   ],
+   "respuesta": "Creo que sí, que lo conseguiremos.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Creo que sí, que lo conseguiremos. Fíjate bien en cada palabra con tilde: sí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0204",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Aun así, quiero intentarlo.",
+   "respuesta": "Aun así, quiero intentarlo.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Aun así, quiero intentarlo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0205",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Aun no ha llegado el autobús.",
+    "Aún no ha llegado el autobús.",
+    "Aún no ha llegado el autobus."
+   ],
+   "respuesta": "Aún no ha llegado el autobús.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aún no ha llegado el autobús. Fíjate bien en cada palabra con tilde: Aún, autobús.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0206",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El autobús llega a las nueve.",
+    "Él autobús llega a las nueve.",
+    "El autobus llega a las nueve."
+   ],
+   "respuesta": "El autobús llega a las nueve.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El autobús llega a las nueve. Fíjate bien en cada palabra con tilde: autobús.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0207",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Esto es para mí?",
+   "respuesta": "¿Esto es para mí?",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: ¿Esto es para mí? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0208",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi hermano aún duerme.",
+   "respuesta": "Mi hermano aún duerme.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Mi hermano aún duerme. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0209",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Sé bueno con tú hermano pequeño.",
+    "Se bueno con tu hermano pequeño.",
+    "Sé bueno con tu hermano pequeño."
+   ],
+   "respuesta": "Sé bueno con tu hermano pequeño.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Sé bueno con tu hermano pequeño. Fíjate bien en cada palabra con tilde: Sé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0210",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No se la respuesta.",
+   "opciones": [
+    "No",
+    "se",
+    "la",
+    "respuesta."
+   ],
+   "respuesta": 1,
+   "correccion": "sé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No sé la respuesta. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0211",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Este regalo es para el.",
+    "Éste regalo es para él.",
+    "Este regalo es para él."
+   ],
+   "respuesta": "Este regalo es para él.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Este regalo es para él. Fíjate bien en cada palabra con tilde: él.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0212",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Yo sé que tu puedes hacerlo.",
+    "Yo sé que tú puedes hacerlo.",
+    "Yo se que tú puedes hacerlo."
+   ],
+   "respuesta": "Yo sé que tú puedes hacerlo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Yo sé que tú puedes hacerlo. Fíjate bien en cada palabra con tilde: sé, tú.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0213",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Lo arregló él mismo.",
+    "Lo arreglo él mismo.",
+    "Lo arregló el mismo."
+   ],
+   "respuesta": "Lo arregló él mismo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Lo arregló él mismo. Fíjate bien en cada palabra con tilde: arregló, él.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0214",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Ven a mi casa esta tarde.",
+   "respuesta": "Ven a mi casa esta tarde.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Ven a mi casa esta tarde. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0215",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Este regalo es para él.",
+   "respuesta": "Este regalo es para él.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Este regalo es para él. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0216",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Dime si te gusta.",
+    "Dime sí te gusta.",
+    "Dime si té gusta."
+   ],
+   "respuesta": "Dime si te gusta.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Dime si te gusta. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0217",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Tu perro ladra mucho por las noches.",
+   "respuesta": "Tu perro ladra mucho por las noches.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Tu perro ladra mucho por las noches. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0218",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ayer tú llegaste antes que yo.",
+    "Ayer tú llegaste antes qué yo.",
+    "Ayer tu llegaste antes que yo."
+   ],
+   "respuesta": "Ayer tú llegaste antes que yo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ayer tú llegaste antes que yo. Fíjate bien en cada palabra con tilde: tú.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0219",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Aun me quedan dos ejercicios.",
    "opciones": [
     "Aun",
-    "no",
-    "ha",
-    "llegado",
-    "el",
-    "autobús."
+    "me",
+    "quedan",
+    "dos",
+    "ejercicios."
    ],
    "respuesta": 0,
    "correccion": "Aún",
@@ -1989,11 +4089,134 @@
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Aún no ha llegado el autobús. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "explicacion": "Lo correcto es: Aún me quedan dos ejercicios. «Aún» con tilde significa «todavía»: aún no ha llegado.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0105",
+   "id": "A11-0220",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Pídele que te de un vaso de agua.",
+   "opciones": [
+    "Pídele",
+    "que",
+    "te",
+    "de",
+    "un",
+    "vaso",
+    "de",
+    "agua."
+   ],
+   "respuesta": 3,
+   "correccion": "dé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pídele que te dé un vaso de agua. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0221",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Pregúntale sí quiere merendar.",
+    "Pregúntale si quiere merendar.",
+    "Preguntale si quiere merendar."
+   ],
+   "respuesta": "Pregúntale si quiere merendar.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pregúntale si quiere merendar. Fíjate bien en cada palabra con tilde: Pregúntale.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0222",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Lo intentó, más no pudo conseguirlo.",
+    "Lo intentó, mas no pudo conseguirlo.",
+    "Lo intento, mas no pudo conseguirlo."
+   ],
+   "respuesta": "Lo intentó, mas no pudo conseguirlo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Lo intentó, mas no pudo conseguirlo. Fíjate bien en cada palabra con tilde: intentó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0223",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Tú eres mi mejor amigo.",
+    "Tú eres mí mejor amigo.",
+    "Tu eres mi mejor amigo."
+   ],
+   "respuesta": "Tú eres mi mejor amigo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Tú eres mi mejor amigo. Fíjate bien en cada palabra con tilde: Tú.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0224",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Aun sabiendo la respuesta, se equivocó.",
+    "Aún sabiendo la respuesta, se equivocó.",
+    "Aun sabiendo la respuesta, se equivoco."
+   ],
+   "respuesta": "Aun sabiendo la respuesta, se equivocó.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aun sabiendo la respuesta, se equivocó. Fíjate bien en cada palabra con tilde: equivocó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0225",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Sé amable con los demás.",
+    "Se amable con los demás.",
+    "Sé amable con los demas."
+   ],
+   "respuesta": "Sé amable con los demás.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Sé amable con los demás. Fíjate bien en cada palabra con tilde: Sé, demás.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0226",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "¿Te apetece un helado?",
+   "respuesta": "¿Te apetece un helado?",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: ¿Te apetece un helado? (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0227",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Ojalá nos de más tiempo el profesor.",
@@ -2016,7 +4239,24 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0106",
+   "id": "A11-0228",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Té acuerdas de mí?",
+    "¿Te acuerdas de mí?",
+    "¿Te acuerdas de mi?"
+   ],
+   "respuesta": "¿Te acuerdas de mí?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Te acuerdas de mí? Fíjate bien en cada palabra con tilde: mí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0229",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Todos aprobaron, aún los que no estudiaron.",
@@ -2039,7 +4279,1007 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0107",
+   "id": "A11-0230",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Un vaso de agua, por favor.",
+   "respuesta": "Un vaso de agua, por favor.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Un vaso de agua, por favor. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0231",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No quiero que me de miedo la película.",
+   "opciones": [
+    "No",
+    "quiero",
+    "que",
+    "me",
+    "de",
+    "miedo",
+    "la",
+    "película."
+   ],
+   "respuesta": 4,
+   "correccion": "dé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No quiero que me dé miedo la película. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0232",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Delante de mí se sienta Lucas.",
+   "respuesta": "Delante de mí se sienta Lucas.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Delante de mí se sienta Lucas. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0233",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Sé bueno con tu hermano pequeño.",
+   "respuesta": "Sé bueno con tu hermano pequeño.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Sé bueno con tu hermano pequeño. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0234",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Ese libro es para mí.",
+   "respuesta": "Ese libro es para mí.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Ese libro es para mí. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0235",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Es tu cumpleaños el sábado?",
+    "¿Es tu cumpleaños el sabado?",
+    "¿Es tú cumpleaños el sábado?"
+   ],
+   "respuesta": "¿Es tu cumpleaños el sábado?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Es tu cumpleaños el sábado? Fíjate bien en cada palabra con tilde: sábado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0236",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Es el libro dé mi hermano.",
+    "Es el libro de mi hermano.",
+    "Es él libro de mi hermano."
+   ],
+   "respuesta": "Es el libro de mi hermano.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Es el libro de mi hermano. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0237",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Yo se que tú puedes hacerlo.",
+   "opciones": [
+    "Yo",
+    "se",
+    "que",
+    "tú",
+    "puedes",
+    "hacerlo."
+   ],
+   "respuesta": 1,
+   "correccion": "sé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Yo sé que tú puedes hacerlo. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0238",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Aun los mayores se equivocan a veces.",
+   "respuesta": "Aun los mayores se equivocan a veces.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Aun los mayores se equivocan a veces. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0239",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Es la casa de mis tíos.",
+    "Es la casa dé mis tíos.",
+    "Es la casa de mis tios."
+   ],
+   "respuesta": "Es la casa de mis tíos.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Es la casa de mis tíos. Fíjate bien en cada palabra con tilde: tíos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0240",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El perro se escondió debajo de la cama.",
+   "respuesta": "El perro se escondió debajo de la cama.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: El perro se escondió debajo de la cama. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0241",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Aún estás despierto?",
+    "¿Aun estás despierto?",
+    "¿Aún estas despierto?"
+   ],
+   "respuesta": "¿Aún estás despierto?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Aún estás despierto? Fíjate bien en cada palabra con tilde: Aún, estás.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0242",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi hermano aún duerme.",
+    "Mí hermano aún duerme.",
+    "Mi hermano aun duerme."
+   ],
+   "respuesta": "Mi hermano aún duerme.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi hermano aún duerme. Fíjate bien en cada palabra con tilde: aún.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0243",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Necesitamos más sillas para la fiesta.",
+   "respuesta": "Necesitamos más sillas para la fiesta.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Necesitamos más sillas para la fiesta. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0244",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi hermano aun duerme.",
+   "opciones": [
+    "Mi",
+    "hermano",
+    "aun",
+    "duerme."
+   ],
+   "respuesta": 2,
+   "correccion": "aún",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi hermano aún duerme. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0245",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Quería ir, más estaba enfermo.",
+   "opciones": [
+    "Quería",
+    "ir,",
+    "más",
+    "estaba",
+    "enfermo."
+   ],
+   "respuesta": 2,
+   "correccion": "mas",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Quería ir, mas estaba enfermo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0246",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "El autobús llega a las nueve.",
+   "respuesta": "El autobús llega a las nueve.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: El autobús llega a las nueve. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0247",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Te quiero mucho.",
+   "respuesta": "Te quiero mucho.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Te quiero mucho. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0248",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Aun me quedan dos ejercicios.",
+    "Áun me quedan dos ejercicios.",
+    "Aún me quedan dos ejercicios."
+   ],
+   "respuesta": "Aún me quedan dos ejercicios.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aún me quedan dos ejercicios. Fíjate bien en cada palabra con tilde: Aún.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0249",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Aún así, quiero intentarlo.",
+   "opciones": [
+    "Aún",
+    "así,",
+    "quiero",
+    "intentarlo."
+   ],
+   "respuesta": 0,
+   "correccion": "Aun",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aun así, quiero intentarlo. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0250",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Delante de mí se sienta Lucas.",
+    "Delante de mi se sienta Lucas.",
+    "Delante dé mí se sienta Lucas."
+   ],
+   "respuesta": "Delante de mí se sienta Lucas.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Delante de mí se sienta Lucas. Fíjate bien en cada palabra con tilde: mí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0251",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Ana solo habla de sí misma.",
+   "respuesta": "Ana solo habla de sí misma.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Ana solo habla de sí misma. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0252",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mañana te lo cuento.",
+   "respuesta": "Mañana te lo cuento.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Mañana te lo cuento. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0253",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Me prestas tu goma dé borrar?",
+    "¿Me prestas tu goma de borrar?",
+    "¿Me prestas tú goma de borrar?"
+   ],
+   "respuesta": "¿Me prestas tu goma de borrar?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Me prestas tu goma de borrar? Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0254",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Quería ganar, más no lo consiguió.",
+   "opciones": [
+    "Quería",
+    "ganar,",
+    "más",
+    "no",
+    "lo",
+    "consiguió."
+   ],
+   "respuesta": 2,
+   "correccion": "mas",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Quería ganar, mas no lo consiguió. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0255",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Deja tu abrigo en la percha.",
+   "respuesta": "Deja tu abrigo en la percha.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Deja tu abrigo en la percha. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0256",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Sin él no habriamos ganado.",
+    "Sin él no habríamos ganado.",
+    "Sin el no habríamos ganado."
+   ],
+   "respuesta": "Sin él no habríamos ganado.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Sin él no habríamos ganado. Fíjate bien en cada palabra con tilde: él, habríamos.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0257",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Tú eres mi mejor amigo.",
+   "respuesta": "Tú eres mi mejor amigo.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Tú eres mi mejor amigo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0258",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Has traido tu mochila?",
+    "¿Has traído tú mochila?",
+    "¿Has traído tu mochila?"
+   ],
+   "respuesta": "¿Has traído tu mochila?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Has traído tu mochila? Fíjate bien en cada palabra con tilde: traído.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0259",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Se me ha olvidado él bocadillo.",
+    "Se me ha olvidado el bocadillo.",
+    "Sé me ha olvidado el bocadillo."
+   ],
+   "respuesta": "Se me ha olvidado el bocadillo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Se me ha olvidado el bocadillo. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0260",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Hoy he leído mas que ayer.",
+    "Hoy he leido más que ayer.",
+    "Hoy he leído más que ayer."
+   ],
+   "respuesta": "Hoy he leído más que ayer.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Hoy he leído más que ayer. Fíjate bien en cada palabra con tilde: leído, más.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0261",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "No sé dónde está mi abrigo.",
+    "No sé dónde esta mi abrigo.",
+    "No se dónde está mi abrigo."
+   ],
+   "respuesta": "No sé dónde está mi abrigo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No sé dónde está mi abrigo. Fíjate bien en cada palabra con tilde: sé, dónde, está.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0262",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Se bueno con tu hermano pequeño.",
+   "opciones": [
+    "Se",
+    "bueno",
+    "con",
+    "tu",
+    "hermano",
+    "pequeño."
+   ],
+   "respuesta": 0,
+   "correccion": "Sé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Sé bueno con tu hermano pequeño. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0263",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Quieres un té con limón?",
+    "¿Quieres un te con limón?",
+    "¿Quieres un té con limon?"
+   ],
+   "respuesta": "¿Quieres un té con limón?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Quieres un té con limón? Fíjate bien en cada palabra con tilde: té, limón.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0264",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Mi hermano es aun más alto que mi padre.",
+   "opciones": [
+    "Mi",
+    "hermano",
+    "es",
+    "aun",
+    "más",
+    "alto",
+    "que",
+    "mi",
+    "padre."
+   ],
+   "respuesta": 3,
+   "correccion": "aún",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi hermano es aún más alto que mi padre. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0265",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Té gusta el chocolate?",
+    "¿Te gusta él chocolate?",
+    "¿Te gusta el chocolate?"
+   ],
+   "respuesta": "¿Te gusta el chocolate?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Te gusta el chocolate? Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0266",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Espero que me de tiempo a terminar.",
+   "opciones": [
+    "Espero",
+    "que",
+    "me",
+    "de",
+    "tiempo",
+    "a",
+    "terminar."
+   ],
+   "respuesta": 3,
+   "correccion": "dé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Espero que me dé tiempo a terminar. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0267",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ven a mi casa esta tarde.",
+    "Ven a mí casa esta tarde.",
+    "Ven a mi casa ésta tarde."
+   ],
+   "respuesta": "Ven a mi casa esta tarde.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ven a mi casa esta tarde. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0268",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Quiero más helado.",
+   "respuesta": "Quiero más helado.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Quiero más helado. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0269",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Creo que sí, que lo conseguiremos.",
+   "respuesta": "Creo que sí, que lo conseguiremos.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Creo que sí, que lo conseguiremos. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0270",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Aún me quedan dos ejercicios.",
+   "respuesta": "Aún me quedan dos ejercicios.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Aún me quedan dos ejercicios. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0271",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "No sé si vendrá mañana.",
+    "No sé si vendra mañana.",
+    "No se si vendrá mañana."
+   ],
+   "respuesta": "No sé si vendrá mañana.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No sé si vendrá mañana. Fíjate bien en cada palabra con tilde: sé, vendrá.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0272",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Sí estudias, aprobarás.",
+    "Si estudias, aprobarás.",
+    "Si estudias, aprobaras."
+   ],
+   "respuesta": "Si estudias, aprobarás.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Si estudias, aprobarás. Fíjate bien en cada palabra con tilde: aprobarás.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0273",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Aun asi, quiero intentarlo.",
+    "Aún así, quiero intentarlo.",
+    "Aun así, quiero intentarlo."
+   ],
+   "respuesta": "Aun así, quiero intentarlo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aun así, quiero intentarlo. Fíjate bien en cada palabra con tilde: así.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0274",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ya se montar en bici.",
+   "opciones": [
+    "Ya",
+    "se",
+    "montar",
+    "en",
+    "bici."
+   ],
+   "respuesta": 1,
+   "correccion": "sé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ya sé montar en bici. «Sé» con tilde es del verbo saber (yo sé) o ser (sé bueno).",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0275",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "En Inglaterra sé bebe mucho té.",
+    "En Inglaterra se bebe mucho te.",
+    "En Inglaterra se bebe mucho té."
+   ],
+   "respuesta": "En Inglaterra se bebe mucho té.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: En Inglaterra se bebe mucho té. Fíjate bien en cada palabra con tilde: té.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0276",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Si tú quieres, jugamos otra partida.",
+    "Sí tú quieres, jugamos otra partida.",
+    "Si tu quieres, jugamos otra partida."
+   ],
+   "respuesta": "Si tú quieres, jugamos otra partida.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Si tú quieres, jugamos otra partida. Fíjate bien en cada palabra con tilde: tú.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0277",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hoy hace aun más frío que ayer.",
+   "opciones": [
+    "Hoy",
+    "hace",
+    "aun",
+    "más",
+    "frío",
+    "que",
+    "ayer."
+   ],
+   "respuesta": 2,
+   "correccion": "aún",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Hoy hace aún más frío que ayer. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0278",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Espero que me dé tiempo a terminar.",
+   "respuesta": "Espero que me dé tiempo a terminar.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Espero que me dé tiempo a terminar. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0279",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ana sólo habla de sí misma.",
+    "Ana solo habla de si misma.",
+    "Ana solo habla de sí misma."
+   ],
+   "respuesta": "Ana solo habla de sí misma.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ana solo habla de sí misma. Fíjate bien en cada palabra con tilde: sí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0280",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Lo intentó, más no pudo conseguirlo.",
+   "opciones": [
+    "Lo",
+    "intentó,",
+    "más",
+    "no",
+    "pudo",
+    "conseguirlo."
+   ],
+   "respuesta": 2,
+   "correccion": "mas",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Lo intentó, mas no pudo conseguirlo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0281",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Se lo dije a él, no a ella.",
+   "respuesta": "Se lo dije a él, no a ella.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Se lo dije a él, no a ella. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0282",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Dile que te de el cuaderno.",
+   "opciones": [
+    "Dile",
+    "que",
+    "te",
+    "de",
+    "el",
+    "cuaderno."
+   ],
+   "respuesta": 3,
+   "correccion": "dé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Dile que te dé el cuaderno. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0283",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Aún sabiendo la respuesta, se equivocó.",
+   "opciones": [
+    "Aún",
+    "sabiendo",
+    "la",
+    "respuesta,",
+    "se",
+    "equivocó."
+   ],
+   "respuesta": 0,
+   "correccion": "Aun",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aun sabiendo la respuesta, se equivocó. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0284",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Has terminado? —Áun no.",
+    "¿Has terminado? —Aun no.",
+    "¿Has terminado? —Aún no."
+   ],
+   "respuesta": "¿Has terminado? —Aún no.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Has terminado? —Aún no. Fíjate bien en cada palabra con tilde: —Aún.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0285",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Le dije a el que viniera.",
+    "Le dije a él que viniera.",
+    "Le dije a él qué viniera."
+   ],
+   "respuesta": "Le dije a él que viniera.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Le dije a él que viniera. Fíjate bien en cada palabra con tilde: él.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0286",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Este te está muy caliente.",
+    "Este té esta muy caliente.",
+    "Este té está muy caliente."
+   ],
+   "respuesta": "Este té está muy caliente.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Este té está muy caliente. Fíjate bien en cada palabra con tilde: té, está.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0287",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Lo sé todo sobre los dinosaurios.",
+   "respuesta": "Lo sé todo sobre los dinosaurios.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Lo sé todo sobre los dinosaurios. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0288",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "Aún los mayores se equivocan a veces.",
@@ -2062,50 +5302,134 @@
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0108",
-   "tipo": "detectar_error",
-   "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Dile que te de el cuaderno.",
+   "id": "A11-0289",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
    "opciones": [
-    "Dile",
-    "que",
-    "te",
-    "de",
-    "el",
-    "cuaderno."
+    "Esa bici es dé él.",
+    "Esa bici es de él.",
+    "Esa bici es de el."
    ],
-   "respuesta": 3,
-   "correccion": "dé",
+   "respuesta": "Esa bici es de él.",
    "dificultad": 4,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Dile que te dé el cuaderno. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "explicacion": "Lo correcto es: Esa bici es de él. Fíjate bien en cada palabra con tilde: él.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0109",
+   "id": "A11-0290",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
-   "frase": "Quería ir, más estaba enfermo.",
+   "frase": "¿Has terminado? —Aun no.",
    "opciones": [
-    "Quería",
-    "ir,",
-    "más",
-    "estaba",
-    "enfermo."
+    "¿Has",
+    "terminado?",
+    "—Aun",
+    "no."
    ],
    "respuesta": 2,
-   "correccion": "mas",
+   "correccion": "Aún",
    "dificultad": 4,
    "skills": [
     "diacritica"
    ],
-   "explicacion": "Lo correcto es: Quería ir, mas estaba enfermo. «Mas» sin tilde significa «pero». Casi solo se usa en libros.",
+   "explicacion": "Lo correcto es: ¿Has terminado? —Aún no. «Aún» con tilde significa «todavía»: aún no ha llegado.",
    "regla_id": "diacritica"
   },
   {
-   "id": "A11-0110",
+   "id": "A11-0291",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ni aún corriendo llegaremos a tiempo.",
+   "opciones": [
+    "Ni",
+    "aún",
+    "corriendo",
+    "llegaremos",
+    "a",
+    "tiempo."
+   ],
+   "respuesta": 1,
+   "correccion": "aun",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ni aun corriendo llegaremos a tiempo. «Aun» sin tilde significa «incluso» (o «ni siquiera» con ni): aun así, ni aun corriendo.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0292",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Me encanta tu dibujo del dragon.",
+    "Me encanta tu dibujo del dragón.",
+    "Me encanta tú dibujo del dragón."
+   ],
+   "respuesta": "Me encanta tu dibujo del dragón.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Me encanta tu dibujo del dragón. Fíjate bien en cada palabra con tilde: dragón.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0293",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Pedro se rie de sí mismo.",
+    "Pedro se ríe de sí mismo.",
+    "Pedro se ríe de si mismo."
+   ],
+   "respuesta": "Pedro se ríe de sí mismo.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pedro se ríe de sí mismo. Fíjate bien en cada palabra con tilde: ríe, sí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0294",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Dile que te de el cuaderno.",
+    "Dile qué te dé el cuaderno.",
+    "Dile que te dé el cuaderno."
+   ],
+   "respuesta": "Dile que te dé el cuaderno.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Dile que te dé el cuaderno. Fíjate bien en cada palabra con tilde: dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0295",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Cada día corro más rápido.",
+    "Cada dia corro más rápido.",
+    "Cada día corro mas rápido."
+   ],
+   "respuesta": "Cada día corro más rápido.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Cada día corro más rápido. Fíjate bien en cada palabra con tilde: día, más, rápido.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0296",
    "tipo": "detectar_error",
    "enunciado": "Toca la palabra que está mal escrita",
    "frase": "¿Aun estás despierto?",
@@ -2121,6 +5445,588 @@
     "diacritica"
    ],
    "explicacion": "Lo correcto es: ¿Aún estás despierto? «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0297",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Quería ganar, mas no lo consiguio.",
+    "Quería ganar, mas no lo consiguió.",
+    "Queria ganar, mas no lo consiguió."
+   ],
+   "respuesta": "Quería ganar, mas no lo consiguió.",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Quería ganar, mas no lo consiguió. Fíjate bien en cada palabra con tilde: Quería, consiguió.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0298",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Quiero que mi madre me de permiso.",
+   "opciones": [
+    "Quiero",
+    "que",
+    "mi",
+    "madre",
+    "me",
+    "de",
+    "permiso."
+   ],
+   "respuesta": 5,
+   "correccion": "dé",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Quiero que mi madre me dé permiso. «Dé» con tilde es del verbo dar: que me dé, ojalá nos dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0299",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Vienes tú al parque esta tarde?",
+    "¿Vienes tú al parque ésta tarde?",
+    "¿Vienes tu al parque esta tarde?"
+   ],
+   "respuesta": "¿Vienes tú al parque esta tarde?",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Vienes tú al parque esta tarde? Fíjate bien en cada palabra con tilde: tú.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0300",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Aun no ha llegado el autobús.",
+   "opciones": [
+    "Aun",
+    "no",
+    "ha",
+    "llegado",
+    "el",
+    "autobús."
+   ],
+   "respuesta": 0,
+   "correccion": "Aún",
+   "dificultad": 4,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aún no ha llegado el autobús. «Aún» con tilde significa «todavía»: aún no ha llegado.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0301",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Pedro se levanta muy temprano.",
+   "respuesta": "Pedro se levanta muy temprano.",
+   "dificultad": 4,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Pedro se levanta muy temprano. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0302",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El perro se escondio debajo de la cama.",
+    "El perro se escondió debajo de la cama.",
+    "Él perro se escondió debajo de la cama."
+   ],
+   "respuesta": "El perro se escondió debajo de la cama.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El perro se escondió debajo de la cama. Fíjate bien en cada palabra con tilde: escondió.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0303",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Espero que me de tiempo a terminar.",
+    "Espero qué me dé tiempo a terminar.",
+    "Espero que me dé tiempo a terminar."
+   ],
+   "respuesta": "Espero que me dé tiempo a terminar.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Espero que me dé tiempo a terminar. Fíjate bien en cada palabra con tilde: dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0304",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Este té está muy caliente.",
+   "respuesta": "Este té está muy caliente.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Este té está muy caliente. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0305",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Es el mas alto de la clase.",
+    "Es él más alto de la clase.",
+    "Es el más alto de la clase."
+   ],
+   "respuesta": "Es el más alto de la clase.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Es el más alto de la clase. Fíjate bien en cada palabra con tilde: más.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0306",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Me presto el balón para el recreo.",
+    "Me prestó el balón para el recreo.",
+    "Me prestó el balon para el recreo."
+   ],
+   "respuesta": "Me prestó el balón para el recreo.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Me prestó el balón para el recreo. Fíjate bien en cada palabra con tilde: prestó, balón.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0307",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Me pregunto si quería ir y le dije que sí.",
+    "Me preguntó si quería ir y le dije que sí.",
+    "Me preguntó si quería ir y le dije que si."
+   ],
+   "respuesta": "Me preguntó si quería ir y le dije que sí.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Me preguntó si quería ir y le dije que sí. Fíjate bien en cada palabra con tilde: preguntó, quería, sí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0308",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Quiero que mi madre me de permiso.",
+    "Quiero qué mi madre me dé permiso.",
+    "Quiero que mi madre me dé permiso."
+   ],
+   "respuesta": "Quiero que mi madre me dé permiso.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Quiero que mi madre me dé permiso. Fíjate bien en cada palabra con tilde: dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0309",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Me preguntó si quería ir y le dije que sí.",
+   "respuesta": "Me preguntó si quería ir y le dije que sí.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Me preguntó si quería ir y le dije que sí. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0310",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Cada día corro más rápido.",
+   "respuesta": "Cada día corro más rápido.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Cada día corro más rápido. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0311",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Si te portas bien, iremos al zoo.",
+    "Si té portas bien, iremos al zoo.",
+    "Sí te portas bien, iremos al zoo."
+   ],
+   "respuesta": "Si te portas bien, iremos al zoo.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Si te portas bien, iremos al zoo. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0312",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Aun los mayores sé equivocan a veces.",
+    "Aun los mayores se equivocan a veces.",
+    "Aún los mayores se equivocan a veces."
+   ],
+   "respuesta": "Aun los mayores se equivocan a veces.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Aun los mayores se equivocan a veces. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0313",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Pidele que te dé un vaso de agua.",
+    "Pídele que te de un vaso de agua.",
+    "Pídele que te dé un vaso de agua."
+   ],
+   "respuesta": "Pídele que te dé un vaso de agua.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Pídele que te dé un vaso de agua. Fíjate bien en cada palabra con tilde: Pídele, dé.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0314",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Ojalá nos de más tiempo el profesor.",
+    "Ojalá nos dé mas tiempo el profesor.",
+    "Ojalá nos dé más tiempo el profesor."
+   ],
+   "respuesta": "Ojalá nos dé más tiempo el profesor.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Ojalá nos dé más tiempo el profesor. Fíjate bien en cada palabra con tilde: Ojalá, dé, más.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0315",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Hoy hace aún más frío que ayer.",
+    "Hoy hace aun más frío que ayer.",
+    "Hoy hace aún mas frío que ayer."
+   ],
+   "respuesta": "Hoy hace aún más frío que ayer.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Hoy hace aún más frío que ayer. Fíjate bien en cada palabra con tilde: aún, más, frío.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0316",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Se lo dije a el, no a ella.",
+    "Se lo dije a él, no a ella.",
+    "Sé lo dije a él, no a ella."
+   ],
+   "respuesta": "Se lo dije a él, no a ella.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Se lo dije a él, no a ella. Fíjate bien en cada palabra con tilde: él.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0317",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Él niño se lavó las manos antes de comer.",
+    "El niño se lavó las manos antes de comer.",
+    "El niño se lavo las manos antes de comer."
+   ],
+   "respuesta": "El niño se lavó las manos antes de comer.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El niño se lavó las manos antes de comer. Fíjate bien en cada palabra con tilde: lavó.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0318",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Me gusta más él verano que el invierno.",
+    "Me gusta más el verano que el invierno.",
+    "Me gusta mas el verano que el invierno."
+   ],
+   "respuesta": "Me gusta más el verano que el invierno.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Me gusta más el verano que el invierno. Fíjate bien en cada palabra con tilde: más.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0319",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "No quiero que me dé miedo la película.",
+    "No quiero que me de miedo la película.",
+    "No quiero que me dé miedo la pelicula."
+   ],
+   "respuesta": "No quiero que me dé miedo la película.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: No quiero que me dé miedo la película. Fíjate bien en cada palabra con tilde: dé, película.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0320",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi abuelo toma té todas las tardes.",
+    "Mi abuelo toma te todas las tardes.",
+    "Mí abuelo toma té todas las tardes."
+   ],
+   "respuesta": "Mi abuelo toma té todas las tardes.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi abuelo toma té todas las tardes. Fíjate bien en cada palabra con tilde: té.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0321",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Mi hermano es aún más alto que mi padre.",
+   "respuesta": "Mi hermano es aún más alto que mi padre.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Mi hermano es aún más alto que mi padre. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0322",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "¿Se lo has contado a tu madre?",
+    "¿Sé lo has contado a tu madre?",
+    "¿Se lo has contado a tú madre?"
+   ],
+   "respuesta": "¿Se lo has contado a tu madre?",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: ¿Se lo has contado a tu madre? Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0323",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El te verde es un poco amargo.",
+    "Él té verde es un poco amargo.",
+    "El té verde es un poco amargo."
+   ],
+   "respuesta": "El té verde es un poco amargo.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El té verde es un poco amargo. Fíjate bien en cada palabra con tilde: té.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0324",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Hoy he leído más que ayer.",
+   "respuesta": "Hoy he leído más que ayer.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Hoy he leído más que ayer. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0325",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Pídele que te dé un vaso de agua.",
+   "respuesta": "Pídele que te dé un vaso de agua.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Pídele que te dé un vaso de agua. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0326",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Mi hermano es aun más alto que mi padre.",
+    "Mi hermano es aún mas alto que mi padre.",
+    "Mi hermano es aún más alto que mi padre."
+   ],
+   "respuesta": "Mi hermano es aún más alto que mi padre.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Mi hermano es aún más alto que mi padre. Fíjate bien en cada palabra con tilde: aún, más.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0327",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la frase",
+   "palabra": "Pedro se ríe de sí mismo.",
+   "respuesta": "Pedro se ríe de sí mismo.",
+   "dificultad": 5,
+   "skills": [
+    "dictado",
+    "diacritica"
+   ],
+   "explicacion": "La frase es: Pedro se ríe de sí mismo. (no hace falta escribir los signos de puntuación, pero sí todas las tildes).",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A11-0328",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Le pregunté si venia y dijo que sí.",
+    "Le pregunté si venía y dijo que si.",
+    "Le pregunté si venía y dijo que sí."
+   ],
+   "respuesta": "Le pregunté si venía y dijo que sí.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Le pregunté si venía y dijo que sí. Fíjate bien en cada palabra con tilde: pregunté, venía, sí.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0329",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "Todos aprobaron, aún los que no estudiaron.",
+    "Todos aprobaron, aun los que no estudiaron.",
+    "Todos aprobaron, aun los qué no estudiaron."
+   ],
+   "respuesta": "Todos aprobaron, aun los que no estudiaron.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: Todos aprobaron, aun los que no estudiaron. Fíjate bien en cada palabra con tilde: .",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0330",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "María se rie mucho con sus amigas.",
+    "Maria se ríe mucho con sus amigas.",
+    "María se ríe mucho con sus amigas."
+   ],
+   "respuesta": "María se ríe mucho con sus amigas.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: María se ríe mucho con sus amigas. Fíjate bien en cada palabra con tilde: María, ríe.",
+   "regla_id": "diacritica"
+  },
+  {
+   "id": "A11-0331",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase tiene bien todas las tildes?",
+   "opciones": [
+    "El perro de Lucia es muy juguetón.",
+    "El perro de Lucía es muy jugueton.",
+    "El perro de Lucía es muy juguetón."
+   ],
+   "respuesta": "El perro de Lucía es muy juguetón.",
+   "dificultad": 5,
+   "skills": [
+    "diacritica"
+   ],
+   "explicacion": "Lo correcto es: El perro de Lucía es muy juguetón. Fíjate bien en cada palabra con tilde: Lucía, juguetón.",
    "regla_id": "diacritica"
   }
  ]
