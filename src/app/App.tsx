@@ -1,8 +1,9 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { navigate, useRoute } from './router';
 import { installSkipped, requestPersistentStorage, shouldSuggestInstall } from './platform';
 import { TabBar } from '../components/TabBar';
 import { UpdatePrompt } from '../components/UpdatePrompt';
+import { ChampionCelebration, StreakUp } from '../components/Celebrations';
 import { Home } from '../screens/Home';
 import { PathMap } from '../screens/PathMap';
 import { Lesson } from '../screens/Lesson';
@@ -14,6 +15,7 @@ import { InstallHelp } from '../screens/InstallHelp';
 
 export function App() {
   const route = useRoute();
+  const [streakShowing, setStreakShowing] = useState(false);
 
   useEffect(() => {
     void requestPersistentStorage();
@@ -26,6 +28,7 @@ export function App() {
     window.scrollTo(0, 0);
   }, [route.name]);
 
+  const inLesson = route.name === 'lesson' || route.name === 'practice' || route.name === 'install';
   let screen: React.ReactNode;
   let tabs = true;
   switch (route.name) {
@@ -67,6 +70,10 @@ export function App() {
       <UpdatePrompt />
       {screen}
       {tabs && <TabBar current={route.name} />}
+      {/* Las felicitaciones nunca interrumpen una lección */}
+      <StreakUp paused={inLesson} onVisible={setStreakShowing} />
+      {/* Primero la llama de la racha; después, la felicitación del día */}
+      <ChampionCelebration paused={inLesson || streakShowing} />
     </>
   );
 }

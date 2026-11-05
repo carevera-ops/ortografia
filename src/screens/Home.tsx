@@ -1,43 +1,86 @@
 import { useLiveQuery } from 'dexie-react-hooks';
 import { Mascot } from '../components/Mascot';
+import { GoalRing } from '../components/GoalRing';
 import { navigate, routeToHash } from '../app/router';
-import { usePath } from '../hooks';
+import { usePath, useSettings, useStreak } from '../hooks';
 import { db } from '../db/db';
-import { toLocalDate } from '../core/time/dates';
 import { UNIT_BY_ID } from '../core/content/catalog';
+import { CHAMPION_MINUTES } from '../core/streak/champion';
 
-/** Inicio: lo de hoy y "continuar". (La racha completa llega en la fase 6.) */
+/** Inicio: racha, objetivo del día y "continuar". */
 export function Home() {
   const path = usePath();
-  const today = useLiveQuery(() => db.dailyStats.get(toLocalDate()), []);
+  const streak = useStreak();
+  const settings = useSettings();
+  const today = useLiveQuery(() => (streak ? db.dailyStats.get(streak.today) : undefined), [streak?.today]);
   const next = path?.next;
   const nextUnit = next ? UNIT_BY_ID.get(next.unitId) : null;
   const minutes = Math.floor((today?.activeSec ?? 0) / 60);
+  const studied = !!today && today.questions > 0;
+  const goal = settings.dailyGoalMin;
 
   return (
     <main className="screen with-tabbar" aria-labelledby="home-title">
       <div className="topbar">
         <h1 id="home-title">¡Hola!</h1>
+        {streak && (
+          <a className={`streak-chip${streak.todayDone ? ' lit' : ''}`} href={routeToHash({ name: 'progress' })} aria-label={`Racha de ${streak.current} días${streak.freezes ? `, ${streak.freezes} protectores` : ''}`}>
+            <span aria-hidden="true">🔥</span> {streak.current}
+            {streak.freezes > 0 && (
+              <span className="freeze-chip" aria-hidden="true">
+                🧊{streak.freezes > 1 ? `×${streak.freezes}` : ''}
+              </span>
+            )}
+          </a>
+        )}
         <a className="icon-btn" href={routeToHash({ name: 'parents' })} aria-label="Zona de padres">
           ⚙️
         </a>
       </div>
 
+      {streak && !streak.todayDone && (
+        <section className="card reminder" role="status">
+          <span className="reminder-flame anim-bob" aria-hidden="true">
+            🔥
+          </span>
+          <div>
+            <strong>
+              {streak.current > 0
+                ? `¡Tu racha de ${streak.current} ${streak.current === 1 ? 'día' : 'días'} te espera!`
+                : '¡Empieza hoy una racha nueva!'}
+            </strong>
+            <div className="muted small-text">
+              {settings.streakCriterion === 'minutes'
+                ? `Estudia ${settings.streakMinutes} minutos para que hoy cuente.`
+                : settings.streakCriterion === 'lesson'
+                  ? 'Haz una lección para que hoy cuente.'
+                  : `Haz una lección o estudia ${settings.streakMinutes} minutos para que hoy cuente.`}
+            </div>
+          </div>
+        </section>
+      )}
+
       <section className="card highlight row">
-        <Mascot size={72} bob />
+        {goal > 0 ? <GoalRing minutes={minutes} goal={goal} /> : <Mascot size={72} bob />}
         <div className="grow">
-          {today && today.questions > 0 ? (
+          {studied ? (
             <>
-              <strong>¡Hoy ya llevas {today.xp} XP!</strong>
+              <strong>{minutes >= goal && goal > 0 ? '¡Objetivo de hoy cumplido! 🎉' : `¡Hoy ya llevas ${today!.xp} XP!`}</strong>
               <p className="muted" style={{ margin: '4px 0 0' }}>
-                {today.lessons} {today.lessons === 1 ? 'lección' : 'lecciones'} · {minutes} min · {today.correct}/{today.questions} aciertos
+                {today!.lessons} {today!.lessons === 1 ? 'lección' : 'lecciones'} · {minutes} min · {Math.round((100 * today!.correct) / today!.questions)} % de aciertos
               </p>
+              {!today!.celebrated && minutes < CHAMPION_MINUTES && (
+                <p className="small-text" style={{ margin: '6px 0 0' }}>
+                  🏆 Reto: llega a {CHAMPION_MINUTES} min con más de un 90 % de aciertos.
+                </p>
+              )}
+              {today!.celebrated && <p className="small-text" style={{ margin: '6px 0 0' }}>🏆 ¡Hoy has sido un campeón!</p>}
             </>
           ) : (
             <>
               <strong>¿Listo para practicar?</strong>
               <p className="muted" style={{ margin: '4px 0 0' }}>
-                Hoy todavía no has estudiado. ¡Una lección son solo 3 minutos!
+                {goal > 0 ? `Tu objetivo de hoy: ${goal} minutos.` : 'Una lección son solo 3 minutos.'}
               </p>
             </>
           )}
@@ -54,7 +97,7 @@ export function Home() {
             Nivel {next.level} de {nextUnit.levels}
           </p>
           <button className="btn block" onClick={() => navigate({ name: 'lesson', unitId: next.unitId, level: next.level })}>
-            {today && today.questions > 0 ? 'Continuar' : 'Empezar'}
+            {studied ? 'Continuar' : 'Empezar'}
           </button>
         </section>
       )}

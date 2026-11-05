@@ -22,6 +22,9 @@ test('se puede jugar una lección completa y ver el resultado', async ({ page })
   }
   await expect(page.getByText('aciertos')).toBeVisible();
   await expect(page.getByText('XP', { exact: true })).toBeVisible();
+  // Al terminar la primera lección del día aparece la llama de la racha.
+  await expect(page.getByRole('heading', { name: '¡Racha de 1 día!' })).toBeVisible();
+  await page.getByRole('button', { name: '¡Vamos!' }).click();
   // El nivel 1 queda completado y se abre el 2
   await page.getByRole('button', { name: 'Continuar' }).click();
   await expect(page.getByRole('button', { name: /Nivel 1: completado/ }).first()).toBeVisible();
@@ -33,6 +36,7 @@ test('práctica libre y teoría', async ({ page }) => {
   await answerAny(page);
   await page.getByRole('button', { name: 'Terminar' }).click();
   await expect(page.getByText('aciertos')).toBeVisible();
+  // La práctica libre no es una lección, pero con 5 minutos también contaría para la racha.
   await page.goto('./#/teoria');
   await page.getByText('La tilde en las agudas').click();
   await expect(page.getByText('Las agudas llevan tilde cuando acaban en vocal')).toBeVisible();

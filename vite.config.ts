@@ -47,6 +47,8 @@ export default defineConfig({
   ],
   test: {
     environment: 'node',
+    // Zona horaria fija para los tests de fechas (cambio de hora incluido).
+    env: { TZ: 'Europe/Madrid' },
     include: ['tests/unit/**/*.test.ts'],
   },
 });

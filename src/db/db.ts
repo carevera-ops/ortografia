@@ -44,7 +44,7 @@ export const db = new TildinDB();
 
 export const DEFAULT_SETTINGS: Settings = {
   id: 'main',
-  streakCriterion: 'lesson',
+  streakCriterion: 'either',
   streakMinutes: 5,
   dailyGoalMin: 10,
   sound: true,

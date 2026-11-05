@@ -1,6 +1,6 @@
 /** Tipos de los registros guardados en IndexedDB. */
 
-export type StreakCriterion = 'lesson' | 'minutes';
+export type StreakCriterion = 'either' | 'lesson' | 'minutes';
 
 export interface Settings {
   id: 'main';
@@ -93,8 +93,10 @@ export interface DailyStat {
   xp: number;
   questions: number;
   correct: number;
-  /** true si ese día se gastó un protector de racha. */
+  /** true si ese día se gastó un protector de racha (se recalcula; solo informativo). */
   freezeUsed: boolean;
+  /** true si ya se mostró la felicitación de «día de campeón» (20 min y > 90 %). */
+  celebrated?: boolean;
 }
 
 export interface StreakState {

@@ -6,7 +6,7 @@ describe('base de datos', () => {
   it('crea los ajustes por defecto y los actualiza', async () => {
     const db = new TildinDB('test-settings');
     const s = await getSettings(db);
-    expect(s.streakCriterion).toBe('lesson');
+    expect(s.streakCriterion).toBe('either');
     expect(s.dailyGoalMin).toBe(10);
     await updateSettings({ dailyGoalMin: 20, sound: false }, db);
     const s2 = await getSettings(db);

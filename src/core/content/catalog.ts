@@ -59,3 +59,35 @@ export const UNITS: UnitInfo[] = [
 ];
 
 export const UNIT_BY_ID = new Map(UNITS.map((u) => [u.id, u]));
+
+/** Nombres de las habilidades para mostrar en "Mi progreso". */
+export const SKILL_LABEL: Record<string, string> = {
+  silabas: 'Sílabas',
+  tonica: 'Sílaba tónica',
+  clasificacion: 'Agudas, llanas…',
+  agudas: 'Tilde en agudas',
+  llanas: 'Tilde en llanas',
+  esdrujulas: 'Esdrújulas',
+  reglas: 'Explicar la regla',
+  casos_especiales: 'Casos especiales',
+  diptongos: 'Diptongos',
+  hiatos: 'Hiatos',
+  monosilabos: 'Monosílabos',
+  diacritica: 'Tilde diacrítica',
+  interrogativos: 'Interrogativos',
+  porque: 'Por qué / porque',
+  solo_demostrativos: 'Solo y demostrativos',
+  mente_compuestos: '-mente y compuestos',
+  mayusculas_tilde: 'Mayúsculas con tilde',
+  dictado: 'Dictado',
+  b_v: 'B o V',
+  g_j: 'G o J',
+  h: 'La H',
+  ll_y: 'LL o Y',
+  r_rr: 'R o RR',
+  c_z: 'C, Z o S',
+  x_s: 'X o S',
+  homofonos: 'Homófonos',
+  mayusculas: 'Mayúsculas',
+  puntuacion: 'Puntuación',
+};
