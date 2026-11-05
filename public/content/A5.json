@@ -1,0 +1,1605 @@
+{
+ "unidad": "A5",
+ "items": [
+  {
+   "id": "A5-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "amigo",
+   "clase": "llana",
+   "opciones": [
+    "amigo",
+    "amígo",
+    "ámigo"
+   ],
+   "respuesta": "amigo",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "a-mi-go: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "abuela",
+   "clase": "llana",
+   "opciones": [
+    "abuelá",
+    "abuéla",
+    "abuela"
+   ],
+   "respuesta": "abuela",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "a-bue-la: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "galleta",
+   "clase": "llana",
+   "opciones": [
+    "galleta",
+    "galléta",
+    "gálleta"
+   ],
+   "respuesta": "galleta",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ga-lle-ta: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Pérez",
+   "clase": "llana",
+   "opciones": [
+    "Perez",
+    "Pérez",
+    "Peréz"
+   ],
+   "respuesta": "Pérez",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Pé-rez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mesa",
+   "clase": "llana",
+   "opciones": [
+    "mesá",
+    "mésa",
+    "mesa"
+   ],
+   "respuesta": "mesa",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "me-sa: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "chocolate",
+   "clase": "llana",
+   "opciones": [
+    "chócolate",
+    "chocolate",
+    "chocoláte"
+   ],
+   "respuesta": "chocolate",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "cho-co-la-te: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pelota",
+   "clase": "llana",
+   "opciones": [
+    "pelota",
+    "pélota",
+    "pelotá"
+   ],
+   "respuesta": "pelota",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "pe-lo-ta: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "túnel",
+   "clase": "llana",
+   "opciones": [
+    "tunel",
+    "túnel",
+    "tunél"
+   ],
+   "respuesta": "túnel",
+   "dificultad": 1,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "tú-nel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0009",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "fútbol",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "fút-bol: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mariposa",
+   "clase": "llana",
+   "opciones": [
+    "máriposa",
+    "mariposa",
+    "maripósa"
+   ],
+   "respuesta": "mariposa",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ma-ri-po-sa: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "imagen",
+   "clase": "llana",
+   "opciones": [
+    "imagen",
+    "imágen",
+    "ímagen"
+   ],
+   "respuesta": "imagen",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "i-ma-gen: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Gutiérrez",
+   "clase": "llana",
+   "opciones": [
+    "Gutíerrez",
+    "Gutiérrez",
+    "Gutierrez"
+   ],
+   "respuesta": "Gutiérrez",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Gu-tié-rrez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "carácter",
+   "clase": "llana",
+   "opciones": [
+    "caractér",
+    "cáracter",
+    "carácter"
+   ],
+   "respuesta": "carácter",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ca-rác-ter: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mármol",
+   "clase": "llana",
+   "opciones": [
+    "marmol",
+    "mármol",
+    "marmól"
+   ],
+   "respuesta": "mármol",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "már-mol: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Fernández",
+   "clase": "llana",
+   "opciones": [
+    "Fernández",
+    "Férnandez",
+    "Fernandez"
+   ],
+   "respuesta": "Fernández",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Fer-nán-dez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0016",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «libro» no lleva tilde?",
+   "palabra": "libro",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "li-bro: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0017",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «móvil» lleva tilde?",
+   "palabra": "móvil",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "mó-vil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "récord",
+   "clase": "llana",
+   "opciones": [
+    "recórd",
+    "récord",
+    "record"
+   ],
+   "respuesta": "récord",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ré-cord: es llana y acaba en -d; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "portátil",
+   "clase": "llana",
+   "opciones": [
+    "portátil",
+    "pórtatil",
+    "portatil"
+   ],
+   "respuesta": "portátil",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "por-tá-til: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0020",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "árbol",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ár-bol: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0021",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tomate» no lleva tilde?",
+   "palabra": "tomate",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "to-ma-te: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0022",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "naranja",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "na-ran-ja: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "frágil",
+   "clase": "llana",
+   "opciones": [
+    "fragíl",
+    "fragil",
+    "frágil"
+   ],
+   "respuesta": "frágil",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "frá-gil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0024",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Pérez",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Pé-rez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dosis",
+   "clase": "llana",
+   "opciones": [
+    "dósis",
+    "dosis",
+    "dosís"
+   ],
+   "respuesta": "dosis",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "do-sis: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0026",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «mochila» no lleva tilde?",
+   "palabra": "mochila",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "mo-chi-la: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0027",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Gómez» lleva tilde?",
+   "palabra": "Gómez",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "Gó-mez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0028",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "manzana",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "man-za-na: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0029",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "álbum",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ál-bum: es llana y acaba en -m; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0030",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "difícil",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "di-fí-cil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0031",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "abuela",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "a-bue-la: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0032",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "escuela",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "es-cue-la: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0033",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tortuga» no lleva tilde?",
+   "palabra": "tortuga",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "tor-tu-ga: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0034",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "verano",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ve-ra-no: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "resumen",
+   "clase": "llana",
+   "opciones": [
+    "resumen",
+    "résumen",
+    "resúmen"
+   ],
+   "respuesta": "resumen",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "re-su-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0036",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «hermano» no lleva tilde?",
+   "palabra": "hermano",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "her-ma-no: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0037",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «pelota» no lleva tilde?",
+   "palabra": "pelota",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "pe-lo-ta: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "néctar",
+   "clase": "llana",
+   "opciones": [
+    "nectár",
+    "néctar",
+    "nectar"
+   ],
+   "respuesta": "néctar",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "néc-tar: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0039",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «útil» lleva tilde?",
+   "palabra": "útil",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ú-til: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0040",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «sombrero» no lleva tilde?",
+   "palabra": "sombrero",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "som-bre-ro: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0041",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «camisa» no lleva tilde?",
+   "palabra": "camisa",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ca-mi-sa: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0042",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pelota",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "pe-lo-ta: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0043",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ángel",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0044",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Sánchez» lleva tilde?",
+   "palabra": "Sánchez",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "Sán-chez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0045",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "examen",
+   "clase": "llana",
+   "opciones": [
+    "exámen",
+    "examén",
+    "examen"
+   ],
+   "respuesta": "examen",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "e-xa-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0046",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «López» lleva tilde?",
+   "palabra": "López",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "Ló-pez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0047",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "canguro",
+   "clase": "llana",
+   "opciones": [
+    "canguró",
+    "cangúro",
+    "canguro"
+   ],
+   "respuesta": "canguro",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "can-gu-ro: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0048",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «martes» no lleva tilde?",
+   "palabra": "martes",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "mar-tes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0049",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «túnel» lleva tilde?",
+   "palabra": "túnel",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "tú-nel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cuaderno",
+   "clase": "llana",
+   "opciones": [
+    "cuadernó",
+    "cuadérno",
+    "cuaderno"
+   ],
+   "respuesta": "cuaderno",
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "cua-der-no: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0051",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Martínez",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Mar-tí-nez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0052",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «zapato» no lleva tilde?",
+   "palabra": "zapato",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "za-pa-to: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0053",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "López",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Ló-pez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0054",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "portátil",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "por-tá-til: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0055",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «néctar» lleva tilde?",
+   "palabra": "néctar",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "néc-tar: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0056",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «cumpleaños» no lleva tilde?",
+   "palabra": "cumpleaños",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "cum-ple-a-ños: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0057",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «cocodrilo» no lleva tilde?",
+   "palabra": "cocodrilo",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "co-co-dri-lo: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mártir",
+   "clase": "llana",
+   "opciones": [
+    "mártir",
+    "martir",
+    "martír"
+   ],
+   "respuesta": "mártir",
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "már-tir: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0059",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Fernández» lleva tilde?",
+   "palabra": "Fernández",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "Fer-nán-dez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0060",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tesis» no lleva tilde?",
+   "palabra": "tesis",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "te-sis: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0061",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mariposa",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ma-ri-po-sa: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0062",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «récord» lleva tilde?",
+   "palabra": "récord",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ré-cord: es llana y acaba en -d; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0063",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «automóvil» lleva tilde?",
+   "palabra": "automóvil",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "au-to-mó-vil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0064",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Gutiérrez» lleva tilde?",
+   "palabra": "Gutiérrez",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "Gu-tié-rrez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0065",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "joven",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "jo-ven: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0066",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «imagen» no lleva tilde?",
+   "palabra": "imagen",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "i-ma-gen: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0067",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cóndor",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "cón-dor: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0068",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tesis",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "te-sis: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0069",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «béisbol» lleva tilde?",
+   "palabra": "béisbol",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "béis-bol: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0070",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Fernández",
+   "clase": "llana",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "Fer-nán-dez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0071",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dócil",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "dó-cil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0072",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «problema» no lleva tilde?",
+   "palabra": "problema",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "pro-ble-ma: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0073",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «crisis» no lleva tilde?",
+   "palabra": "crisis",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "cri-sis: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0074",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "viernes",
+   "clase": "llana",
+   "opciones": [
+    "viernes",
+    "viérnes",
+    "viernés"
+   ],
+   "respuesta": "viernes",
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "vier-nes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0075",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "fénix",
+   "clase": "llana",
+   "opciones": [
+    "fénix",
+    "fenix",
+    "feníx"
+   ],
+   "respuesta": "fénix",
+   "dificultad": 3,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "fé-nix: es llana y acaba en -x; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0076",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Velázquez» lleva tilde?",
+   "palabra": "Velázquez",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "Ve-láz-quez: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0077",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «polen» no lleva tilde?",
+   "palabra": "polen",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "po-len: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0078",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «abdomen» no lleva tilde?",
+   "palabra": "abdomen",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ab-do-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0079",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «versátil» lleva tilde?",
+   "palabra": "versátil",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "ver-sá-til: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0080",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tijeras",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ti-je-ras: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0081",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "polen",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "po-len: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0082",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dictamen",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "dic-ta-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0083",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "revólver",
+   "clase": "llana",
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "re-vól-ver: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0084",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "viernes",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "vier-nes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0085",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «revólver» lleva tilde?",
+   "palabra": "revólver",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "re-vól-ver: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0086",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "abdomen",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ab-do-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0087",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mártir",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "már-tir: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0088",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «certamen» no lleva tilde?",
+   "palabra": "certamen",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "cer-ta-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0089",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "germen",
+   "clase": "llana",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "llanas"
+   ],
+   "explicacion": "ger-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "llanas"
+  },
+  {
+   "id": "A5-0090",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «jueves» no lleva tilde?",
+   "palabra": "jueves",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "jue-ves: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "llanas"
+  }
+ ]
+}

@@ -1,0 +1,473 @@
+{
+ "unidad": "A7",
+ "items": [
+  {
+   "id": "A7-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "virrey",
+   "clase": "aguda",
+   "opciones": [
+    "virréy",
+    "vírrey",
+    "virrey"
+   ],
+   "respuesta": "virrey",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "vi-rrey: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "convoy",
+   "clase": "aguda",
+   "opciones": [
+    "convóy",
+    "convoy",
+    "cónvoy"
+   ],
+   "respuesta": "convoy",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "con-voy: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "robots",
+   "clase": "aguda",
+   "opciones": [
+    "robots",
+    "róbots",
+    "robóts"
+   ],
+   "respuesta": "robots",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "ro-bots: es aguda y acaba en -ts: la -s va detrás de otra consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Paraguay",
+   "clase": "aguda",
+   "opciones": [
+    "Paráguay",
+    "Paraguáy",
+    "Paraguay"
+   ],
+   "respuesta": "Paraguay",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "Pa-ra-guay: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "complots",
+   "clase": "aguda",
+   "opciones": [
+    "cómplots",
+    "complots",
+    "complóts"
+   ],
+   "respuesta": "complots",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "com-plots: es aguda y acaba en -ts: la -s va detrás de otra consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jersey",
+   "clase": "aguda",
+   "opciones": [
+    "jersey",
+    "jérsey",
+    "jerséy"
+   ],
+   "respuesta": "jersey",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "jer-sey: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Uruguay",
+   "clase": "aguda",
+   "opciones": [
+    "Uruguáy",
+    "Urúguay",
+    "Uruguay"
+   ],
+   "respuesta": "Uruguay",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "U-ru-guay: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "fórceps",
+   "clase": "llana",
+   "opciones": [
+    "forcéps",
+    "forceps",
+    "fórceps"
+   ],
+   "respuesta": "fórceps",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "fór-ceps: es llana y acaba en -ps: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cómics",
+   "clase": "llana",
+   "opciones": [
+    "comícs",
+    "comics",
+    "cómics"
+   ],
+   "respuesta": "cómics",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "có-mics: es llana y acaba en -cs: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tríceps",
+   "clase": "llana",
+   "opciones": [
+    "tricéps",
+    "triceps",
+    "tríceps"
+   ],
+   "respuesta": "tríceps",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "trí-ceps: es llana y acaba en -ps: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bíceps",
+   "clase": "llana",
+   "opciones": [
+    "biceps",
+    "bicéps",
+    "bíceps"
+   ],
+   "respuesta": "bíceps",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "bí-ceps: es llana y acaba en -ps: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estoy",
+   "clase": "aguda",
+   "opciones": [
+    "estoy",
+    "éstoy",
+    "estóy"
+   ],
+   "respuesta": "estoy",
+   "dificultad": 3,
+   "skills": [
+    "casos_especiales"
+   ],
+   "explicacion": "es-toy: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0013",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «fórceps» lleva tilde?",
+   "palabra": "fórceps",
+   "clase": "llana",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en -s tras otra consonante → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "fór-ceps: es llana y acaba en -ps: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0014",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «robots» no lleva tilde?",
+   "palabra": "robots",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ro-bots: es aguda y acaba en -ts: la -s va detrás de otra consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0015",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «complots» no lleva tilde?",
+   "palabra": "complots",
+   "clase": "aguda",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "com-plots: es aguda y acaba en -ts: la -s va detrás de otra consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0016",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «jersey» no lleva tilde?",
+   "palabra": "jersey",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "jer-sey: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0017",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Paraguay» no lleva tilde?",
+   "palabra": "Paraguay",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "Pa-ra-guay: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0018",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «cómics» lleva tilde?",
+   "palabra": "cómics",
+   "clase": "llana",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en -s tras otra consonante → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "có-mics: es llana y acaba en -cs: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0019",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «convoy» no lleva tilde?",
+   "palabra": "convoy",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "con-voy: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0020",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «estoy» no lleva tilde?",
+   "palabra": "estoy",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "es-toy: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0021",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «virrey» no lleva tilde?",
+   "palabra": "virrey",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "vi-rrey: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0022",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tríceps» lleva tilde?",
+   "palabra": "tríceps",
+   "clase": "llana",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en -s tras otra consonante → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "trí-ceps: es llana y acaba en -ps: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0023",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «bíceps» lleva tilde?",
+   "palabra": "bíceps",
+   "clase": "llana",
+   "opciones": [
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es llana y acaba en -s tras otra consonante → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "llanas"
+   ],
+   "explicacion": "bí-ceps: es llana y acaba en -ps: la -s va detrás de otra consonante, así que lleva tilde.",
+   "regla_id": "casos-especiales"
+  },
+  {
+   "id": "A7-0024",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Uruguay» no lleva tilde?",
+   "palabra": "Uruguay",
+   "clase": "aguda",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "U-ru-guay: es aguda y acaba en -y, que cuenta como consonante, así que no lleva tilde.",
+   "regla_id": "casos-especiales"
+  }
+ ]
+}

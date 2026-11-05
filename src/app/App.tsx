@@ -5,7 +5,8 @@ import { TabBar } from '../components/TabBar';
 import { UpdatePrompt } from '../components/UpdatePrompt';
 import { Home } from '../screens/Home';
 import { PathMap } from '../screens/PathMap';
-import { Practice } from '../screens/Practice';
+import { Lesson } from '../screens/Lesson';
+import { Result } from '../screens/Result';
 import { Progress } from '../screens/Progress';
 import { Theory } from '../screens/Theory';
 import { Parents } from '../screens/Parents';
@@ -32,18 +33,25 @@ export function App() {
       screen = <Home />;
       break;
     case 'path':
-    case 'lesson':
-    case 'result':
       screen = <PathMap />;
       break;
+    case 'lesson':
+      screen = <Lesson key={`${route.unitId}/${route.level}`} mode={{ kind: 'lesson', unitId: route.unitId, level: route.level }} />;
+      tabs = false;
+      break;
+    case 'result':
+      screen = <Result sessionId={route.sessionId} />;
+      tabs = false;
+      break;
     case 'practice':
-      screen = <Practice />;
+      screen = <Lesson key="practice" mode={{ kind: 'practice' }} />;
+      tabs = false;
       break;
     case 'progress':
       screen = <Progress />;
       break;
     case 'theory':
-      screen = <Theory />;
+      screen = <Theory ruleId={route.ruleId} />;
       break;
     case 'parents':
       screen = <Parents />;

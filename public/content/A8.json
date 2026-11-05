@@ -1,0 +1,1246 @@
+{
+ "unidad": "A8",
+ "items": [
+  {
+   "id": "A8-0001",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "piano",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pia-no (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0002",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «agua», las vocales «ua» forman…",
+   "palabra": "agua",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "a-gua: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0003",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «jaula», las vocales «au» forman…",
+   "palabra": "jaula",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "jau-la: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0004",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «boina», las vocales «oi» forman…",
+   "palabra": "boina",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "boi-na: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0005",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «cuidado», las vocales «ui» forman…",
+   "palabra": "cuidado",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "cui-da-do: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0006",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "boina",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: boi-na (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0007",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «huevo», las vocales «ue» forman…",
+   "palabra": "huevo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "hue-vo: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0008",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «causa», las vocales «au» forman…",
+   "palabra": "causa",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "cau-sa: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0009",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «deuda», las vocales «eu» forman…",
+   "palabra": "deuda",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "deu-da: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0010",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «ruido», las vocales «ui» forman…",
+   "palabra": "ruido",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "rui-do: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0011",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "bueno",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: bue-no (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0012",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "aire",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ai-re (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0013",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «peine», las vocales «ei» forman…",
+   "palabra": "peine",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "pei-ne: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0014",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cielo",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: cie-lo (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0015",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «puerta», las vocales «ue» forman…",
+   "palabra": "puerta",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "puer-ta: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0016",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "peine",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pei-ne (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0017",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jaula",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: jau-la (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0018",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «fuego», las vocales «ue» forman…",
+   "palabra": "fuego",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "fue-go: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0019",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "causa",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: cau-sa (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0020",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «tierra», las vocales «ie» forman…",
+   "palabra": "tierra",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "tie-rra: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0021",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «nieve», las vocales «ie» forman…",
+   "palabra": "nieve",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "nie-ve: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0022",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «Europa», las vocales «Eu» forman…",
+   "palabra": "Europa",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "Eu-ro-pa: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0023",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «viaje», las vocales «ia» forman…",
+   "palabra": "viaje",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "via-je: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0024",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "tierra",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: tie-rra (2 sílabas). Recuerda: ch, ll y rr nunca se separan; las vocales que forman diptongo van en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0025",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "Europa",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: Eu-ro-pa (3 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0026",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "hielo",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: hie-lo (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0027",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "agua",
+   "clase": "llana",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-gua (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0028",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «muela», las vocales «ue» forman…",
+   "palabra": "muela",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "mue-la: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0029",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "muela",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mue-la (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0030",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "deuda",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: deu-da (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0031",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «aire», las vocales «ai» forman…",
+   "palabra": "aire",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "ai-re: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0032",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «piano», las vocales «ia» forman…",
+   "palabra": "piano",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "diptongo",
+   "dificultad": 1,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "pia-no: es diptongo porque hay una vocal cerrada (i, u) sin tilde junto a otra vocal, en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0033",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "viaje",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: via-je (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0034",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "canoa",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ca-no-a (3 sílabas). Recuerda: las vocales en hiato van en sílabas distintas; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0035",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "teatro",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: te-a-tro (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; las vocales en hiato van en sílabas distintas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0036",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "poeta",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: po-e-ta (3 sílabas). Recuerda: las vocales en hiato van en sílabas distintas; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0037",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "héroe",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: hé-ro-e (3 sílabas). Recuerda: las vocales en hiato van en sílabas distintas; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0038",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "feo",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fe-o (2 sílabas). Recuerda: las vocales en hiato van en sílabas distintas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0039",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "museo",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mu-se-o (3 sílabas). Recuerda: las vocales en hiato van en sílabas distintas; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0040",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "caos",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ca-os (2 sílabas). Recuerda: las vocales en hiato van en sílabas distintas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0041",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "limpiéis",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: lim-piéis (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0042",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «miau», las vocales «iau» forman…",
+   "palabra": "miau",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "miau: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0043",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «paseo», las vocales «eo» forman…",
+   "palabra": "paseo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pa-se-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0044",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «creer», las vocales «ee» forman…",
+   "palabra": "creer",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "cre-er: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0045",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «idea», las vocales «ea» forman…",
+   "palabra": "idea",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "i-de-a: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0046",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «héroe», las vocales «oe» forman…",
+   "palabra": "héroe",
+   "clase": "esdrujula",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "hé-ro-e: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0047",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "miau",
+   "respuesta": [],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: miau (1 sílaba). Recuerda: las vocales que forman diptongo van en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0048",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    3,
+    4
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: o-cé-a-no (4 sílabas). Recuerda: las vocales en hiato van en sílabas distintas; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0049",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «caos», las vocales «ao» forman…",
+   "palabra": "caos",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "ca-os: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0050",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «peor», las vocales «eo» forman…",
+   "palabra": "peor",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "pe-or: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0051",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «correo», las vocales «eo» forman…",
+   "palabra": "correo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "co-rre-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0052",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «feo», las vocales «eo» forman…",
+   "palabra": "feo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "fe-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0053",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «cambiáis», las vocales «iái» forman…",
+   "palabra": "cambiáis",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "cam-biáis: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0054",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «buey», las vocales «uey» forman…",
+   "palabra": "buey",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "buey: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0055",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «estudiáis», las vocales «iái» forman…",
+   "palabra": "estudiáis",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "es-tu-diáis: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0056",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «averiguáis», las vocales «uái» forman…",
+   "palabra": "averiguáis",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "a-ve-ri-guáis: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0057",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «aéreo», las vocales «aé» forman…",
+   "palabra": "aéreo",
+   "clase": "esdrujula",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "a-é-re-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0058",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "aéreo",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    2,
+    4
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-é-re-o (4 sílabas). Recuerda: las vocales en hiato van en sílabas distintas; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0059",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «limpiéis», las vocales «iéi» forman…",
+   "palabra": "limpiéis",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "lim-piéis: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0060",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "buey",
+   "respuesta": [],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: buey (1 sílaba). Recuerda: las vocales que forman diptongo van en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0061",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «océano», las vocales «éa» forman…",
+   "palabra": "océano",
+   "clase": "esdrujula",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "o-cé-a-no: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0062",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "estudiáis",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: es-tu-diáis (3 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0063",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «museo», las vocales «eo» forman…",
+   "palabra": "museo",
+   "clase": "llana",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "mu-se-o: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0064",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cambiáis",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: cam-biáis (2 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0065",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «Paraguay», las vocales «uay» forman…",
+   "palabra": "Paraguay",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "Pa-ra-guay: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0066",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "Uruguay",
+   "clase": "aguda",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: U-ru-guay (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0067",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «Uruguay», las vocales «uay» forman…",
+   "palabra": "Uruguay",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "triptongo",
+   "dificultad": 3,
+   "skills": [
+    "diptongos"
+   ],
+   "explicacion": "U-ru-guay: es triptongo porque hay tres vocales (cerrada + abierta + cerrada) en la misma sílaba.",
+   "regla_id": "diptongos"
+  },
+  {
+   "id": "A8-0068",
+   "tipo": "diptongo_hiato",
+   "enunciado": "En «leer», las vocales «ee» forman…",
+   "palabra": "leer",
+   "clase": "aguda",
+   "opciones": [
+    "diptongo",
+    "hiato",
+    "triptongo"
+   ],
+   "respuesta": "hiato",
+   "dificultad": 3,
+   "skills": [
+    "hiatos"
+   ],
+   "explicacion": "le-er: es hiato porque hay dos vocales abiertas (a, e, o) juntas siempre van en sílabas distintas.",
+   "regla_id": "hiatos"
+  },
+  {
+   "id": "A8-0069",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "Paraguay",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: Pa-ra-guay (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A8-0070",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "averiguáis",
+   "clase": "aguda",
+   "respuesta": [
+    1,
+    3,
+    5
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-ve-ri-guáis (4 sílabas). Recuerda: las vocales que forman diptongo van en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  }
+ ]
+}

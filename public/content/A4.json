@@ -1,0 +1,1576 @@
+{
+ "unidad": "A4",
+ "items": [
+  {
+   "id": "A4-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "papel",
+   "clase": "aguda",
+   "opciones": [
+    "papél",
+    "pápel",
+    "papel"
+   ],
+   "respuesta": "papel",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "pa-pel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hotel",
+   "clase": "aguda",
+   "opciones": [
+    "hotel",
+    "hotél",
+    "hótel"
+   ],
+   "respuesta": "hotel",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ho-tel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pantalón",
+   "clase": "aguda",
+   "opciones": [
+    "pantalón",
+    "pántalon",
+    "pantalon"
+   ],
+   "respuesta": "pantalón",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "pan-ta-lón: es aguda (suena fuerte «lón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "están",
+   "clase": "aguda",
+   "opciones": [
+    "éstan",
+    "están",
+    "estan"
+   ],
+   "respuesta": "están",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "es-tán: es aguda (suena fuerte «tán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "camión",
+   "clase": "aguda",
+   "opciones": [
+    "camion",
+    "camión",
+    "cámion"
+   ],
+   "respuesta": "camión",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ca-mión: es aguda (suena fuerte «mión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "balón",
+   "clase": "aguda",
+   "opciones": [
+    "balon",
+    "bálon",
+    "balón"
+   ],
+   "respuesta": "balón",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ba-lón: es aguda (suena fuerte «lón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "razón",
+   "clase": "aguda",
+   "opciones": [
+    "rázon",
+    "razón",
+    "razon"
+   ],
+   "respuesta": "razón",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ra-zón: es aguda (suena fuerte «zón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "además",
+   "clase": "aguda",
+   "opciones": [
+    "adémas",
+    "ádemas",
+    "además"
+   ],
+   "respuesta": "además",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "a-de-más: es aguda (suena fuerte «más») y acaba en -s, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bebí",
+   "clase": "aguda",
+   "opciones": [
+    "bebi",
+    "bebí",
+    "bébi"
+   ],
+   "respuesta": "bebí",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "be-bí: es aguda (suena fuerte «bí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "viví",
+   "clase": "aguda",
+   "opciones": [
+    "vívi",
+    "vivi",
+    "viví"
+   ],
+   "respuesta": "viví",
+   "dificultad": 1,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "vi-ví: es aguda (suena fuerte «ví») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jardín",
+   "clase": "aguda",
+   "opciones": [
+    "járdin",
+    "jardin",
+    "jardín"
+   ],
+   "respuesta": "jardín",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "jar-dín: es aguda (suena fuerte «dín») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0012",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "verdad",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ver-dad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0013",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "nariz",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "na-riz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0014",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «señor» no lleva tilde?",
+   "palabra": "señor",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "se-ñor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0015",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «montón» lleva tilde?",
+   "palabra": "montón",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "mon-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0016",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "perdón",
+   "clase": "aguda",
+   "respuesta": 4,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "per-dón: es aguda (suena fuerte «dón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0017",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "pared",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "pa-red: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0018",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "papel",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "pa-pel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0019",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "están",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "es-tán: es aguda (suena fuerte «tán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0020",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «papel» no lleva tilde?",
+   "palabra": "papel",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "pa-pel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0021",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «pared» no lleva tilde?",
+   "palabra": "pared",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "pa-red: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0022",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «botón» lleva tilde?",
+   "palabra": "botón",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "bo-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "empecé",
+   "clase": "aguda",
+   "opciones": [
+    "empece",
+    "empecé",
+    "empéce"
+   ],
+   "respuesta": "empecé",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "em-pe-cé: es aguda (suena fuerte «cé») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "farol",
+   "clase": "aguda",
+   "opciones": [
+    "faról",
+    "fárol",
+    "farol"
+   ],
+   "respuesta": "farol",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "fa-rol: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0025",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "señor",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "se-ñor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0026",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «balón» lleva tilde?",
+   "palabra": "balón",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ba-lón: es aguda (suena fuerte «lón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0027",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «allí» lleva tilde?",
+   "palabra": "allí",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "a-llí: es aguda (suena fuerte «llí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "altavoz",
+   "clase": "aguda",
+   "opciones": [
+    "áltavoz",
+    "altavoz",
+    "altávoz"
+   ],
+   "respuesta": "altavoz",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "al-ta-voz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0029",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «pantalón» lleva tilde?",
+   "palabra": "pantalón",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "pan-ta-lón: es aguda (suena fuerte «lón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "andén",
+   "clase": "aguda",
+   "opciones": [
+    "anden",
+    "ánden",
+    "andén"
+   ],
+   "respuesta": "andén",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "an-dén: es aguda (suena fuerte «dén») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0031",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «amor» no lleva tilde?",
+   "palabra": "amor",
+   "clase": "aguda",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "a-mor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0032",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «bebí» lleva tilde?",
+   "palabra": "bebí",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "be-bí: es aguda (suena fuerte «bí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jugué",
+   "clase": "aguda",
+   "opciones": [
+    "jugué",
+    "júgue",
+    "jugue"
+   ],
+   "respuesta": "jugué",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ju-gué: es aguda (suena fuerte «gué») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0034",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «azul» no lleva tilde?",
+   "palabra": "azul",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "a-zul: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0035",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "millón",
+   "clase": "aguda",
+   "respuesta": 4,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "mi-llón: es aguda (suena fuerte «llón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pelotón",
+   "clase": "aguda",
+   "opciones": [
+    "pelotón",
+    "peloton",
+    "pelóton"
+   ],
+   "respuesta": "pelotón",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "pe-lo-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "televisión",
+   "clase": "aguda",
+   "opciones": [
+    "television",
+    "televisión",
+    "televisíon"
+   ],
+   "respuesta": "televisión",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "te-le-vi-sión: es aguda (suena fuerte «sión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tractor",
+   "clase": "aguda",
+   "opciones": [
+    "tráctor",
+    "tractór",
+    "tractor"
+   ],
+   "respuesta": "tractor",
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "trac-tor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0039",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "beber",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "be-ber: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0040",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «feliz» no lleva tilde?",
+   "palabra": "feliz",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "fe-liz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0041",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "igual",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "i-gual: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0042",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ratón",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ra-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0043",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "jugar",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ju-gar: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0044",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «profesor» no lleva tilde?",
+   "palabra": "profesor",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "pro-fe-sor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0045",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "saltar",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "sal-tar: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0046",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "feliz",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "fe-liz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0047",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "hospital",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "hos-pi-tal: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0048",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «cantó» lleva tilde?",
+   "palabra": "cantó",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "can-tó: es aguda (suena fuerte «tó») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0049",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "será",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "se-rá: es aguda (suena fuerte «rá») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0050",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "color",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "co-lor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0051",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "profesor",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 2,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "pro-fe-sor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0052",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «color» no lleva tilde?",
+   "palabra": "color",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 2,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "co-lor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0053",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "carnaval",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "car-na-val: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "capitán",
+   "clase": "aguda",
+   "opciones": [
+    "capitan",
+    "capitán",
+    "cápitan"
+   ],
+   "respuesta": "capitán",
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ca-pi-tán: es aguda (suena fuerte «tán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0055",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «lombriz» no lleva tilde?",
+   "palabra": "lombriz",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "lom-briz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0056",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "televisión",
+   "clase": "aguda",
+   "respuesta": 8,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "te-le-vi-sión: es aguda (suena fuerte «sión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0057",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "lombriz",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "lom-briz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "explosión",
+   "clase": "aguda",
+   "opciones": [
+    "éxplosion",
+    "explosíon",
+    "explosión"
+   ],
+   "respuesta": "explosión",
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ex-plo-sión: es aguda (suena fuerte «sión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0059",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "esquí",
+   "clase": "aguda",
+   "opciones": [
+    "ésqui",
+    "esquí",
+    "esqui"
+   ],
+   "respuesta": "esquí",
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "es-quí: es aguda (suena fuerte «quí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0060",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "andén",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "an-dén: es aguda (suena fuerte «dén») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0061",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "mantel",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "man-tel: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0062",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tazón",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ta-zón: es aguda (suena fuerte «zón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0063",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «acordeón» lleva tilde?",
+   "palabra": "acordeón",
+   "clase": "aguda",
+   "opciones": [
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "a-cor-de-ón: es aguda (suena fuerte «ón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0064",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «podrá» lleva tilde?",
+   "palabra": "podrá",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "po-drá: es aguda (suena fuerte «drá») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0065",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "cicatriz",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ci-ca-triz: es aguda y acaba en -z; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0066",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «estación» lleva tilde?",
+   "palabra": "estación",
+   "clase": "aguda",
+   "opciones": [
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "es-ta-ción: es aguda (suena fuerte «ción») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0067",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «escorpión» lleva tilde?",
+   "palabra": "escorpión",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "es-cor-pión: es aguda (suena fuerte «pión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0068",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «cojín» lleva tilde?",
+   "palabra": "cojín",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "co-jín: es aguda (suena fuerte «jín») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0069",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «salud» no lleva tilde?",
+   "palabra": "salud",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "La i o la u suena fuerte y forma hiato → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "sa-lud: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0070",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "volcán",
+   "clase": "aguda",
+   "opciones": [
+    "volcan",
+    "volcán",
+    "vólcan"
+   ],
+   "respuesta": "volcán",
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "vol-cán: es aguda (suena fuerte «cán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0071",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «jabalí» lleva tilde?",
+   "palabra": "jabalí",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ja-ba-lí: es aguda (suena fuerte «lí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0072",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «delfín» lleva tilde?",
+   "palabra": "delfín",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -y, que cuenta como consonante → no lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 3,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "del-fín: es aguda (suena fuerte «fín») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0073",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "universidad",
+   "clase": "aguda",
+   "opciones": [
+    "úniversidad",
+    "universídad",
+    "universidad"
+   ],
+   "respuesta": "universidad",
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "u-ni-ver-si-dad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0074",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Panamá",
+   "clase": "aguda",
+   "opciones": [
+    "Panáma",
+    "Pánama",
+    "Panamá"
+   ],
+   "respuesta": "Panamá",
+   "dificultad": 3,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0075",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "universidad",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "u-ni-ver-si-dad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0076",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Canadá» lleva tilde?",
+   "palabra": "Canadá",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0077",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «explosión» lleva tilde?",
+   "palabra": "explosión",
+   "clase": "aguda",
+   "opciones": [
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ex-plo-sión: es aguda (suena fuerte «sión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0078",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ilusión",
+   "clase": "aguda",
+   "respuesta": 5,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "i-lu-sión: es aguda (suena fuerte «sión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0079",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «capitán» lleva tilde?",
+   "palabra": "capitán",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ca-pi-tán: es aguda (suena fuerte «tán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0080",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «tabú» lleva tilde?",
+   "palabra": "tabú",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es aguda y no acaba en vocal, -n ni -s → no lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "ta-bú: es aguda (suena fuerte «bú») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0081",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "huracán",
+   "clase": "aguda",
+   "respuesta": 5,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "hu-ra-cán: es aguda (suena fuerte «cán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0082",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "tranquilidad",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "tran-qui-li-dad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0083",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "responsabilidad",
+   "clase": "aguda",
+   "respuesta": -1,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "res-pon-sa-bi-li-dad: es aguda y acaba en -d; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0084",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "veintitrés",
+   "clase": "aguda",
+   "respuesta": 8,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "vein-ti-trés: es aguda (suena fuerte «trés») y acaba en -s, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0085",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "dieciséis",
+   "clase": "aguda",
+   "respuesta": 6,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "die-ci-séis: es aguda (suena fuerte «séis») y acaba en -s, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0086",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «sofás» lleva tilde?",
+   "palabra": "sofás",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en -s o -n tras otra consonante → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde",
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "so-fás: es aguda (suena fuerte «fás») y acaba en -s, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0087",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "veintidós",
+   "clase": "aguda",
+   "respuesta": 7,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "vein-ti-dós: es aguda (suena fuerte «dós») y acaba en -s, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0088",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «Perú» lleva tilde?",
+   "palabra": "Perú",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es esdrújula o sobresdrújula → siempre lleva tilde",
+    "Es llana y acaba en -s tras otra consonante → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0089",
+   "tipo": "explica_regla",
+   "enunciado": "¿Por qué «alemán» lleva tilde?",
+   "palabra": "alemán",
+   "clase": "aguda",
+   "opciones": [
+    "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+    "Es llana y acaba en vocal, -n o -s → no lleva tilde",
+    "Es llana y no acaba en vocal, -n ni -s → lleva tilde"
+   ],
+   "respuesta": "Es aguda y acaba en vocal, -n o -s → lleva tilde",
+   "dificultad": 4,
+   "skills": [
+    "reglas",
+    "agudas"
+   ],
+   "explicacion": "a-le-mán: es aguda (suena fuerte «mán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  },
+  {
+   "id": "A4-0090",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "civilización",
+   "clase": "aguda",
+   "respuesta": 10,
+   "dificultad": 4,
+   "skills": [
+    "agudas"
+   ],
+   "explicacion": "ci-vi-li-za-ción: es aguda (suena fuerte «ción») y acaba en -n, así que lleva tilde.",
+   "regla_id": "agudas"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "reglas": [
+  {
+   "id": "silabas",
+   "titulo": "Las sílabas",
+   "resumen": "Una sílaba es cada golpe de voz con el que decimos una palabra.",
+   "explicacion": [
+    "Cada sílaba tiene al menos una vocal.",
+    "Una consonante entre dos vocales se va con la vocal de detrás: ca-sa, pe-lo-ta.",
+    "Dos consonantes seguidas se separan: ár-bol, can-tar. Pero los grupos pr, pl, br, bl, fr, fl, tr, dr, cr, cl, gr y gl van juntos: li-bro, ta-bla.",
+    "Las letras dobles ch, ll y rr nunca se separan: co-che, ca-lle, pe-rro.",
+    "Con tres consonantes, normalmente las dos primeras se quedan detrás: ins-tan-te, trans-por-te (salvo si las dos últimas son un grupo como tr: ins-tru-men-to)."
+   ],
+   "ejemplos": ["ca-mi-sa", "li-bro", "ár-bol", "pe-rro", "ins-tan-te"],
+   "contraejemplos": ["pe-rr-o ✗ → pe-rro", "lib-ro ✗ → li-bro"],
+   "truco": "Da palmadas mientras dices la palabra: cada palmada es una sílaba."
+  },
+  {
+   "id": "silaba-tonica",
+   "titulo": "La sílaba tónica",
+   "resumen": "Es la sílaba que suena más fuerte dentro de la palabra.",
+   "explicacion": [
+    "Todas las palabras de más de una sílaba tienen una sílaba que pronunciamos con más fuerza: es la sílaba tónica.",
+    "Las demás sílabas se llaman átonas.",
+    "La sílaba tónica no siempre lleva tilde: en «mesa» la tónica es «me» y no lleva tilde."
+   ],
+   "ejemplos": ["ME-sa", "ca-MIÓN", "PÁ-ja-ro", "re-LOJ"],
+   "contraejemplos": [],
+   "truco": "Di la palabra como si llamaras a alguien desde lejos: ¡meeeesa! La sílaba que alargas es la tónica."
+  },
+  {
+   "id": "clasificacion",
+   "titulo": "Agudas, llanas, esdrújulas y sobresdrújulas",
+   "resumen": "Las palabras se clasifican según dónde está su sílaba tónica, contando desde el final.",
+   "explicacion": [
+    "Aguda: la tónica es la última sílaba (ca-MIÓN, re-LOJ).",
+    "Llana (o grave): la tónica es la penúltima (ÁR-bol, ME-sa).",
+    "Esdrújula: la tónica es la antepenúltima (MÚ-si-ca).",
+    "Sobresdrújula: la tónica está antes de la antepenúltima (DÍ-ga-me-lo)."
+   ],
+   "ejemplos": ["café (aguda)", "lápiz (llana)", "pájaro (esdrújula)", "cómetelo (sobresdrújula)"],
+   "contraejemplos": [],
+   "truco": "Cuenta siempre desde el final: última → aguda, penúltima → llana, antepenúltima → esdrújula."
+  },
+  {
+   "id": "agudas",
+   "titulo": "La tilde en las agudas",
+   "resumen": "Las agudas llevan tilde cuando acaban en vocal, en -n o en -s.",
+   "explicacion": [
+    "Si la palabra es aguda y acaba en vocal (a, e, i, o, u), en -n o en -s, lleva tilde: sofá, camión, compás.",
+    "Si acaba en cualquier otra letra, no lleva tilde: reloj, pared, comer, feliz."
+   ],
+   "ejemplos": ["café", "jamón", "autobús", "jabalí"],
+   "contraejemplos": ["reloj", "papel", "feliz", "ciudad"],
+   "truco": "Agudas: «vocal, ene, ese → tilde ponles»."
+  },
+  {
+   "id": "llanas",
+   "titulo": "La tilde en las llanas",
+   "resumen": "Las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Justo al revés que las agudas!",
+   "explicacion": [
+    "Si la palabra es llana y acaba en una letra que no sea vocal, -n o -s, lleva tilde: árbol, lápiz, fácil, azúcar.",
+    "Si acaba en vocal, -n o -s, no lleva tilde: mesa, examen, lunes."
+   ],
+   "ejemplos": ["árbol", "lápiz", "móvil", "cárcel"],
+   "contraejemplos": ["casa", "examen", "joven", "martes"],
+   "truco": "Las llanas hacen lo contrario que las agudas."
+  },
+  {
+   "id": "esdrujulas",
+   "titulo": "Esdrújulas y sobresdrújulas",
+   "resumen": "Todas las esdrújulas y sobresdrújulas llevan tilde. ¡Siempre!",
+   "explicacion": [
+    "No importa en qué letra acaben: si la tónica es la antepenúltima sílaba (o una anterior), lleva tilde.",
+    "Ojo con los plurales: «examen» es llana, pero «exámenes» es esdrújula y lleva tilde."
+   ],
+   "ejemplos": ["música", "pájaro", "teléfono", "dígamelo"],
+   "contraejemplos": [],
+   "truco": "Esdrújula = tilde segura."
+  },
+  {
+   "id": "casos-especiales",
+   "titulo": "Casos especiales de las reglas generales",
+   "resumen": "La -y final cuenta como consonante, y una -s detrás de otra consonante cambia la regla.",
+   "explicacion": [
+    "Las agudas que acaban en -y no llevan tilde, porque la -y cuenta como consonante: virrey, jersey, estoy.",
+    "Las agudas que acaban en -s o -n detrás de otra consonante no llevan tilde: robots, complots.",
+    "Las llanas que acaban en -s detrás de otra consonante sí llevan tilde: bíceps, cómics, fórceps."
+   ],
+   "ejemplos": ["virrey", "robots", "bíceps", "cómics"],
+   "contraejemplos": ["virréy ✗", "robóts ✗", "biceps ✗"],
+   "truco": "La regla de «vocal, -n o -s» solo vale si delante de la -n o la -s hay una vocal."
+  },
+  {
+   "id": "diptongos",
+   "titulo": "Diptongos y triptongos",
+   "resumen": "Dos o tres vocales que se pronuncian en la misma sílaba.",
+   "explicacion": [
+    "Vocales abiertas: a, e, o. Vocales cerradas: i, u.",
+    "Diptongo: una abierta + una cerrada sin tilde (ai, au, ei, eu, oi, ia, ie, io, ua, ue, uo) o dos cerradas distintas (iu, ui). Van en la misma sílaba: cie-lo, ciu-dad.",
+    "Triptongo: cerrada + abierta + cerrada en la misma sílaba: buey, U-ru-guay.",
+    "La h entre vocales no rompe el diptongo: prohi-bir.",
+    "Si una palabra con diptongo lleva tilde, sigue las reglas generales y la tilde va en la vocal abierta: ca-mión, des-pués."
+   ],
+   "ejemplos": ["cie-lo", "puer-ta", "ciu-dad", "buey"],
+   "contraejemplos": ["ci-e-lo ✗", "pu-er-ta ✗"],
+   "truco": "Si la i o la u no suenan fuerte, se pegan a la vocal de al lado."
+  },
+  {
+   "id": "hiatos",
+   "titulo": "Los hiatos",
+   "resumen": "Dos vocales seguidas que van en sílabas distintas.",
+   "explicacion": [
+    "Dos vocales abiertas juntas forman hiato: le-er, po-e-ta. Siguen las reglas generales.",
+    "Cuando la i o la u es la que suena fuerte junto a una abierta, también hay hiato, y entonces la i o la u lleva tilde SIEMPRE, aunque las reglas generales digan lo contrario: pa-ís, rí-o, ba-úl, re-ír.",
+    "La h en medio no cambia nada: bú-ho, pro-hí-be."
+   ],
+   "ejemplos": ["país", "día", "búho", "reír", "oído"],
+   "contraejemplos": ["pais ✗", "buho ✗", "reir ✗"],
+   "truco": "Si la i o la u «se escapa» a su propia sílaba y suena fuerte, se gana una tilde."
+  },
+  {
+   "id": "monosilabos",
+   "titulo": "Los monosílabos",
+   "resumen": "Las palabras de una sola sílaba no llevan tilde (salvo la tilde diacrítica).",
+   "explicacion": [
+    "fue, fui, dio, vio, pie, ti, fe, di, vi, sol, pan… se escriben sin tilde.",
+    "Desde 2010, guion, truhan, rio (de reír) o crie también se consideran monosílabos y van sin tilde.",
+    "Solo llevan tilde algunos monosílabos para distinguirse de otros que se escriben igual: tú/tu, él/el, mí/mi, sí/si… (es la tilde diacrítica)."
+   ],
+   "ejemplos": ["fue", "dio", "vio", "ti", "guion"],
+   "contraejemplos": ["fué ✗", "dió ✗", "tí ✗", "guión ✗"],
+   "truco": "Una sílaba, cero tildes… salvo que haya una «gemela» con otro significado."
+  },
+  {
+   "id": "reglas",
+   "titulo": "Por qué lleva (o no) tilde",
+   "resumen": "Para saber si una palabra lleva tilde: busca la tónica, clasifícala y aplica su regla.",
+   "explicacion": [
+    "1. Separa en sílabas y busca la tónica.",
+    "2. Mira si es aguda, llana o esdrújula.",
+    "3. Aplica la regla: agudas en vocal/-n/-s → tilde; llanas que NO acaban en vocal/-n/-s → tilde; esdrújulas → siempre.",
+    "4. Revisa si hay hiato con i/u tónica: entonces tilde siempre."
+   ],
+   "ejemplos": ["camión", "árbol", "música", "país"],
+   "contraejemplos": [],
+   "truco": "Tónica → tipo → regla."
+  }
+ ]
+}

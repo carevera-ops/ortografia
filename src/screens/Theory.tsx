@@ -1,11 +1,45 @@
-/** Teoría. (Pantalla provisional: se completa en fases posteriores.) */
-export function Theory() {
+import { useEffect, useState } from 'react';
+import { loadRules } from '../core/content/loader';
+import type { Rule } from '../core/content/schema';
+import { routeToHash } from '../app/router';
+import { RuleCard } from './Lesson';
+
+/** Teoría: listado de fichas y ficha detallada. */
+export function Theory({ ruleId }: { ruleId?: string }) {
+  const [rules, setRules] = useState<Map<string, Rule> | null>(null);
+  useEffect(() => {
+    void loadRules().then(setRules);
+  }, []);
+  const rule = ruleId ? rules?.get(ruleId) : undefined;
+
   return (
     <main className="screen with-tabbar" aria-labelledby="theory-title">
       <div className="topbar">
+        {ruleId && (
+          <a className="icon-btn" href={routeToHash({ name: 'theory' })} aria-label="Volver a la teoría">
+            ‹
+          </a>
+        )}
         <h1 id="theory-title">Teoría</h1>
       </div>
-      <p className="card muted">Muy pronto aquí… 🛠️</p>
+      {!rules ? (
+        <p className="muted">Cargando…</p>
+      ) : rule ? (
+        <div className="card">
+          <RuleCard rule={rule} />
+        </div>
+      ) : (
+        <ul className="stack" style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+          {[...rules.values()].map((r) => (
+            <li key={r.id}>
+              <a className="card rule-link" href={routeToHash({ name: 'theory', ruleId: r.id })}>
+                <strong>{r.titulo}</strong>
+                <span className="muted small-text">{r.resumen}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
     </main>
   );
 }

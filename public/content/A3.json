@@ -1,0 +1,2005 @@
+{
+ "unidad": "A3",
+ "items": [
+  {
+   "id": "A3-0001",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "montón",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "mon-tón: la sílaba tónica es «tón», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0002",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "álbum",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "ál-bum: la sílaba tónica es «ál», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0003",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "café",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ca-fé: la sílaba tónica es «fé», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0004",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "mamá",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ma-má: la sílaba tónica es «má», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0005",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cantó",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "can-tó: la sílaba tónica es «tó», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0006",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cárcel",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "cár-cel: la sílaba tónica es «cár», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0007",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "bebí",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "be-bí: la sílaba tónica es «bí», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0008",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "salió",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "sa-lió: la sílaba tónica es «lió», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0009",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "será",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "se-rá: la sílaba tónica es «rá», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0010",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "López",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "Ló-pez: la sílaba tónica es «Ló», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0011",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "bolígrafo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "bo-lí-gra-fo: la sílaba tónica es «lí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0012",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "número",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "nú-me-ro: la sílaba tónica es «nú», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0013",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fútbol",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "fút-bol: la sílaba tónica es «fút», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0014",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Gómez",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "Gó-mez: la sílaba tónica es «Gó», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0015",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "balón",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ba-lón: la sílaba tónica es «lón», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0016",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "ángel",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "án-gel: la sílaba tónica es «án», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0017",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "móvil",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "mó-vil: la sílaba tónica es «mó», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0018",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "comí",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "co-mí: la sílaba tónica es «mí», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0019",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "también",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "tam-bién: la sílaba tónica es «bién», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0020",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "allí",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "a-llí: la sílaba tónica es «llí», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0021",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "saltó",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "sal-tó: la sílaba tónica es «tó», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0022",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "lección",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "lec-ción: la sílaba tónica es «ción», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0023",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "después",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "des-pués: la sílaba tónica es «pués», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0024",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "está",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "es-tá: la sílaba tónica es «tá», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0025",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Sánchez",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "Sán-chez: la sílaba tónica es «Sán», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0026",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "lámpara",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "lám-pa-ra: la sílaba tónica es «lám», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0027",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "rápido",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "rá-pi-do: la sílaba tónica es «rá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0028",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "allá",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "a-llá: la sílaba tónica es «llá», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0029",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "dormí",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "dor-mí: la sílaba tónica es «mí», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0030",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fácil",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "fá-cil: la sílaba tónica es «fá», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0031",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "habló",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ha-bló: la sílaba tónica es «bló», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0032",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Martínez",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 1,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "Mar-tí-nez: la sílaba tónica es «tí», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0033",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "color",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "co-lor: la sílaba tónica es «lor», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0034",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "empecé",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "em-pe-cé: la sílaba tónica es «cé», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0035",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "verdad",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ver-dad: la sílaba tónica es «dad», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0036",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "estación",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "es-ta-ción: la sílaba tónica es «ción», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0037",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "patín",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "pa-tín: la sílaba tónica es «tín», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0038",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "vivirán",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "vi-vi-rán: la sílaba tónica es «rán», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0039",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "saldrás",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "sal-drás: la sílaba tónica es «drás», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0040",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "gato",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "ga-to: la sílaba tónica es «ga», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0041",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "español",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "es-pa-ñol: la sílaba tónica es «ñol», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0042",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "galleta",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "ga-lle-ta: la sílaba tónica es «lle», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0043",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cantar",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "can-tar: la sílaba tónica es «tar», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0044",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "quizás",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "qui-zás: la sílaba tónica es «zás», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0045",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pi-rá-mi-de: la sílaba tónica es «rá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0046",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "frágil",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "frá-gil: la sílaba tónica es «frá», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0047",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "beberán",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "be-be-rán: la sílaba tónica es «rán», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0048",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "hotel",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ho-tel: la sílaba tónica es «tel», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0049",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "hermano",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "her-ma-no: la sílaba tónica es «ma», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0050",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "triángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "trián-gu-lo: la sílaba tónica es «trián», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0051",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "término",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "tér-mi-no: la sílaba tónica es «tér», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0052",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "hábil",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "há-bil: la sílaba tónica es «há», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0053",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "señor",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "se-ñor: la sílaba tónica es «ñor», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0054",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "simpático",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "sim-pá-ti-co: la sílaba tónica es «pá», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0055",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "azul",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "a-zul: la sílaba tónica es «zul», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0056",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fértil",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "fér-til: la sílaba tónica es «fér», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0057",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Fernández",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "Fer-nán-dez: la sílaba tónica es «nán», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0058",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "caramelo",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "ca-ra-me-lo: la sílaba tónica es «me», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0059",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "comerá",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "co-me-rá: la sílaba tónica es «rá», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0060",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "jugué",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ju-gué: la sílaba tónica es «gué», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0061",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "lógico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ló-gi-co: la sílaba tónica es «ló», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0062",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "profesor",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "pro-fe-sor: la sílaba tónica es «sor», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0063",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "doctor",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "doc-tor: la sílaba tónica es «tor», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0064",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "béisbol",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "béis-bol: la sílaba tónica es «béis», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0065",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fantástico",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "fan-tás-ti-co: la sílaba tónica es «tás», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0066",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "girasol",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "gi-ra-sol: la sílaba tónica es «sol», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0067",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "mochila",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "mo-chi-la: la sílaba tónica es «chi», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0068",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "manzana",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "man-za-na: la sílaba tónica es «za», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0069",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "nariz",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "na-riz: la sílaba tónica es «riz», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0070",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Gutiérrez",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "Gu-tié-rrez: la sílaba tónica es «tié», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0071",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "cojín",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "co-jín: la sílaba tónica es «jín», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0072",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "perro",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 2,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "pe-rro: la sílaba tónica es «pe», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0073",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "amistad",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "a-mis-tad: la sílaba tónica es «tad», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0074",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "capitán",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ca-pi-tán: la sílaba tónica es «tán», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0075",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "tormenta",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "tor-men-ta: la sílaba tónica es «men», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0076",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "margen",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "mar-gen: la sílaba tónica es «mar», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0077",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "mariposa",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "ma-ri-po-sa: la sílaba tónica es «po», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0078",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Moscú",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "Mos-cú: la sílaba tónica es «cú», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0079",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "interés",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "in-te-rés: la sílaba tónica es «rés», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0080",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "imagen",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "i-ma-gen: la sílaba tónica es «ma», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0081",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "carnaval",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "car-na-val: la sílaba tónica es «val», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0082",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "estéril",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "es-té-ril: la sílaba tónica es «té», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0083",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "tabú",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ta-bú: la sílaba tónica es «bú», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0084",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "fénix",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "fé-nix: la sílaba tónica es «fé», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0085",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "dormir",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "dor-mir: la sílaba tónica es «mir», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0086",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "tractor",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "trac-tor: la sílaba tónica es «tor», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0087",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "versátil",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "ver-sá-til: la sílaba tónica es «sá», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0088",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "actriz",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "ac-triz: la sílaba tónica es «triz», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0089",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "Canadá",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "Ca-na-dá: la sílaba tónica es «dá», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0090",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "dieciséis",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "die-ci-séis: la sílaba tónica es «séis», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0091",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "sofás",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "so-fás: la sílaba tónica es «fás», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0092",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "vehículo",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "ve-hí-cu-lo: la sílaba tónica es «hí», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0093",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "helicóptero",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "he-li-cóp-te-ro: la sílaba tónica es «cóp», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0094",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "primavera",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "pri-ma-ve-ra: la sílaba tónica es «ve», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0095",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "paréntesis",
+   "clase": "esdrujula",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "esdrujulas"
+   ],
+   "explicacion": "pa-rén-te-sis: la sílaba tónica es «rén», la antepenúltima, así que es esdrújula.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0096",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "aventura",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 3,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "a-ven-tu-ra: la sílaba tónica es «tu», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0097",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "paraguas",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 4,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "pa-ra-guas: la sílaba tónica es «ra», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0098",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "certamen",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 4,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "cer-ta-men: la sílaba tónica es «ta», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0099",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "tranquilidad",
+   "clase": "aguda",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "aguda",
+   "dificultad": 4,
+   "skills": [
+    "clasificacion",
+    "agudas"
+   ],
+   "explicacion": "tran-qui-li-dad: la sílaba tónica es «dad», la última, así que es aguda.",
+   "regla_id": "clasificacion"
+  },
+  {
+   "id": "A3-0100",
+   "tipo": "clasificar",
+   "enunciado": "¿Qué tipo de palabra es?",
+   "palabra": "jueves",
+   "clase": "llana",
+   "opciones": [
+    "aguda",
+    "llana",
+    "esdrújula"
+   ],
+   "respuesta": "llana",
+   "dificultad": 4,
+   "skills": [
+    "clasificacion",
+    "llanas"
+   ],
+   "explicacion": "jue-ves: la sílaba tónica es «jue», la penúltima, así que es llana.",
+   "regla_id": "clasificacion"
+  }
+ ]
+}

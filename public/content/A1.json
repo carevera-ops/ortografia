@@ -1,0 +1,1495 @@
+{
+ "unidad": "A1",
+ "items": [
+  {
+   "id": "A1-0001",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "médico",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mé-di-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0002",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jugar",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ju-gar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0003",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "túnel",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: tú-nel (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0004",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "será",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: se-rá (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0005",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pared",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pa-red (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0006",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "azul",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-zul (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0007",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "árboles",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ár-bo-les (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0008",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "fresa",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fre-sa (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0009",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pelota",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pe-lo-ta (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0010",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pájaro",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pá-ja-ro (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0011",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "música",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mú-si-ca (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0012",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "fútbol",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fút-bol (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0013",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "razón",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ra-zón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0014",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "comí",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: co-mí (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0015",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "rápido",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: rá-pi-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0016",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "verano",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ve-ra-no (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0017",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "fácil",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fá-cil (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0018",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "manzana",
+   "clase": "llana",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: man-za-na (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0019",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "perdón",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: per-dón (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0020",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "plátano",
+   "clase": "esdrujula",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: plá-ta-no (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0021",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "dólar",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: dó-lar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0022",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "casa",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ca-sa (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0023",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cómic",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: có-mic (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0024",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "están",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: es-tán (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0025",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "silla",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: si-lla (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0026",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "atrás",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-trás (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0027",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "camisa",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ca-mi-sa (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0028",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "español",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: es-pa-ñol (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0029",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "azúcar",
+   "clase": "llana",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-zú-car (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0030",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "mágico",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: má-gi-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0031",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "martes",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mar-tes (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0032",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "difícil",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: di-fí-cil (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0033",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "zapato",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: za-pa-to (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0034",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "mamá",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ma-má (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0035",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "botón",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: bo-tón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0036",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "papá",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pa-pá (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0037",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "montón",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mon-tón (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0038",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "nariz",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: na-riz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0039",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "árbol",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ár-bol (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0040",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "lámpara",
+   "clase": "esdrujula",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: lám-pa-ra (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0041",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "útil",
+   "clase": "llana",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ú-til (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0042",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "color",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: co-lor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0043",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sábado",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sá-ba-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0044",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "maní",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ma-ní (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0045",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sentir",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sen-tir (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0046",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "patín",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pa-tín (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0047",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "amistad",
+   "clase": "aguda",
+   "respuesta": [
+    1,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-mis-tad (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0048",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "récord",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ré-cord (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0049",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "beberán",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: be-be-rán (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0050",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "taller",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ta-ller (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0051",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "margen",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mar-gen (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0052",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jabalí",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ja-ba-lí (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0053",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "salud",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sa-lud (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0054",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cartel",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: car-tel (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0055",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "francés",
+   "clase": "aguda",
+   "respuesta": [
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fran-cés (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0056",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "joven",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: jo-ven (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0057",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "origen",
+   "clase": "llana",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: o-ri-gen (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0058",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "anís",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-nís (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0059",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "ágil",
+   "clase": "llana",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: á-gil (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0060",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "árabe",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: á-ra-be (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0061",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cartón",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: car-tón (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0062",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cicatriz",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ci-ca-triz (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0063",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "vendrá",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ven-drá (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0064",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "carácter",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    5
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ca-rác-ter (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0065",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "término",
+   "clase": "esdrujula",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: tér-mi-no (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0066",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "castillo",
+   "clase": "llana",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: cas-ti-llo (3 sílabas). Recuerda: ch, ll y rr nunca se separan; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0067",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "película",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pe-lí-cu-la (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0068",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "lombriz",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: lom-briz (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0069",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "lógico",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ló-gi-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0070",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: te-lé-fo-no (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0071",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "otoño",
+   "clase": "llana",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: o-to-ño (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0072",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "examen",
+   "clase": "llana",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: e-xa-men (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0073",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "podrá",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: po-drá (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0074",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "dormir",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: dor-mir (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0075",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sofás",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: so-fás (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0076",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "mariposa",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ma-ri-po-sa (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0077",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "exámenes",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    3,
+    5
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: e-xá-me-nes (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0078",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "lapicero",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: la-pi-ce-ro (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0079",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "imágenes",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    3,
+    5
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: i-má-ge-nes (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0080",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "termómetro",
+   "clase": "esdrujula",
+   "respuesta": [
+    3,
+    5,
+    7
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ter-mó-me-tro (4 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0081",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "tórax",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: tó-rax (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0082",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "versátil",
+   "clase": "llana",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ver-sá-til (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0083",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "complots",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: com-plots (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0084",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "estoy",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: es-toy (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0085",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "póster",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pós-ter (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0086",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "polen",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: po-len (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0087",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cáncer",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: cán-cer (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0088",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "atmósfera",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    5,
+    7
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: at-mós-fe-ra (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0089",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "ejército",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    4,
+    6
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: e-jér-ci-to (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0090",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sentimental",
+   "clase": "aguda",
+   "respuesta": [
+    3,
+    5,
+    8
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sen-ti-men-tal (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  }
+ ]
+}
