@@ -13,6 +13,7 @@ import { db, getSettings } from '../db/db';
 import { navigate } from '../app/router';
 import { playCorrect, playFinish, playWrong, setSoundEnabled, unlockAudio } from '../audio/sfx';
 import { Mascot } from '../components/Mascot';
+import { getSpanishVoice } from '../audio/tts';
 
 type Mode = { kind: 'lesson'; unitId: string; level: number } | { kind: 'practice' };
 
@@ -33,17 +34,25 @@ async function unlockedUnitIds(): Promise<string[]> {
 }
 
 async function prepare(mode: Mode): Promise<Item[]> {
-  const [mastery, dueIds, recent, unlocked] = await Promise.all([getMasteryMap(), getDueItemIds(), getRecentItemIds(), unlockedUnitIds()]);
+  const [mastery, dueIds, recent, unlocked, voice] = await Promise.all([
+    getMasteryMap(),
+    getDueItemIds(),
+    getRecentItemIds(),
+    unlockedUnitIds(),
+    getSpanishVoice(),
+  ]);
+  // Sin voz española no hay dictado: se ocultan esos ejercicios.
+  const usable = (items: Item[]) => (voice ? items : items.filter((i) => i.tipo !== 'dictado'));
   const dueAll = await findItems(dueIds);
-  const dueItems = dueAll.filter((i) => unlocked.includes(i.id.split('-')[0]!));
+  const dueItems = usable(dueAll.filter((i) => unlocked.includes(i.id.split('-')[0]!)));
   if (mode.kind === 'practice') {
-    const pool = await loadUnits(unlocked);
+    const pool = usable(await loadUnits(unlocked));
     return buildPractice(pool, mastery, dueItems, 10);
   }
   const unit = UNIT_BY_ID.get(mode.unitId)!;
-  const unitItems = await loadUnit(mode.unitId);
+  const unitItems = usable(await loadUnit(mode.unitId));
   const prevIds = unlocked.filter((id) => id !== mode.unitId).slice(-3);
-  const reviewPool = prevIds.length ? await loadUnits(prevIds) : [];
+  const reviewPool = prevIds.length ? usable(await loadUnits(prevIds)) : [];
   return buildLesson({ unitItems, level: mode.level, levels: unit.levels, mastery, dueItems, reviewPool, recentIds: recent });
 }
 

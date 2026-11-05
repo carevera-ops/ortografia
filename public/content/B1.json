@@ -1,0 +1,1754 @@
+{
+ "unidad": "B1",
+ "items": [
+  {
+   "id": "B1-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hombre",
+   "opciones": [
+    "hombre",
+    "honbre"
+   ],
+   "respuesta": "hombre",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «hombre». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bosque",
+   "opciones": [
+    "bosque",
+    "vosque"
+   ],
+   "respuesta": "bosque",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bosque». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "avión",
+   "opciones": [
+    "avión",
+    "abión"
+   ],
+   "respuesta": "avión",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «avión». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "volver",
+   "opciones": [
+    "bolver",
+    "volver"
+   ],
+   "respuesta": "volver",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «volver». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bombero",
+   "opciones": [
+    "bombero",
+    "bonbero"
+   ],
+   "respuesta": "bombero",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bombero». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "siempre",
+   "opciones": [
+    "siempre",
+    "sienpre"
+   ],
+   "respuesta": "siempre",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «siempre». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "abuelo",
+   "opciones": [
+    "abuelo",
+    "avuelo"
+   ],
+   "respuesta": "abuelo",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «abuelo». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hablar",
+   "opciones": [
+    "hablar",
+    "havlar"
+   ],
+   "respuesta": "hablar",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «hablar». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "divertido",
+   "opciones": [
+    "dibertido",
+    "divertido"
+   ],
+   "respuesta": "divertido",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «divertido». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ventana",
+   "opciones": [
+    "ventana",
+    "bentana"
+   ],
+   "respuesta": "ventana",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «ventana». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sombrero",
+   "opciones": [
+    "sombrero",
+    "somvrero"
+   ],
+   "respuesta": "sombrero",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «sombrero». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "empezar",
+   "opciones": [
+    "empezar",
+    "enpezar"
+   ],
+   "respuesta": "empezar",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «empezar». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "nuevo",
+   "opciones": [
+    "nuebo",
+    "nuevo"
+   ],
+   "respuesta": "nuevo",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «nuevo». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lluvia",
+   "opciones": [
+    "lluvia",
+    "llubia"
+   ],
+   "respuesta": "lluvia",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «lluvia». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "uva",
+   "opciones": [
+    "uva",
+    "uba"
+   ],
+   "respuesta": "uva",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «uva». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "televisión",
+   "opciones": [
+    "telebisión",
+    "televisión"
+   ],
+   "respuesta": "televisión",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «televisión». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "joven",
+   "opciones": [
+    "joven",
+    "joben"
+   ],
+   "respuesta": "joven",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «joven». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bueno",
+   "opciones": [
+    "vueno",
+    "bueno"
+   ],
+   "respuesta": "bueno",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bueno». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "campo",
+   "opciones": [
+    "campo",
+    "canpo"
+   ],
+   "respuesta": "campo",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «campo». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vivir",
+   "opciones": [
+    "bibir",
+    "vivir"
+   ],
+   "respuesta": "vivir",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «vivir». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bicicleta",
+   "opciones": [
+    "bicicleta",
+    "vicicleta"
+   ],
+   "respuesta": "bicicleta",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bicicleta». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bebé",
+   "opciones": [
+    "vebé",
+    "bebé"
+   ],
+   "respuesta": "bebé",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bebé». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "brazo",
+   "opciones": [
+    "brazo",
+    "vrazo"
+   ],
+   "respuesta": "brazo",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «brazo». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "barco",
+   "opciones": [
+    "barco",
+    "varco"
+   ],
+   "respuesta": "barco",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «barco». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lámpara",
+   "opciones": [
+    "lánpara",
+    "lámpara"
+   ],
+   "respuesta": "lámpara",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «lámpara». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "nube",
+   "opciones": [
+    "nube",
+    "nuve"
+   ],
+   "respuesta": "nube",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «nube». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "biblioteca",
+   "opciones": [
+    "bivlioteca",
+    "biblioteca"
+   ],
+   "respuesta": "biblioteca",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «biblioteca». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hambre",
+   "opciones": [
+    "hambre",
+    "hanbre"
+   ],
+   "respuesta": "hambre",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «hambre». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cambiar",
+   "opciones": [
+    "canbiar",
+    "cambiar"
+   ],
+   "respuesta": "cambiar",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «cambiar». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "trabajo",
+   "opciones": [
+    "trabajo",
+    "travajo"
+   ],
+   "respuesta": "trabajo",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «trabajo». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "blanco",
+   "opciones": [
+    "blanco",
+    "vlanco"
+   ],
+   "respuesta": "blanco",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «blanco». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0032",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tambor",
+   "opciones": [
+    "tanbor",
+    "tambor"
+   ],
+   "respuesta": "tambor",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «tambor». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "viento",
+   "opciones": [
+    "biento",
+    "viento"
+   ],
+   "respuesta": "viento",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «viento». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vestido",
+   "opciones": [
+    "bestido",
+    "vestido"
+   ],
+   "respuesta": "vestido",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «vestido». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "llave",
+   "opciones": [
+    "llave",
+    "llabe"
+   ],
+   "respuesta": "llave",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «llave». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "verde",
+   "opciones": [
+    "verde",
+    "berde"
+   ],
+   "respuesta": "verde",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «verde». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "nervioso",
+   "opciones": [
+    "nervioso",
+    "nerbioso"
+   ],
+   "respuesta": "nervioso",
+   "dificultad": 1,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «nervioso». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0038",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "nuevo",
+   "frase": "nue___o",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «nuevo». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0039",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "bombero",
+   "frase": "bo___bero",
+   "opciones": [
+    "m",
+    "n"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bombero». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0040",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "activo",
+   "opciones": [
+    "activo",
+    "actibo"
+   ],
+   "respuesta": "activo",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «activo». Los adjetivos acabados en -ivo, -iva se escriben con v: activo, divertida.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0041",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pintabas",
+   "opciones": [
+    "pintabas",
+    "pintavas"
+   ],
+   "respuesta": "pintabas",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «pintabas». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0042",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "abuelo",
+   "frase": "a___uelo",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «abuelo». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0043",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "joven",
+   "frase": "jo___en",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «joven». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0044",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "sombrero",
+   "frase": "som___rero",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «sombrero». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0045",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lluvia",
+   "frase": "llu___ia",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «lluvia». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "saltábamos",
+   "opciones": [
+    "saltábamos",
+    "saltávamos"
+   ],
+   "respuesta": "saltábamos",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «saltábamos». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0047",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lámpara",
+   "frase": "lá___para",
+   "opciones": [
+    "n",
+    "m"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «lámpara». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0048",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "avión",
+   "frase": "a___ión",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «avión». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "amable",
+   "opciones": [
+    "amavle",
+    "amable"
+   ],
+   "respuesta": "amable",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «amable». Las palabras acabadas en -ble y -bilidad se escriben con b: amable, posible.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "convencer",
+   "opciones": [
+    "convencer",
+    "conbencer"
+   ],
+   "respuesta": "convencer",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «convencer». Después de n se escribe v: invierno, enviar, invitar.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0051",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "nervioso",
+   "frase": "ner___ioso",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «nervioso». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0052",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "uva",
+   "frase": "u___a",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «uva». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0053",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "hambre",
+   "frase": "ha___bre",
+   "opciones": [
+    "m",
+    "n"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «hambre». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0054",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "llave",
+   "frase": "lla___e",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «llave». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0055",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "brazo",
+   "frase": "___razo",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «brazo». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0056",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "empezar",
+   "frase": "e___pezar",
+   "opciones": [
+    "m",
+    "n"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «empezar». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0057",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "siempre",
+   "frase": "sie___pre",
+   "opciones": [
+    "m",
+    "n"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «siempre». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "deportiva",
+   "opciones": [
+    "deportiva",
+    "deportiba"
+   ],
+   "respuesta": "deportiva",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «deportiva». Los adjetivos acabados en -ivo, -iva se escriben con v: activo, divertida.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0059",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cabeza",
+   "frase": "ca___eza",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «cabeza». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0060",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "invierno",
+   "opciones": [
+    "inbierno",
+    "invierno"
+   ],
+   "respuesta": "invierno",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «invierno». Después de n se escribe v: invierno, enviar, invitar.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0061",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "televisión",
+   "frase": "tele___isión",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «televisión». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0062",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "barco",
+   "frase": "___arco",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «barco». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0063",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estaba",
+   "opciones": [
+    "estaba",
+    "estava"
+   ],
+   "respuesta": "estaba",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «estaba». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0064",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "campo",
+   "frase": "ca___po",
+   "opciones": [
+    "m",
+    "n"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «campo». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0065",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "abrir",
+   "frase": "a___rir",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «abrir». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0066",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "libro",
+   "frase": "li___ro",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «libro». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0067",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "bueno",
+   "frase": "___ueno",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bueno». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0068",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "blanco",
+   "frase": "___lanco",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «blanco». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0069",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "bebé",
+   "frase": "___ebé",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bebé». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0070",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "divertido",
+   "frase": "di___ertido",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «divertido». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0071",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "tambor",
+   "frase": "ta___bor",
+   "opciones": [
+    "n",
+    "m"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «tambor». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0072",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "tiempo",
+   "frase": "tie___po",
+   "opciones": [
+    "n",
+    "m"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «tiempo». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0073",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "hablar",
+   "frase": "ha___lar",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «hablar». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0074",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "bosque",
+   "frase": "___osque",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bosque». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0075",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "biblioteca",
+   "frase": "bi___lioteca",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «biblioteca». Delante de l y r siempre se escribe b: blanco, brazo, biblioteca.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0076",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cantaba",
+   "opciones": [
+    "cantava",
+    "cantaba"
+   ],
+   "respuesta": "cantaba",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «cantaba». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0077",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "hombre",
+   "frase": "ho___bre",
+   "opciones": [
+    "m",
+    "n"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «hombre». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0078",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "terrible",
+   "opciones": [
+    "terrible",
+    "terrivle"
+   ],
+   "respuesta": "terrible",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «terrible». Las palabras acabadas en -ble y -bilidad se escriben con b: amable, posible.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0079",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jugaba",
+   "opciones": [
+    "jugaba",
+    "jugava"
+   ],
+   "respuesta": "jugaba",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «jugaba». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0080",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "responsabilidad",
+   "opciones": [
+    "responsavilidad",
+    "responsabilidad"
+   ],
+   "respuesta": "responsabilidad",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «responsabilidad». Las palabras acabadas en -ble y -bilidad se escriben con b: amable, posible.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0081",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cambiar",
+   "frase": "ca___biar",
+   "opciones": [
+    "n",
+    "m"
+   ],
+   "respuesta": "m",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «cambiar». Antes de b y p se escribe m, nunca n: hombre, campo, tiempo.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0082",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "verano",
+   "frase": "___erano",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «verano». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0083",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "nueve",
+   "frase": "nue___e",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «nueve». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0084",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "enviar",
+   "opciones": [
+    "enviar",
+    "enbiar"
+   ],
+   "respuesta": "enviar",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «enviar». Después de n se escribe v: invierno, enviar, invitar.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0085",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "creativo",
+   "opciones": [
+    "creatibo",
+    "creativo"
+   ],
+   "respuesta": "creativo",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «creativo». Los adjetivos acabados en -ivo, -iva se escriben con v: activo, divertida.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0086",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "sábado",
+   "frase": "sá___ado",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «sábado». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0087",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "volver",
+   "frase": "___olver",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «volver». Es una palabra que hay que aprender de memoria: se escribe con v.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0088",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "bicicleta",
+   "frase": "___icicleta",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 2,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «bicicleta». Es una palabra que hay que aprender de memoria: se escribe con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0089",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "jugaba",
+   "frase": "juga___a",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «jugaba». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0090",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "deportiva",
+   "frase": "deporti___a",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «deportiva». Los adjetivos acabados en -ivo, -iva se escriben con v: activo, divertida.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0091",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "convencer",
+   "frase": "con___encer",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «convencer». Después de n se escribe v: invierno, enviar, invitar.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0092",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "invierno",
+   "frase": "in___ierno",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «invierno». Después de n se escribe v: invierno, enviar, invitar.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0093",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "responsabilidad",
+   "frase": "responsa___ilidad",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «responsabilidad». Las palabras acabadas en -ble y -bilidad se escriben con b: amable, posible.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0094",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "estaba",
+   "frase": "esta___a",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «estaba». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0095",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "invitar",
+   "frase": "in___itar",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "v",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «invitar». Después de n se escribe v: invierno, enviar, invitar.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0096",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "amable",
+   "frase": "ama___le",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «amable». Las palabras acabadas en -ble y -bilidad se escriben con b: amable, posible.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0097",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cantaba",
+   "frase": "canta___a",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «cantaba». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0098",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "saltábamos",
+   "frase": "saltá___amos",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «saltábamos». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0099",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "pintabas",
+   "frase": "pinta___as",
+   "opciones": [
+    "b",
+    "v"
+   ],
+   "respuesta": "b",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «pintabas». Las terminaciones -aba, -abas, -ábamos… del pasado (cantaba, jugaba) se escriben con b.",
+   "regla_id": "b-v"
+  },
+  {
+   "id": "B1-0100",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "activo",
+   "frase": "acti___o",
+   "opciones": [
+    "v",
+    "b"
+   ],
+   "respuesta": "v",
+   "dificultad": 3,
+   "skills": [
+    "b_v"
+   ],
+   "explicacion": "Se escribe «activo». Los adjetivos acabados en -ivo, -iva se escriben con v: activo, divertida.",
+   "regla_id": "b-v"
+  }
+ ]
+}

@@ -55,7 +55,9 @@ describe('banco de preguntas', () => {
       if (!it.palabra) continue;
       const w = it.palabra;
       if (DIACRITICAS.has(w.toLowerCase())) continue;
-      const res = checkWord(w, syllabify(w).length > 1 ? it.clase : undefined);
+      // Adverbios en -mente: se valida el adjetivo (rápida-mente conserva la tilde de «rápida»).
+      const target = it.regla_id === 'mente-compuestos' && /mente$/.test(w) ? w.replace(/mente$/, '') : w;
+      const res = checkWord(target, syllabify(target).length > 1 ? it.clase : undefined);
       if (!res.ok) errors.push(`${it.id} «${w}»: ${res.reason}`);
     }
     expect(errors).toEqual([]);
@@ -119,6 +121,59 @@ describe('banco de preguntas', () => {
       const same = syl.some((s) => s.toLowerCase().includes(seq!.toLowerCase()));
       const expected = same ? (seq!.replace(/h/gi, '').length === 3 ? 'triptongo' : 'diptongo') : 'hiato';
       expect(it.respuesta, it.id).toBe(expected);
+    }
+  });
+
+  it('cantidades mínimas: ≥ 1.500 ítems y ≥ 1.000 de acentuación', () => {
+    expect(all.length).toBeGreaterThanOrEqual(1500);
+    expect(all.filter(isAccentItem).length).toBeGreaterThanOrEqual(1000);
+  });
+
+  it('cada unidad del temario tiene contenido', () => {
+    const units = new Set(all.map((i) => i.id.split('-')[0]));
+    for (const u of ['A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10', 'A11', 'A12', 'A13', 'A14', 'A15', 'A16', 'B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7'])
+      expect(units.has(u), u).toBe(true);
+  });
+
+  it('hueco: un solo hueco y una respuesta entre opciones distintas', () => {
+    for (const it of all.filter((i) => i.tipo === 'hueco')) {
+      expect(it.frase!.split('___').length, it.id).toBe(2);
+      expect(new Set(it.opciones).size, it.id).toBe(it.opciones!.length);
+    }
+  });
+
+  it('detectar el error: la palabra marcada es distinta de la corrección', () => {
+    const bare = (t: string) => t.replace(/[¿¡!?,.;:—]/g, '').toLowerCase();
+    for (const it of all.filter((i) => i.tipo === 'detectar_error')) {
+      const tok = it.opciones![it.respuesta as number]!;
+      expect(tok, it.id).toBeTruthy();
+      expect(bare(tok), it.id).not.toBe(bare(it.correccion!));
+      expect(it.opciones!.join(' '), it.id).toBe(it.frase);
+    }
+  });
+
+  it('frases con hueco: la versión correcta no usa formas eliminadas en 2010', () => {
+    for (const it of all.filter((i) => i.tipo === 'hueco' && i.frase)) {
+      const whole = it.frase!.replace('___', it.respuesta as string);
+      for (const p of PROHIBIDAS) expect(new RegExp(`(^|[^\\p{L}])${p}($|[^\\p{L}])`, 'iu').test(whole), `${it.id}: ${whole}`).toBe(false);
+    }
+  });
+
+  it('ortografía (bloque B, elegir): las opciones solo difieren en las letras del tema', () => {
+    const allowed: Record<string, RegExp> = {
+      B1: /[bvmn]/gi, B2: /[gjuü]/gi, B3: /h/gi, B4: /(ll|y|rr|r)/gi, B5: /[czsx]/gi,
+    };
+    for (const it of all.filter((i) => i.tipo === 'elegir' && /^B[1-5]-/.test(i.id))) {
+      const re = allowed[it.id.split('-')[0]!]!;
+      const [a, b] = it.opciones!.map((o) => o.replace(re, ''));
+      expect(a, `${it.id}: ${it.opciones}`).toBe(b);
+    }
+  });
+
+  it('dictado: la palabra cumple las reglas', () => {
+    for (const it of all.filter((i) => i.tipo === 'dictado')) {
+      expect(checkWord(it.palabra!, syllabify(it.palabra!).length > 1 ? it.clase : undefined), it.id).toEqual({ ok: true });
+      expect(it.respuesta).toBe(it.palabra);
     }
   });
 

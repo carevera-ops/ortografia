@@ -11,8 +11,17 @@
     "Las letras dobles ch, ll y rr nunca se separan: co-che, ca-lle, pe-rro.",
     "Con tres consonantes, normalmente las dos primeras se quedan detrás: ins-tan-te, trans-por-te (salvo si las dos últimas son un grupo como tr: ins-tru-men-to)."
    ],
-   "ejemplos": ["ca-mi-sa", "li-bro", "ár-bol", "pe-rro", "ins-tan-te"],
-   "contraejemplos": ["pe-rr-o ✗ → pe-rro", "lib-ro ✗ → li-bro"],
+   "ejemplos": [
+    "ca-mi-sa",
+    "li-bro",
+    "ár-bol",
+    "pe-rro",
+    "ins-tan-te"
+   ],
+   "contraejemplos": [
+    "pe-rr-o ✗ → pe-rro",
+    "lib-ro ✗ → li-bro"
+   ],
    "truco": "Da palmadas mientras dices la palabra: cada palmada es una sílaba."
   },
   {
@@ -24,7 +33,12 @@
     "Las demás sílabas se llaman átonas.",
     "La sílaba tónica no siempre lleva tilde: en «mesa» la tónica es «me» y no lleva tilde."
    ],
-   "ejemplos": ["ME-sa", "ca-MIÓN", "PÁ-ja-ro", "re-LOJ"],
+   "ejemplos": [
+    "ME-sa",
+    "ca-MIÓN",
+    "PÁ-ja-ro",
+    "re-LOJ"
+   ],
    "contraejemplos": [],
    "truco": "Di la palabra como si llamaras a alguien desde lejos: ¡meeeesa! La sílaba que alargas es la tónica."
   },
@@ -38,7 +52,12 @@
     "Esdrújula: la tónica es la antepenúltima (MÚ-si-ca).",
     "Sobresdrújula: la tónica está antes de la antepenúltima (DÍ-ga-me-lo)."
    ],
-   "ejemplos": ["café (aguda)", "lápiz (llana)", "pájaro (esdrújula)", "cómetelo (sobresdrújula)"],
+   "ejemplos": [
+    "café (aguda)",
+    "lápiz (llana)",
+    "pájaro (esdrújula)",
+    "cómetelo (sobresdrújula)"
+   ],
    "contraejemplos": [],
    "truco": "Cuenta siempre desde el final: última → aguda, penúltima → llana, antepenúltima → esdrújula."
   },
@@ -50,8 +69,18 @@
     "Si la palabra es aguda y acaba en vocal (a, e, i, o, u), en -n o en -s, lleva tilde: sofá, camión, compás.",
     "Si acaba en cualquier otra letra, no lleva tilde: reloj, pared, comer, feliz."
    ],
-   "ejemplos": ["café", "jamón", "autobús", "jabalí"],
-   "contraejemplos": ["reloj", "papel", "feliz", "ciudad"],
+   "ejemplos": [
+    "café",
+    "jamón",
+    "autobús",
+    "jabalí"
+   ],
+   "contraejemplos": [
+    "reloj",
+    "papel",
+    "feliz",
+    "ciudad"
+   ],
    "truco": "Agudas: «vocal, ene, ese → tilde ponles»."
   },
   {
@@ -62,8 +91,18 @@
     "Si la palabra es llana y acaba en una letra que no sea vocal, -n o -s, lleva tilde: árbol, lápiz, fácil, azúcar.",
     "Si acaba en vocal, -n o -s, no lleva tilde: mesa, examen, lunes."
    ],
-   "ejemplos": ["árbol", "lápiz", "móvil", "cárcel"],
-   "contraejemplos": ["casa", "examen", "joven", "martes"],
+   "ejemplos": [
+    "árbol",
+    "lápiz",
+    "móvil",
+    "cárcel"
+   ],
+   "contraejemplos": [
+    "casa",
+    "examen",
+    "joven",
+    "martes"
+   ],
    "truco": "Las llanas hacen lo contrario que las agudas."
   },
   {
@@ -74,7 +113,12 @@
     "No importa en qué letra acaben: si la tónica es la antepenúltima sílaba (o una anterior), lleva tilde.",
     "Ojo con los plurales: «examen» es llana, pero «exámenes» es esdrújula y lleva tilde."
    ],
-   "ejemplos": ["música", "pájaro", "teléfono", "dígamelo"],
+   "ejemplos": [
+    "música",
+    "pájaro",
+    "teléfono",
+    "dígamelo"
+   ],
    "contraejemplos": [],
    "truco": "Esdrújula = tilde segura."
   },
@@ -87,8 +131,17 @@
     "Las agudas que acaban en -s o -n detrás de otra consonante no llevan tilde: robots, complots.",
     "Las llanas que acaban en -s detrás de otra consonante sí llevan tilde: bíceps, cómics, fórceps."
    ],
-   "ejemplos": ["virrey", "robots", "bíceps", "cómics"],
-   "contraejemplos": ["virréy ✗", "robóts ✗", "biceps ✗"],
+   "ejemplos": [
+    "virrey",
+    "robots",
+    "bíceps",
+    "cómics"
+   ],
+   "contraejemplos": [
+    "virréy ✗",
+    "robóts ✗",
+    "biceps ✗"
+   ],
    "truco": "La regla de «vocal, -n o -s» solo vale si delante de la -n o la -s hay una vocal."
   },
   {
@@ -102,8 +155,16 @@
     "La h entre vocales no rompe el diptongo: prohi-bir.",
     "Si una palabra con diptongo lleva tilde, sigue las reglas generales y la tilde va en la vocal abierta: ca-mión, des-pués."
    ],
-   "ejemplos": ["cie-lo", "puer-ta", "ciu-dad", "buey"],
-   "contraejemplos": ["ci-e-lo ✗", "pu-er-ta ✗"],
+   "ejemplos": [
+    "cie-lo",
+    "puer-ta",
+    "ciu-dad",
+    "buey"
+   ],
+   "contraejemplos": [
+    "ci-e-lo ✗",
+    "pu-er-ta ✗"
+   ],
    "truco": "Si la i o la u no suenan fuerte, se pegan a la vocal de al lado."
   },
   {
@@ -115,8 +176,18 @@
     "Cuando la i o la u es la que suena fuerte junto a una abierta, también hay hiato, y entonces la i o la u lleva tilde SIEMPRE, aunque las reglas generales digan lo contrario: pa-ís, rí-o, ba-úl, re-ír.",
     "La h en medio no cambia nada: bú-ho, pro-hí-be."
    ],
-   "ejemplos": ["país", "día", "búho", "reír", "oído"],
-   "contraejemplos": ["pais ✗", "buho ✗", "reir ✗"],
+   "ejemplos": [
+    "país",
+    "día",
+    "búho",
+    "reír",
+    "oído"
+   ],
+   "contraejemplos": [
+    "pais ✗",
+    "buho ✗",
+    "reir ✗"
+   ],
    "truco": "Si la i o la u «se escapa» a su propia sílaba y suena fuerte, se gana una tilde."
   },
   {
@@ -128,8 +199,19 @@
     "Desde 2010, guion, truhan, rio (de reír) o crie también se consideran monosílabos y van sin tilde.",
     "Solo llevan tilde algunos monosílabos para distinguirse de otros que se escriben igual: tú/tu, él/el, mí/mi, sí/si… (es la tilde diacrítica)."
    ],
-   "ejemplos": ["fue", "dio", "vio", "ti", "guion"],
-   "contraejemplos": ["fué ✗", "dió ✗", "tí ✗", "guión ✗"],
+   "ejemplos": [
+    "fue",
+    "dio",
+    "vio",
+    "ti",
+    "guion"
+   ],
+   "contraejemplos": [
+    "fué ✗",
+    "dió ✗",
+    "tí ✗",
+    "guión ✗"
+   ],
    "truco": "Una sílaba, cero tildes… salvo que haya una «gemela» con otro significado."
   },
   {
@@ -142,9 +224,364 @@
     "3. Aplica la regla: agudas en vocal/-n/-s → tilde; llanas que NO acaban en vocal/-n/-s → tilde; esdrújulas → siempre.",
     "4. Revisa si hay hiato con i/u tónica: entonces tilde siempre."
    ],
-   "ejemplos": ["camión", "árbol", "música", "país"],
+   "ejemplos": [
+    "camión",
+    "árbol",
+    "música",
+    "país"
+   ],
    "contraejemplos": [],
    "truco": "Tónica → tipo → regla."
+  },
+  {
+   "id": "diacritica",
+   "titulo": "La tilde diacrítica",
+   "resumen": "Algunos monosílabos llevan tilde para distinguirse de otra palabra que se escribe igual.",
+   "explicacion": [
+    "tú (pronombre) / tu (posesivo): tú eres / tu casa.",
+    "él (pronombre) / el (artículo): él vino / el perro.",
+    "mí (pronombre) / mi (posesivo): para mí / mi gato.",
+    "sí (afirmación o pronombre) / si (condición): sí, quiero / si llueve.",
+    "sé (saber o ser) / se (pronombre): no sé / se ríe.",
+    "té (bebida) / te (pronombre): un té / te quiero.",
+    "dé (dar) / de (preposición): que me dé / vaso de agua.",
+    "más (cantidad) / mas (pero): más helado / quise, mas no pude.",
+    "aún (todavía) / aun (incluso): aún no ha llegado / aun así."
+   ],
+   "ejemplos": [
+    "tú",
+    "él",
+    "mí",
+    "sí",
+    "sé",
+    "té",
+    "dé",
+    "más",
+    "aún"
+   ],
+   "contraejemplos": [
+    "ti ✗ tí",
+    "fue ✗ fué"
+   ],
+   "truco": "Si puedes cambiarlo por «todavía», es aún con tilde."
+  },
+  {
+   "id": "interrogativos",
+   "titulo": "Interrogativos y exclamativos",
+   "resumen": "qué, quién, cuál, cómo, cuándo, dónde, cuánto llevan tilde cuando preguntan o exclaman.",
+   "explicacion": [
+    "En las preguntas y exclamaciones directas llevan tilde: ¿Qué hora es? ¡Cómo llueve!",
+    "También en las indirectas, aunque no haya signos: No sé qué hacer. Dime cuándo vienes.",
+    "Si no preguntan ni exclaman, van sin tilde: Dice que vendrá. Hazlo como quieras. El parque donde jugamos."
+   ],
+   "ejemplos": [
+    "¿Qué quieres?",
+    "No sé dónde está.",
+    "¡Cuánto te quiero!"
+   ],
+   "contraejemplos": [
+    "Dice qué vendrá ✗",
+    "El parque dónde jugamos ✗"
+   ],
+   "truco": "Si puedes convertir la frase en una pregunta, lleva tilde."
+  },
+  {
+   "id": "porque",
+   "titulo": "Por qué, porque, porqué y por que",
+   "resumen": "Cuatro formas que suenan igual pero se escriben distinto.",
+   "explicacion": [
+    "por qué: para preguntar. ¿Por qué lloras? No sé por qué lloras.",
+    "porque: para responder o dar la causa. Lloro porque me duele.",
+    "porqué: es un nombre (el motivo). Va con el, un, su… No sé el porqué.",
+    "por que: equivale a «por el que, por la que…». La razón por (la) que lo hizo."
+   ],
+   "ejemplos": [
+    "¿Por qué?",
+    "porque sí",
+    "el porqué",
+    "la razón por que"
+   ],
+   "contraejemplos": [],
+   "truco": "¿Pregunta? → por qué. ¿Responde? → porque. ¿Lleva «el» delante? → porqué."
+  },
+  {
+   "id": "solo-demostrativos",
+   "titulo": "Solo y los demostrativos",
+   "resumen": "Desde 2010, «solo» y los demostrativos (este, ese, aquel…) se escriben sin tilde.",
+   "explicacion": [
+    "«solo» se escribe sin tilde tanto si significa «solamente» como «sin compañía».",
+    "este, esta, ese, esa, aquel, aquella (y sus plurales) van siempre sin tilde.",
+    "esto, eso y aquello no han llevado tilde nunca."
+   ],
+   "ejemplos": [
+    "Solo quiero agua.",
+    "Este es mi libro.",
+    "Prefiero aquel."
+   ],
+   "contraejemplos": [
+    "sólo ✗",
+    "éste ✗",
+    "ésto ✗"
+   ]
+  },
+  {
+   "id": "mente-compuestos",
+   "titulo": "-mente, compuestos y pronombres pegados",
+   "resumen": "Cada tipo de palabra tiene su truco.",
+   "explicacion": [
+    "Los adverbios en -mente conservan la tilde del adjetivo: rápida → rápidamente; feliz → felizmente.",
+    "Las palabras compuestas se escriben como una sola palabra y siguen las reglas generales: balón + cesto → baloncesto (sin tilde); décimo + séptimo → decimoséptimo.",
+    "Con pronombres pegados al verbo, se aplican las reglas generales a la palabra completa: da + me + lo → dámelo (esdrújula); da + me → dame (llana, sin tilde)."
+   ],
+   "ejemplos": [
+    "fácilmente",
+    "decimoséptimo",
+    "dímelo",
+    "dame"
+   ],
+   "contraejemplos": [
+    "felízmente ✗",
+    "balóncesto ✗",
+    "dáme ✗"
+   ]
+  },
+  {
+   "id": "mayusculas-tilde",
+   "titulo": "Las mayúsculas llevan tilde",
+   "resumen": "Las letras mayúsculas también llevan tilde cuando les toca.",
+   "explicacion": [
+    "Las reglas de la tilde son iguales en mayúscula y minúscula: Álvaro, África, ÁRBOL, CAMIÓN.",
+    "No poner tilde en mayúsculas es una falta de ortografía."
+   ],
+   "ejemplos": [
+    "Álvaro",
+    "Óscar",
+    "ÁFRICA",
+    "CAMIÓN"
+   ],
+   "contraejemplos": [
+    "Alvaro ✗",
+    "AFRICA ✗"
+   ]
+  },
+  {
+   "id": "b-v",
+   "titulo": "B o V",
+   "resumen": "Algunas reglas ayudan a saber cuándo se escribe b y cuándo v.",
+   "explicacion": [
+    "Se escribe b delante de l y r: blanco, brazo, hablar.",
+    "Se escribe m (nunca n) delante de b y p: hombre, campo.",
+    "Las terminaciones -aba, -abas, -ábamos del pasado van con b: cantaba, jugábamos.",
+    "Las palabras en -ble y -bilidad van con b: amable, posibilidad.",
+    "Después de n se escribe v: invierno, enviar.",
+    "Los adjetivos en -ivo, -iva van con v: activo, deportiva."
+   ],
+   "ejemplos": [
+    "blanco",
+    "hombre",
+    "cantaba",
+    "amable",
+    "invierno",
+    "activo"
+   ],
+   "contraejemplos": [
+    "honbre ✗",
+    "cantava ✗",
+    "inbierno ✗"
+   ]
+  },
+  {
+   "id": "g-j",
+   "titulo": "G o J",
+   "resumen": "El sonido «je», «ji» puede escribirse con g o con j.",
+   "explicacion": [
+    "Los verbos en -ger y -gir van con g: coger, elegir (excepto tejer y crujir).",
+    "geo- y -logía van con g: geografía, biología.",
+    "Las palabras en -aje y -jero van con j: viaje, pasajero.",
+    "gue, gui: la u no suena (guitarra). Si la u suena, lleva diéresis: pingüino, vergüenza."
+   ],
+   "ejemplos": [
+    "coger",
+    "geografía",
+    "viaje",
+    "guitarra",
+    "pingüino"
+   ],
+   "contraejemplos": [
+    "cojer ✗",
+    "viage ✗",
+    "pinguino ✗"
+   ]
+  },
+  {
+   "id": "h",
+   "titulo": "La H",
+   "resumen": "La h no suena, así que hay que recordar dónde va.",
+   "explicacion": [
+    "Llevan h las palabras que empiezan por hie-, hue-, hui-: hielo, huevo, huir.",
+    "También las que empiezan por hum-, hip-, hosp-, hist-: humo, hipopótamo, hospital, historia.",
+    "Los verbos hacer, haber, hablar y sus familias: hice, había, hablamos.",
+    "¡Ojo! Muchas palabras no llevan h: orden, aire, oler, abuelo."
+   ],
+   "ejemplos": [
+    "hielo",
+    "huevo",
+    "humo",
+    "hospital",
+    "hacer"
+   ],
+   "contraejemplos": [
+    "uevo ✗",
+    "horden ✗"
+   ]
+  },
+  {
+   "id": "ll-y",
+   "titulo": "LL o Y",
+   "resumen": "Suenan casi igual, pero se escriben distinto.",
+   "explicacion": [
+    "Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+    "Muchas palabras hay que aprenderlas: lluvia, calle, caballo (con ll); playa, ayer, yogur (con y)."
+   ],
+   "ejemplos": [
+    "silla",
+    "lluvia",
+    "playa",
+    "yogur"
+   ],
+   "contraejemplos": [
+    "siya ✗",
+    "plalla ✗"
+   ]
+  },
+  {
+   "id": "r-rr",
+   "titulo": "R o RR",
+   "resumen": "El sonido fuerte de la r se escribe a veces con r y a veces con rr.",
+   "explicacion": [
+    "Entre vocales, el sonido fuerte se escribe rr: perro, tierra, carretera.",
+    "Al principio de palabra se escribe una sola r: ratón, rueda.",
+    "Detrás de n, l o s también una sola r: Enrique, alrededor, Israel.",
+    "En las palabras compuestas, si la r queda entre vocales, se dobla: pelirrojo."
+   ],
+   "ejemplos": [
+    "tierra",
+    "ratón",
+    "Enrique",
+    "alrededor",
+    "pelirrojo"
+   ],
+   "contraejemplos": [
+    "rratón ✗",
+    "Enrrique ✗",
+    "pelirojo ✗"
+   ]
+  },
+  {
+   "id": "c-z",
+   "titulo": "C, Z o S",
+   "resumen": "El sonido «z» se escribe con c delante de e, i y con z delante de a, o, u.",
+   "explicacion": [
+    "ce, ci: cereza, cielo. za, zo, zu: zapato, zorro, azúcar.",
+    "Las palabras que acaban en z hacen el plural en -ces: lápiz → lápices, pez → peces.",
+    "Los verbos en -cer y -cir van con c: conocer, decir."
+   ],
+   "ejemplos": [
+    "cereza",
+    "zapato",
+    "lápices",
+    "conocer"
+   ],
+   "contraejemplos": [
+    "luzes ✗",
+    "sapato ✗"
+   ]
+  },
+  {
+   "id": "x-s",
+   "titulo": "X o S",
+   "resumen": "Algunas palabras llevan x aunque a veces suene como s.",
+   "explicacion": [
+    "examen, éxito, taxi, texto, extraño, explicar, excursión… se escriben con x.",
+    "Pero estrella, espalda, escuela, esperar… se escriben con s."
+   ],
+   "ejemplos": [
+    "examen",
+    "explicar",
+    "estrella",
+    "escuela"
+   ],
+   "contraejemplos": [
+    "esamen ✗",
+    "extrella ✗"
+   ]
+  },
+  {
+   "id": "homofonos",
+   "titulo": "Palabras homófonas",
+   "resumen": "Suenan igual pero se escriben distinto y significan cosas distintas.",
+   "explicacion": [
+    "hay (haber) / ahí (lugar) / ¡ay! (queja).",
+    "haber (verbo) / a ver (a + ver).",
+    "hecho (hacer) / echo (echar).",
+    "vaya (ir) / valla (cerca) / baya (fruto).",
+    "tubo (cilindro) / tuvo (tener).",
+    "hola (saludo) / ola (del mar).",
+    "ha (haber) / a (preposición)."
+   ],
+   "ejemplos": [
+    "Hay pan.",
+    "Está ahí.",
+    "¡Ay!",
+    "Vamos a ver."
+   ],
+   "contraejemplos": [],
+   "truco": "Piensa qué significa la palabra en la frase y elige la que encaja."
+  },
+  {
+   "id": "mayusculas",
+   "titulo": "Las mayúsculas",
+   "resumen": "Mayúscula al empezar y en los nombres propios; lo demás, en minúscula.",
+   "explicacion": [
+    "Van con mayúscula la primera palabra de un texto y la que va después de un punto.",
+    "También los nombres propios: personas, mascotas, ciudades, países, ríos, montañas…",
+    "Van con minúscula los días de la semana, los meses, las estaciones y los gentilicios (español, francés).",
+    "En «río Ebro» o «calle Mayor», la palabra genérica (río, calle) va en minúscula."
+   ],
+   "ejemplos": [
+    "Madrid",
+    "Lucía",
+    "el río Ebro",
+    "el lunes",
+    "en enero"
+   ],
+   "contraejemplos": [
+    "el Lunes ✗",
+    "en Enero ✗",
+    "los Españoles ✗"
+   ]
+  },
+  {
+   "id": "puntuacion",
+   "titulo": "La puntuación",
+   "resumen": "Los signos ayudan a leer bien una frase.",
+   "explicacion": [
+    "En español, las preguntas se abren con ¿ y las exclamaciones con ¡.",
+    "Los signos ¿? y ¡! rodean solo la parte que pregunta o exclama: Hola, ¿cómo estás?",
+    "Se pone coma detrás del nombre de la persona a la que hablas: María, ven.",
+    "En una lista se separan los elementos con comas, pero no se pone coma delante de la «y» final.",
+    "Detrás del saludo de una carta y antes de una enumeración se ponen dos puntos."
+   ],
+   "ejemplos": [
+    "¿Qué hora es?",
+    "¡Hola!",
+    "Hola, ¿qué tal?",
+    "pan, leche y huevos"
+   ],
+   "contraejemplos": [
+    "Qué hora es? ✗",
+    "pan, leche, y huevos ✗"
+   ]
   }
  ]
 }

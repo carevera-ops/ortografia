@@ -1,0 +1,837 @@
+{
+ "unidad": "B7",
+ "items": [
+  {
+   "id": "B7-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Ayer llovió. hoy hace sol.",
+    "Ayer llovió. Hoy hace sol."
+   ],
+   "respuesta": "Ayer llovió. Hoy hace sol.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Ayer llovió. Hoy hace sol. Después de un punto se escribe mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Nos vemos en Navidad.",
+    "Nos vemos en navidad."
+   ],
+   "respuesta": "Nos vemos en Navidad.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Nos vemos en Navidad. Las fiestas (Navidad, Semana Santa) van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Mis amigos son italianos.",
+    "Mis amigos son Italianos."
+   ],
+   "respuesta": "Mis amigos son italianos.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Mis amigos son italianos. Los gentilicios (italiano, alemán…) se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Mi abuela se llama Carmen.",
+    "Mi Abuela se llama Carmen."
+   ],
+   "respuesta": "Mi abuela se llama Carmen.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Mi abuela se llama Carmen. «Abuela» es un nombre común: va con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¿Pedro, vienes?",
+    "Pedro, ¿vienes?"
+   ],
+   "respuesta": "Pedro, ¿vienes?",
+   "dificultad": 1,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Pedro, ¿vienes? El nombre de la persona a la que hablas va fuera de la pregunta y separado por coma.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Hoy es martes, 3 de marzo.",
+    "Hoy es Martes, 3 de Marzo."
+   ],
+   "respuesta": "Hoy es martes, 3 de marzo.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Hoy es martes, 3 de marzo. Días y meses van con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Juan es Mexicano.",
+    "Juan es mexicano."
+   ],
+   "respuesta": "Juan es mexicano.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Juan es mexicano. Los gentilicios se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "El atlántico es un océano.",
+    "El Atlántico es un océano."
+   ],
+   "respuesta": "El Atlántico es un océano.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: El Atlántico es un océano. Los nombres de océanos, mares y montañas van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "El lunes voy al médico.",
+    "El Lunes voy al médico."
+   ],
+   "respuesta": "El lunes voy al médico.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: El lunes voy al médico. Los días de la semana se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Nací en enero.",
+    "Nací en Enero."
+   ],
+   "respuesta": "Nací en enero.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Nací en enero. Los meses se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Los domingos comemos paella.",
+    "Los Domingos comemos paella."
+   ],
+   "respuesta": "Los domingos comemos paella.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Los domingos comemos paella. Los días de la semana se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "El teide es un volcán.",
+    "El Teide es un volcán."
+   ],
+   "respuesta": "El Teide es un volcán.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: El Teide es un volcán. Los nombres de montañas y volcanes van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Los españoles cenan tarde.",
+    "Los Españoles cenan tarde."
+   ],
+   "respuesta": "Los españoles cenan tarde.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Los españoles cenan tarde. Los gentilicios (español, francés…) se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "En verano iré a Galicia.",
+    "En Verano iré a Galicia."
+   ],
+   "respuesta": "En verano iré a Galicia.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: En verano iré a Galicia. Las estaciones del año se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Sevilla está en Andalucía.",
+    "Sevilla está en andalucía."
+   ],
+   "respuesta": "Sevilla está en Andalucía.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Sevilla está en Andalucía. Los nombres de ciudades y comunidades van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "En otoño caen las hojas.",
+    "En Otoño caen las hojas."
+   ],
+   "respuesta": "En otoño caen las hojas.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: En otoño caen las hojas. Las estaciones del año se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¿Luis, has terminado?",
+    "Luis, ¿has terminado?"
+   ],
+   "respuesta": "Luis, ¿has terminado?",
+   "dificultad": 1,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Luis, ¿has terminado? El nombre de la persona a la que hablas va fuera de la pregunta y separado por coma.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Hoy es miércoles.",
+    "Hoy es Miércoles."
+   ],
+   "respuesta": "Hoy es miércoles.",
+   "dificultad": 1,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Hoy es miércoles. Los días de la semana se escriben con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¡Feliz cumpleaños.",
+    "¡Feliz cumpleaños!",
+    "Feliz cumpleaños!"
+   ],
+   "respuesta": "¡Feliz cumpleaños!",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¡Feliz cumpleaños! Las exclamaciones se abren con ¡ y se cierran con !.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¿dónde está Lucía?",
+    "¿Dónde está lucía?",
+    "¿Dónde está Lucía?"
+   ],
+   "respuesta": "¿Dónde está Lucía?",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: ¿Dónde está Lucía? Se escribe mayúscula al principio de la frase (aunque empiece por ¿) y en los nombres propios.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¿Quien ha llamado?",
+    "¿Quién ha llamado?",
+    "Quién ha llamado?"
+   ],
+   "respuesta": "¿Quién ha llamado?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Quién ha llamado? Pregunta con ¿? y «quién» con tilde porque pregunta.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Cuántos años tienes?",
+    "¿Cuantos años tienes?",
+    "¿Cuántos años tienes?"
+   ],
+   "respuesta": "¿Cuántos años tienes?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuántos años tienes? Pregunta con ¿? y «cuántos» con tilde porque pregunta.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Me gustan las manzanas, las peras, y las uvas.",
+    "Me gustan las manzanas, las peras y las uvas.",
+    "Me gustan las manzanas las peras y las uvas."
+   ],
+   "respuesta": "Me gustan las manzanas, las peras y las uvas.",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Me gustan las manzanas, las peras y las uvas. En una enumeración se separan los elementos con comas, pero NO se pone coma delante de la «y» final.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Me llamo Sara y vivo en Bilbao.",
+    "Me llamo Sara y vivo en bilbao.",
+    "Me llamo sara y vivo en Bilbao."
+   ],
+   "respuesta": "Me llamo Sara y vivo en Bilbao.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Me llamo Sara y vivo en Bilbao. Los nombres de personas y ciudades van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "El colegio está en la Calle Mayor.",
+    "El colegio está en la calle Mayor.",
+    "El colegio está en la calle mayor."
+   ],
+   "respuesta": "El colegio está en la calle Mayor.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: El colegio está en la calle Mayor. El nombre de la calle (Mayor) va con mayúscula; la palabra «calle», con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Mamá, ¿me ayudas?",
+    "¿Mamá, me ayudas?",
+    "Mamá ¿me ayudas?"
+   ],
+   "respuesta": "Mamá, ¿me ayudas?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Mamá, ¿me ayudas? Coma detrás del nombre de la persona a la que hablas, y ¿? solo en la pregunta.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Si vienes, ¿me traes un libro?",
+    "¿Si vienes, me traes un libro?",
+    "Si vienes, me traes un libro?"
+   ],
+   "respuesta": "Si vienes, ¿me traes un libro?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Si vienes, ¿me traes un libro? Los signos ¿? rodean solo la parte que pregunta.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Mi tía vive en Francia.",
+    "Mi tía vive en francia.",
+    "Mi Tía vive en Francia."
+   ],
+   "respuesta": "Mi tía vive en Francia.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Mi tía vive en Francia. Los nombres de países van con mayúscula; «tía» no es un nombre propio.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Ayer fui al Dentista.",
+    "Ayer fui al dentista.",
+    "ayer fui al dentista."
+   ],
+   "respuesta": "Ayer fui al dentista.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Ayer fui al dentista. Mayúscula al principio; «dentista» es un nombre común.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Ana, Pedro, y yo fuimos al cine.",
+    "Ana, Pedro y yo fuimos al cine.",
+    "Ana Pedro y yo fuimos al cine."
+   ],
+   "respuesta": "Ana, Pedro y yo fuimos al cine.",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Ana, Pedro y yo fuimos al cine. Comas entre los elementos de la lista, pero no delante de «y».",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¿Te gusta el chocolate.",
+    "Te gusta el chocolate?",
+    "¿Te gusta el chocolate?"
+   ],
+   "respuesta": "¿Te gusta el chocolate?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Te gusta el chocolate? Las preguntas se abren con ¿ y se cierran con ?.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0032",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Compré pan, leche y huevos.",
+    "Compré, pan, leche y huevos.",
+    "Compré pan, leche, y huevos."
+   ],
+   "respuesta": "Compré pan, leche y huevos.",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Compré pan, leche y huevos. Comas entre los elementos de la lista, pero no delante de «y».",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Mi perro se llama Toby.",
+    "mi perro se llama Toby.",
+    "Mi perro se llama toby."
+   ],
+   "respuesta": "Mi perro se llama Toby.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Mi perro se llama Toby. Los nombres propios (también los de mascotas) van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Qué bonito!",
+    "¡Qué bonito!",
+    "¡Qué bonito¡"
+   ],
+   "respuesta": "¡Qué bonito!",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¡Qué bonito! En español las exclamaciones se abren con ¡ y se cierran con !.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Vivo en Madrid.",
+    "vivo en Madrid.",
+    "Vivo en madrid."
+   ],
+   "respuesta": "Vivo en Madrid.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Vivo en Madrid. Los nombres de ciudades y la primera palabra de un texto van con mayúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Vienes al cine?",
+    "¿Vienes al cine?",
+    "¿Vienes al cine."
+   ],
+   "respuesta": "¿Vienes al cine?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Vienes al cine? Las preguntas se abren con ¿ y se cierran con ?.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Cuidado, que te caes!",
+    "¡Cuidado, que te caes!",
+    "¡Cuidado, que te caes."
+   ],
+   "respuesta": "¡Cuidado, que te caes!",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¡Cuidado, que te caes! Las exclamaciones se abren con ¡ y se cierran con !.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Mañana iremos al Río Ebro.",
+    "Mañana iremos al río Ebro.",
+    "Mañana iremos al río ebro."
+   ],
+   "respuesta": "Mañana iremos al río Ebro.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Mañana iremos al río Ebro. El nombre propio (Ebro) va con mayúscula; la palabra «río», con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¿Qué hora es?",
+    "Qué hora es?",
+    "¿Qué hora es¿"
+   ],
+   "respuesta": "¿Qué hora es?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Qué hora es? En español las preguntas se abren con ¿ y se cierran con ?.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0040",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Sabes qué? ¡Hemos ganado!",
+    "¿Sabes qué? hemos ganado!",
+    "¿Sabes qué? ¡Hemos ganado!"
+   ],
+   "respuesta": "¿Sabes qué? ¡Hemos ganado!",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Sabes qué? ¡Hemos ganado! Cada pregunta o exclamación lleva sus dos signos, y después de ? empieza una frase nueva con mayúscula.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0041",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Era alto rubio y simpático.",
+    "Era alto, rubio, y simpático.",
+    "Era alto, rubio y simpático."
+   ],
+   "respuesta": "Era alto, rubio y simpático.",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Era alto, rubio y simpático. Comas entre los elementos de la lista, pero no delante de «y».",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0042",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "Viajamos a Portugal en agosto.",
+    "Viajamos a Portugal en Agosto.",
+    "Viajamos a portugal en agosto."
+   ],
+   "respuesta": "Viajamos a Portugal en agosto.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: Viajamos a Portugal en agosto. Países con mayúscula; meses con minúscula.",
+   "regla_id": "mayusculas"
+  },
+  {
+   "id": "B7-0043",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Hola, ¿cómo estás?",
+    "¿Hola, cómo estás?",
+    "Hola, cómo estás?"
+   ],
+   "respuesta": "Hola, ¿cómo estás?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Hola, ¿cómo estás? Los signos ¿? rodean solo la pregunta; «hola» va fuera.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0044",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "María, ven aquí.",
+    "María, ven, aquí.",
+    "María ven aquí."
+   ],
+   "respuesta": "María, ven aquí.",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: María, ven aquí. El nombre de la persona a la que hablas se separa con una coma.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0045",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Querida abuela,",
+    "Querida abuela;",
+    "Querida abuela:"
+   ],
+   "respuesta": "Querida abuela:",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Querida abuela: Después del saludo de una carta se ponen dos puntos.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Has visto a Pablo?",
+    "¿Has visto a Pablo?",
+    "¿Has visto a pablo?"
+   ],
+   "respuesta": "¿Has visto a Pablo?",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¿Has visto a Pablo? Los nombres propios llevan mayúscula y las preguntas se abren con ¿.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0047",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Tengo tres hermanos. Ana, Luis y Marta.",
+    "Tengo tres hermanos: Ana, Luis y Marta.",
+    "Tengo tres hermanos; Ana, Luis y Marta."
+   ],
+   "respuesta": "Tengo tres hermanos: Ana, Luis y Marta.",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: Tengo tres hermanos: Ana, Luis y Marta. Antes de una lista que anuncias se ponen dos puntos.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "¡Que frío hace!",
+    "¡Qué frío hace!",
+    "Qué frío hace!"
+   ],
+   "respuesta": "¡Qué frío hace!",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¡Qué frío hace! Exclamación con ¡! y «qué» con tilde porque exclama.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien puntuada y escrita?",
+   "opciones": [
+    "Hola!",
+    "¡Hola¡",
+    "¡Hola!"
+   ],
+   "respuesta": "¡Hola!",
+   "dificultad": 2,
+   "skills": [
+    "puntuacion"
+   ],
+   "explicacion": "Lo correcto es: ¡Hola! Las exclamaciones se abren con ¡ y se cierran con !.",
+   "regla_id": "puntuacion"
+  },
+  {
+   "id": "B7-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Qué frase está bien escrita?",
+   "opciones": [
+    "el perro de Juan ladra mucho.",
+    "El perro de Juan ladra mucho.",
+    "El Perro de Juan ladra mucho."
+   ],
+   "respuesta": "El perro de Juan ladra mucho.",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas"
+   ],
+   "explicacion": "Lo correcto es: El perro de Juan ladra mucho. Mayúscula al principio y en los nombres propios; «perro» es común.",
+   "regla_id": "mayusculas"
+  }
+ ]
+}

@@ -1,0 +1,1596 @@
+{
+ "unidad": "A16",
+ "items": [
+  {
+   "id": "A16-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Cádiz",
+   "clase": "llana",
+   "opciones": [
+    "Cadiz",
+    "Cadíz",
+    "Cádiz"
+   ],
+   "respuesta": "Cádiz",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Cá-diz: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0002",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "atrás",
+   "clase": "aguda",
+   "respuesta": "atrás",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-trás: es aguda (suena fuerte «trás») y acaba en -s, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0003",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "camión",
+   "clase": "aguda",
+   "respuesta": "camión",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ca-mión: es aguda (suena fuerte «mión») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Úbeda",
+   "clase": "esdrujula",
+   "opciones": [
+    "Úbeda",
+    "Ubeda",
+    "Ubéda"
+   ],
+   "respuesta": "Úbeda",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ú-be-da: es esdrújula (suena fuerte «Ú»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÁRBOL",
+   "clase": "llana",
+   "opciones": [
+    "ARBÓL",
+    "ÁRBOL",
+    "ARBOL"
+   ],
+   "respuesta": "ÁRBOL",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÁR-BOL: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Óscar",
+   "clase": "llana",
+   "opciones": [
+    "Oscar",
+    "Óscar",
+    "Oscár"
+   ],
+   "respuesta": "Óscar",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ós-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0007",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "botón",
+   "clase": "aguda",
+   "respuesta": "botón",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "bo-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0008",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "galleta",
+   "clase": "llana",
+   "respuesta": "galleta",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ga-lle-ta: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0009",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "azul",
+   "clase": "aguda",
+   "respuesta": "azul",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-zul: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0010",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "allí",
+   "clase": "aguda",
+   "respuesta": "allí",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-llí: es aguda (suena fuerte «llí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÉXITO",
+   "clase": "esdrujula",
+   "opciones": [
+    "EXITO",
+    "ÉXITO",
+    "EXÍTO"
+   ],
+   "respuesta": "ÉXITO",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "É-XI-TO: es esdrújula (suena fuerte «É»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "PAÍS",
+   "clase": "aguda",
+   "opciones": [
+    "PAÍS",
+    "PAIS",
+    "PÁIS"
+   ],
+   "respuesta": "PAÍS",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "PA-ÍS: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0013",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "además",
+   "clase": "aguda",
+   "respuesta": "además",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-de-más: es aguda (suena fuerte «más») y acaba en -s, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "JAMÁS",
+   "clase": "aguda",
+   "opciones": [
+    "JAMÁS",
+    "JAMAS",
+    "JÁMAS"
+   ],
+   "respuesta": "JAMÁS",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "JA-MÁS: es aguda (suena fuerte «MÁS») y acaba en -s, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ángel",
+   "clase": "llana",
+   "opciones": [
+    "Angél",
+    "Angel",
+    "Ángel"
+   ],
+   "respuesta": "Ángel",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ávila",
+   "clase": "esdrujula",
+   "opciones": [
+    "Avilá",
+    "Avíla",
+    "Ávila"
+   ],
+   "respuesta": "Ávila",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-vi-la: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0017",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "álbum",
+   "clase": "llana",
+   "respuesta": "álbum",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ál-bum: es llana y acaba en -m; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0018",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "profesor",
+   "clase": "aguda",
+   "respuesta": "profesor",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "pro-fe-sor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "MÚSICA",
+   "clase": "esdrujula",
+   "opciones": [
+    "MÚSICA",
+    "MUSICA",
+    "MUSICÁ"
+   ],
+   "respuesta": "MÚSICA",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "MÚ-SI-CA: es esdrújula (suena fuerte «MÚ»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "LÁPIZ",
+   "clase": "llana",
+   "opciones": [
+    "LÁPIZ",
+    "LAPÍZ",
+    "LAPIZ"
+   ],
+   "respuesta": "LÁPIZ",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "LÁ-PIZ: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0021",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cárcel",
+   "clase": "llana",
+   "respuesta": "cárcel",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "cár-cel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Íñigo",
+   "clase": "esdrujula",
+   "opciones": [
+    "Íñigo",
+    "Iñigó",
+    "Iñigo"
+   ],
+   "respuesta": "Íñigo",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Í-ñi-go: es esdrújula (suena fuerte «Í»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "León",
+   "clase": "aguda",
+   "opciones": [
+    "Leon",
+    "Léon",
+    "León"
+   ],
+   "respuesta": "León",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Le-ón: es aguda (suena fuerte «ón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Mérida",
+   "clase": "esdrujula",
+   "opciones": [
+    "Meridá",
+    "Merída",
+    "Mérida"
+   ],
+   "respuesta": "Mérida",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Mé-ri-da: es esdrújula (suena fuerte «Mé»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0025",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "pantalón",
+   "clase": "aguda",
+   "respuesta": "pantalón",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "pan-ta-lón: es aguda (suena fuerte «lón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Atlántico",
+   "clase": "esdrujula",
+   "opciones": [
+    "Átlantico",
+    "Atlantíco",
+    "Atlántico"
+   ],
+   "respuesta": "Atlántico",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "At-lán-ti-co: es esdrújula (suena fuerte «lán»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0027",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "dormí",
+   "clase": "aguda",
+   "respuesta": "dormí",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "dor-mí: es aguda (suena fuerte «mí») y acaba en vocal, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Canadá",
+   "clase": "aguda",
+   "opciones": [
+    "Canadá",
+    "Cánada",
+    "Canada"
+   ],
+   "respuesta": "Canadá",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0029",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "alegría",
+   "clase": "llana",
+   "respuesta": "alegría",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "a-le-grí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÚLTIMO",
+   "clase": "esdrujula",
+   "opciones": [
+    "ÚLTIMO",
+    "ULTIMO",
+    "ULTIMÓ"
+   ],
+   "respuesta": "ÚLTIMO",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÚL-TI-MO: es esdrújula (suena fuerte «ÚL»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0031",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Álava",
+   "clase": "esdrujula",
+   "opciones": [
+    "Álava",
+    "Aláva",
+    "Alava"
+   ],
+   "respuesta": "Álava",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-la-va: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0032",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "jamón",
+   "clase": "aguda",
+   "respuesta": "jamón",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ja-món: es aguda (suena fuerte «món») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0033",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "manzana",
+   "clase": "llana",
+   "respuesta": "manzana",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "man-za-na: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0034",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "escuela",
+   "clase": "llana",
+   "respuesta": "escuela",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "es-cue-la: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÁFRICA",
+   "clase": "esdrujula",
+   "opciones": [
+    "AFRICÁ",
+    "AFRÍCA",
+    "ÁFRICA"
+   ],
+   "respuesta": "ÁFRICA",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-FRI-CA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Perú",
+   "clase": "aguda",
+   "opciones": [
+    "Perú",
+    "Peru",
+    "Péru"
+   ],
+   "respuesta": "Perú",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "CAMIÓN",
+   "clase": "aguda",
+   "opciones": [
+    "CAMIÓN",
+    "CÁMION",
+    "CAMION"
+   ],
+   "respuesta": "CAMIÓN",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "CA-MIÓN: es aguda (suena fuerte «MIÓN») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0038",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ámsterdam",
+   "clase": "esdrujula",
+   "opciones": [
+    "Amstérdam",
+    "Ámsterdam",
+    "Amsterdam"
+   ],
+   "respuesta": "Ámsterdam",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Áms-ter-dam: es esdrújula (suena fuerte «Áms»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0039",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "móvil",
+   "clase": "llana",
+   "respuesta": "móvil",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "mó-vil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0040",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tía",
+   "clase": "llana",
+   "respuesta": "tía",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "tí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0041",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "lunes",
+   "clase": "llana",
+   "respuesta": "lunes",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "lu-nes: es llana y acaba en -s, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0042",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "azúcar",
+   "clase": "llana",
+   "respuesta": "azúcar",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "a-zú-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0043",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Panamá",
+   "clase": "aguda",
+   "opciones": [
+    "Panáma",
+    "Pánama",
+    "Panamá"
+   ],
+   "respuesta": "Panamá",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0044",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Japón",
+   "clase": "aguda",
+   "opciones": [
+    "Japon",
+    "Japón",
+    "Jápon"
+   ],
+   "respuesta": "Japón",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ja-pón: es aguda (suena fuerte «pón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0045",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "opciones": [
+    "Afríca",
+    "Africá",
+    "África"
+   ],
+   "respuesta": "África",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0046",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "están",
+   "clase": "aguda",
+   "respuesta": "están",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "es-tán: es aguda (suena fuerte «tán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0047",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Málaga",
+   "clase": "esdrujula",
+   "opciones": [
+    "Málaga",
+    "Malaga",
+    "Malagá"
+   ],
+   "respuesta": "Málaga",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Má-la-ga: es esdrújula (suena fuerte «Má»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Ángela",
+   "clase": "esdrujula",
+   "opciones": [
+    "Angela",
+    "Ángela",
+    "Angelá"
+   ],
+   "respuesta": "Ángela",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-ge-la: es esdrújula (suena fuerte «Án»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0049",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "árboles",
+   "clase": "esdrujula",
+   "respuesta": "árboles",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "ár-bo-les: es esdrújula (suena fuerte «ár»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0050",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÓRGANO",
+   "clase": "esdrujula",
+   "opciones": [
+    "ÓRGANO",
+    "ORGANO",
+    "ORGANÓ"
+   ],
+   "respuesta": "ÓRGANO",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÓR-GA-NO: es esdrújula (suena fuerte «ÓR»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0051",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ÁGUILA",
+   "clase": "esdrujula",
+   "opciones": [
+    "ÁGUILA",
+    "AGUÍLA",
+    "AGUILA"
+   ],
+   "respuesta": "ÁGUILA",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-GUI-LA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0052",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "perro",
+   "clase": "llana",
+   "respuesta": "perro",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "pe-rro: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0053",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Álvaro",
+   "clase": "esdrujula",
+   "opciones": [
+    "Alváro",
+    "Alvaró",
+    "Álvaro"
+   ],
+   "respuesta": "Álvaro",
+   "dificultad": 2,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ál-va-ro: es esdrújula (suena fuerte «Ál»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0054",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "policía",
+   "clase": "llana",
+   "respuesta": "policía",
+   "dificultad": 2,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "po-li-cí-a: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0055",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÉXITO",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "É-XI-TO: es esdrújula (suena fuerte «É»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0056",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Japón",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ja-pón: es aguda (suena fuerte «pón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0057",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÚLTIMO",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÚL-TI-MO: es esdrújula (suena fuerte «ÚL»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0058",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "heroína",
+   "clase": "llana",
+   "respuesta": "heroína",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "he-ro-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0059",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "caída",
+   "clase": "llana",
+   "respuesta": "caída",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ca-í-da: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0060",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "taller",
+   "clase": "aguda",
+   "respuesta": "taller",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "ta-ller: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0061",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tormenta",
+   "clase": "llana",
+   "respuesta": "tormenta",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "tor-men-ta: es llana y acaba en vocal, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0062",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Cádiz",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Cá-diz: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0063",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Canadá",
+   "clase": "aguda",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ca-na-dá: es aguda (suena fuerte «dá») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0064",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "resumen",
+   "clase": "llana",
+   "respuesta": "resumen",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "re-su-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0065",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "CAMIÓN",
+   "clase": "aguda",
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "CA-MIÓN: es aguda (suena fuerte «MIÓN») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0066",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "tractor",
+   "clase": "aguda",
+   "respuesta": "tractor",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "trac-tor: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0067",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "jardín",
+   "clase": "aguda",
+   "respuesta": "jardín",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "jar-dín: es aguda (suena fuerte «dín») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0068",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "farol",
+   "clase": "aguda",
+   "respuesta": "farol",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "fa-rol: es aguda y acaba en -l; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0069",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Ángela",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-ge-la: es esdrújula (suena fuerte «Án»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0070",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-fri-ca: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0071",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Córdoba",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Cór-do-ba: es esdrújula (suena fuerte «Cór»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0072",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "francés",
+   "clase": "aguda",
+   "respuesta": "francés",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "fran-cés: es aguda (suena fuerte «cés») y acaba en -s, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0073",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Mérida",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Mé-ri-da: es esdrújula (suena fuerte «Mé»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0074",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "vivirán",
+   "clase": "aguda",
+   "respuesta": "vivirán",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "vi-vi-rán: es aguda (suena fuerte «rán») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0075",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "LÁPIZ",
+   "clase": "llana",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "LÁ-PIZ: es llana y acaba en -z; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0076",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÓRGANO",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÓR-GA-NO: es esdrújula (suena fuerte «ÓR»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0077",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "débil",
+   "clase": "llana",
+   "respuesta": "débil",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "dé-bil: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0078",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Ángel",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Án-gel: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0079",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "PAÍS",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "PA-ÍS: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0080",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Óscar",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ós-car: es llana y acaba en -r; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0081",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Ámsterdam",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Áms-ter-dam: es esdrújula (suena fuerte «Áms»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0082",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "examen",
+   "clase": "llana",
+   "respuesta": "examen",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "e-xa-men: es llana y acaba en -n, así que no lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0083",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Úbeda",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Ú-be-da: es esdrújula (suena fuerte «Ú»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0084",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "anís",
+   "clase": "aguda",
+   "respuesta": "anís",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "a-nís: es aguda (suena fuerte «nís») y acaba en -s, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0085",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cafeína",
+   "clase": "llana",
+   "respuesta": "cafeína",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "llanas"
+   ],
+   "explicacion": "ca-fe-í-na: la «i» suena fuerte y forma hiato con la vocal de al lado, así que lleva tilde siempre, digan lo que digan las reglas generales.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0086",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÁFRICA",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-FRI-CA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0087",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Panamá",
+   "clase": "aguda",
+   "respuesta": 5,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pa-na-má: es aguda (suena fuerte «má») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0088",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÁRBOL",
+   "clase": "llana",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "ÁR-BOL: es llana y acaba en -l; las llanas llevan tilde cuando NO acaban en vocal, -n o -s. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0089",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "ÁGUILA",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-GUI-LA: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0090",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Málaga",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Má-la-ga: es esdrújula (suena fuerte «Má»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0091",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "respuesta": "pirámide",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "esdrujulas"
+   ],
+   "explicacion": "pi-rá-mi-de: es esdrújula (suena fuerte «rá»), y estas llevan tilde siempre.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0092",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "León",
+   "clase": "aguda",
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Le-ón: es aguda (suena fuerte «ón») y acaba en -n, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0093",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "JAMÁS",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "JA-MÁS: es aguda (suena fuerte «MÁS») y acaba en -s, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0094",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "MÚSICA",
+   "clase": "esdrujula",
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "MÚ-SI-CA: es esdrújula (suena fuerte «MÚ»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0095",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Atlántico",
+   "clase": "esdrujula",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "At-lán-ti-co: es esdrújula (suena fuerte «lán»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0096",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Álava",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-la-va: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0097",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "cartón",
+   "clase": "aguda",
+   "respuesta": "cartón",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "car-tón: es aguda (suena fuerte «tón») y acaba en -n, así que lleva tilde.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0098",
+   "tipo": "dictado",
+   "enunciado": "Escucha y escribe la palabra",
+   "palabra": "mujer",
+   "clase": "aguda",
+   "respuesta": "mujer",
+   "dificultad": 3,
+   "skills": [
+    "dictado",
+    "agudas"
+   ],
+   "explicacion": "mu-jer: es aguda y acaba en -r; las agudas solo llevan tilde si acaban en vocal, -n o -s.",
+   "regla_id": "reglas"
+  },
+  {
+   "id": "A16-0099",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Ávila",
+   "clase": "esdrujula",
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Á-vi-la: es esdrújula (suena fuerte «Á»), y estas llevan tilde siempre. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  },
+  {
+   "id": "A16-0100",
+   "tipo": "poner_tilde",
+   "enunciado": "Toca la vocal que lleva tilde (o «No lleva tilde»)",
+   "palabra": "Perú",
+   "clase": "aguda",
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "mayusculas_tilde"
+   ],
+   "explicacion": "Pe-rú: es aguda (suena fuerte «rú») y acaba en vocal, así que lleva tilde. ¡Las mayúsculas también llevan tilde!",
+   "regla_id": "mayusculas-tilde"
+  }
+ ]
+}

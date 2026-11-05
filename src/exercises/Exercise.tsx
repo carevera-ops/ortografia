@@ -1,6 +1,7 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import type { Item } from '../core/content/schema';
-import type { AnswerValue } from '../core/engine/grade';
+import { alignChars, type AnswerValue } from '../core/engine/grade';
+import { speak } from '../audio/tts';
 import { stripAccents, isVowel } from '../core/phonology/phonology';
 
 export interface ExerciseProps {
@@ -20,12 +21,24 @@ function BigWord({ children }: { children: React.ReactNode }) {
 /** Elegir entre opciones (elegir, clasificar, explica_regla, diptongo_hiato, hueco). */
 function Choice({ item, locked, verdict, onChange }: ExerciseProps) {
   const [sel, setSel] = useState<string | null>(null);
-  const showWord = item.tipo !== 'elegir' && item.palabra && !item.enunciado.includes(item.palabra);
-  const wordy = item.tipo === 'elegir';
+  const isGap = !!item.frase?.includes('___');
+  const showWord = !isGap && item.tipo !== 'elegir' && item.palabra && !item.enunciado.includes(item.palabra);
+  // Opciones cortas (palabras o letras) en grande; frases completas en tamaño normal.
+  const wordy = item.opciones!.every((o) => o.length <= 16);
+  const [pre, post] = isGap ? (item.frase!.split('___') as [string, string]) : ['', ''];
+  const shown = locked ? String(item.respuesta) : sel;
   return (
     <>
       {showWord && <BigWord>{item.palabra}</BigWord>}
-      {item.frase && <p className="sentence">{item.frase}</p>}
+      {isGap && (
+        <p className={item.palabra ? 'big-word gap-word' : 'sentence'} aria-label={`${pre} hueco ${post}`}>
+          {pre}
+          <span className={`blank${shown ? ' filled' : ''}${locked ? ' ok' : ''}`}>
+            {shown && shown !== 'nada' ? shown : '\u00A0\u00A0\u00A0\u00A0'}
+          </span>
+          {post}
+        </p>
+      )}
       <div className={wordy ? 'options words' : 'options'} role="radiogroup" aria-label="Opciones">
         {item.opciones!.map((o) => {
           let cls = 'option';
@@ -44,11 +57,119 @@ function Choice({ item, locked, verdict, onChange }: ExerciseProps) {
                 onChange(o);
               }}
             >
-              {o}
+              {o === 'nada' ? 'nada (sin letra)' : o}
             </button>
           );
         })}
       </div>
+    </>
+  );
+}
+
+/** Detectar el error: tocar la palabra mal escrita de la frase. */
+function Detectar({ item, locked, verdict, onChange }: ExerciseProps) {
+  const [sel, setSel] = useState<number | null>(null);
+  return (
+    <div className="sentence tokens" role="radiogroup" aria-label="Palabras de la frase">
+      {item.opciones!.map((t, i) => {
+        let cls = 'token';
+        if (sel === i) cls += ' selected';
+        if (locked && i === item.respuesta) cls += ' is-correct';
+        if (locked && sel === i && verdict === 'wrong') cls += ' is-wrong';
+        return (
+          <button
+            key={i}
+            className={cls}
+            role="radio"
+            aria-checked={sel === i}
+            disabled={locked}
+            onClick={() => {
+              setSel(i);
+              onChange(i);
+            }}
+          >
+            {locked && i === item.respuesta ? (
+              <>
+                <s>{t}</s> {item.correccion}
+              </>
+            ) : (
+              t
+            )}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+const ACCENT_KEYS = ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ'];
+
+/** Dictado: se escucha la palabra y se escribe. Corrección carácter a carácter. */
+function Dictado({ item, locked, verdict, onChange }: ExerciseProps) {
+  const [text, setText] = useState('');
+  const input = useRef<HTMLInputElement>(null);
+  const update = (v: string) => {
+    setText(v);
+    onChange(v.trim() ? v : null);
+  };
+  // Inserta la vocal acentuada donde está el cursor (sin depender de la pulsación larga del teclado).
+  const insert = (ch: string) => {
+    const el = input.current;
+    if (!el) return update(text + ch);
+    const start = el.selectionStart ?? text.length;
+    const end = el.selectionEnd ?? text.length;
+    const v = text.slice(0, start) + ch + text.slice(end);
+    update(v);
+    requestAnimationFrame(() => {
+      el.focus();
+      el.setSelectionRange(start + ch.length, start + ch.length);
+    });
+  };
+  const target = String(item.respuesta);
+  return (
+    <>
+      <div className="row center-row">
+        <button className="btn secondary listen" onClick={() => speak(target)} aria-label="Escuchar la palabra">
+          🔊 Escuchar
+        </button>
+        <button className="btn ghost small" onClick={() => speak(target, true)} aria-label="Escuchar más despacio">
+          🐢 Despacio
+        </button>
+      </div>
+      {!locked ? (
+        <>
+          <input
+            ref={input}
+            className="dictation-input"
+            type="text"
+            value={text}
+            onChange={(e) => update(e.target.value)}
+            onKeyDown={(e) => e.key === 'Enter' && input.current?.blur()}
+            autoCapitalize="off"
+            autoCorrect="off"
+            autoComplete="off"
+            spellCheck={false}
+            enterKeyHint="done"
+            aria-label="Escribe lo que oyes"
+            placeholder="Escribe aquí…"
+          />
+          <div className="accent-bar" role="group" aria-label="Letras especiales">
+            {ACCENT_KEYS.map((k) => (
+              <button key={k} className="accent-key" onPointerDown={(e) => e.preventDefault()} onClick={() => insert(k)}>
+                {k}
+              </button>
+            ))}
+          </div>
+        </>
+      ) : (
+        <div className={`dictation-result ${verdict}`} aria-label={`Has escrito ${text}`}>
+          {alignChars(text, target).map((c, i) => (
+            <span key={i} className={`ch ${c.status}`} title={c.expected}>
+              {c.status === 'missing' ? c.expected : c.ch}
+            </span>
+          ))}
+        </div>
+      )}
     </>
   );
 }
@@ -183,6 +304,10 @@ export function Exercise(props: ExerciseProps) {
       );
     case 'separar':
       return <Separar {...props} />;
+    case 'detectar_error':
+      return <Detectar {...props} />;
+    case 'dictado':
+      return <Dictado {...props} />;
     default:
       return <Choice {...props} />;
   }

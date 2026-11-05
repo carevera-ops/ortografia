@@ -66,3 +66,36 @@ export function answerText(item: Item, value: AnswerValue): string {
       return String(value);
   }
 }
+
+export type CharStatus = 'ok' | 'wrong' | 'missing' | 'extra';
+
+/**
+ * Compara carácter a carácter lo escrito con lo correcto (alineación de Levenshtein).
+ * Devuelve la lista de caracteres con su estado, para resaltar los errores (sobre todo las tildes).
+ */
+export function alignChars(typed: string, expected: string): { ch: string; expected?: string; status: CharStatus }[] {
+  const a = [...typed.trim()];
+  const b = [...expected];
+  const dp: number[][] = Array.from({ length: a.length + 1 }, (_, i) => Array.from({ length: b.length + 1 }, (_, j) => (i === 0 ? j : j === 0 ? i : 0)));
+  const same = (x: string, y: string) => x.toLowerCase() === y.toLowerCase();
+  for (let i = 1; i <= a.length; i++)
+    for (let j = 1; j <= b.length; j++)
+      dp[i]![j] = Math.min(dp[i - 1]![j]! + 1, dp[i]![j - 1]! + 1, dp[i - 1]![j - 1]! + (same(a[i - 1]!, b[j - 1]!) ? 0 : 1));
+  const out: { ch: string; expected?: string; status: CharStatus }[] = [];
+  let i = a.length;
+  let j = b.length;
+  while (i > 0 || j > 0) {
+    if (i > 0 && j > 0 && dp[i]![j] === dp[i - 1]![j - 1]! + (same(a[i - 1]!, b[j - 1]!) ? 0 : 1)) {
+      out.push({ ch: a[i - 1]!, expected: b[j - 1]!, status: same(a[i - 1]!, b[j - 1]!) ? 'ok' : 'wrong' });
+      i--;
+      j--;
+    } else if (j > 0 && dp[i]![j] === dp[i]![j - 1]! + 1) {
+      out.push({ ch: b[j - 1]!, expected: b[j - 1]!, status: 'missing' });
+      j--;
+    } else {
+      out.push({ ch: a[i - 1]!, status: 'extra' });
+      i--;
+    }
+  }
+  return out.reverse();
+}

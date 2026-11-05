@@ -1,0 +1,1450 @@
+{
+ "unidad": "A12",
+ "items": [
+  {
+   "id": "A12-0001",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ bonito es tu dibujo!",
+   "opciones": [
+    "Que",
+    "Qué"
+   ],
+   "respuesta": "Qué",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¡Qué bonito es tu dibujo! Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0002",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ hora es?",
+   "opciones": [
+    "Que",
+    "Qué"
+   ],
+   "respuesta": "Qué",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Qué hora es? Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0003",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Dice ___ vendrá mañana.",
+   "opciones": [
+    "que",
+    "qué"
+   ],
+   "respuesta": "que",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Dice que vendrá mañana. Sin tilde: aquí no pregunta ni exclama; une dos partes de la frase (dice que vendrá, el libro que me diste).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0004",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Le pregunté ___ le pasaba.",
+   "opciones": [
+    "qué",
+    "que"
+   ],
+   "respuesta": "qué",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Le pregunté qué le pasaba. Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0005",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El libro ___ me prestaste es genial.",
+   "opciones": [
+    "que",
+    "qué"
+   ],
+   "respuesta": "que",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "El libro que me prestaste es genial. Sin tilde: aquí no pregunta ni exclama; une dos partes de la frase (dice que vendrá, el libro que me diste).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0006",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ quieres para cenar?",
+   "opciones": [
+    "Que",
+    "Qué"
+   ],
+   "respuesta": "Qué",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Qué quieres para cenar? Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0007",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Creo ___ va a nevar.",
+   "opciones": [
+    "que",
+    "qué"
+   ],
+   "respuesta": "que",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Creo que va a nevar. Sin tilde: aquí no pregunta ni exclama; une dos partes de la frase (dice que vendrá, el libro que me diste).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0008",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ susto me has dado!",
+   "opciones": [
+    "Qué",
+    "Que"
+   ],
+   "respuesta": "Qué",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¡Qué susto me has dado! Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0009",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No sé ___ hacer esta tarde.",
+   "opciones": [
+    "que",
+    "qué"
+   ],
+   "respuesta": "qué",
+   "dificultad": 1,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "No sé qué hacer esta tarde. Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0010",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Este es el parque ___ jugamos.",
+   "opciones": [
+    "donde",
+    "dónde"
+   ],
+   "respuesta": "donde",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Este es el parque donde jugamos. Sin tilde: indica el lugar sin preguntar (el parque donde jugamos).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0011",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El libro qué me prestaste es genial.",
+   "opciones": [
+    "El",
+    "libro",
+    "qué",
+    "me",
+    "prestaste",
+    "es",
+    "genial."
+   ],
+   "respuesta": 2,
+   "correccion": "que",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: El libro que me prestaste es genial. Sin tilde: aquí no pregunta ni exclama; une dos partes de la frase (dice que vendrá, el libro que me diste).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0012",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No sé ___ ha ganado.",
+   "opciones": [
+    "quien",
+    "quién"
+   ],
+   "respuesta": "quién",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "No sé quién ha ganado. Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0013",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Hazlo ___ quieras.",
+   "opciones": [
+    "cómo",
+    "como"
+   ],
+   "respuesta": "como",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Hazlo como quieras. Sin tilde: compara o indica el modo, sin preguntar (tan alto como, hazlo como quieras).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0014",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ te llamas?",
+   "opciones": [
+    "Como",
+    "Cómo"
+   ],
+   "respuesta": "Cómo",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Cómo te llamas? Lleva tilde porque pregunta o exclama (¿cómo te llamas?, me explicó cómo se hace).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0015",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ cuesta este cuaderno?",
+   "opciones": [
+    "Cuánto",
+    "Cuanto"
+   ],
+   "respuesta": "Cuánto",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Cuánto cuesta este cuaderno? Lleva tilde porque pregunta o exclama una cantidad (¿cuánto cuesta?, ¡cuánto te quiero!).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0016",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No recuerdo ___ lo puse.",
+   "opciones": [
+    "donde",
+    "dónde"
+   ],
+   "respuesta": "dónde",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "No recuerdo dónde lo puse. Lleva tilde porque pregunta por un lugar, también en preguntas indirectas (no sé dónde está).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0017",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me contó ___ había roto el jarrón.",
+   "opciones": [
+    "quien",
+    "quién"
+   ],
+   "respuesta": "quién",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Me contó quién había roto el jarrón. Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0018",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Es tan alto ___ su padre.",
+   "opciones": [
+    "cómo",
+    "como"
+   ],
+   "respuesta": "como",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Es tan alto como su padre. Sin tilde: compara o indica el modo, sin preguntar (tan alto como, hazlo como quieras).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0019",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Dime ___ es tu color favorito.",
+   "opciones": [
+    "cual",
+    "cuál"
+   ],
+   "respuesta": "cuál",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Dime cuál es tu color favorito. Lleva tilde porque pregunta (¿cuál prefieres?, dime cuál es).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0020",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ años tienes?",
+   "opciones": [
+    "Cuántos",
+    "Cuantos"
+   ],
+   "respuesta": "Cuántos",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Cuántos años tienes? Lleva tilde porque pregunta una cantidad.",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0021",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ pudiera volar!",
+   "opciones": [
+    "Quien",
+    "Quién"
+   ],
+   "respuesta": "Quién",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¡Quién pudiera volar! Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0022",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿De ___ eres?",
+   "opciones": [
+    "dónde",
+    "donde"
+   ],
+   "respuesta": "dónde",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿De dónde eres? Lleva tilde porque pregunta por un lugar, también en preguntas indirectas (no sé dónde está).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0023",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Que bonito es tu dibujo!",
+   "opciones": [
+    "¡Que",
+    "bonito",
+    "es",
+    "tu",
+    "dibujo!"
+   ],
+   "respuesta": 0,
+   "correccion": "Qué",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¡Qué bonito es tu dibujo! Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0024",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No imaginas ___ me alegro.",
+   "opciones": [
+    "cuanto",
+    "cuánto"
+   ],
+   "respuesta": "cuánto",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "No imaginas cuánto me alegro. Lleva tilde porque pregunta o exclama una cantidad (¿cuánto cuesta?, ¡cuánto te quiero!).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0025",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ te he echado de menos!",
+   "opciones": [
+    "Cuanto",
+    "Cuánto"
+   ],
+   "respuesta": "Cuánto",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¡Cuánto te he echado de menos! Lleva tilde porque pregunta o exclama una cantidad (¿cuánto cuesta?, ¡cuánto te quiero!).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0026",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¡___ llueve hoy!",
+   "opciones": [
+    "Como",
+    "Cómo"
+   ],
+   "respuesta": "Cómo",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¡Cómo llueve hoy! Lleva tilde porque pregunta o exclama (¿cómo te llamas?, me explicó cómo se hace).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0027",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me explicó ___ se hace la tarta.",
+   "opciones": [
+    "cómo",
+    "como"
+   ],
+   "respuesta": "cómo",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Me explicó cómo se hace la tarta. Lleva tilde porque pregunta o exclama (¿cómo te llamas?, me explicó cómo se hace).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0028",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pregúntale ___ empieza la película.",
+   "opciones": [
+    "cuando",
+    "cuándo"
+   ],
+   "respuesta": "cuándo",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Pregúntale cuándo empieza la película. Lleva tilde porque pregunta por el tiempo (¿cuándo es?, pregúntale cuándo empieza).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0029",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No sé que hacer esta tarde.",
+   "opciones": [
+    "No",
+    "sé",
+    "que",
+    "hacer",
+    "esta",
+    "tarde."
+   ],
+   "respuesta": 2,
+   "correccion": "qué",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: No sé qué hacer esta tarde. Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0030",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ ha llamado a la puerta?",
+   "opciones": [
+    "Quien",
+    "Quién"
+   ],
+   "respuesta": "Quién",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Quién ha llamado a la puerta? Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0031",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ es tu cumpleaños?",
+   "opciones": [
+    "Cuándo",
+    "Cuando"
+   ],
+   "respuesta": "Cuándo",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Cuándo es tu cumpleaños? Lleva tilde porque pregunta por el tiempo (¿cuándo es?, pregúntale cuándo empieza).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0032",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ termine los deberes, saldré a jugar.",
+   "opciones": [
+    "Cuándo",
+    "Cuando"
+   ],
+   "respuesta": "Cuando",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Cuando termine los deberes, saldré a jugar. Sin tilde: indica el momento sin preguntar (cuando termine, saldré).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0033",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Que susto me has dado!",
+   "opciones": [
+    "¡Que",
+    "susto",
+    "me",
+    "has",
+    "dado!"
+   ],
+   "respuesta": 0,
+   "correccion": "Qué",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¡Qué susto me has dado! Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0034",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ has dejado las llaves?",
+   "opciones": [
+    "Dónde",
+    "Donde"
+   ],
+   "respuesta": "Dónde",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Dónde has dejado las llaves? Lleva tilde porque pregunta por un lugar, también en preguntas indirectas (no sé dónde está).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0035",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Dice qué vendrá mañana.",
+   "opciones": [
+    "Dice",
+    "qué",
+    "vendrá",
+    "mañana."
+   ],
+   "respuesta": 1,
+   "correccion": "que",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Dice que vendrá mañana. Sin tilde: aquí no pregunta ni exclama; une dos partes de la frase (dice que vendrá, el libro que me diste).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0036",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ son tus juguetes?",
+   "opciones": [
+    "Cuáles",
+    "Cuales"
+   ],
+   "respuesta": "Cuáles",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Cuáles son tus juguetes? Lleva tilde porque pregunta (¿cuáles son?).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0037",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Que quieres para cenar?",
+   "opciones": [
+    "¿Que",
+    "quieres",
+    "para",
+    "cenar?"
+   ],
+   "respuesta": 0,
+   "correccion": "Qué",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Qué quieres para cenar? Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0038",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Que hora es?",
+   "opciones": [
+    "¿Que",
+    "hora",
+    "es?"
+   ],
+   "respuesta": 0,
+   "correccion": "Qué",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Qué hora es? Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0039",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ prefieres, el rojo o el azul?",
+   "opciones": [
+    "Cuál",
+    "Cual"
+   ],
+   "respuesta": "Cuál",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Cuál prefieres, el rojo o el azul? Lleva tilde porque pregunta (¿cuál prefieres?, dime cuál es).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0040",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Creo qué va a nevar.",
+   "opciones": [
+    "Creo",
+    "qué",
+    "va",
+    "a",
+    "nevar."
+   ],
+   "respuesta": 1,
+   "correccion": "que",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Creo que va a nevar. Sin tilde: aquí no pregunta ni exclama; une dos partes de la frase (dice que vendrá, el libro que me diste).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0041",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me llamó ___ estaba cenando.",
+   "opciones": [
+    "cuando",
+    "cuándo"
+   ],
+   "respuesta": "cuando",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Me llamó cuando estaba cenando. Sin tilde: indica el momento sin preguntar (cuando termine, saldré).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0042",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Le pregunté que le pasaba.",
+   "opciones": [
+    "Le",
+    "pregunté",
+    "que",
+    "le",
+    "pasaba."
+   ],
+   "respuesta": 2,
+   "correccion": "qué",
+   "dificultad": 2,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Le pregunté qué le pasaba. Lleva tilde porque pregunta o exclama, aunque la pregunta sea indirecta (no sé qué hacer).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0043",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Cuanto te he echado de menos!",
+   "opciones": [
+    "¡Cuanto",
+    "te",
+    "he",
+    "echado",
+    "de",
+    "menos!"
+   ],
+   "respuesta": 0,
+   "correccion": "Cuánto",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¡Cuánto te he echado de menos! Lleva tilde porque pregunta o exclama una cantidad (¿cuánto cuesta?, ¡cuánto te quiero!).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0044",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Como llueve hoy!",
+   "opciones": [
+    "¡Como",
+    "llueve",
+    "hoy!"
+   ],
+   "respuesta": 0,
+   "correccion": "Cómo",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¡Cómo llueve hoy! Lleva tilde porque pregunta o exclama (¿cómo te llamas?, me explicó cómo se hace).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0045",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "___ más practiques, mejor lo harás.",
+   "opciones": [
+    "Cuanto",
+    "Cuánto"
+   ],
+   "respuesta": "Cuanto",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Cuanto más practiques, mejor lo harás. Sin tilde: indica cantidad sin preguntar ni exclamar (come cuanto quieras, cuanto más…).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0046",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¡Quien pudiera volar!",
+   "opciones": [
+    "¡Quien",
+    "pudiera",
+    "volar!"
+   ],
+   "respuesta": 0,
+   "correccion": "Quién",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¡Quién pudiera volar! Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0047",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No recuerdo donde lo puse.",
+   "opciones": [
+    "No",
+    "recuerdo",
+    "donde",
+    "lo",
+    "puse."
+   ],
+   "respuesta": 2,
+   "correccion": "dónde",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: No recuerdo dónde lo puse. Lleva tilde porque pregunta por un lugar, también en preguntas indirectas (no sé dónde está).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0048",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Hazlo cómo quieras.",
+   "opciones": [
+    "Hazlo",
+    "cómo",
+    "quieras."
+   ],
+   "respuesta": 1,
+   "correccion": "como",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Hazlo como quieras. Sin tilde: compara o indica el modo, sin preguntar (tan alto como, hazlo como quieras).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0049",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Cuanto cuesta este cuaderno?",
+   "opciones": [
+    "¿Cuanto",
+    "cuesta",
+    "este",
+    "cuaderno?"
+   ],
+   "respuesta": 0,
+   "correccion": "Cuánto",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuánto cuesta este cuaderno? Lleva tilde porque pregunta o exclama una cantidad (¿cuánto cuesta?, ¡cuánto te quiero!).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0050",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Cuantos años tienes?",
+   "opciones": [
+    "¿Cuantos",
+    "años",
+    "tienes?"
+   ],
+   "respuesta": 0,
+   "correccion": "Cuántos",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuántos años tienes? Lleva tilde porque pregunta una cantidad.",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0051",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me llamó cuándo estaba cenando.",
+   "opciones": [
+    "Me",
+    "llamó",
+    "cuándo",
+    "estaba",
+    "cenando."
+   ],
+   "respuesta": 2,
+   "correccion": "cuando",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Me llamó cuando estaba cenando. Sin tilde: indica el momento sin preguntar (cuando termine, saldré).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0052",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No sé quien ha ganado.",
+   "opciones": [
+    "No",
+    "sé",
+    "quien",
+    "ha",
+    "ganado."
+   ],
+   "respuesta": 2,
+   "correccion": "quién",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: No sé quién ha ganado. Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0053",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Es tan alto cómo su padre.",
+   "opciones": [
+    "Es",
+    "tan",
+    "alto",
+    "cómo",
+    "su",
+    "padre."
+   ],
+   "respuesta": 3,
+   "correccion": "como",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Es tan alto como su padre. Sin tilde: compara o indica el modo, sin preguntar (tan alto como, hazlo como quieras).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0054",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No imaginas cuanto me alegro.",
+   "opciones": [
+    "No",
+    "imaginas",
+    "cuanto",
+    "me",
+    "alegro."
+   ],
+   "respuesta": 2,
+   "correccion": "cuánto",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: No imaginas cuánto me alegro. Lleva tilde porque pregunta o exclama una cantidad (¿cuánto cuesta?, ¡cuánto te quiero!).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0055",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Cuando es tu cumpleaños?",
+   "opciones": [
+    "¿Cuando",
+    "es",
+    "tu",
+    "cumpleaños?"
+   ],
+   "respuesta": 0,
+   "correccion": "Cuándo",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuándo es tu cumpleaños? Lleva tilde porque pregunta por el tiempo (¿cuándo es?, pregúntale cuándo empieza).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0056",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Este es el parque dónde jugamos.",
+   "opciones": [
+    "Este",
+    "es",
+    "el",
+    "parque",
+    "dónde",
+    "jugamos."
+   ],
+   "respuesta": 4,
+   "correccion": "donde",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Este es el parque donde jugamos. Sin tilde: indica el lugar sin preguntar (el parque donde jugamos).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0057",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Cual prefieres, el rojo o el azul?",
+   "opciones": [
+    "¿Cual",
+    "prefieres,",
+    "el",
+    "rojo",
+    "o",
+    "el",
+    "azul?"
+   ],
+   "respuesta": 0,
+   "correccion": "Cuál",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuál prefieres, el rojo o el azul? Lleva tilde porque pregunta (¿cuál prefieres?, dime cuál es).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0058",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Como te llamas?",
+   "opciones": [
+    "¿Como",
+    "te",
+    "llamas?"
+   ],
+   "respuesta": 0,
+   "correccion": "Cómo",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Cómo te llamas? Lleva tilde porque pregunta o exclama (¿cómo te llamas?, me explicó cómo se hace).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0059",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Cuándo termine los deberes, saldré a jugar.",
+   "opciones": [
+    "Cuándo",
+    "termine",
+    "los",
+    "deberes,",
+    "saldré",
+    "a",
+    "jugar."
+   ],
+   "respuesta": 0,
+   "correccion": "Cuando",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Cuando termine los deberes, saldré a jugar. Sin tilde: indica el momento sin preguntar (cuando termine, saldré).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0060",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Pregúntale cuando empieza la película.",
+   "opciones": [
+    "Pregúntale",
+    "cuando",
+    "empieza",
+    "la",
+    "película."
+   ],
+   "respuesta": 1,
+   "correccion": "cuándo",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Pregúntale cuándo empieza la película. Lleva tilde porque pregunta por el tiempo (¿cuándo es?, pregúntale cuándo empieza).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0061",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Dime cual es tu color favorito.",
+   "opciones": [
+    "Dime",
+    "cual",
+    "es",
+    "tu",
+    "color",
+    "favorito."
+   ],
+   "respuesta": 1,
+   "correccion": "cuál",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Dime cuál es tu color favorito. Lleva tilde porque pregunta (¿cuál prefieres?, dime cuál es).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0062",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ vais de vacaciones?",
+   "opciones": [
+    "Adonde",
+    "Adónde"
+   ],
+   "respuesta": "Adónde",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "¿Adónde vais de vacaciones? Lleva tilde porque pregunta a qué lugar se va.",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0063",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Cuales son tus juguetes?",
+   "opciones": [
+    "¿Cuales",
+    "son",
+    "tus",
+    "juguetes?"
+   ],
+   "respuesta": 0,
+   "correccion": "Cuáles",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Cuáles son tus juguetes? Lleva tilde porque pregunta (¿cuáles son?).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0064",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Quien ha llamado a la puerta?",
+   "opciones": [
+    "¿Quien",
+    "ha",
+    "llamado",
+    "a",
+    "la",
+    "puerta?"
+   ],
+   "respuesta": 0,
+   "correccion": "Quién",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Quién ha llamado a la puerta? Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0065",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Tengo una amiga, la ___ vive en Sevilla.",
+   "opciones": [
+    "cual",
+    "cuál"
+   ],
+   "respuesta": "cual",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Tengo una amiga, la cual vive en Sevilla. Sin tilde: «la cual», «el cual» se refieren a algo dicho antes, sin preguntar.",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0066",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "El chico con ___ hablé es mi primo.",
+   "opciones": [
+    "quién",
+    "quien"
+   ],
+   "respuesta": "quien",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "El chico con quien hablé es mi primo. Sin tilde: se refiere a una persona sin preguntar (el chico con quien hablé).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0067",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Donde has dejado las llaves?",
+   "opciones": [
+    "¿Donde",
+    "has",
+    "dejado",
+    "las",
+    "llaves?"
+   ],
+   "respuesta": 0,
+   "correccion": "Dónde",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Dónde has dejado las llaves? Lleva tilde porque pregunta por un lugar, también en preguntas indirectas (no sé dónde está).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0068",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me explicó como se hace la tarta.",
+   "opciones": [
+    "Me",
+    "explicó",
+    "como",
+    "se",
+    "hace",
+    "la",
+    "tarta."
+   ],
+   "respuesta": 2,
+   "correccion": "cómo",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Me explicó cómo se hace la tarta. Lleva tilde porque pregunta o exclama (¿cómo te llamas?, me explicó cómo se hace).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0069",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Come ___ quieras.",
+   "opciones": [
+    "cuánto",
+    "cuanto"
+   ],
+   "respuesta": "cuanto",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Come cuanto quieras. Sin tilde: indica cantidad sin preguntar ni exclamar (come cuanto quieras, cuanto más…).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0070",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Me contó quien había roto el jarrón.",
+   "opciones": [
+    "Me",
+    "contó",
+    "quien",
+    "había",
+    "roto",
+    "el",
+    "jarrón."
+   ],
+   "respuesta": 2,
+   "correccion": "quién",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Me contó quién había roto el jarrón. Lleva tilde porque pregunta o exclama por una persona (¿quién ha llamado?, no sé quién ganó).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0071",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿De donde eres?",
+   "opciones": [
+    "¿De",
+    "donde",
+    "eres?"
+   ],
+   "respuesta": 1,
+   "correccion": "dónde",
+   "dificultad": 3,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿De dónde eres? Lleva tilde porque pregunta por un lugar, también en preguntas indirectas (no sé dónde está).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0072",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Tengo una amiga, la cuál vive en Sevilla.",
+   "opciones": [
+    "Tengo",
+    "una",
+    "amiga,",
+    "la",
+    "cuál",
+    "vive",
+    "en",
+    "Sevilla."
+   ],
+   "respuesta": 4,
+   "correccion": "cual",
+   "dificultad": 4,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Tengo una amiga, la cual vive en Sevilla. Sin tilde: «la cual», «el cual» se refieren a algo dicho antes, sin preguntar.",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0073",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Come cuánto quieras.",
+   "opciones": [
+    "Come",
+    "cuánto",
+    "quieras."
+   ],
+   "respuesta": 1,
+   "correccion": "cuanto",
+   "dificultad": 4,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Come cuanto quieras. Sin tilde: indica cantidad sin preguntar ni exclamar (come cuanto quieras, cuanto más…).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0074",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Cuánto más practiques, mejor lo harás.",
+   "opciones": [
+    "Cuánto",
+    "más",
+    "practiques,",
+    "mejor",
+    "lo",
+    "harás."
+   ],
+   "respuesta": 0,
+   "correccion": "Cuanto",
+   "dificultad": 4,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: Cuanto más practiques, mejor lo harás. Sin tilde: indica cantidad sin preguntar ni exclamar (come cuanto quieras, cuanto más…).",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0075",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Adonde vais de vacaciones?",
+   "opciones": [
+    "¿Adonde",
+    "vais",
+    "de",
+    "vacaciones?"
+   ],
+   "respuesta": 0,
+   "correccion": "Adónde",
+   "dificultad": 4,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: ¿Adónde vais de vacaciones? Lleva tilde porque pregunta a qué lugar se va.",
+   "regla_id": "interrogativos"
+  },
+  {
+   "id": "A12-0076",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "El chico con quién hablé es mi primo.",
+   "opciones": [
+    "El",
+    "chico",
+    "con",
+    "quién",
+    "hablé",
+    "es",
+    "mi",
+    "primo."
+   ],
+   "respuesta": 3,
+   "correccion": "quien",
+   "dificultad": 4,
+   "skills": [
+    "interrogativos"
+   ],
+   "explicacion": "Lo correcto es: El chico con quien hablé es mi primo. Sin tilde: se refiere a una persona sin preguntar (el chico con quien hablé).",
+   "regla_id": "interrogativos"
+  }
+ ]
+}

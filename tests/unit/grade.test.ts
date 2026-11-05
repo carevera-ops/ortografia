@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { answerText, correctAnswerText, grade, normalizeDictation } from '../../src/core/engine/grade';
+import { alignChars, answerText, correctAnswerText, grade, normalizeDictation } from '../../src/core/engine/grade';
 import type { Item } from '../../src/core/content/schema';
 
 const base = { id: 'A1-0001', enunciado: 'x x x', dificultad: 1, skills: ['s'], explicacion: 'xxxxx', regla_id: 'r' };
@@ -29,5 +29,10 @@ describe('corrección', () => {
     const it: Item = { ...base, tipo: 'dictado', palabra: 'camión', respuesta: 'camión' };
     expect(grade(it, 'Camión')).toBe(true);
     expect(grade(it, 'camion')).toBe(false);
+  });
+  it('alineación carácter a carácter', () => {
+    expect(alignChars('camion', 'camión').map((c) => c.status)).toEqual(['ok', 'ok', 'ok', 'ok', 'wrong', 'ok']);
+    expect(alignChars('arbo', 'árbol').filter((c) => c.status !== 'ok').map((c) => c.status)).toEqual(['wrong', 'missing']);
+    expect(alignChars('Lápiz', 'lápiz').every((c) => c.status === 'ok')).toBe(true);
   });
 });

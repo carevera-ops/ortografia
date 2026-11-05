@@ -18,6 +18,8 @@ import {
   type StressClass,
 } from '../src/core/phonology/phonology.ts';
 import * as W from './words.ts';
+import * as S from './sentences.ts';
+import * as P from './spelling.ts';
 
 const OUT = fileURLToPath(new URL('../public/content/', import.meta.url));
 
@@ -412,6 +414,268 @@ const units: Record<string, Item[]> = {
   A9: build('A9', [...hiatosAc, ...hiatosSimples], [mkElegir('hiatos', 'hiatos'), mkPonerTilde('hiatos', 'hiatos'), mkDiptongoHiato, mkExplica], 80),
   A10: build('A10', monos, [mkElegir('monosilabos', 'monosilabos')], 40),
 };
+
+// =====================================================================
+// Fase 5: frases (hueco / detectar el error), parejas de ortografía y dictado
+// =====================================================================
+
+const cap = (t: string) => t.charAt(0).toUpperCase() + t.slice(1);
+
+interface Parsed {
+  before: string;
+  after: string;
+  options: string[]; // la correcta primero
+}
+function parseSentence(src: string): Parsed {
+  const m = /^(.*?)\{([^}]+)\}(.*)$/.exec(src);
+  if (!m) throw new Error(`Frase sin hueco: ${src}`);
+  const before = m[1]!;
+  const atStart = before === '' || /^[¿¡]$/.test(before) || /[.!?]\s+[¿¡]?$/.test(before) || /—[¿¡]?$/.test(before);
+  const options = m[2]!.split('|').map((o) => (atStart ? cap(o) : o));
+  return { before, after: m[3]!, options };
+}
+
+const EASY = new Set(['tú', 'tu', 'él', 'el', 'mi', 'mí', 'te', 'té', 'de', 'qué', 'que', 'hay', 'hola', 'ola', 'porque', 'solo', 'ha', 'a', 'hecho']);
+const HARD = new Set(['aun', 'aún', 'mas', 'por que', 'porqués', 'cual', 'cuanto', 'quien', 'adónde', 'asta', 'savia', 'vello', 'hierva', 'halla', 'e', 'baya', 'sé', 'dé']);
+
+function sentenceItems(list: string[], skill: string, regla: string): Omit<Item, 'id'>[] {
+  const out: Omit<Item, 'id'>[] = [];
+  list.forEach((src) => {
+    const p = parseSentence(src);
+    const correct = p.options[0]!;
+    const key = correct.toLowerCase();
+    const expl = S.EXPLICA[key];
+    if (!expl) throw new Error(`Falta explicación para «${key}»`);
+    const base = EASY.has(key) ? 1 : HARD.has(key) ? 3 : 2;
+    const whole = `${p.before}${correct}${p.after}`;
+    out.push({
+      tipo: 'hueco',
+      enunciado: 'Completa la frase',
+      frase: `${p.before}___${p.after}`,
+      opciones: shuffle(p.options, hash(src)),
+      respuesta: correct,
+      dificultad: clamp(base),
+      skills: [skill],
+      explicacion: `${whole} ${expl}`,
+      regla_id: regla,
+    });
+    // Detectar el error: con la primera forma incorrecta (si es una sola palabra).
+    const wrong = p.options[1]!;
+    if (!wrong.includes(' ')) {
+      const sentence = `${p.before}${wrong}${p.after}`;
+      const tokens = sentence.split(' ');
+      const idx = p.before.split(' ').length - 1;
+      out.push({
+        tipo: 'detectar_error',
+        enunciado: 'Toca la palabra que está mal escrita',
+        frase: sentence,
+        opciones: tokens,
+        respuesta: idx,
+        correccion: correct,
+        dificultad: clamp(base + 1),
+        skills: [skill],
+        explicacion: `Lo correcto es: ${whole} ${expl}`,
+        regla_id: regla,
+      });
+    }
+  });
+  return out;
+}
+
+function finalize(unit: string, raw: Omit<Item, 'id'>[], max: number): Item[] {
+  const uniq = uniqueBy(raw, (i) => `${i.tipo}|${i.palabra ?? ''}|${i.frase ?? ''}|${(i.opciones ?? []).join('/')}`);
+  const chosen = shuffle(uniq, hash(unit)).slice(0, max);
+  chosen.sort((a, b) => a.dificultad - b.dificultad);
+  return chosen.map((it, i) => ({ id: `${unit}-${String(i + 1).padStart(4, '0')}`, ...it }));
+}
+
+/** Segmento distinto entre la forma correcta y la incorrecta (para «¿Qué letra falta?»). */
+function diffSegment(a: string, b: string, allowEmpty: boolean) {
+  const A = [...a];
+  const B = [...b];
+  let pre = 0;
+  while (pre < A.length && pre < B.length && A[pre] === B[pre]) pre++;
+  let suf = 0;
+  while (suf < A.length - pre && suf < B.length - pre && A[A.length - 1 - suf] === B[B.length - 1 - suf]) suf++;
+  let prefix = A.slice(0, pre).join('');
+  let suffix = A.slice(A.length - suf).join('');
+  let segA = A.slice(pre, A.length - suf).join('');
+  let segB = B.slice(pre, B.length - suf).join('');
+  if (!allowEmpty) {
+    while ((segA === '' || segB === '') && prefix) {
+      const c = prefix.slice(-1);
+      prefix = prefix.slice(0, -1);
+      segA = c + segA;
+      segB = c + segB;
+    }
+    while ((segA === '' || segB === '') && suffix) {
+      const c = suffix[0]!;
+      suffix = suffix.slice(1);
+      segA += c;
+      segB += c;
+    }
+  }
+  return { prefix, suffix, segA, segB };
+}
+
+function pairItems(groups: P.PairGroup[]): Omit<Item, 'id'>[] {
+  const out: Omit<Item, 'id'>[] = [];
+  for (const grp of groups) {
+    for (const pair of grp.pairs.trim().split(/\s+/)) {
+      const [ok, bad] = pair.split('|') as [string, string];
+      out.push({
+        tipo: 'elegir',
+        enunciado: '¿Cuál está bien escrita?',
+        palabra: ok,
+        opciones: shuffle([ok, bad], hash(pair)),
+        respuesta: ok,
+        dificultad: clamp(grp.tier),
+        skills: [grp.skill],
+        explicacion: `Se escribe «${ok}». ${grp.explicacion}`,
+        regla_id: grp.regla,
+      });
+      const isH = grp.skill === 'h';
+      const d = diffSegment(ok, bad, isH);
+      const label = (x: string) => (x === '' ? 'nada' : x);
+      // Solo si las dos formas difieren en un único punto (vivir/bibir no sirve: hay dos huecos).
+      if (d.segA.length > 2 || d.segB.length > 2) continue;
+      out.push({
+        tipo: 'hueco',
+        enunciado: isH ? '¿Lleva h? Completa la palabra' : '¿Qué letra falta?',
+        palabra: ok,
+        frase: `${d.prefix}___${d.suffix}`,
+        opciones: shuffle([label(d.segA), label(d.segB)], hash(pair) + 1),
+        respuesta: label(d.segA),
+        dificultad: clamp(grp.tier + 1),
+        skills: [grp.skill],
+        explicacion: `Se escribe «${ok}». ${grp.explicacion}`,
+        regla_id: grp.regla,
+      });
+    }
+  }
+  return out;
+}
+
+// ---- A15: -mente, compuestos y enclíticos ----
+function menteItems(): Omit<Item, 'id'>[] {
+  const out: Omit<Item, 'id'>[] = [];
+  for (const entry of P.MENTE) {
+    const [word, letter] = entry.split(':') as [string, string | undefined];
+    const adj = word.replace(/mente$/, '');
+    const adjW = parse(letter ? `${adj}:${letter}` : adj, 2);
+    const has = hasAccentMark(word);
+    const expl = `«${word}» = «${adj}» + -mente. Los adverbios en -mente conservan la tilde del adjetivo: «${adj}» ${
+      has ? 'lleva tilde' : 'no lleva tilde'
+    }, así que «${word}» ${has ? 'también' : 'tampoco'}.`;
+    const plain = stripAccents(word);
+    const wrong = has ? [plain] : [placeAccent(adj, adjW.stress, adjW.syl) + 'mente', plain.replace(/mente$/, 'ménte')];
+    out.push({
+      tipo: 'elegir',
+      enunciado: '¿Cuál está bien escrita?',
+      palabra: word,
+      clase: adjW.cls!,
+      opciones: shuffle([word, ...wrong.filter((x) => x !== word)].slice(0, 3), hash(word)),
+      respuesta: word,
+      dificultad: 2,
+      skills: ['mente_compuestos'],
+      explicacion: expl,
+      regla_id: 'mente-compuestos',
+    });
+    out.push({
+      tipo: 'poner_tilde',
+      enunciado: 'Toca la vocal que lleva tilde (o «No lleva tilde»)',
+      palabra: word,
+      clase: adjW.cls!,
+      respuesta: [...word].findIndex((c) => hasAccentMark(c)),
+      dificultad: 3,
+      skills: ['mente_compuestos'],
+      explicacion: expl,
+      regla_id: 'mente-compuestos',
+    });
+  }
+  return out;
+}
+
+const withRule = (regla: string, skill: string, extra = '') => (it: Omit<Item, 'id'> | null) =>
+  it ? { ...it, regla_id: regla, skills: [skill], explicacion: it.explicacion + extra } : null;
+
+const compuestos = fromList(P.COMPUESTOS, 2);
+const encliticos = fromList(P.ENCLITICOS, 2);
+const mayus = fromList(P.MAYUSCULAS, 2);
+
+const COMP_NOTE = ' En las palabras compuestas solo cuenta la última sílaba tónica de la palabra entera.';
+const ENCL_NOTE = ' Con los pronombres pegados (me, te, se, lo…) se aplican las reglas generales a la palabra completa.';
+const MAY_NOTE = ' ¡Las mayúsculas también llevan tilde!';
+
+function mkDictado(w: Word): Omit<Item, 'id'> {
+  return {
+    tipo: 'dictado',
+    enunciado: 'Escucha y escribe la palabra',
+    palabra: w.word,
+    ...(w.cls ? { clase: w.cls } : {}),
+    respuesta: w.word,
+    dificultad: clamp(w.tier + 1),
+    skills: ['dictado', skillOf(w)],
+    explicacion: w.cls === null ? explainMono(w.word) : explainAccent(w.word, w.stress),
+    regla_id: 'reglas',
+  };
+}
+
+const dictadoPool = [...agudas, ...llanas, ...esdr, ...hiatosAc].filter(
+  (w) => w.tier <= 2 && !W.AMBIGUAS.has(w.word) && /^[a-zñáéíóúü]+$/.test(w.word) && !isSpecial(w),
+);
+const dictado = shuffle(dictadoPool, 99).slice(0, 45).map(mkDictado);
+
+/** ¿La pregunta de B7 es de puntuación (las opciones solo difieren en signos)? */
+function isPunctuation(opts: string[]): boolean {
+  const bare = (t: string) => t.replace(/[¿¡!?,:;.]/g, '');
+  return opts.slice(1).some((o) => bare(o) === bare(opts[0]!));
+}
+
+const phase5: Record<string, Item[]> = {
+  A11: finalize('A11', sentenceItems(S.DIACRITICA, 'diacritica', 'diacritica'), 110),
+  A12: finalize('A12', sentenceItems(S.INTERROGATIVOS, 'interrogativos', 'interrogativos'), 76),
+  A13: finalize('A13', sentenceItems(S.PORQUE, 'porque', 'porque'), 60),
+  A14: finalize('A14', sentenceItems(S.SOLO_DEMOSTRATIVOS, 'solo_demostrativos', 'solo-demostrativos'), 40),
+  A15: finalize(
+    'A15',
+    [
+      ...menteItems(),
+      ...compuestos.flatMap((w) => [mkElegir('x', 'x')(w), mkPonerTilde('x', 'x')(w)].map(withRule('mente-compuestos', 'mente_compuestos', COMP_NOTE))),
+      ...encliticos.flatMap((w) => [mkElegir('x', 'x')(w), mkPonerTilde('x', 'x')(w)].map(withRule('mente-compuestos', 'mente_compuestos', ENCL_NOTE))),
+    ].filter((x): x is Omit<Item, 'id'> => !!x),
+    80,
+  ),
+  A16: finalize(
+    'A16',
+    [
+      ...mayus.flatMap((w) => [mkElegir('x', 'x')(w), mkPonerTilde('x', 'x')(w)].map(withRule('mayusculas-tilde', 'mayusculas_tilde', MAY_NOTE))),
+      ...dictado,
+    ].filter((x): x is Omit<Item, 'id'> => !!x),
+    100,
+  ),
+  B1: finalize('B1', pairItems(P.B1), 100),
+  B2: finalize('B2', pairItems(P.B2), 80),
+  B3: finalize('B3', pairItems(P.B3), 80),
+  B4: finalize('B4', pairItems(P.B4), 80),
+  B5: finalize('B5', pairItems(P.B5), 80),
+  B6: finalize('B6', sentenceItems(S.HOMOFONOS, 'homofonos', 'homofonos'), 120),
+  B7: finalize(
+    'B7',
+    P.B7.map(([opts, expl], i) => ({
+      tipo: 'elegir',
+      enunciado: /[¿¡,:;]/.test(opts.join('')) ? '¿Qué frase está bien puntuada y escrita?' : '¿Qué frase está bien escrita?',
+      opciones: shuffle(opts, hash(opts[0]!) + i),
+      respuesta: opts[0]!,
+      dificultad: clamp(opts.length > 2 ? 2 : 1),
+      skills: [isPunctuation(opts) ? 'puntuacion' : 'mayusculas'],
+      explicacion: `Lo correcto es: ${opts[0]} ${expl}`,
+      regla_id: isPunctuation(opts) ? 'puntuacion' : 'mayusculas',
+    })),
+    80,
+  ),
+};
+Object.assign(units, phase5);
 
 mkdirSync(OUT, { recursive: true });
 let total = 0;

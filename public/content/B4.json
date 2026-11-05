@@ -1,0 +1,1405 @@
+{
+ "unidad": "B4",
+ "items": [
+  {
+   "id": "B4-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "yeso",
+   "opciones": [
+    "lleso",
+    "yeso"
+   ],
+   "respuesta": "yeso",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yeso». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "joya",
+   "opciones": [
+    "joya",
+    "jolla"
+   ],
+   "respuesta": "joya",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «joya». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "yate",
+   "opciones": [
+    "llate",
+    "yate"
+   ],
+   "respuesta": "yate",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yate». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "desayuno",
+   "opciones": [
+    "desalluno",
+    "desayuno"
+   ],
+   "respuesta": "desayuno",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «desayuno». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sello",
+   "opciones": [
+    "sello",
+    "seyo"
+   ],
+   "respuesta": "sello",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «sello». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "yogur",
+   "opciones": [
+    "yogur",
+    "llogur"
+   ],
+   "respuesta": "yogur",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yogur». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "calle",
+   "opciones": [
+    "calle",
+    "caye"
+   ],
+   "respuesta": "calle",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «calle». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ardilla",
+   "opciones": [
+    "ardilla",
+    "ardiya"
+   ],
+   "respuesta": "ardilla",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «ardilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "silla",
+   "opciones": [
+    "siya",
+    "silla"
+   ],
+   "respuesta": "silla",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «silla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cerrar",
+   "opciones": [
+    "cerar",
+    "cerrar"
+   ],
+   "respuesta": "cerrar",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «cerrar». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "zorro",
+   "opciones": [
+    "zorro",
+    "zoro"
+   ],
+   "respuesta": "zorro",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «zorro». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "yema",
+   "opciones": [
+    "llema",
+    "yema"
+   ],
+   "respuesta": "yema",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yema». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lleno",
+   "opciones": [
+    "yeno",
+    "lleno"
+   ],
+   "respuesta": "lleno",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «lleno». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "estrella",
+   "opciones": [
+    "estreya",
+    "estrella"
+   ],
+   "respuesta": "estrella",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «estrella». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rodilla",
+   "opciones": [
+    "rodilla",
+    "rodiya"
+   ],
+   "respuesta": "rodilla",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «rodilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pollito",
+   "opciones": [
+    "poyito",
+    "pollito"
+   ],
+   "respuesta": "pollito",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «pollito». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "correr",
+   "opciones": [
+    "correr",
+    "corer"
+   ],
+   "respuesta": "correr",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «correr». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "caballo",
+   "opciones": [
+    "caballo",
+    "cabayo"
+   ],
+   "respuesta": "caballo",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «caballo». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "playa",
+   "opciones": [
+    "plalla",
+    "playa"
+   ],
+   "respuesta": "playa",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «playa». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cepillo",
+   "opciones": [
+    "cepiyo",
+    "cepillo"
+   ],
+   "respuesta": "cepillo",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «cepillo». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0021",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pelirrojo",
+   "opciones": [
+    "pelirrojo",
+    "pelirojo"
+   ],
+   "respuesta": "pelirrojo",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «pelirrojo». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0022",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lluvia",
+   "opciones": [
+    "yuvia",
+    "lluvia"
+   ],
+   "respuesta": "lluvia",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «lluvia». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "arroz",
+   "opciones": [
+    "aroz",
+    "arroz"
+   ],
+   "respuesta": "arroz",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «arroz». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "llave",
+   "opciones": [
+    "llave",
+    "yave"
+   ],
+   "respuesta": "llave",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «llave». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0025",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gallina",
+   "opciones": [
+    "gayina",
+    "gallina"
+   ],
+   "respuesta": "gallina",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «gallina». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0026",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cuchillo",
+   "opciones": [
+    "cuchiyo",
+    "cuchillo"
+   ],
+   "respuesta": "cuchillo",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «cuchillo». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tierra",
+   "opciones": [
+    "tiera",
+    "tierra"
+   ],
+   "respuesta": "tierra",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «tierra». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mantequilla",
+   "opciones": [
+    "mantequiya",
+    "mantequilla"
+   ],
+   "respuesta": "mantequilla",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «mantequilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "bombilla",
+   "opciones": [
+    "bombilla",
+    "bombiya"
+   ],
+   "respuesta": "bombilla",
+   "dificultad": 1,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «bombilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "carretera",
+   "opciones": [
+    "carretera",
+    "caretera"
+   ],
+   "respuesta": "carretera",
+   "dificultad": 1,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «carretera». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0031",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "calle",
+   "frase": "ca___e",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «calle». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0032",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cerrar",
+   "frase": "ce___ar",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "rr",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «cerrar». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0033",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "pollito",
+   "frase": "po___ito",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «pollito». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "honrado",
+   "opciones": [
+    "honrado",
+    "honrrado"
+   ],
+   "respuesta": "honrado",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «honrado». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0035",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "alrededor",
+   "opciones": [
+    "alrededor",
+    "alrrededor"
+   ],
+   "respuesta": "alrededor",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «alrededor». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0036",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "estrella",
+   "frase": "estre___a",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «estrella». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0037",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lleno",
+   "frase": "___eno",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «lleno». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0038",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cepillo",
+   "frase": "cepi___o",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «cepillo». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rosa",
+   "opciones": [
+    "rrosa",
+    "rosa"
+   ],
+   "respuesta": "rosa",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «rosa». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0040",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "yeso",
+   "frase": "___eso",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yeso». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0041",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "playa",
+   "frase": "pla___a",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «playa». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0042",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "ayuda",
+   "frase": "a___uda",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «ayuda». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0043",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cuchillo",
+   "frase": "cuchi___o",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «cuchillo». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0044",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "joya",
+   "frase": "jo___a",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «joya». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0045",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rata",
+   "opciones": [
+    "rrata",
+    "rata"
+   ],
+   "respuesta": "rata",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «rata». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "israelí",
+   "opciones": [
+    "israelí",
+    "isrraelí"
+   ],
+   "respuesta": "israelí",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «israelí». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0047",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "yema",
+   "frase": "___ema",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yema». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0048",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "leyenda",
+   "frase": "le___enda",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «leyenda». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0049",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "sonrisa",
+   "opciones": [
+    "sonrisa",
+    "sonrrisa"
+   ],
+   "respuesta": "sonrisa",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «sonrisa». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0050",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "rodilla",
+   "frase": "rodi___a",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «rodilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0051",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "yate",
+   "frase": "___ate",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yate». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0052",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ratón",
+   "opciones": [
+    "ratón",
+    "rratón"
+   ],
+   "respuesta": "ratón",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «ratón». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0053",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "bombilla",
+   "frase": "bombi___a",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «bombilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0054",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "sello",
+   "frase": "se___o",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «sello». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0055",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "mantequilla",
+   "frase": "mantequi___a",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «mantequilla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0056",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "ferrocarril",
+   "frase": "fe___ocarril",
+   "opciones": [
+    "rr",
+    "r"
+   ],
+   "respuesta": "rr",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «ferrocarril». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0057",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "Enrique",
+   "opciones": [
+    "Enrique",
+    "Enrrique"
+   ],
+   "respuesta": "Enrique",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «Enrique». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0058",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "llegar",
+   "frase": "___egar",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «llegar». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0059",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "carretera",
+   "frase": "ca___etera",
+   "opciones": [
+    "rr",
+    "r"
+   ],
+   "respuesta": "rr",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «carretera». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0060",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "ayer",
+   "frase": "a___er",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «ayer». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0061",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "caballo",
+   "frase": "caba___o",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «caballo». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0062",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ropa",
+   "opciones": [
+    "ropa",
+    "rropa"
+   ],
+   "respuesta": "ropa",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «ropa». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0063",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "tierra",
+   "frase": "tie___a",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "rr",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «tierra». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0064",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "arroz",
+   "frase": "a___oz",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "rr",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «arroz». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0065",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "pelirrojo",
+   "frase": "peli___ojo",
+   "opciones": [
+    "rr",
+    "r"
+   ],
+   "respuesta": "rr",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «pelirrojo». Entre vocales, el sonido fuerte de la r se escribe rr: tierra, carretera.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0066",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "rueda",
+   "opciones": [
+    "rrueda",
+    "rueda"
+   ],
+   "respuesta": "rueda",
+   "dificultad": 2,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «rueda». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0067",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "desayuno",
+   "frase": "desa___uno",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «desayuno». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0068",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "silla",
+   "frase": "si___a",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «silla». Las palabras acabadas en -illo, -illa llevan ll: silla, cepillo.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0069",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "payaso",
+   "frase": "pa___aso",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «payaso». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0070",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lluvia",
+   "frase": "___uvia",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «lluvia». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0071",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "llorar",
+   "frase": "___orar",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «llorar». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0072",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "yogur",
+   "frase": "___ogur",
+   "opciones": [
+    "y",
+    "ll"
+   ],
+   "respuesta": "y",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «yogur». Es una palabra con y que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0073",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "llave",
+   "frase": "___ave",
+   "opciones": [
+    "ll",
+    "y"
+   ],
+   "respuesta": "ll",
+   "dificultad": 2,
+   "skills": [
+    "ll_y"
+   ],
+   "explicacion": "Se escribe «llave». Es una palabra con ll que hay que aprender de memoria.",
+   "regla_id": "ll-y"
+  },
+  {
+   "id": "B4-0074",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "israelí",
+   "frase": "is___aelí",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «israelí». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0075",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "ratón",
+   "frase": "___atón",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «ratón». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0076",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "Enrique",
+   "frase": "En___ique",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «Enrique». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0077",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "rata",
+   "frase": "___ata",
+   "opciones": [
+    "rr",
+    "r"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «rata». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0078",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "rueda",
+   "frase": "___ueda",
+   "opciones": [
+    "rr",
+    "r"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «rueda». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0079",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "honrado",
+   "frase": "hon___ado",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «honrado». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  },
+  {
+   "id": "B4-0080",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "sonrisa",
+   "frase": "son___isa",
+   "opciones": [
+    "r",
+    "rr"
+   ],
+   "respuesta": "r",
+   "dificultad": 3,
+   "skills": [
+    "r_rr"
+   ],
+   "explicacion": "Se escribe «sonrisa». Al principio de palabra y detrás de n, l o s, el sonido fuerte se escribe con una sola r: ratón, Enrique, alrededor.",
+   "regla_id": "r-rr"
+  }
+ ]
+}

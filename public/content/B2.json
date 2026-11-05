@@ -1,0 +1,1405 @@
+{
+ "unidad": "B2",
+ "items": [
+  {
+   "id": "B2-0001",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ojo",
+   "opciones": [
+    "ogo",
+    "ojo"
+   ],
+   "respuesta": "ojo",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «ojo». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0002",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "página",
+   "opciones": [
+    "página",
+    "pájina"
+   ],
+   "respuesta": "página",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «página». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0003",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jinete",
+   "opciones": [
+    "jinete",
+    "ginete"
+   ],
+   "respuesta": "jinete",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «jinete». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0004",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "trajeron",
+   "opciones": [
+    "trageron",
+    "trajeron"
+   ],
+   "respuesta": "trajeron",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «trajeron». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0005",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "crujir",
+   "opciones": [
+    "crujir",
+    "crugir"
+   ],
+   "respuesta": "crujir",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «crujir». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0006",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gigante",
+   "opciones": [
+    "jigante",
+    "gigante"
+   ],
+   "respuesta": "gigante",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «gigante». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0007",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gimnasio",
+   "opciones": [
+    "jimnasio",
+    "gimnasio"
+   ],
+   "respuesta": "gimnasio",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «gimnasio». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0008",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "reloj",
+   "opciones": [
+    "reloj",
+    "relog"
+   ],
+   "respuesta": "reloj",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «reloj». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0009",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "ajedrez",
+   "opciones": [
+    "ajedrez",
+    "agedrez"
+   ],
+   "respuesta": "ajedrez",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «ajedrez». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0010",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "general",
+   "opciones": [
+    "general",
+    "jeneral"
+   ],
+   "respuesta": "general",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «general». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0011",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "jefe",
+   "opciones": [
+    "gefe",
+    "jefe"
+   ],
+   "respuesta": "jefe",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «jefe». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0012",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "imagen",
+   "opciones": [
+    "imajen",
+    "imagen"
+   ],
+   "respuesta": "imagen",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «imagen». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0013",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "energía",
+   "opciones": [
+    "energía",
+    "enerjía"
+   ],
+   "respuesta": "energía",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «energía». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0014",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "agenda",
+   "opciones": [
+    "ajenda",
+    "agenda"
+   ],
+   "respuesta": "agenda",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «agenda». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0015",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mágico",
+   "opciones": [
+    "mágico",
+    "májico"
+   ],
+   "respuesta": "mágico",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «mágico». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0016",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dije",
+   "opciones": [
+    "dije",
+    "dige"
+   ],
+   "respuesta": "dije",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «dije». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0017",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "origen",
+   "opciones": [
+    "origen",
+    "orijen"
+   ],
+   "respuesta": "origen",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «origen». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0018",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "gente",
+   "opciones": [
+    "gente",
+    "jente"
+   ],
+   "respuesta": "gente",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «gente». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0019",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vigilar",
+   "opciones": [
+    "vigilar",
+    "vijilar"
+   ],
+   "respuesta": "vigilar",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «vigilar». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0020",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "abeja",
+   "opciones": [
+    "abeja",
+    "abega"
+   ],
+   "respuesta": "abeja",
+   "dificultad": 1,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «abeja». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0021",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "jirafa",
+   "frase": "___irafa",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «jirafa». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0022",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "gigante",
+   "frase": "___igante",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «gigante». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0023",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "geografía",
+   "opciones": [
+    "jeografía",
+    "geografía"
+   ],
+   "respuesta": "geografía",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «geografía». Las palabras que empiezan por geo- y las acabadas en -logía se escriben con g.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0024",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "lenguaje",
+   "opciones": [
+    "lenguage",
+    "lenguaje"
+   ],
+   "respuesta": "lenguaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «lenguaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0025",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "agenda",
+   "frase": "a___enda",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «agenda». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0026",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "gente",
+   "frase": "___ente",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «gente». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0027",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pasajero",
+   "opciones": [
+    "pasagero",
+    "pasajero"
+   ],
+   "respuesta": "pasajero",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «pasajero». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0028",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "mensaje",
+   "opciones": [
+    "mensage",
+    "mensaje"
+   ],
+   "respuesta": "mensaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «mensaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0029",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "vergüenza",
+   "opciones": [
+    "vergüenza",
+    "verguenza"
+   ],
+   "respuesta": "vergüenza",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «vergüenza». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0030",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "tecnología",
+   "opciones": [
+    "tecnolojía",
+    "tecnología"
+   ],
+   "respuesta": "tecnología",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «tecnología». Las palabras que empiezan por geo- y las acabadas en -logía se escriben con g.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0031",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "general",
+   "frase": "___eneral",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «general». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0032",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "equipaje",
+   "opciones": [
+    "equipaje",
+    "equipage"
+   ],
+   "respuesta": "equipaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «equipaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0033",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "personaje",
+   "opciones": [
+    "personaje",
+    "personage"
+   ],
+   "respuesta": "personaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «personaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0034",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "guerra",
+   "opciones": [
+    "gerra",
+    "guerra"
+   ],
+   "respuesta": "guerra",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «guerra». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0035",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "vigilar",
+   "frase": "vi___ilar",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «vigilar». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0036",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "extranjero",
+   "opciones": [
+    "extrangero",
+    "extranjero"
+   ],
+   "respuesta": "extranjero",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «extranjero». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0037",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "dirigir",
+   "opciones": [
+    "dirijir",
+    "dirigir"
+   ],
+   "respuesta": "dirigir",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «dirigir». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0038",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "dije",
+   "frase": "di___e",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «dije». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0039",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "cigüeña",
+   "opciones": [
+    "cigüeña",
+    "cigueña"
+   ],
+   "respuesta": "cigüeña",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «cigüeña». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0040",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "gimnasio",
+   "frase": "___imnasio",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «gimnasio». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0041",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "paisaje",
+   "opciones": [
+    "paisage",
+    "paisaje"
+   ],
+   "respuesta": "paisaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «paisaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0042",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "jefe",
+   "frase": "___efe",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «jefe». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0043",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "jinete",
+   "frase": "___inete",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «jinete». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0044",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "origen",
+   "frase": "ori___en",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «origen». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0045",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "hoguera",
+   "opciones": [
+    "hoguera",
+    "hogera"
+   ],
+   "respuesta": "hoguera",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «hoguera». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0046",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "guiso",
+   "opciones": [
+    "guiso",
+    "giso"
+   ],
+   "respuesta": "guiso",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «guiso». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0047",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "ligero",
+   "frase": "li___ero",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «ligero». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0048",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "juguete",
+   "opciones": [
+    "jugete",
+    "juguete"
+   ],
+   "respuesta": "juguete",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «juguete». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0049",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "crujir",
+   "frase": "cru___ir",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «crujir». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0050",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "jardín",
+   "frase": "___ardín",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «jardín». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0051",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "ojo",
+   "frase": "o___o",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «ojo». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0052",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "trajeron",
+   "frase": "tra___eron",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «trajeron». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0053",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "energía",
+   "frase": "ener___ía",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «energía». Es una palabra que se escribe con g: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0054",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "elegir",
+   "opciones": [
+    "elejir",
+    "elegir"
+   ],
+   "respuesta": "elegir",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «elegir». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0055",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "tejer",
+   "frase": "te___er",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «tejer». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0056",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "pingüino",
+   "opciones": [
+    "pinguino",
+    "pingüino"
+   ],
+   "respuesta": "pingüino",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «pingüino». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0057",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "viaje",
+   "opciones": [
+    "viaje",
+    "viage"
+   ],
+   "respuesta": "viaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «viaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0058",
+   "tipo": "elegir",
+   "enunciado": "¿Cuál está bien escrita?",
+   "palabra": "garaje",
+   "opciones": [
+    "garaje",
+    "garage"
+   ],
+   "respuesta": "garaje",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «garaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0059",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "abeja",
+   "frase": "abe___a",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 2,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «abeja». Es una palabra que se escribe con j: hay que aprenderla de memoria.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0060",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "biología",
+   "frase": "biolo___ía",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «biología». Las palabras que empiezan por geo- y las acabadas en -logía se escriben con g.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0061",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "coger",
+   "frase": "co___er",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «coger». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0062",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "guerra",
+   "frase": "___erra",
+   "opciones": [
+    "g",
+    "gu"
+   ],
+   "respuesta": "gu",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «guerra». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0063",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "vergüenza",
+   "frase": "verg___enza",
+   "opciones": [
+    "ü",
+    "u"
+   ],
+   "respuesta": "ü",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «vergüenza». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0064",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "mensaje",
+   "frase": "mensa___e",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «mensaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0065",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "lenguaje",
+   "frase": "lengua___e",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «lenguaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0066",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "tecnología",
+   "frase": "tecnolo___ía",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «tecnología». Las palabras que empiezan por geo- y las acabadas en -logía se escriben con g.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0067",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "proteger",
+   "frase": "prote___er",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «proteger». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0068",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "elegir",
+   "frase": "ele___ir",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «elegir». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0069",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "hoguera",
+   "frase": "ho___era",
+   "opciones": [
+    "gu",
+    "g"
+   ],
+   "respuesta": "gu",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «hoguera». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0070",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "pingüino",
+   "frase": "ping___ino",
+   "opciones": [
+    "u",
+    "ü"
+   ],
+   "respuesta": "ü",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «pingüino». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0071",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "juguete",
+   "frase": "ju___ete",
+   "opciones": [
+    "g",
+    "gu"
+   ],
+   "respuesta": "gu",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «juguete». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0072",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "geografía",
+   "frase": "___eografía",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «geografía». Las palabras que empiezan por geo- y las acabadas en -logía se escriben con g.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0073",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "garaje",
+   "frase": "gara___e",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «garaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0074",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "recoger",
+   "frase": "reco___er",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «recoger». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0075",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "viaje",
+   "frase": "via___e",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "j",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «viaje». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0076",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "pasajero",
+   "frase": "pasa___ero",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «pasajero». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0077",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "guitarra",
+   "frase": "___itarra",
+   "opciones": [
+    "g",
+    "gu"
+   ],
+   "respuesta": "gu",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «guitarra». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0078",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "dirigir",
+   "frase": "diri___ir",
+   "opciones": [
+    "j",
+    "g"
+   ],
+   "respuesta": "g",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «dirigir». Los verbos acabados en -ger y -gir se escriben con g: coger, elegir (salvo tejer y crujir).",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0079",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "extranjero",
+   "frase": "extran___ero",
+   "opciones": [
+    "g",
+    "j"
+   ],
+   "respuesta": "j",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «extranjero». Las palabras acabadas en -aje y -jero se escriben con j: viaje, pasajero.",
+   "regla_id": "g-j"
+  },
+  {
+   "id": "B2-0080",
+   "tipo": "hueco",
+   "enunciado": "¿Qué letra falta?",
+   "palabra": "cigüeña",
+   "frase": "cig___eña",
+   "opciones": [
+    "ü",
+    "u"
+   ],
+   "respuesta": "ü",
+   "dificultad": 3,
+   "skills": [
+    "g_j"
+   ],
+   "explicacion": "Se escribe «cigüeña». Para el sonido «gue», «gui» se escribe gu (la u no suena); si la u suena, lleva diéresis: pingüino.",
+   "regla_id": "g-j"
+  }
+ ]
+}

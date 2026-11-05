@@ -1,0 +1,847 @@
+{
+ "unidad": "A13",
+ "items": [
+  {
+   "id": "A13-0001",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No vine ___ estaba enfermo.",
+   "opciones": [
+    "porque",
+    "por qué",
+    "porqué"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "No vine porque estaba enfermo. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0002",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Aprobé ___ estudié mucho.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Aprobé porque estudié mucho. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0003",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Cerré la ventana ___ hacía frío.",
+   "opciones": [
+    "porqué",
+    "por qué",
+    "porque"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Cerré la ventana porque hacía frío. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0004",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No fui al parque ___ llovía.",
+   "opciones": [
+    "porqué",
+    "por qué",
+    "porque"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "No fui al parque porque llovía. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0005",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Me río ___ me haces cosquillas.",
+   "opciones": [
+    "porque",
+    "porqué",
+    "por qué"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Me río porque me haces cosquillas. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0006",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Lo hice ___ me apetecía.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo hice porque me apetecía. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0007",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Se fue ___ tenía prisa.",
+   "opciones": [
+    "porque",
+    "por qué",
+    "porqué"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Se fue porque tenía prisa. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0008",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Estoy contento ___ hemos ganado.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Estoy contento porque hemos ganado. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0009",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Bebo agua ___ tengo sed.",
+   "opciones": [
+    "porque",
+    "por qué",
+    "porqué"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Bebo agua porque tengo sed. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0010",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Estudio mucho ___ quiero ser médica.",
+   "opciones": [
+    "por qué",
+    "porque",
+    "porqué"
+   ],
+   "respuesta": "porque",
+   "dificultad": 1,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Estudio mucho porque quiero ser médica. «Porque» (junto y sin tilde) sirve para dar la causa o la razón: vine porque quería.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0011",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No entiendo ___ se ha enfadado.",
+   "opciones": [
+    "porque",
+    "por qué",
+    "porqué"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "No entiendo por qué se ha enfadado. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0012",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Me explicas ___ lo has hecho?",
+   "opciones": [
+    "porqué",
+    "por qué",
+    "porque"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Me explicas por qué lo has hecho? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0013",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿Sabes ___ se cayó el árbol?",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Sabes por qué se cayó el árbol? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0014",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No sé el ___ de tanto ruido.",
+   "opciones": [
+    "por qué",
+    "porque",
+    "porqué"
+   ],
+   "respuesta": "porqué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "No sé el porqué de tanto ruido. «Porqué» (junto y con tilde) es un nombre: significa «el motivo». Va con «el», «un», «su»…",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0015",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Quiero saber el ___ de tu decisión.",
+   "opciones": [
+    "por qué",
+    "porque",
+    "porqué"
+   ],
+   "respuesta": "porqué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Quiero saber el porqué de tu decisión. «Porqué» (junto y con tilde) es un nombre: significa «el motivo». Va con «el», «un», «su»…",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0016",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ los gatos ronronean?",
+   "opciones": [
+    "Porqué",
+    "Porque",
+    "Por qué"
+   ],
+   "respuesta": "Por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Por qué los gatos ronronean? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0017",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ el cielo es azul?",
+   "opciones": [
+    "Por qué",
+    "Porque",
+    "Porqué"
+   ],
+   "respuesta": "Por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Por qué el cielo es azul? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0018",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Dime ___ te gusta tanto el fútbol.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Dime por qué te gusta tanto el fútbol. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0019",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ no has venido a clase?",
+   "opciones": [
+    "Porque",
+    "Por qué",
+    "Porqué"
+   ],
+   "respuesta": "Por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Por qué no has venido a clase? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0020",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ no me lo dijiste antes?",
+   "opciones": [
+    "Por qué",
+    "Porqué",
+    "Porque"
+   ],
+   "respuesta": "Por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Por qué no me lo dijiste antes? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0021",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "No me dijo el ___.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "porqué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "No me dijo el porqué. «Porqué» (junto y con tilde) es un nombre: significa «el motivo». Va con «el», «un», «su»…",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0022",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Todo tiene su ___.",
+   "opciones": [
+    "porqué",
+    "por qué",
+    "porque"
+   ],
+   "respuesta": "porqué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Todo tiene su porqué. «Porqué» (junto y con tilde) es un nombre: significa «el motivo». Va con «el», «un», «su»…",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0023",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Ignoro ___ no funciona el ordenador.",
+   "opciones": [
+    "porqué",
+    "porque",
+    "por qué"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Ignoro por qué no funciona el ordenador. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0024",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "¿___ siempre llegas tarde?",
+   "opciones": [
+    "Porque",
+    "Por qué",
+    "Porqué"
+   ],
+   "respuesta": "Por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "¿Por qué siempre llegas tarde? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0025",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Pregúntale ___ está triste.",
+   "opciones": [
+    "por qué",
+    "porque",
+    "porqué"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Pregúntale por qué está triste. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0026",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Explícame ___ has llorado.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "porque"
+   ],
+   "respuesta": "por qué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Explícame por qué has llorado. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0027",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Nadie sabe el ___ de su tristeza.",
+   "opciones": [
+    "porque",
+    "porqué",
+    "por qué"
+   ],
+   "respuesta": "porqué",
+   "dificultad": 2,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Nadie sabe el porqué de su tristeza. «Porqué» (junto y con tilde) es un nombre: significa «el motivo». Va con «el», «un», «su»…",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0028",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Porque los gatos ronronean?",
+   "opciones": [
+    "¿Porque",
+    "los",
+    "gatos",
+    "ronronean?"
+   ],
+   "respuesta": 0,
+   "correccion": "Por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Por qué los gatos ronronean? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0029",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Porque el cielo es azul?",
+   "opciones": [
+    "¿Porque",
+    "el",
+    "cielo",
+    "es",
+    "azul?"
+   ],
+   "respuesta": 0,
+   "correccion": "Por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Por qué el cielo es azul? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0030",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Sabes porque se cayó el árbol?",
+   "opciones": [
+    "¿Sabes",
+    "porque",
+    "se",
+    "cayó",
+    "el",
+    "árbol?"
+   ],
+   "respuesta": 1,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Sabes por qué se cayó el árbol? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0031",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Tus padres te explicarán los ___ de las normas.",
+   "opciones": [
+    "por qués",
+    "porques",
+    "porqués"
+   ],
+   "respuesta": "porqués",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Tus padres te explicarán los porqués de las normas. «Porqués» es el plural del nombre «porqué» (los motivos).",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0032",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Porque no me lo dijiste antes?",
+   "opciones": [
+    "¿Porque",
+    "no",
+    "me",
+    "lo",
+    "dijiste",
+    "antes?"
+   ],
+   "respuesta": 0,
+   "correccion": "Por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Por qué no me lo dijiste antes? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0033",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Explícame porque has llorado.",
+   "opciones": [
+    "Explícame",
+    "porque",
+    "has",
+    "llorado."
+   ],
+   "respuesta": 1,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: Explícame por qué has llorado. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0034",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Me explicas porque lo has hecho?",
+   "opciones": [
+    "¿Me",
+    "explicas",
+    "porque",
+    "lo",
+    "has",
+    "hecho?"
+   ],
+   "respuesta": 2,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Me explicas por qué lo has hecho? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0035",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Pregúntale porque está triste.",
+   "opciones": [
+    "Pregúntale",
+    "porque",
+    "está",
+    "triste."
+   ],
+   "respuesta": 1,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: Pregúntale por qué está triste. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0036",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Ignoro porque no funciona el ordenador.",
+   "opciones": [
+    "Ignoro",
+    "porque",
+    "no",
+    "funciona",
+    "el",
+    "ordenador."
+   ],
+   "respuesta": 1,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: Ignoro por qué no funciona el ordenador. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0037",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Estos son los motivos ___ me fui.",
+   "opciones": [
+    "porqué",
+    "por qué",
+    "por que"
+   ],
+   "respuesta": "por que",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Estos son los motivos por que me fui. «Por que» (separado y sin tilde) equivale a «por el que», «por la que»…: la razón por (la) que lo hizo.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0038",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Dime porque te gusta tanto el fútbol.",
+   "opciones": [
+    "Dime",
+    "porque",
+    "te",
+    "gusta",
+    "tanto",
+    "el",
+    "fútbol."
+   ],
+   "respuesta": 1,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: Dime por qué te gusta tanto el fútbol. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0039",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "No entiendo porque se ha enfadado.",
+   "opciones": [
+    "No",
+    "entiendo",
+    "porque",
+    "se",
+    "ha",
+    "enfadado."
+   ],
+   "respuesta": 2,
+   "correccion": "por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: No entiendo por qué se ha enfadado. «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0040",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Porque no has venido a clase?",
+   "opciones": [
+    "¿Porque",
+    "no",
+    "has",
+    "venido",
+    "a",
+    "clase?"
+   ],
+   "respuesta": 0,
+   "correccion": "Por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Por qué no has venido a clase? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0041",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "¿Porque siempre llegas tarde?",
+   "opciones": [
+    "¿Porque",
+    "siempre",
+    "llegas",
+    "tarde?"
+   ],
+   "respuesta": 0,
+   "correccion": "Por qué",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: ¿Por qué siempre llegas tarde? «Por qué» (separado y con tilde) sirve para preguntar, también en preguntas indirectas.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0042",
+   "tipo": "hueco",
+   "enunciado": "Completa la frase",
+   "frase": "Esa es la razón ___ lo hizo.",
+   "opciones": [
+    "por qué",
+    "porqué",
+    "por que"
+   ],
+   "respuesta": "por que",
+   "dificultad": 3,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Esa es la razón por que lo hizo. «Por que» (separado y sin tilde) equivale a «por el que», «por la que»…: la razón por (la) que lo hizo.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0043",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Estos son los motivos porqué me fui.",
+   "opciones": [
+    "Estos",
+    "son",
+    "los",
+    "motivos",
+    "porqué",
+    "me",
+    "fui."
+   ],
+   "respuesta": 4,
+   "correccion": "por que",
+   "dificultad": 4,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: Estos son los motivos por que me fui. «Por que» (separado y sin tilde) equivale a «por el que», «por la que»…: la razón por (la) que lo hizo.",
+   "regla_id": "porque"
+  },
+  {
+   "id": "A13-0044",
+   "tipo": "detectar_error",
+   "enunciado": "Toca la palabra que está mal escrita",
+   "frase": "Esa es la razón porqué lo hizo.",
+   "opciones": [
+    "Esa",
+    "es",
+    "la",
+    "razón",
+    "porqué",
+    "lo",
+    "hizo."
+   ],
+   "respuesta": 4,
+   "correccion": "por que",
+   "dificultad": 4,
+   "skills": [
+    "porque"
+   ],
+   "explicacion": "Lo correcto es: Esa es la razón por que lo hizo. «Por que» (separado y sin tilde) equivale a «por el que», «por la que»…: la razón por (la) que lo hizo.",
+   "regla_id": "porque"
+  }
+ ]
+}

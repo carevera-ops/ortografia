@@ -48,8 +48,8 @@ export const ItemSchema = z
     const needOptions: ExerciseType[] = ['elegir', 'explica_regla', 'clasificar', 'diptongo_hiato', 'hueco', 'silaba_tonica', 'detectar_error'];
     if (needOptions.includes(it.tipo)) {
       if (!it.opciones || it.opciones.length < 2) ctx.addIssue({ code: 'custom', message: `${it.id}: faltan opciones` });
-      // En sílaba tónica puede haber sílabas repetidas (p. ej. «ma-má»): se responde por índice.
-      else if (it.tipo !== 'silaba_tonica' && new Set(it.opciones).size !== it.opciones.length)
+      // En sílaba tónica y detectar el error puede haber elementos repetidos (ma-má; «de… de»): se responde por índice.
+      else if (it.tipo !== 'silaba_tonica' && it.tipo !== 'detectar_error' && new Set(it.opciones).size !== it.opciones.length)
         ctx.addIssue({ code: 'custom', message: `${it.id}: opciones repetidas` });
     }
     if (['elegir', 'explica_regla', 'clasificar', 'diptongo_hiato', 'hueco'].includes(it.tipo)) {
