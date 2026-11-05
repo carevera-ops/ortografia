@@ -18,6 +18,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -35,6 +36,7 @@ jobs:
 
   e2e:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -42,7 +44,10 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npx playwright install --with-deps webkit
+      # Si la instalación se atasca (pasa a veces en los servidores de GitHub), se reintenta.
+      - name: Instalar WebKit
+        timeout-minutes: 6
+        run: npx playwright install --with-deps webkit || (sleep 10 && npx playwright install --with-deps webkit)
       - run: npm run build
         env:
           BASE_PATH: /ortografia/
@@ -60,6 +65,7 @@ jobs:
   deploy:
     needs: [build, e2e]
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
