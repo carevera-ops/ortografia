@@ -8,7 +8,7 @@ import { db, type TildinDB } from './db';
 export const BACKUP_APP = 'tildin';
 export const BACKUP_VERSION = 1;
 
-const TABLES = ['settings', 'levelProgress', 'skillMastery', 'srsCards', 'attempts', 'sessions', 'dailyStats', 'streakState', 'achievements'] as const;
+const TABLES = ['settings', 'levelProgress', 'skillMastery', 'srsCards', 'attempts', 'sessions', 'dailyStats', 'streakState', 'achievements', 'reports'] as const;
 type TableName = (typeof TABLES)[number];
 
 const rows = z.array(z.record(z.string(), z.unknown()));
@@ -26,6 +26,8 @@ export const BackupSchema = z.object({
     dailyStats: z.array(z.object({ date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/), activeSec: z.number() }).passthrough()),
     streakState: rows,
     achievements: z.array(z.object({ id: z.string() }).passthrough()),
+    // Añadido en la versión 2 de la base de datos: las copias antiguas no lo traen.
+    reports: z.array(z.object({ childId: z.string(), at: z.string() }).passthrough()).default([]),
   }),
 });
 export type Backup = z.infer<typeof BackupSchema>;

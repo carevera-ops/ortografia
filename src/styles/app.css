@@ -1143,3 +1143,30 @@
   width: 100%;
   text-transform: none;
 }
+
+/* ---------- Seguimiento ---------- */
+.qr {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 2px solid var(--border);
+}
+.report-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 0.92rem;
+}
+.report-table th,
+.report-table td {
+  text-align: left;
+  padding: 8px 4px;
+  border-bottom: 1px solid var(--border);
+}
+.report-table th {
+  color: var(--text-soft);
+  font-weight: 700;
+}
+.report-table tbody tr {
+  cursor: pointer;
+}

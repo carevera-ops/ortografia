@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { navigate, useRoute } from './router';
+import { navigate, parseHash, useRoute } from './router';
 import { installSkipped, requestPersistentStorage, shouldSuggestInstall } from './platform';
 import { TabBar } from '../components/TabBar';
 import { UpdatePrompt } from '../components/UpdatePrompt';
@@ -14,6 +14,7 @@ import { Progress } from '../screens/Progress';
 import { Theory } from '../screens/Theory';
 import { Parents } from '../screens/Parents';
 import { InstallHelp } from '../screens/InstallHelp';
+import { ReportScreen, TrackingScreen } from '../screens/Tracking';
 
 export function App() {
   const route = useRoute();
@@ -30,7 +31,9 @@ export function App() {
   useEffect(() => {
     void requestPersistentStorage();
     // En Safari sin instalar, mostramos primero la ayuda de instalación.
-    if (shouldSuggestInstall() && !installSkipped()) navigate({ name: 'install' }, true);
+    // (salvo al abrir un informe de seguimiento: eso se ve en el navegador de los padres)
+    const start = parseHash(location.hash).name;
+    if (shouldSuggestInstall() && !installSkipped() && start !== 'report' && start !== 'tracking') navigate({ name: 'install' }, true);
   }, []);
 
   // Al cambiar de pantalla, volvemos arriba.
@@ -38,7 +41,7 @@ export function App() {
     window.scrollTo(0, 0);
   }, [route.name]);
 
-  const inLesson = route.name === 'lesson' || route.name === 'practice' || route.name === 'placement' || route.name === 'install';
+  const inLesson = route.name === 'lesson' || route.name === 'practice' || route.name === 'placement' || route.name === 'install' || route.name === 'report' || route.name === 'tracking';
   let screen: React.ReactNode;
   let tabs = true;
   switch (route.name) {
@@ -75,6 +78,14 @@ export function App() {
       break;
     case 'install':
       screen = <InstallHelp />;
+      tabs = false;
+      break;
+    case 'report':
+      screen = <ReportScreen code={route.code} />;
+      tabs = false;
+      break;
+    case 'tracking':
+      screen = <TrackingScreen />;
       tabs = false;
       break;
   }

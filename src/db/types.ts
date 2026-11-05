@@ -18,6 +18,10 @@ export interface Settings {
   pinSalt: string | null;
   /** Zona de padres: todas las unidades abiertas (para probar o repasar libremente). */
   unlockAll: boolean;
+  /** Identificador aleatorio para los informes de seguimiento (no es un dato personal). */
+  childId: string | null;
+  /** Alias opcional que aparece en los informes de seguimiento. */
+  childAlias: string | null;
   /** Fecha ISO de la última copia de seguridad exportada. */
   lastBackupAt: string | null;
   createdAt: string;
@@ -116,4 +120,15 @@ export interface StreakState {
 export interface Achievement {
   id: string;
   unlockedAt: string;
+}
+
+/** Informe de seguimiento recibido de otro dispositivo (se guarda en el dispositivo de los padres). */
+export interface SavedReport {
+  id?: number;
+  childId: string;
+  /** Fecha local en la que se generó el informe. */
+  at: string;
+  receivedAt: string;
+  /** Datos del informe (formato de core/report). */
+  data: import('../core/report/report').Report;
 }

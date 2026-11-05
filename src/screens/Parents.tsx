@@ -1,7 +1,10 @@
 import { useRef, useState } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db, updateSettings } from '../db/db';
-import { useSettings, useStreak } from '../hooks';
+import { usePath, useSettings, useStreak } from '../hooks';
+import { buildReport, encodeReport, newChildId, reportUrl } from '../core/report/report';
+import { computeStreak } from '../core/streak/streak';
+import { QrCode } from '../components/QrCode';
 import { checkPin, hashPin, isValidPin, newSalt } from '../core/parents/pin';
 import { backupDue, describeBackup, exportBackup, importBackup, parseBackup, resetProgress, shareOrDownload, type Backup } from '../db/backup';
 import { addDays } from '../core/time/dates';
@@ -397,6 +400,107 @@ function ChangePin() {
   );
 }
 
+/** Genera el código QR / enlace de seguimiento para verlo en otro dispositivo. */
+function TrackingPanel({ settings }: { settings: Settings }) {
+  const streak = useStreak();
+  const path = usePath();
+  const [url, setUrl] = useState<string | null>(null);
+  const [alias, setAlias] = useState(settings.childAlias ?? '');
+  const [msg, setMsg] = useState<string | null>(null);
+
+  const generate = async () => {
+    if (!streak || !path) return;
+    let childId = settings.childId;
+    if (!childId) {
+      childId = newChildId();
+      await updateSettings({ childId });
+    }
+    const clean = alias.trim().slice(0, 30) || null;
+    if (clean !== settings.childAlias) await updateSettings({ childAlias: clean });
+    const [days, skills, wrong, achievements] = await Promise.all([
+      db.dailyStats.toArray(),
+      db.skillMastery.toArray(),
+      db.attempts.filter((a) => !a.correct).toArray(),
+      db.achievements.toArray(),
+    ]);
+    const count = new Map<string, number>();
+    for (const a of wrong) count.set(a.target, (count.get(a.target) ?? 0) + 1);
+    const hardWords = [...count.entries()].sort((a, b) => b[1] - a[1]).map(([w]) => w);
+    // La racha se recalcula con los datos recién leídos (no con los de la pantalla).
+    const fresh = computeStreak(days, streak.today, { criterion: settings.streakCriterion, minutes: settings.streakMinutes });
+    const report = buildReport({
+      childId,
+      alias: clean,
+      today: streak.today,
+      streak: fresh,
+      days,
+      skills,
+      hardWords,
+      achievements,
+      unitsMastered: Object.values(path.unitMastered).filter(Boolean).length,
+    });
+    setUrl(reportUrl(location.origin, import.meta.env.BASE_URL, await encodeReport(report)));
+    setMsg(null);
+  };
+
+  const share = async () => {
+    if (!url) return;
+    try {
+      if (navigator.share) {
+        await navigator.share({ title: 'Progreso en Tildín', text: 'Informe de progreso de Tildín', url });
+        return;
+      }
+    } catch (e) {
+      if ((e as Error).name === 'AbortError') return;
+    }
+    try {
+      await navigator.clipboard.writeText(url);
+      setMsg('✔ Enlace copiado.');
+    } catch {
+      setMsg('No se ha podido copiar. Mantén pulsado el enlace para copiarlo.');
+    }
+  };
+
+  return (
+    <section className="card" aria-labelledby="tracking-title">
+      <h2 id="tracking-title">Seguimiento desde otro dispositivo</h2>
+      <p className="muted small-text">
+        Genera un código con el progreso de hoy y ábrelo en tu móvil (con la cámara o enviándote el enlace). Los datos van dentro del propio código: no pasan por ningún servidor. Si guardas los informes en tu móvil, podrás ver la evolución semana a semana.
+      </p>
+      <label className="small-heading" htmlFor="alias">
+        Nombre que aparecerá en el informe (opcional)
+      </label>
+      <input id="alias" className="text-input" value={alias} maxLength={30} onChange={(e) => setAlias(e.target.value)} placeholder="Por ejemplo, un apodo" autoComplete="off" autoCorrect="off" />
+      <button className="btn block secondary" style={{ marginTop: 12 }} onClick={() => void generate()}>
+        📲 Generar código de seguimiento
+      </button>
+      {url && (
+        <div className="center" style={{ marginTop: 14 }}>
+          <QrCode text={url} label="Código QR con el informe de seguimiento" />
+          <p className="small-text muted">Escanéalo con la cámara de otro móvil o comparte el enlace.</p>
+          <button className="btn block ghost" onClick={() => void share()}>
+            🔗 Compartir enlace
+          </button>
+          {msg && (
+            <p className="small-text" role="status">
+              {msg}
+            </p>
+          )}
+          <p className="small-text muted" style={{ wordBreak: 'break-all' }}>
+            Código del niño: <strong>{settings.childId}</strong> ·{' '}
+            <a href={url} className="report-link">
+              Ver el informe en este dispositivo
+            </a>
+          </p>
+        </div>
+      )}
+      <a className="small-text" href={routeToHash({ name: 'tracking' })}>
+        Ver informes recibidos en este dispositivo →
+      </a>
+    </section>
+  );
+}
+
 /** Zona de padres: resumen, ajustes, contenido, copia de seguridad y recordatorios. */
 export function Parents() {
   const settings = useSettings();
@@ -466,6 +570,8 @@ export function Parents() {
           Abre todas las unidades y niveles del camino para practicar lo que se quiera (por ejemplo, lo que se esté dando en clase). El progreso se sigue guardando igual; si se desactiva, el camino vuelve a abrirse por orden.
         </p>
       </section>
+
+      <TrackingPanel settings={settings} />
 
       <BackupPanel settings={settings} studiedDays={studiedDays} />
 

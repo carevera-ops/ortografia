@@ -4,6 +4,7 @@ import type {
   Attempt,
   DailyStat,
   LevelProgress,
+  SavedReport,
   Settings,
   SkillMastery,
   SrsCard,
@@ -22,6 +23,7 @@ export class TildinDB extends Dexie {
   dailyStats!: EntityTable<DailyStat, 'date'>;
   streakState!: EntityTable<StreakState, 'id'>;
   achievements!: EntityTable<Achievement, 'id'>;
+  reports!: EntityTable<SavedReport, 'id'>;
 
   constructor(name = 'tildin') {
     super(name);
@@ -36,6 +38,10 @@ export class TildinDB extends Dexie {
       dailyStats: 'date',
       streakState: 'id',
       achievements: 'id',
+    });
+    // Versión 2: informes de seguimiento recibidos de otros dispositivos.
+    this.version(2).stores({
+      reports: '++id, childId, at',
     });
   }
 }
@@ -52,6 +58,8 @@ export const DEFAULT_SETTINGS: Settings = {
   pinHash: null,
   pinSalt: null,
   unlockAll: false,
+  childId: null,
+  childAlias: null,
   lastBackupAt: null,
   createdAt: new Date(0).toISOString(),
 };

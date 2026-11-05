@@ -28,6 +28,8 @@ describe('router', () => {
       { name: 'theory', ruleId: 'diacritica' },
       { name: 'parents' },
       { name: 'install' },
+      { name: 'report', code: 'abc_DEF-123' },
+      { name: 'tracking' },
     ];
     for (const r of routes) expect(parseHash(routeToHash(r))).toEqual(r);
   });
