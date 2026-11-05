@@ -1,0 +1,381 @@
+/* Estilos globales de Tildín: mobile-first para iPhone en vertical. */
+
+:root {
+  --bg: #fff8ef;
+  --surface: #ffffff;
+  --surface-2: #fff0dd;
+  --text: #2b2240;
+  --text-soft: #6b6280;
+  --primary: #ff7a3d;
+  --primary-dark: #d95a1f;
+  --accent: #6c5ce7;
+  --accent-dark: #4c3cc4;
+  --ok: #2fb36d;
+  --ok-dark: #1f8a51;
+  --ok-bg: #dcf7e8;
+  --ko: #e5484d;
+  --ko-dark: #b8292e;
+  --ko-bg: #fde4e4;
+  --flame: #ff9f1c;
+  --locked: #d9d3e3;
+  --border: #eadfce;
+  --radius: 18px;
+  --shadow: 0 4px 0 rgba(43, 34, 64, 0.12);
+  --tabbar-h: 64px;
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Rounded', 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #1d1830;
+    --surface: #2a2342;
+    --surface-2: #352c52;
+    --text: #f5f1ff;
+    --text-soft: #b9b0d4;
+    --ok-bg: #173d2b;
+    --ko-bg: #4a1f26;
+    --locked: #4a4263;
+    --border: #3e3560;
+    --shadow: 0 4px 0 rgba(0, 0, 0, 0.35);
+  }
+}
+:root[data-theme='dark'] {
+  --bg: #1d1830;
+  --surface: #2a2342;
+  --surface-2: #352c52;
+  --text: #f5f1ff;
+  --text-soft: #b9b0d4;
+  --ok-bg: #173d2b;
+  --ko-bg: #4a1f26;
+  --locked: #4a4263;
+  --border: #3e3560;
+  --shadow: 0 4px 0 rgba(0, 0, 0, 0.35);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg);
+  overscroll-behavior: none;
+}
+
+#root {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
+}
+h1 {
+  font-size: 1.6rem;
+}
+h2 {
+  font-size: 1.25rem;
+}
+p {
+  line-height: 1.45;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+}
+
+/* Inputs a 16 px o más: así Safari no hace zoom al enfocarlos. */
+input,
+select,
+textarea {
+  font: inherit;
+  font-size: max(16px, 1rem);
+}
+
+a {
+  color: var(--accent);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------- Estructura de pantalla ---------- */
+
+.screen {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: calc(var(--safe-top) + 12px) calc(var(--safe-right) + 16px) 16px calc(var(--safe-left) + 16px);
+  width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+}
+.screen.with-tabbar {
+  padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + 16px);
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  margin-bottom: 12px;
+}
+.topbar h1 {
+  margin: 0;
+  font-size: 1.3rem;
+  flex: 1;
+}
+
+/* ---------- Barra de pestañas inferior ---------- */
+
+.tabbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  display: flex;
+  justify-content: space-around;
+  background: var(--surface);
+  border-top: 2px solid var(--border);
+  padding: 6px calc(var(--safe-right) + 6px) calc(var(--safe-bottom) + 6px) calc(var(--safe-left) + 6px);
+}
+.tabbar a {
+  flex: 1;
+  min-height: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  text-decoration: none;
+  color: var(--text-soft);
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 12px;
+}
+.tabbar a .tab-icon {
+  font-size: 1.45rem;
+  line-height: 1;
+}
+.tabbar a[aria-current='page'] {
+  color: var(--primary);
+  background: var(--surface-2);
+}
+
+/* ---------- Botones ---------- */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 52px;
+  padding: 0 20px;
+  border: 0;
+  border-radius: 16px;
+  font-weight: 800;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+  background: var(--primary);
+  color: #fff;
+  box-shadow: 0 4px 0 var(--primary-dark);
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.btn:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 var(--primary-dark);
+}
+.btn:disabled {
+  background: var(--locked);
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+  color: var(--text-soft);
+  cursor: not-allowed;
+}
+.btn.block {
+  width: 100%;
+}
+.btn.secondary {
+  background: var(--accent);
+  box-shadow: 0 4px 0 var(--accent-dark);
+}
+.btn.ghost {
+  background: var(--surface);
+  color: var(--text);
+  border: 2px solid var(--border);
+  box-shadow: 0 4px 0 var(--border);
+}
+.btn.ok {
+  background: var(--ok);
+  box-shadow: 0 4px 0 var(--ok-dark);
+}
+.btn.ko {
+  background: var(--ko);
+  box-shadow: 0 4px 0 var(--ko-dark);
+}
+.btn.small {
+  min-height: 44px;
+  font-size: 0.9rem;
+  padding: 0 14px;
+}
+
+.icon-btn {
+  min-width: 44px;
+  min-height: 44px;
+  display: inline-grid;
+  place-items: center;
+  border: 0;
+  background: transparent;
+  font-size: 1.5rem;
+  border-radius: 12px;
+  cursor: pointer;
+  color: var(--text-soft);
+  text-decoration: none;
+}
+
+/* ---------- Tarjetas ---------- */
+
+.card {
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 14px;
+}
+.card.highlight {
+  background: var(--surface-2);
+}
+.row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.muted {
+  color: var(--text-soft);
+}
+.center {
+  text-align: center;
+}
+.grow {
+  flex: 1;
+}
+
+/* ---------- Aviso de actualización ---------- */
+
+.update-toast {
+  position: fixed;
+  z-index: 50;
+  left: calc(var(--safe-left) + 12px);
+  right: calc(var(--safe-right) + 12px);
+  top: calc(var(--safe-top) + 10px);
+  max-width: 536px;
+  margin: 0 auto;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 16px;
+  padding: 12px 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+.update-toast .btn {
+  background: #fff;
+  color: var(--accent-dark);
+  box-shadow: none;
+}
+
+/* ---------- Animaciones (respetan prefers-reduced-motion) ---------- */
+
+@keyframes pop {
+  0% {
+    transform: scale(0.85);
+  }
+  60% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-6px);
+  }
+  75% {
+    transform: translateX(6px);
+  }
+}
+@keyframes bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+.anim-pop {
+  animation: pop 0.35s ease;
+}
+.anim-shake {
+  animation: shake 0.3s ease;
+}
+.anim-bob {
+  animation: bob 2.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
