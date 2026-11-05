@@ -20,6 +20,7 @@ describe('router', () => {
       { name: 'home' },
       { name: 'path' },
       { name: 'lesson', unitId: 'A11', level: 3 },
+      { name: 'placement', unitId: 'A5' },
       { name: 'practice' },
       { name: 'result', sessionId: 'abc-123' },
       { name: 'progress' },

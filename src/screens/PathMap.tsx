@@ -62,6 +62,11 @@ export function PathMap() {
                     );
                   })}
                 </div>
+                {unlocked && !path.unitMastered[u.id] && (
+                  <button className="btn small ghost placement-btn" onClick={() => navigate({ name: 'placement', unitId: u.id })}>
+                    ⏩ ¿Ya lo sabes? Prueba de nivel
+                  </button>
+                )}
                 {soon && <p className="soon">Próximamente 🛠️</p>}
               </li>
             );

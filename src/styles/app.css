@@ -1131,3 +1131,15 @@
 .badge-toast .badge-emoji {
   font-size: 2.2rem;
 }
+
+.boost-tag {
+  margin: 0 0 4px;
+  color: var(--flame);
+  font-weight: 800;
+  font-size: 0.95rem;
+}
+.placement-btn {
+  margin-top: 14px;
+  width: 100%;
+  text-transform: none;
+}

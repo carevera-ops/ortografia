@@ -8,6 +8,7 @@ export type Route =
   | { name: 'home' }
   | { name: 'path' }
   | { name: 'lesson'; unitId: string; level: number }
+  | { name: 'placement'; unitId: string }
   | { name: 'practice' }
   | { name: 'result'; sessionId: string }
   | { name: 'progress' }
@@ -28,6 +29,8 @@ export function parseHash(hash: string): Route {
     case 'leccion':
       if (a && b && /^\d+$/.test(b)) return { name: 'lesson', unitId: a, level: Number(b) };
       return { name: 'path' };
+    case 'prueba':
+      return a ? { name: 'placement', unitId: a } : { name: 'path' };
     case 'practica':
       return { name: 'practice' };
     case 'resultado':
@@ -53,6 +56,8 @@ export function routeToHash(route: Route): string {
       return '#/camino';
     case 'lesson':
       return `#/leccion/${encodeURIComponent(route.unitId)}/${route.level}`;
+    case 'placement':
+      return `#/prueba/${encodeURIComponent(route.unitId)}`;
     case 'practice':
       return '#/practica';
     case 'result':

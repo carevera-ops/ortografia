@@ -4,22 +4,24 @@ import { Exercise } from '../exercises/Exercise';
 import { answerText, correctAnswerText, grade, type AnswerValue } from '../core/engine/grade';
 import { xpFor } from '../core/engine/xp';
 import { buildLesson, buildPractice } from '../core/engine/lessonBuilder';
+import { adaptQueue, buildPlacement, PLACEMENT_PASS, wordKey, type QueueEntry } from '../core/engine/adaptive';
 import { computePath } from '../core/engine/unlock';
 import { UNITS, UNIT_BY_ID } from '../core/content/catalog';
 import { findItems, loadIndex, loadRules, loadUnit, loadUnits } from '../core/content/loader';
 import { ActiveTimer } from '../core/timer/activeTimer';
-import { addActiveTime, finishSession, getDueItemIds, getMasteryMap, getRecentItemIds, recordAnswer, startSession } from '../db/repo';
+import { addActiveTime, finishSession, skipUnit, getDueItemIds, getMasteryMap, getRecentItemIds, recordAnswer, startSession } from '../db/repo';
 import { db, getSettings } from '../db/db';
 import { navigate } from '../app/router';
 import { playCorrect, playFinish, playWrong, setSoundEnabled, unlockAudio } from '../audio/sfx';
 import { Mascot } from '../components/Mascot';
 import { getSpanishVoice } from '../audio/tts';
 
-type Mode = { kind: 'lesson'; unitId: string; level: number } | { kind: 'practice' };
+type Mode = { kind: 'lesson'; unitId: string; level: number } | { kind: 'placement'; unitId: string } | { kind: 'practice' };
 
-interface QueueEntry {
-  item: Item;
-  firstTry: boolean;
+interface Prepared {
+  items: QueueEntry[];
+  /** Preguntas de reserva para la adaptación de dificultad. */
+  reserve: Item[];
 }
 
 const PRAISE = ['¡Genial!', '¡Muy bien!', '¡Perfecto!', '¡Eso es!', '¡Bravo!', '¡Así se hace!'];
@@ -33,7 +35,7 @@ async function unlockedUnitIds(): Promise<string[]> {
   return UNITS.filter((u) => path.unitUnlocked[u.id]).map((u) => u.id);
 }
 
-async function prepare(mode: Mode): Promise<Item[]> {
+async function prepare(mode: Mode): Promise<Prepared> {
   const [mastery, dueIds, recent, unlocked, voice] = await Promise.all([
     getMasteryMap(),
     getDueItemIds(),
@@ -43,17 +45,26 @@ async function prepare(mode: Mode): Promise<Item[]> {
   ]);
   // Sin voz española no hay dictado: se ocultan esos ejercicios.
   const usable = (items: Item[]) => (voice ? items : items.filter((i) => i.tipo !== 'dictado'));
+  const main = (item: Item): QueueEntry => ({ item, firstTry: true, role: 'main' });
+  if (mode.kind === 'placement') {
+    const unitItems = usable(await loadUnit(mode.unitId));
+    return { items: buildPlacement(unitItems).map(main), reserve: [] };
+  }
   const dueAll = await findItems(dueIds);
   const dueItems = usable(dueAll.filter((i) => unlocked.includes(i.id.split('-')[0]!)));
   if (mode.kind === 'practice') {
     const pool = usable(await loadUnits(unlocked));
-    return buildPractice(pool, mastery, dueItems, 10);
+    return { items: buildPractice(pool, mastery, dueItems, 10).map(main), reserve: pool };
   }
   const unit = UNIT_BY_ID.get(mode.unitId)!;
   const unitItems = usable(await loadUnit(mode.unitId));
   const prevIds = unlocked.filter((id) => id !== mode.unitId).slice(-3);
   const reviewPool = prevIds.length ? usable(await loadUnits(prevIds)) : [];
-  return buildLesson({ unitItems, level: mode.level, levels: unit.levels, mastery, dueItems, reviewPool, recentIds: recent });
+  const plan = buildLesson({ unitItems, level: mode.level, levels: unit.levels, mastery, dueItems, reviewPool, recentIds: recent });
+  return {
+    items: plan.map((item) => ({ item, firstTry: true, role: item.id.startsWith(`${mode.unitId}-`) ? 'main' : 'extra' })),
+    reserve: unitItems,
+  };
 }
 
 /** Ficha de teoría en una hoja superpuesta (sin salir de la lección). */
@@ -108,8 +119,11 @@ export function Lesson({ mode }: { mode: Mode }) {
   const timerRef = useRef<ActiveTimer | null>(null);
   const shownAt = useRef(Date.now());
   const firstCount = useRef(0);
+  const reserveRef = useRef<Item[]>([]);
+  const wrongStreak = useRef(0);
+  const usedWords = useRef(new Set<string>());
   const doneFirst = useRef(0);
-  const modeKey = mode.kind === 'lesson' ? `${mode.unitId}/${mode.level}` : 'practice';
+  const modeKey = mode.kind === 'lesson' ? `${mode.unitId}/${mode.level}` : mode.kind === 'placement' ? `p/${mode.unitId}` : 'practice';
 
   // Preparar la lección y arrancar la sesión y el cronómetro.
   useEffect(() => {
@@ -118,17 +132,23 @@ export function Lesson({ mode }: { mode: Mode }) {
       try {
         const settings = await getSettings();
         setSoundEnabled(settings.sound);
-        const [items, r] = await Promise.all([prepare(mode), loadRules()]);
+        const [prep, r] = await Promise.all([prepare(mode), loadRules()]);
         if (cancelled) return;
+        const items = prep.items;
         if (items.length === 0) throw new Error('No hay preguntas disponibles todavía.');
+        reserveRef.current = prep.reserve;
         setRules(r);
         firstCount.current = items.length;
-        const sid = await startSession(mode.kind, mode.kind === 'lesson' ? mode.unitId : null, mode.kind === 'lesson' ? mode.level : null);
+        const sid = await startSession(
+          mode.kind,
+          mode.kind === 'practice' ? null : mode.unitId,
+          mode.kind === 'lesson' ? mode.level : null,
+        );
         sessionRef.current = sid;
         const timer = new ActiveTimer({ onFlush: (sec) => void addActiveTime(sid, sec) });
         timer.start();
         timerRef.current = timer;
-        setQueue(items.map((item) => ({ item, firstTry: true })));
+        setQueue(items);
         shownAt.current = Date.now();
       } catch (e) {
         setError(e instanceof Error ? e.message : String(e));
@@ -146,10 +166,15 @@ export function Lesson({ mode }: { mode: Mode }) {
     timerRef.current?.stop();
     const sid = sessionRef.current;
     if (!sid) return;
-    await finishSession(sid);
+    const done = await finishSession(sid);
+    // Prueba de nivel aprobada: la unidad queda superada y se abre la siguiente.
+    if (mode.kind === 'placement' && done && done.questions > 0) {
+      const pct = Math.round((100 * done.correct) / done.questions);
+      if (pct >= PLACEMENT_PASS) await skipUnit(mode.unitId, UNIT_BY_ID.get(mode.unitId)!.levels, pct);
+    }
     playFinish();
     navigate({ name: 'result', sessionId: sid }, true);
-  }, []);
+  }, [mode]);
 
   const check = async () => {
     if (!current || answer === null || verdict) return;
@@ -172,8 +197,16 @@ export function Lesson({ mode }: { mode: Mode }) {
       xp,
       firstTry: current.firstTry,
     });
-    // Lo fallado vuelve a salir al final (una vez), como en Duolingo.
-    if (!ok && current.firstTry) setQueue((q) => [...q!, { item: current.item, firstTry: false }]);
+    usedWords.current.add(wordKey(current.item));
+    wrongStreak.current = ok ? 0 : wrongStreak.current + 1;
+    setQueue((q) => {
+      let nq = q!;
+      // Lo fallado vuelve a salir al final (una vez), como en Duolingo; en la prueba de nivel, no.
+      if (!ok && current.firstTry && mode.kind !== 'placement') nq = [...nq, { item: current.item, firstTry: false, role: 'extra' }];
+      // Dificultad adaptativa: con racha de aciertos, la siguiente es más difícil; con 2 fallos, más fácil.
+      if (mode.kind !== 'placement') nq = adaptQueue(nq, pos + 1, reserveRef.current, newCombo, wrongStreak.current, usedWords.current);
+      return nq;
+    });
   };
 
   const next = async () => {
@@ -182,7 +215,7 @@ export function Lesson({ mode }: { mode: Mode }) {
       if (mode.kind === 'practice') {
         // Práctica libre: infinita. Se añade otra tanda.
         const more = await prepare(mode);
-        setQueue((q) => [...q!, ...more.map((item) => ({ item, firstTry: true }))]);
+        setQueue((q) => [...q!, ...more.items]);
       } else {
         await finish();
         return;
@@ -217,7 +250,7 @@ export function Lesson({ mode }: { mode: Mode }) {
   }
 
   const progress = mode.kind === 'practice' ? Math.min(1, (doneFirst.current % 10) / 10) : doneFirst.current / firstCount.current;
-  const unit = mode.kind === 'lesson' ? UNIT_BY_ID.get(mode.unitId) : null;
+  const unit = mode.kind !== 'practice' ? UNIT_BY_ID.get(mode.unitId) : null;
   const itemRule = rules.get(current.item.regla_id);
 
   return (
@@ -251,6 +284,12 @@ export function Lesson({ mode }: { mode: Mode }) {
       </div>
 
       {!current.firstTry && <p className="retry-tag">🔁 Vamos a repasar esta</p>}
+      {current.adapted === 'up' && (
+        <p className="boost-tag anim-pop" key={`b${pos}`}>
+          ⚡ ¡Vas tan bien que subimos el nivel!
+        </p>
+      )}
+      {mode.kind === 'placement' && pos === 0 && <p className="retry-tag">🎯 Prueba de nivel: necesitas un {PLACEMENT_PASS} % para saltar la unidad.</p>}
       <h1 className="prompt">{current.item.enunciado}</h1>
 
       <div className="exercise-area" key={`${pos}-${current.item.id}`}>
@@ -302,7 +341,7 @@ export function Lesson({ mode }: { mode: Mode }) {
                 className="btn block ghost"
                 onClick={() => {
                   timerRef.current?.stop();
-                  navigate({ name: mode.kind === 'lesson' ? 'path' : 'home' }, true);
+                  navigate({ name: mode.kind === 'practice' ? 'home' : 'path' }, true);
                 }}
               >
                 Salir

@@ -4,6 +4,7 @@ import { navigate } from '../app/router';
 import { Mascot } from '../components/Mascot';
 import { UNIT_BY_ID } from '../core/content/catalog';
 import { PASS_PCT } from '../core/engine/unlock';
+import { PLACEMENT_PASS } from '../core/engine/adaptive';
 import { findItems } from '../core/content/loader';
 import { useEffect, useState } from 'react';
 import type { Item } from '../core/content/schema';
@@ -18,6 +19,13 @@ function formatTime(sec: number): string {
 /** Resumen al terminar: aciertos, XP, tiempo y errores repasables. */
 export function Result({ sessionId }: { sessionId: string }) {
   const session = useLiveQuery(() => db.sessions.get(sessionId), [sessionId]);
+  const finalDone = useLiveQuery(async () => {
+    const s = await db.sessions.get(sessionId);
+    const u = s?.unitId ? UNIT_BY_ID.get(s.unitId) : null;
+    if (!u) return true;
+    const row = await db.levelProgress.get([u.id, u.levels]);
+    return !!row && (row.skipped || (row.completed && row.bestPct >= PASS_PCT));
+  }, [sessionId]);
   const attempts = useLiveQuery(() => db.attempts.where('sessionId').equals(sessionId).toArray(), [sessionId]);
   const [wrongItems, setWrongItems] = useState<{ item: Item; given: string }[]>([]);
 
@@ -48,7 +56,7 @@ export function Result({ sessionId }: { sessionId: string }) {
         <h1 id="result-title">{title}</h1>
         {unit && (
           <p className="muted">
-            {unit.title} · Nivel {session.level}
+            {unit.title} · {session.kind === 'placement' ? 'Prueba de nivel' : `Nivel ${session.level}`}
           </p>
         )}
       </div>
@@ -68,6 +76,21 @@ export function Result({ sessionId }: { sessionId: string }) {
           <span className="stat-label">de estudio</span>
         </div>
       </div>
+      {session.kind === 'placement' && (
+        <p className={`card center ${pct >= PLACEMENT_PASS ? 'highlight' : ''}`}>
+          {pct >= PLACEMENT_PASS
+            ? '🚀 ¡Ya lo dominas! Has saltado la unidad y se ha abierto la siguiente.'
+            : `Necesitabas un ${PLACEMENT_PASS} %. No pasa nada: haz las lecciones de la unidad y lo conseguirás enseguida.`}
+        </p>
+      )}
+      {session.kind === 'lesson' && pct === 100 && unit && session.level! < unit.levels && finalDone === false && (
+        <div className="card highlight center">
+          <p style={{ marginTop: 0 }}>💯 ¡Perfecto! Si quieres, puedes saltar directamente al repaso final de la unidad.</p>
+          <button className="btn block secondary" onClick={() => navigate({ name: 'lesson', unitId: unit.id, level: unit.levels }, true)}>
+            ⏩ Ir al repaso final
+          </button>
+        </div>
+      )}
       {isFinalLevel && (
         <p className={`card center ${pct >= PASS_PCT ? 'highlight' : ''}`}>
           {pct >= PASS_PCT

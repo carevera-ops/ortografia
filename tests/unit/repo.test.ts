@@ -1,7 +1,9 @@
 import 'fake-indexeddb/auto';
 import { describe, expect, it } from 'vitest';
 import { TildinDB } from '../../src/db/db';
-import { addActiveTime, finishSession, getDueItemIds, recordAnswer, startSession } from '../../src/db/repo';
+import { addActiveTime, finishSession, getDueItemIds, recordAnswer, skipUnit, startSession } from '../../src/db/repo';
+import { computePath } from '../../src/core/engine/unlock';
+import { UNITS } from '../../src/core/content/catalog';
 import type { Item } from '../../src/core/content/schema';
 
 const item: Item = {
@@ -36,6 +38,17 @@ describe('repositorio de progreso', () => {
     expect((await db.dailyStats.get('2026-05-10'))?.activeSec).toBe(120);
     expect((await db.dailyStats.get('2026-05-11'))?.activeSec).toBe(60);
     expect((await db.sessions.get(sid))?.activeSec).toBe(180);
+    db.close();
+  });
+
+  it('aprobar la prueba de nivel salta la unidad y abre la siguiente', async () => {
+    const db = new TildinDB('repo-skip');
+    await skipUnit('A1', 4, 90, db);
+    const rows = await db.levelProgress.toArray();
+    const p = computePath(UNITS, rows, new Set(UNITS.map((u) => u.id)));
+    expect(p.unitMastered['A1']).toBe(true);
+    expect(p.unitUnlocked['A2']).toBe(true);
+    expect(p.next).toEqual({ unitId: 'A2', level: 1 });
     db.close();
   });
 });

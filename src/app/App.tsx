@@ -38,7 +38,7 @@ export function App() {
     window.scrollTo(0, 0);
   }, [route.name]);
 
-  const inLesson = route.name === 'lesson' || route.name === 'practice' || route.name === 'install';
+  const inLesson = route.name === 'lesson' || route.name === 'practice' || route.name === 'placement' || route.name === 'install';
   let screen: React.ReactNode;
   let tabs = true;
   switch (route.name) {
@@ -50,6 +50,10 @@ export function App() {
       break;
     case 'lesson':
       screen = <Lesson key={`${route.unitId}/${route.level}`} mode={{ kind: 'lesson', unitId: route.unitId, level: route.level }} />;
+      tabs = false;
+      break;
+    case 'placement':
+      screen = <Lesson key={`p-${route.unitId}`} mode={{ kind: 'placement', unitId: route.unitId }} />;
       tabs = false;
       break;
     case 'result':

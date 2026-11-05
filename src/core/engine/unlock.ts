@@ -9,6 +9,8 @@ export type LevelState = 'locked' | 'available' | 'completed';
 export interface PathState {
   unitUnlocked: Record<string, boolean>;
   levelState: Record<string, LevelState[]>;
+  /** Unidad dominada (repaso final ≥ 80 % o saltada con la prueba de nivel). */
+  unitMastered: Record<string, boolean>;
   /** Siguiente nivel recomendado (para "Continuar"). */
   next: { unitId: string; level: number } | null;
 }
@@ -32,6 +34,7 @@ export function computePath(units: UnitInfo[], rows: LevelProgress[], playable: 
   const progress = new Map(rows.map((r) => [key(r.unitId, r.level), r]));
   const unitUnlocked: Record<string, boolean> = {};
   const levelState: Record<string, LevelState[]> = {};
+  const mastered: Record<string, boolean> = {};
   let next: PathState['next'] = null;
   let prevMastered = true;
 
@@ -51,7 +54,8 @@ export function computePath(units: UnitInfo[], rows: LevelProgress[], playable: 
       if (lvl >= 0) next = { unitId: u.id, level: lvl + 1 };
       else if (!unitMastered(u, progress)) next = { unitId: u.id, level: u.levels }; // repetir el final
     }
-    prevMastered = unlocked && unitMastered(u, progress);
+    mastered[u.id] = unitMastered(u, progress);
+    prevMastered = unlocked && mastered[u.id]!;
   }
-  return { unitUnlocked, levelState, next };
+  return { unitUnlocked, levelState, unitMastered: mastered, next };
 }

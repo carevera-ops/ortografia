@@ -63,7 +63,13 @@ export function buildLesson(opts: BuildOptions): Item[] {
   const size = opts.size ?? LESSON_SIZE;
   const recent = opts.recentIds ?? new Set<string>();
   const isFinal = opts.level >= opts.levels;
-  const [lo, hi] = levelBand(opts.unitItems, opts.level, opts.levels);
+  const [lo, bandHi] = levelBand(opts.unitItems, opts.level, opts.levels);
+  // Si ya domina las habilidades de la unidad (≥ 70), el margen del nivel sube un punto:
+  // así no se queda en preguntas que le resultan demasiado fáciles.
+  const unitSkills = [...new Set(opts.unitItems.flatMap((i) => i.skills))];
+  const unitMastery = unitSkills.length ? unitSkills.reduce((a, s) => a + (opts.mastery[s] ?? 0), 0) / unitSkills.length : 0;
+  const maxDiff = Math.max(...opts.unitItems.map((i) => i.dificultad));
+  const hi = unitMastery >= 70 ? Math.min(maxDiff, bandHi + 1) : bandHi;
 
   const chosen: Item[] = [];
   const usedWords = new Set<string>();
