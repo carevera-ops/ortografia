@@ -40,6 +40,12 @@ export function Theory({ ruleId }: { ruleId?: string }) {
           ))}
         </ul>
       )}
+      {!ruleId && (
+        <a className="card rule-link" href={routeToHash({ name: 'about' })} style={{ marginTop: 14 }}>
+          <strong>ℹ️ Acerca de Tildín</strong>
+          <span className="muted small-text">Autoría, licencia y créditos</span>
+        </a>
+      )}
     </main>
   );
 }

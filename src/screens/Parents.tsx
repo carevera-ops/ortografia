@@ -602,8 +602,8 @@ export function Parents() {
 
       <ResetPanel />
 
-      <section className="card" aria-labelledby="about-title">
-        <h2 id="about-title">Privacidad</h2>
+      <section className="card" aria-labelledby="privacy-title">
+        <h2 id="privacy-title">Privacidad</h2>
         <p className="muted small-text">
           Tildín no tiene cuentas, anuncios ni analítica, y no envía datos a ningún sitio: todo se queda en este iPhone. Los datos de la app instalada son independientes de los de Safari.
         </p>

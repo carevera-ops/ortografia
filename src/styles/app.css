@@ -25,7 +25,7 @@
 }
 .combo {
   font-weight: 800;
-  color: var(--flame);
+  color: var(--primary-ink);
   min-width: 44px;
   text-align: center;
 }
@@ -38,7 +38,7 @@
 }
 .retry-tag {
   margin: 0 0 4px;
-  color: var(--accent);
+  color: var(--accent-ink);
   font-weight: 700;
   font-size: 0.9rem;
 }
@@ -264,10 +264,10 @@
   margin-bottom: 6px;
 }
 .feedback.correct .feedback-title {
-  color: var(--ok-dark);
+  color: var(--ok-ink);
 }
 .feedback.wrong .feedback-title {
-  color: var(--ko-dark);
+  color: var(--ko-ink);
 }
 :root[data-theme='dark'] .feedback .feedback-title,
 .feedback .feedback-title {
@@ -366,11 +366,11 @@
   gap: 12px;
 }
 .wrong-given {
-  color: var(--ko);
+  color: var(--ko-ink);
   text-decoration: line-through;
 }
 .right-answer {
-  color: var(--ok-dark);
+  color: var(--ok-ink);
 }
 .small-text {
   font-size: 0.88rem;
@@ -392,8 +392,8 @@
   background: var(--surface);
   border: 2px solid var(--border);
 }
-.unit.closed {
-  opacity: 0.75;
+.unit.closed .unit-emoji {
+  filter: grayscale(0.8);
 }
 .unit-header {
   display: flex;
@@ -412,10 +412,10 @@
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--primary);
+  color: var(--primary-ink);
 }
 .unit.block-B .unit-kicker {
-  color: var(--accent);
+  color: var(--accent-ink);
 }
 .levels {
   display: flex;
@@ -436,8 +436,8 @@
   font-weight: 800;
   cursor: pointer;
   color: #fff;
-  background: var(--primary);
-  box-shadow: 0 6px 0 var(--primary-dark);
+  background: var(--primary-btn);
+  box-shadow: 0 6px 0 var(--primary-btn-shadow);
 }
 .block-B .level-node {
   background: var(--accent);
@@ -446,6 +446,7 @@
 .level-node.completed {
   background: var(--flame);
   box-shadow: 0 6px 0 #c47400;
+  color: #3d2400;
 }
 .level-node.locked {
   background: var(--locked);
@@ -466,7 +467,7 @@
   gap: 6px;
   white-space: nowrap;
   font-weight: 800;
-  color: var(--primary);
+  color: var(--primary-ink);
 }
 .soon {
   margin: 10px 0 0;
@@ -487,11 +488,11 @@
   font-weight: 800;
 }
 .blank.ok {
-  color: var(--ok-dark);
+  color: var(--ok-ink);
   border-color: var(--ok);
 }
 .blank.ko {
-  color: var(--ko-dark);
+  color: var(--ko-ink);
   border-color: var(--ko);
 }
 .gap-word .blank {
@@ -519,7 +520,7 @@
   color: var(--text);
 }
 .token s {
-  color: var(--ko);
+  color: var(--ko-ink);
   font-weight: 400;
 }
 .center-row {
@@ -574,20 +575,20 @@
   letter-spacing: 0.04em;
 }
 .ch.wrong {
-  color: var(--ko);
+  color: var(--ko-ink);
   text-decoration: underline wavy;
 }
 .ch.missing {
-  color: var(--ko);
+  color: var(--ko-ink);
   opacity: 0.6;
   border-bottom: 3px dashed var(--ko);
 }
 .ch.extra {
-  color: var(--ko);
+  color: var(--ko-ink);
   text-decoration: line-through;
 }
 .ch.ok {
-  color: var(--ok-dark);
+  color: var(--ok-ink);
 }
 
 /* ---------- Racha, objetivo y progreso ---------- */
@@ -638,7 +639,7 @@
   filter: grayscale(0.7);
 }
 .streak-chip.lit {
-  color: var(--flame);
+  color: var(--primary-ink);
   filter: none;
 }
 .freeze-chip {
@@ -955,7 +956,7 @@
   background: var(--accent);
 }
 .pin-error {
-  color: var(--ko);
+  color: var(--ko-ink);
   font-weight: 700;
 }
 .pin-keys {
@@ -1096,7 +1097,6 @@
   padding: 12px 8px;
   border-radius: 16px;
   background: var(--surface-2);
-  opacity: 0.55;
 }
 .badge .badge-emoji {
   font-size: 2rem;
@@ -1134,7 +1134,7 @@
 
 .boost-tag {
   margin: 0 0 4px;
-  color: var(--flame);
+  color: var(--primary-ink);
   font-weight: 800;
   font-size: 0.95rem;
 }

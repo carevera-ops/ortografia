@@ -5,7 +5,7 @@ const TABS: { route: Route; label: string; icon: string; match: Route['name'][] 
   { route: { name: 'path' }, label: 'Camino', icon: '🗺️', match: ['path'] },
   { route: { name: 'practice' }, label: 'Práctica', icon: '🔁', match: ['practice'] },
   { route: { name: 'progress' }, label: 'Progreso', icon: '📊', match: ['progress'] },
-  { route: { name: 'theory' }, label: 'Teoría', icon: '📘', match: ['theory'] },
+  { route: { name: 'theory' }, label: 'Teoría', icon: '📘', match: ['theory', 'about'] },
 ];
 
 export function TabBar({ current }: { current: Route['name'] }) {

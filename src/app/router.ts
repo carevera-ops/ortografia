@@ -16,7 +16,8 @@ export type Route =
   | { name: 'parents' }
   | { name: 'install' }
   | { name: 'report'; code: string }
-  | { name: 'tracking' };
+  | { name: 'tracking' }
+  | { name: 'about' };
 
 export function parseHash(hash: string): Route {
   const parts = hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
@@ -49,6 +50,8 @@ export function parseHash(hash: string): Route {
       return a ? { name: 'report', code: a } : { name: 'tracking' };
     case 'seguimiento':
       return { name: 'tracking' };
+    case 'acerca':
+      return { name: 'about' };
     default:
       return { name: 'home' };
   }
@@ -80,6 +83,8 @@ export function routeToHash(route: Route): string {
       return `#/informe/${route.code}`;
     case 'tracking':
       return '#/seguimiento';
+    case 'about':
+      return '#/acerca';
   }
 }
 

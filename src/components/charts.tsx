@@ -166,7 +166,7 @@ export function Heatmap({ days, today }: { days: Map<LocalDate, HeatDay>; today:
           ›
         </button>
       </div>
-      <div className="heat-grid" role="grid" aria-label={`Calendario de estudio de ${MONTHS[ym.m]}`}>
+      <div className="heat-grid" role="group" aria-label={`Calendario de estudio de ${MONTHS[ym.m]}`}>
         {WEEKDAYS.map((w) => (
           <div key={w} className="heat-weekday" aria-hidden="true">
             {w}

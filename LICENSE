@@ -1,0 +1,47 @@
+Tildín · Ortografía y acentuación
+Copyright © 2026 Carlos Arellano
+
+Esta obra (el código fuente, el banco de preguntas, las fichas de teoría, la mascota
+«Tildín», los iconos y la documentación) está sujeta a la licencia
+Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+Usted es libre de:
+  - Compartir: copiar y redistribuir el material en cualquier medio o formato.
+  - Adaptar: remezclar, transformar y crear a partir del material.
+
+Bajo las condiciones siguientes:
+  - Atribución: debe reconocer la autoría de forma adecuada («Tildín, de Carlos
+    Arellano»), proporcionar un enlace a la licencia e indicar si se han realizado
+    cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que
+    sugiera que el autor le respalda a usted o el uso que hace.
+  - NoComercial: no puede utilizar el material para fines comerciales.
+
+No hay restricciones adicionales: no puede aplicar términos legales ni medidas
+tecnológicas que restrinjan legalmente a otros hacer cualquier cosa que la licencia
+permita.
+
+Texto legal completo de la licencia:
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode.es
+Resumen:
+  https://creativecommons.org/licenses/by-nc/4.0/deed.es
+
+-------------------------------------------------------------------------------
+Autoría y créditos
+
+Idea, diseño, dirección y revisión: Carlos Arellano.
+Desarrollo realizado con la ayuda de Claude (Anthropic), un asistente de
+inteligencia artificial.
+
+Las reglas de ortografía siguen la «Ortografía de la lengua española» (Real
+Academia Española y Asociación de Academias de la Lengua Española, 2010). Las
+explicaciones y los ejercicios son de elaboración propia; no se reproduce texto de
+la obra académica.
+
+-------------------------------------------------------------------------------
+Software de terceros incluido en la aplicación (cada uno con su propia licencia):
+
+  - React y React DOM ............ MIT        © Meta Platforms, Inc. y colaboradores
+  - Dexie.js ..................... Apache-2.0 © David Fahlander y colaboradores
+  - Zod .......................... MIT        © Colin McDonnell
+  - Workbox (vite-plugin-pwa) .... MIT        © Google LLC / Anthony Fu
+  - qrcode-generator ............. MIT        © Kazuhiko Arase

@@ -13,7 +13,8 @@ export function Home() {
   const path = usePath();
   const streak = useStreak();
   const settings = useSettings();
-  const today = useLiveQuery(() => (streak ? db.dailyStats.get(streak.today) : undefined), [streak?.today]);
+  // null = hoy aún no hay registro; undefined = cargando.
+  const today = useLiveQuery(async () => (streak ? ((await db.dailyStats.get(streak.today)) ?? null) : undefined), [streak?.today]);
   const next = path?.next;
   const nextUnit = next ? UNIT_BY_ID.get(next.unitId) : null;
   const minutes = Math.floor((today?.activeSec ?? 0) / 60);
@@ -22,8 +23,11 @@ export function Home() {
   const studiedDays = useLiveQuery(() => db.dailyStats.filter((d) => d.questions > 0).count(), []) ?? 0;
   const needsBackup = backupDue(settings.lastBackupAt, studiedDays);
 
+  // Hasta tener los datos no se pinta el contenido (así no «salta» la pantalla al cargar).
+  const ready = !!streak && !!path && today !== undefined;
+
   return (
-    <main className="screen with-tabbar" aria-labelledby="home-title">
+    <main className="screen with-tabbar" aria-labelledby="home-title" aria-busy={!ready}>
       <div className="topbar">
         <h1 id="home-title">¡Hola!</h1>
         {streak && (
@@ -41,6 +45,8 @@ export function Home() {
         </a>
       </div>
 
+      {!ready ? null : (
+        <>
       {streak && !streak.todayDone && (
         <section className="card reminder" role="status">
           <span className="reminder-flame anim-bob" aria-hidden="true">
@@ -111,6 +117,8 @@ export function Home() {
         <a className="card backup-hint" href={routeToHash({ name: 'parents' })}>
           💾 <span>Pide a un adulto que haga una <strong>copia de seguridad</strong> de tu progreso (Zona de padres).</span>
         </a>
+      )}
+        </>
       )}
     </main>
   );

@@ -2,6 +2,9 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
+import { readFileSync } from 'node:fs';
+
+const pkg = JSON.parse(readFileSync(new URL('./package.json', import.meta.url), 'utf8')) as { version: string };
 
 // Ruta en GitHub Pages: https://<usuario>.github.io/ortografia/
 // Se puede cambiar con la variable BASE_PATH si el repositorio cambia de nombre.
@@ -9,6 +12,7 @@ const base = process.env.BASE_PATH ?? '/ortografia/';
 
 export default defineConfig({
   base,
+  define: { __APP_VERSION__: JSON.stringify(pkg.version) },
   plugins: [
     react(),
     VitePWA({

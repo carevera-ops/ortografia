@@ -30,6 +30,7 @@ describe('router', () => {
       { name: 'install' },
       { name: 'report', code: 'abc_DEF-123' },
       { name: 'tracking' },
+      { name: 'about' },
     ];
     for (const r of routes) expect(parseHash(routeToHash(r))).toEqual(r);
   });

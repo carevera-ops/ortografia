@@ -15,6 +15,7 @@ import { Theory } from '../screens/Theory';
 import { Parents } from '../screens/Parents';
 import { InstallHelp } from '../screens/InstallHelp';
 import { ReportScreen, TrackingScreen } from '../screens/Tracking';
+import { About } from '../screens/About';
 
 export function App() {
   const route = useRoute();
@@ -83,6 +84,9 @@ export function App() {
     case 'report':
       screen = <ReportScreen code={route.code} />;
       tabs = false;
+      break;
+    case 'about':
+      screen = <About />;
       break;
     case 'tracking':
       screen = <TrackingScreen />;

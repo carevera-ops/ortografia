@@ -1,7 +1,7 @@
 {
   "name": "ortografia",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
@@ -23,6 +23,7 @@
     "zod": "^4.6.7"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
     "@playwright/test": "^1.63.0",
     "@types/node": "^26.6.6",
     "@types/react": "^19.3.0",
@@ -34,5 +35,8 @@
     "vite-plugin-pwa": "^2.0.0",
     "vitest": "^5.1.0",
     "workbox-window": "^7.4.1"
-  }
+  },
+  "author": "Carlos Arellano",
+  "license": "CC-BY-NC-4.0",
+  "description": "Tildín: app web (PWA) para practicar ortografía y acentuación en español."
 }
