@@ -1,3 +1,4 @@
+import { answerCurrent } from './helpers';
 import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
@@ -21,7 +22,7 @@ test('accesibilidad del feedback de la lección (claro y oscuro)', async ({ page
   for (const scheme of ['light', 'dark'] as const) {
     await page.emulateMedia({ colorScheme: scheme });
     await page.goto(`./#/leccion/${scheme === 'light' ? 'A11/2' : 'B6/2'}`);
-    await page.locator('.exercise-area button:not([disabled])').first().click();
+    await answerCurrent(page);
     await page.getByRole('button', { name: 'Comprobar' }).click();
     await expect(page.locator('.feedback')).toBeVisible();
     const r = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa']).analyze();

@@ -1,3 +1,4 @@
+import { answerCurrent, waitQuestionOrResult } from './helpers';
 import { expect, test, type Page } from '@playwright/test';
 import { readFileSync, writeFileSync } from 'node:fs';
 
@@ -79,9 +80,8 @@ test('copia de seguridad: exportar, reiniciar y restaurar', async ({ page }, tes
 test('insignia nueva al terminar la primera lección', async ({ page }) => {
   await page.goto('./#/leccion/A1/1');
   for (let i = 0; i < 40; i++) {
-    await page.locator('.exercise-area button:not([disabled]), #result-title').first().waitFor();
-    if (await page.locator('#result-title').isVisible()) break;
-    await page.locator('.exercise-area button:not([disabled])').first().click();
+    if ((await waitQuestionOrResult(page)) === 'result') break;
+    await answerCurrent(page);
     await page.getByRole('button', { name: 'Comprobar' }).click();
     await page.getByRole('button', { name: 'Continuar' }).click();
   }

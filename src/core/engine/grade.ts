@@ -12,7 +12,7 @@ export function grade(item: Item, value: AnswerValue): boolean {
     const b = [...r].sort((x, y) => x - y);
     return a.length === b.length && a.every((v, i) => v === b[i]);
   }
-  if (item.tipo === 'dictado') return typeof value === 'string' && normalizeDictation(value) === normalizeDictation(String(r));
+  if (item.tipo === 'dictado' || item.tipo === 'corregir') return typeof value === 'string' && normalizeDictation(value) === normalizeDictation(String(r));
   return value === r;
 }
 

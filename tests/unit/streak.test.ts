@@ -1,6 +1,6 @@
 import 'fake-indexeddb/auto';
 import { describe, expect, it } from 'vitest';
-import { computeStreak, dayQualifies, type StreakOptions } from '../../src/core/streak/streak';
+import { computeStreak, dayQualifies, streakOptionsFrom, type StreakOptions } from '../../src/core/streak/streak';
 import { isChampionDay } from '../../src/core/streak/champion';
 import { addDays, toLocalDate } from '../../src/core/time/dates';
 import type { DailyStat } from '../../src/db/types';
@@ -23,6 +23,21 @@ describe('criterio del día', () => {
     expect(dayQualifies(onlyMin, { criterion: 'lesson', minutes: 5 })).toBe(false);
     expect(dayQualifies(onlyLesson, { criterion: 'minutes', minutes: 5 })).toBe(false);
     expect(dayQualifies(day('2026-01-01', 0, 299), OPT)).toBe(false);
+  });
+});
+
+describe('criterio «cumplir el objetivo diario» (por defecto)', () => {
+  const goal = streakOptionsFrom({ streakCriterion: 'goal', streakMinutes: 5, dailyGoalMin: 15 });
+  it('una lección sin llegar a los minutos del objetivo NO cuenta', () => {
+    expect(dayQualifies(day('2026-01-01', 3, 8 * 60), goal)).toBe(false);
+    expect(dayQualifies(day('2026-01-01', 0, 15 * 60), goal)).toBe(true);
+  });
+  it('la racha se corta si un día no se llega al objetivo', () => {
+    const days = [day('2026-05-01', 1, 900), day('2026-05-02', 2, 300), day('2026-05-03', 1, 960)];
+    expect(computeStreak(days, '2026-05-03', goal).current).toBe(1);
+  });
+  it('sin objetivo (0) se usan los minutos mínimos de la racha', () => {
+    expect(streakOptionsFrom({ streakCriterion: 'goal', streakMinutes: 5, dailyGoalMin: 0 })).toEqual({ criterion: 'goal', minutes: 5 });
   });
 });
 

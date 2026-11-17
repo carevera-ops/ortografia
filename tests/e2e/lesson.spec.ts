@@ -1,10 +1,9 @@
+import { answerCurrent, waitQuestionOrResult } from './helpers';
 import { expect, test, type Page } from '@playwright/test';
 
 /** Responde lo que haya en pantalla (no importa si bien o mal) y avanza. */
 async function answerAny(page: Page) {
-  const area = page.locator('.exercise-area');
-  const first = area.locator('button:not([disabled])').first();
-  await first.click();
+  await answerCurrent(page);
   await page.getByRole('button', { name: 'Comprobar' }).click();
   await expect(page.locator('.feedback')).toBeVisible();
   await page.getByRole('button', { name: 'Continuar' }).click();
@@ -16,15 +15,14 @@ test('se puede jugar una lección completa y ver el resultado', async ({ page })
   await expect(page.getByRole('progressbar')).toBeVisible();
   for (let i = 0; i < 40; i++) {
     // Esperamos a que haya una pregunta o el resultado final.
-    await page.locator('.exercise-area button:not([disabled]), #result-title').first().waitFor();
-    if (await page.locator('#result-title').isVisible()) break;
+    if ((await waitQuestionOrResult(page)) === 'result') break;
     await answerAny(page);
   }
   await expect(page.getByText('aciertos')).toBeVisible();
   await expect(page.getByText('XP', { exact: true })).toBeVisible();
-  // Al terminar la primera lección del día aparece la llama de la racha.
-  await expect(page.getByRole('heading', { name: '¡Racha de 1 día!' })).toBeVisible();
-  await page.getByRole('button', { name: '¡Vamos!' }).click();
+  // Una lección corta no llega al objetivo diario (10 min por defecto): todavía no hay racha.
+  await page.waitForTimeout(500);
+  await expect(page.getByRole('heading', { name: /¡Racha de/ })).toHaveCount(0);
   // El nivel 1 queda completado y se abre el 2
   await page.getByRole('button', { name: 'Continuar' }).click();
   await expect(page.getByRole('button', { name: /Nivel 1: completado/ }).first()).toBeVisible();

@@ -5,8 +5,8 @@
    "id": "A1-0001",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "están",
-   "clase": "aguda",
+   "palabra": "casa",
+   "clase": "llana",
    "respuesta": [
     2
    ],
@@ -14,11 +14,68 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: es-tán (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "Se separa así: ca-sa (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
    "id": "A1-0002",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cantar",
+   "clase": "aguda",
+   "frase": "«cantar» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "can-tar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0003",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "allá",
+   "clase": "aguda",
+   "frase": "«allá» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "a-llá: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0004",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vaso",
+   "clase": "llana",
+   "frase": "«vaso» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "va-so: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0005",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "algodón",
@@ -35,134 +92,95 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0003",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "limón",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: li-món (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0004",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "viví",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: vi-ví (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0005",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "señor",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: se-ñor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
    "id": "A1-0006",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "líder",
-   "clase": "llana",
-   "respuesta": [
-    2
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "girasol",
+   "clase": "aguda",
+   "opciones": [
+    "sol",
+    "gi",
+    "ra"
    ],
+   "respuesta": "girasol",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: lí-der (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "La palabra es «girasol»: gi-ra-sol.",
    "regla_id": "silabas"
   },
   {
    "id": "A1-0007",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "menú",
-   "clase": "aguda",
+   "palabra": "pulpo",
+   "clase": "llana",
    "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: me-nú (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0008",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cántaro",
-   "clase": "esdrujula",
-   "respuesta": [
-    3,
-    5
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: cán-ta-ro (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0009",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "animal",
-   "clase": "aguda",
-   "respuesta": [
-    1,
     3
    ],
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: a-ni-mal (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: pul-po (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0010",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "príncipe",
-   "clase": "esdrujula",
-   "respuesta": [
-    4,
-    6
+   "id": "A1-0008",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "juventud",
+   "clase": "aguda",
+   "opciones": [
+    "ju",
+    "tud",
+    "ven"
    ],
+   "respuesta": "juventud",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: prín-ci-pe (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "La palabra es «juventud»: ju-ven-tud.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0009",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "jugador",
+   "clase": "aguda",
+   "frase": "«jugador» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ju-ga-dor: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0010",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "dolor",
+   "clase": "aguda",
+   "frase": "«dolor» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "do-lor: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
@@ -185,6 +203,555 @@
    "id": "A1-0012",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "vivir",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: vi-vir (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0013",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "célula",
+   "clase": "esdrujula",
+   "frase": "«célula» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "cé-lu-la: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0014",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "carpeta",
+   "clase": "llana",
+   "opciones": [
+    "pe",
+    "car",
+    "ta"
+   ],
+   "respuesta": "carpeta",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «carpeta»: car-pe-ta.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0015",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "melón",
+   "clase": "aguda",
+   "frase": "«melón» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "me-lón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0016",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cántaro",
+   "clase": "esdrujula",
+   "frase": "«cántaro» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "cán-ta-ro: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0017",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pintar",
+   "clase": "aguda",
+   "frase": "«pintar» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pin-tar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0018",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tendrás",
+   "clase": "aguda",
+   "frase": "«tendrás» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ten-drás: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0019",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "festín",
+   "clase": "aguda",
+   "frase": "«festín» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "fes-tín: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0020",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cómodo",
+   "clase": "esdrujula",
+   "frase": "«cómodo» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "có-mo-do: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0021",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "jirafa",
+   "clase": "llana",
+   "frase": "«jirafa» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ji-ra-fa: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0022",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "fútbol",
+   "clase": "llana",
+   "frase": "«fútbol» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "fút-bol: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0023",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pensar",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pen-sar (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0024",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "vendrás",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ven-drás (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0025",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "comer",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: co-mer (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0026",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "cápsula",
+   "clase": "esdrujula",
+   "opciones": [
+    "su",
+    "la",
+    "cáp"
+   ],
+   "respuesta": "cápsula",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «cápsula»: cáp-su-la.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0027",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pantalón",
+   "clase": "aguda",
+   "frase": "«pantalón» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pan-ta-lón: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0028",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "álbum",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ál-bum (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0029",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "lagarto",
+   "clase": "llana",
+   "frase": "«lagarto» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "la-gar-to: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0030",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "sombrero",
+   "clase": "llana",
+   "opciones": [
+    "bre",
+    "som",
+    "ro"
+   ],
+   "respuesta": "sombrero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «sombrero»: som-bre-ro.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0031",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cómic",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: có-mic (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0032",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cómic",
+   "clase": "llana",
+   "frase": "«cómic» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "có-mic: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0033",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cordón",
+   "clase": "aguda",
+   "frase": "«cordón» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "cor-dón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0034",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "melón",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: me-lón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0035",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ciprés",
+   "clase": "aguda",
+   "frase": "«ciprés» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ci-prés: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0036",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "botella",
+   "clase": "llana",
+   "opciones": [
+    "bo",
+    "lla",
+    "te"
+   ],
+   "respuesta": "botella",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «botella»: bo-te-lla.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0037",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "último",
+   "clase": "esdrujula",
+   "opciones": [
+    "mo",
+    "ti",
+    "úl"
+   ],
+   "respuesta": "último",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «último»: úl-ti-mo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0038",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "pelota",
+   "clase": "llana",
+   "opciones": [
+    "ta",
+    "pe",
+    "lo"
+   ],
+   "respuesta": "pelota",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «pelota»: pe-lo-ta.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0039",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "tenedor",
+   "clase": "aguda",
+   "opciones": [
+    "dor",
+    "ne",
+    "te"
+   ],
+   "respuesta": "tenedor",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «tenedor»: te-ne-dor.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0040",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "artístico",
+   "clase": "esdrujula",
+   "frase": "«artístico» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ar-tís-ti-co: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0041",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "regla",
+   "clase": "llana",
+   "frase": "«regla» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "re-gla: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0042",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "sabrás",
    "clase": "aguda",
    "respuesta": [
@@ -198,44 +765,27 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0013",
+   "id": "A1-0043",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "profesor",
-   "clase": "aguda",
-   "respuesta": [
-    3,
-    5
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pro-fe-sor (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0014",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "gallo",
+   "palabra": "lento",
    "clase": "llana",
    "respuesta": [
-    2
+    3
    ],
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ga-llo (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
+   "explicacion": "Se separa así: len-to (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0015",
+   "id": "A1-0044",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lágrima",
-   "clase": "esdrujula",
+   "palabra": "pimentón",
+   "clase": "aguda",
    "respuesta": [
     2,
     5
@@ -244,11 +794,244 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: lá-gri-ma (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: pi-men-tón (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0016",
+   "id": "A1-0045",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "buzón",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: bu-zón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0046",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "príncipe",
+   "clase": "esdrujula",
+   "frase": "«príncipe» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "prín-ci-pe: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0047",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jugar",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ju-gar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0048",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "volar",
+   "clase": "aguda",
+   "frase": "«volar» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "vo-lar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0049",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "amor",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-mor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0050",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "verdad",
+   "clase": "aguda",
+   "frase": "«verdad» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ver-dad: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0051",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "atlético",
+   "clase": "esdrujula",
+   "frase": "«atlético» tiene 5 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "at-lé-ti-co: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0052",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "láser",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: lá-ser (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0053",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "último",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: úl-ti-mo (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0054",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "relámpago",
+   "clase": "esdrujula",
+   "frase": "«relámpago» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "re-lám-pa-go: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0055",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "saltar",
+   "clase": "aguda",
+   "frase": "«saltar» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sal-tar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0056",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "trébol",
+   "clase": "llana",
+   "frase": "«trébol» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "tré-bol: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0057",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
+   "frase": "«teléfono» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "te-lé-fo-no: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0058",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "feliz",
@@ -264,126 +1047,11 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0017",
+   "id": "A1-0059",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lobo",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: lo-bo (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0018",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pintar",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pin-tar (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0019",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "fútbol",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: fút-bol (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0020",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "ballena",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    5
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ba-lle-na (3 sílabas). Recuerda: ch, ll y rr nunca se separan; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0021",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "ácido",
+   "palabra": "cántaro",
    "clase": "esdrujula",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: á-ci-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0022",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "mágico",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: má-gi-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0023",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lunes",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: lu-nes (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0024",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pantalón",
-   "clase": "aguda",
    "respuesta": [
     3,
     5
@@ -392,28 +1060,154 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: pan-ta-lón (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: cán-ta-ro (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0025",
+   "id": "A1-0060",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "búfalo",
+   "clase": "esdrujula",
+   "opciones": [
+    "bú",
+    "lo",
+    "fa"
+   ],
+   "respuesta": "búfalo",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «búfalo»: bú-fa-lo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0061",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sombrero",
+   "clase": "llana",
+   "frase": "«sombrero» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "som-bre-ro: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0062",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "señor",
+   "clase": "aguda",
+   "frase": "«señor» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "se-ñor: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0063",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pasta",
+   "clase": "llana",
+   "frase": "«pasta» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pas-ta: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0064",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "escribí",
+   "palabra": "pintor",
    "clase": "aguda",
    "respuesta": [
-    2,
-    5
+    3
    ],
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: es-cri-bí (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: pin-tor (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0026",
+   "id": "A1-0065",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "vaso",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: va-so (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0066",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "enero",
+   "clase": "llana",
+   "opciones": [
+    "ne",
+    "ro",
+    "e"
+   ],
+   "respuesta": "enero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «enero»: e-ne-ro.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0067",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "festín",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fes-tín (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0068",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "tarta",
@@ -429,61 +1223,10 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0027",
+   "id": "A1-0069",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "caracol",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ca-ra-col (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0028",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "número",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: nú-me-ro (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0029",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "corazón",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: co-ra-zón (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0030",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "foca",
+   "palabra": "dólar",
    "clase": "llana",
    "respuesta": [
     2
@@ -492,11 +1235,237 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: fo-ca (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: dó-lar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0031",
+   "id": "A1-0070",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "irlandés",
+   "clase": "aguda",
+   "opciones": [
+    "lan",
+    "ir",
+    "dés"
+   ],
+   "respuesta": "irlandés",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «irlandés»: ir-lan-dés.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0071",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "sílaba",
+   "clase": "esdrujula",
+   "opciones": [
+    "ba",
+    "la",
+    "sí"
+   ],
+   "respuesta": "sílaba",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «sílaba»: sí-la-ba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0072",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "lápices",
+   "clase": "esdrujula",
+   "opciones": [
+    "ces",
+    "pi",
+    "lá"
+   ],
+   "respuesta": "lápices",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «lápices»: lá-pi-ces.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0073",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "comerás",
+   "clase": "aguda",
+   "frase": "«comerás» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "co-me-rás: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0074",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "limón",
+   "clase": "aguda",
+   "frase": "«limón» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "li-món: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0075",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cañón",
+   "clase": "aguda",
+   "frase": "«cañón» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ca-ñón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0076",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "romántico",
+   "clase": "esdrujula",
+   "frase": "«romántico» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ro-mán-ti-co: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0077",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "alumno",
+   "clase": "llana",
+   "frase": "«alumno» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "a-lum-no: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0078",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "plástico",
+   "clase": "esdrujula",
+   "respuesta": [
+    4,
+    6
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: plás-ti-co (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0079",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "láser",
+   "clase": "llana",
+   "frase": "«láser» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "lá-ser: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0080",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "menú",
+   "clase": "aguda",
+   "frase": "«menú» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "me-nú: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0081",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "salado",
+   "clase": "llana",
+   "frase": "«salado» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sa-la-do: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0082",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "búfalo",
@@ -513,74 +1482,48 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0032",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "clavel",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: cla-vel (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0033",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cabra",
+   "id": "A1-0083",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "oveja",
    "clase": "llana",
-   "respuesta": [
-    2
+   "opciones": [
+    "ja",
+    "o",
+    "ve"
    ],
+   "respuesta": "oveja",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ca-bra (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
+   "explicacion": "La palabra es «oveja»: o-ve-ja.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0034",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tendrás",
+   "id": "A1-0084",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "será",
    "clase": "aguda",
-   "respuesta": [
-    3
+   "frase": "«será» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ten-drás (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "se-rá: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0035",
+   "id": "A1-0085",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "control",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: con-trol (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0036",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "nadar",
+   "palabra": "cajón",
    "clase": "aguda",
    "respuesta": [
     2
@@ -589,144 +1532,335 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: na-dar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: ca-jón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0037",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lugar",
+   "id": "A1-0086",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tenedor",
    "clase": "aguda",
-   "respuesta": [
-    2
+   "frase": "«tenedor» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: lu-gar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "te-ne-dor: tiene 3 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0038",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "galleta",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    5
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ga-lle-ta (3 sílabas). Recuerda: ch, ll y rr nunca se separan; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0039",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "volar",
+   "id": "A1-0087",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "saltó",
    "clase": "aguda",
-   "respuesta": [
-    2
+   "frase": "«saltó» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: vo-lar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "sal-tó: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0040",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pensar",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pen-sar (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0041",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "veloz",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ve-loz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0042",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "marzo",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: mar-zo (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0043",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "carne",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: car-ne (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0044",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "está",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: es-tá (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0045",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "sábado",
+   "id": "A1-0088",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "único",
    "clase": "esdrujula",
+   "opciones": [
+    "ni",
+    "co",
+    "ú"
+   ],
+   "respuesta": "único",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «único»: ú-ni-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0089",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "mitad",
+   "clase": "aguda",
+   "frase": "«mitad» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "mi-tad: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0090",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "balcón",
+   "clase": "aguda",
+   "frase": "«balcón» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "bal-cón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0091",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "café",
+   "clase": "aguda",
+   "frase": "«café» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ca-fé: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0092",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pared",
+   "clase": "aguda",
+   "frase": "«pared» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pa-red: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0093",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jabón",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ja-bón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0094",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "paloma",
+   "clase": "llana",
+   "opciones": [
+    "pa",
+    "ma",
+    "lo"
+   ],
+   "respuesta": "paloma",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «paloma»: pa-lo-ma.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0095",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "nevera",
+   "clase": "llana",
+   "frase": "«nevera» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ne-ve-ra: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0096",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vendrás",
+   "clase": "aguda",
+   "frase": "«vendrás» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ven-drás: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0097",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ladrón",
+   "clase": "aguda",
+   "frase": "«ladrón» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "la-drón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0098",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "lobo",
+   "clase": "llana",
+   "frase": "«lobo» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "lo-bo: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0099",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "líder",
+   "clase": "llana",
+   "frase": "«líder» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "lí-der: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0100",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "español",
+   "clase": "aguda",
+   "frase": "«español» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "es-pa-ñol: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0101",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ballena",
+   "clase": "llana",
+   "frase": "«ballena» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ba-lle-na: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0102",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "cántaro",
+   "clase": "esdrujula",
+   "opciones": [
+    "ta",
+    "cán",
+    "ro"
+   ],
+   "respuesta": "cántaro",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «cántaro»: cán-ta-ro.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0103",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "escalón",
+   "clase": "aguda",
    "respuesta": [
     2,
     4
@@ -735,27 +1869,30 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: sá-ba-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: es-ca-lón (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0046",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "perro",
-   "clase": "llana",
-   "respuesta": [
-    2
+   "id": "A1-0104",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "número",
+   "clase": "esdrujula",
+   "opciones": [
+    "me",
+    "ro",
+    "nú"
    ],
+   "respuesta": "número",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: pe-rro (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
+   "explicacion": "La palabra es «número»: nú-me-ro.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0047",
+   "id": "A1-0105",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "gato",
@@ -771,76 +1908,29 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0048",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "azul",
-   "clase": "aguda",
-   "respuesta": [
-    1
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: a-zul (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0049",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "vivir",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: vi-vir (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0050",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "conejo",
+   "id": "A1-0106",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "libro",
    "clase": "llana",
-   "respuesta": [
-    2,
-    4
+   "frase": "«libro» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Verdadero",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: co-ne-jo (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "li-bro: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0051",
+   "id": "A1-0107",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pizarra",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pi-za-rra (3 sílabas). Recuerda: ch, ll y rr nunca se separan; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0052",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lápiz",
+   "palabra": "burro",
    "clase": "llana",
    "respuesta": [
     2
@@ -849,393 +1939,30 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: lá-piz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: bu-rro (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0053",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "nevera",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ne-ve-ra (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0054",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "plato",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pla-to (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0055",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pasillo",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pa-si-llo (3 sílabas). Recuerda: ch, ll y rr nunca se separan; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0056",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tejado",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: te-ja-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0057",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "dolor",
+   "id": "A1-0108",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "beberás",
    "clase": "aguda",
-   "respuesta": [
-    2
+   "opciones": [
+    "rás",
+    "be",
+    "be"
    ],
+   "respuesta": "beberás",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: do-lor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "La palabra es «beberás»: be-be-rás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0058",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "comerás",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: co-me-rás (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0059",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cápsula",
-   "clase": "esdrujula",
-   "respuesta": [
-    3,
-    5
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: cáp-su-la (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0060",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "atrás",
-   "clase": "aguda",
-   "respuesta": [
-    1
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: a-trás (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0061",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "azúcar",
-   "clase": "llana",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: a-zú-car (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0062",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "festín",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: fes-tín (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0063",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "ángulo",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: án-gu-lo (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0064",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cantar",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: can-tar (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0065",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "láser",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: lá-ser (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0066",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "agosto",
-   "clase": "llana",
-   "respuesta": [
-    1,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: a-gos-to (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0067",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "antifaz",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: an-ti-faz (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0068",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "góndola",
-   "clase": "esdrujula",
-   "respuesta": [
-    3,
-    5
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: gón-do-la (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0069",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "papel",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pa-pel (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0070",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pánico",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pá-ni-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0071",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "sabor",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: sa-bor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0072",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "jirafa",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ji-ra-fa (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0073",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "mesa",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: me-sa (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0074",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "militar",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: mi-li-tar (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0075",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "salado",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: sa-la-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0076",
+   "id": "A1-0109",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "música",
@@ -1252,76 +1979,29 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0077",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "sillón",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: si-llón (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0078",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "jugar",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ju-gar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0079",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "domingo",
+   "id": "A1-0110",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "gato",
    "clase": "llana",
-   "respuesta": [
-    2,
-    5
+   "frase": "«gato» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: do-min-go (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "ga-to: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0080",
+   "id": "A1-0111",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cómodo",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: có-mo-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0081",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "dólar",
+   "palabra": "libro",
    "clase": "llana",
    "respuesta": [
     2
@@ -1330,46 +2010,14 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: dó-lar (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: li-bro (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0082",
+   "id": "A1-0112",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "beber",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: be-ber (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0083",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "pintor",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 1,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pin-tor (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0084",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "amor",
+   "palabra": "olor",
    "clase": "aguda",
    "respuesta": [
     1
@@ -1378,14 +2026,295 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: a-mor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: o-lor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0085",
+   "id": "A1-0113",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "girasol",
+   "clase": "aguda",
+   "frase": "«girasol» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "gi-ra-sol: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0114",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sílaba",
+   "clase": "esdrujula",
+   "frase": "«sílaba» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sí-la-ba: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0115",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "beber",
+   "clase": "aguda",
+   "frase": "«beber» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "be-ber: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0116",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "beberás",
+   "palabra": "libertad",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    5
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: li-ber-tad (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0117",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "motor",
+   "clase": "aguda",
+   "frase": "«motor» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "mo-tor: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0118",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "azúcar",
+   "clase": "llana",
+   "frase": "«azúcar» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "a-zú-car: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0119",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "salmón",
+   "clase": "aguda",
+   "frase": "«salmón» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sal-món: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0120",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "pescado",
+   "clase": "llana",
+   "opciones": [
+    "ca",
+    "do",
+    "pes"
+   ],
+   "respuesta": "pescado",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «pescado»: pes-ca-do.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0121",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "balón",
+   "clase": "aguda",
+   "frase": "«balón» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ba-lón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0122",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pupitre",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pu-pi-tre (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0123",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cajón",
+   "clase": "aguda",
+   "frase": "«cajón» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ca-jón: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0124",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "verano",
+   "clase": "llana",
+   "opciones": [
+    "ra",
+    "ve",
+    "no"
+   ],
+   "respuesta": "verano",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «verano»: ve-ra-no.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0125",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "escalón",
+   "clase": "aguda",
+   "frase": "«escalón» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "es-ca-lón: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0126",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "eléctrico",
+   "clase": "esdrujula",
+   "frase": "«eléctrico» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "e-léc-tri-co: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0127",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "detrás",
+   "clase": "aguda",
+   "frase": "«detrás» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "de-trás: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0128",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "militar",
    "clase": "aguda",
    "respuesta": [
     2,
@@ -1395,31 +2324,47 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: be-be-rás (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: mi-li-tar (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0086",
+   "id": "A1-0129",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "plátano",
-   "clase": "esdrujula",
+   "palabra": "salado",
+   "clase": "llana",
    "respuesta": [
-    3,
-    5
+    2,
+    4
    ],
    "dificultad": 1,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: plá-ta-no (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: sa-la-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0087",
+   "id": "A1-0130",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "valor",
+   "palabra": "pera",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pe-ra (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0131",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sabor",
    "clase": "aguda",
    "respuesta": [
     2
@@ -1428,15 +2373,34 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: va-lor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: sa-bor (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0088",
+   "id": "A1-0132",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "trágico",
+   "clase": "esdrujula",
+   "frase": "«trágico» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "trá-gi-co: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0133",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "dulce",
-   "clase": "llana",
+   "palabra": "saltó",
+   "clase": "aguda",
    "respuesta": [
     3
    ],
@@ -1444,11 +2408,1300 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: dul-ce (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "Se separa así: sal-tó (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0089",
+   "id": "A1-0134",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "grande",
+   "clase": "llana",
+   "frase": "«grande» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "gran-de: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0135",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sábado",
+   "clase": "esdrujula",
+   "frase": "«sábado» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sá-ba-do: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0136",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vivir",
+   "clase": "aguda",
+   "frase": "«vivir» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "vi-vir: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0137",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "camisa",
+   "clase": "llana",
+   "opciones": [
+    "sa",
+    "mi",
+    "ca"
+   ],
+   "respuesta": "camisa",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «camisa»: ca-mi-sa.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0138",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pensar",
+   "clase": "aguda",
+   "frase": "«pensar» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pen-sar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0139",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pánico",
+   "clase": "esdrujula",
+   "frase": "«pánico» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pá-ni-co: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0140",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "ganador",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ga-na-dor (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0141",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "atrás",
+   "clase": "aguda",
+   "frase": "«atrás» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "a-trás: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0142",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "lunes",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: lu-nes (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0143",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "conductor",
+   "clase": "aguda",
+   "respuesta": [
+    3,
+    6
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: con-duc-tor (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0144",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "manzana",
+   "clase": "llana",
+   "opciones": [
+    "man",
+    "na",
+    "za"
+   ],
+   "respuesta": "manzana",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «manzana»: man-za-na.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0145",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "tejado",
+   "clase": "llana",
+   "opciones": [
+    "do",
+    "ja",
+    "te"
+   ],
+   "respuesta": "tejado",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «tejado»: te-ja-do.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0146",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "alegre",
+   "clase": "llana",
+   "opciones": [
+    "le",
+    "gre",
+    "a"
+   ],
+   "respuesta": "alegre",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «alegre»: a-le-gre.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0147",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "podrás",
+   "clase": "aguda",
+   "frase": "«podrás» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "po-drás: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0148",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pimentón",
+   "clase": "aguda",
+   "frase": "«pimentón» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pi-men-tón: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0149",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "único",
+   "clase": "esdrujula",
+   "frase": "«único» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ú-ni-co: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0150",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "lágrima",
+   "clase": "esdrujula",
+   "opciones": [
+    "lá",
+    "ma",
+    "gri"
+   ],
+   "respuesta": "lágrima",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «lágrima»: lá-gri-ma.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0151",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "foca",
+   "clase": "llana",
+   "frase": "«foca» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "fo-ca: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0152",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "decidí",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: de-ci-dí (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0153",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "lámpara",
+   "clase": "esdrujula",
+   "opciones": [
+    "lám",
+    "ra",
+    "pa"
+   ],
+   "respuesta": "lámpara",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «lámpara»: lám-pa-ra.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0154",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "mamá",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ma-má (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0155",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "rápido",
+   "clase": "esdrujula",
+   "frase": "«rápido» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "rá-pi-do: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0156",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "feroz",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fe-roz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0157",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "animal",
+   "clase": "aguda",
+   "opciones": [
+    "ni",
+    "a",
+    "mal"
+   ],
+   "respuesta": "animal",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «animal»: a-ni-mal.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0158",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tortilla",
+   "clase": "llana",
+   "frase": "«tortilla» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "tor-ti-lla: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0159",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "amargo",
+   "clase": "llana",
+   "frase": "«amargo» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "a-mar-go: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0160",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "corazón",
+   "clase": "aguda",
+   "opciones": [
+    "ra",
+    "zón",
+    "co"
+   ],
+   "respuesta": "corazón",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «corazón»: co-ra-zón.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0161",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "zapato",
+   "clase": "llana",
+   "opciones": [
+    "to",
+    "za",
+    "pa"
+   ],
+   "respuesta": "zapato",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «zapato»: za-pa-to.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0162",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "trágico",
+   "clase": "esdrujula",
+   "opciones": [
+    "co",
+    "trá",
+    "gi"
+   ],
+   "respuesta": "trágico",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «trágico»: trá-gi-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0163",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "abril",
+   "clase": "aguda",
+   "frase": "«abril» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "a-bril: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0164",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pastel",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pas-tel (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0165",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "lector",
+   "clase": "aguda",
+   "frase": "«lector» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "lec-tor: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0166",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "subí",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: su-bí (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0167",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "maldad",
+   "clase": "aguda",
+   "frase": "«maldad» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "mal-dad: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0168",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jirafa",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ji-ra-fa (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0169",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "zapato",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: za-pa-to (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0170",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "tendrás",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ten-drás (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0171",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "salón",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sa-lón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0172",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pájaro",
+   "clase": "esdrujula",
+   "frase": "«pájaro» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pá-ja-ro: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0173",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "fácil",
+   "clase": "llana",
+   "frase": "«fácil» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "fá-cil: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0174",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "góndola",
+   "clase": "esdrujula",
+   "frase": "«góndola» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "gón-do-la: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0175",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "abrí",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-brí (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0176",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "conductor",
+   "clase": "aguda",
+   "frase": "«conductor» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "con-duc-tor: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0177",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "abril",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-bril (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0178",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "japonés",
+   "clase": "aguda",
+   "frase": "«japonés» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ja-po-nés: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0179",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "bisturí",
+   "clase": "aguda",
+   "opciones": [
+    "tu",
+    "rí",
+    "bis"
+   ],
+   "respuesta": "bisturí",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «bisturí»: bis-tu-rí.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0180",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "beberán",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: be-be-rán (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0181",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "dosis",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: do-sis (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0182",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "farol",
+   "clase": "aguda",
+   "frase": "«farol» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "fa-rol: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0183",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sartén",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sar-tén (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0184",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tendrá",
+   "clase": "aguda",
+   "frase": "«tendrá» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ten-drá: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0185",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "volátil",
+   "clase": "llana",
+   "frase": "«volátil» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "vo-lá-til: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0186",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cartel",
+   "clase": "aguda",
+   "frase": "«cartel» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "car-tel: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0187",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "amistad",
+   "clase": "aguda",
+   "respuesta": [
+    1,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-mis-tad (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0188",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "dormir",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: dor-mir (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0189",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "dormir",
+   "clase": "aguda",
+   "frase": "«dormir» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "dor-mir: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0190",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "delfín",
+   "clase": "aguda",
+   "frase": "«delfín» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "del-fín: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0191",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "escalera",
+   "clase": "llana",
+   "opciones": [
+    "ra",
+    "es",
+    "le",
+    "ca"
+   ],
+   "respuesta": "escalera",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «escalera»: es-ca-le-ra.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0192",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "romántico",
+   "clase": "esdrujula",
+   "opciones": [
+    "mán",
+    "ro",
+    "co",
+    "ti"
+   ],
+   "respuesta": "romántico",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «romántico»: ro-mán-ti-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0193",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "jardines",
+   "clase": "llana",
+   "opciones": [
+    "nes",
+    "di",
+    "jar"
+   ],
+   "respuesta": "jardines",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «jardines»: jar-di-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0194",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "maní",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ma-ní (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0195",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "volumen",
+   "clase": "llana",
+   "frase": "«volumen» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "vo-lu-men: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0196",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tormenta",
+   "clase": "llana",
+   "frase": "«tormenta» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "tor-men-ta: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0197",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: é-po-ca (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0198",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "examen",
+   "clase": "llana",
+   "opciones": [
+    "xa",
+    "men",
+    "e"
+   ],
+   "respuesta": "examen",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «examen»: e-xa-men.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0199",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "abrir",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-brir (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0200",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "elástico",
+   "clase": "esdrujula",
+   "opciones": [
+    "co",
+    "ti",
+    "e",
+    "lás"
+   ],
+   "respuesta": "elástico",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «elástico»: e-lás-ti-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0201",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "botones",
+   "clase": "llana",
+   "opciones": [
+    "to",
+    "nes",
+    "bo"
+   ],
+   "respuesta": "botones",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «botones»: bo-to-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0202",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "portátil",
+   "clase": "llana",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: por-tá-til (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0203",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "portátil",
+   "clase": "llana",
+   "frase": "«portátil» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "por-tá-til: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0204",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "ayer",
+   "clase": "aguda",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-yer (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0205",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "altar",
@@ -1464,28 +3717,82 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0090",
+   "id": "A1-0206",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "jardines",
+   "clase": "llana",
+   "frase": "«jardines» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "jar-di-nes: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0207",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "carnaval",
+   "palabra": "cordel",
    "clase": "aguda",
    "respuesta": [
-    3,
-    5
+    3
    ],
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: car-na-val (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: cor-del (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0091",
+   "id": "A1-0208",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "física",
+   "palabra": "andén",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: an-dén (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0209",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "relámpago",
    "clase": "esdrujula",
+   "opciones": [
+    "re",
+    "pa",
+    "go",
+    "lám"
+   ],
+   "respuesta": "relámpago",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «relámpago»: re-lám-pa-go.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0210",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "andaluz",
+   "clase": "aguda",
    "respuesta": [
     2,
     4
@@ -1494,32 +3801,145 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: fí-si-ca (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: an-da-luz (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0092",
+   "id": "A1-0211",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "altar",
+   "clase": "aguda",
+   "frase": "«altar» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "al-tar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0212",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "nácar",
+   "clase": "llana",
+   "frase": "«nácar» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ná-car: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0213",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "bisturí",
+   "palabra": "tazón",
    "clase": "aguda",
    "respuesta": [
-    3,
-    5
+    2
    ],
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: bis-tu-rí (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: ta-zón (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0093",
+   "id": "A1-0214",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "termómetro",
+   "clase": "esdrujula",
+   "frase": "«termómetro» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ter-mó-me-tro: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0215",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "margen",
+   "clase": "llana",
+   "frase": "«margen» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "mar-gen: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0216",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "néctar",
+   "clase": "llana",
+   "frase": "«néctar» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "néc-tar: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0217",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "kilómetro",
+   "clase": "esdrujula",
+   "frase": "«kilómetro» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ki-ló-me-tro: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0218",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "mecánico",
-   "clase": "esdrujula",
+   "palabra": "melocotón",
+   "clase": "aguda",
    "respuesta": [
     2,
     4,
@@ -1529,47 +3949,190 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: me-cá-ni-co (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: me-lo-co-tón (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0094",
+   "id": "A1-0219",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "matiz",
-   "clase": "aguda",
+   "palabra": "jóvenes",
+   "clase": "esdrujula",
    "respuesta": [
-    2
+    2,
+    4
    ],
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ma-tiz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: jó-ve-nes (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0095",
+   "id": "A1-0220",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "término",
+   "clase": "esdrujula",
+   "frase": "«término» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "tér-mi-no: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0221",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "carácter",
+   "palabra": "gótico",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: gó-ti-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0222",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "marfil",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: mar-fil (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0223",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "altavoz",
+   "clase": "aguda",
+   "frase": "«altavoz» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "al-ta-voz: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0224",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "ágil",
+   "clase": "llana",
+   "respuesta": [
+    1
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: á-gil (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0225",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "alcázar",
    "clase": "llana",
    "respuesta": [
     2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: al-cá-zar (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0226",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "castillo",
+   "clase": "llana",
+   "respuesta": [
+    3,
     5
    ],
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ca-rác-ter (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: cas-ti-llo (3 sílabas). Recuerda: ch, ll y rr nunca se separan; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0096",
+   "id": "A1-0227",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "almacén",
+   "clase": "aguda",
+   "opciones": [
+    "cén",
+    "ma",
+    "al"
+   ],
+   "respuesta": "almacén",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «almacén»: al-ma-cén.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0228",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "nítido",
+   "clase": "esdrujula",
+   "frase": "«nítido» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ní-ti-do: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0229",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tonel",
+   "palabra": "taller",
    "clase": "aguda",
    "respuesta": [
     2
@@ -1578,11 +4141,256 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: to-nel (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: ta-ller (2 sílabas). Recuerda: ch, ll y rr nunca se separan.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0097",
+   "id": "A1-0230",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "árabe",
+   "clase": "esdrujula",
+   "opciones": [
+    "ra",
+    "á",
+    "be"
+   ],
+   "respuesta": "árabe",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «árabe»: á-ra-be.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0231",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "récords",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ré-cords (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0232",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "práctica",
+   "clase": "esdrujula",
+   "opciones": [
+    "prác",
+    "ca",
+    "ti"
+   ],
+   "respuesta": "práctica",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «práctica»: prác-ti-ca.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0233",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "cráter",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: crá-ter (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0234",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "actriz",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ac-triz (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0235",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "almacén",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: al-ma-cén (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0236",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "tormenta",
+   "clase": "llana",
+   "respuesta": [
+    3,
+    6
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: tor-men-ta (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0237",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "empecé",
+   "clase": "aguda",
+   "frase": "«empecé» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "em-pe-cé: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0238",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "atlético",
+   "clase": "esdrujula",
+   "opciones": [
+    "lé",
+    "co",
+    "at",
+    "ti"
+   ],
+   "respuesta": "atlético",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «atlético»: at-lé-ti-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0239",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "patín",
+   "clase": "aguda",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pa-tín (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0240",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sartén",
+   "clase": "aguda",
+   "frase": "«sartén» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sar-tén: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0241",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "frágil",
+   "clase": "llana",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: frá-gil (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0242",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "frase": "«época» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "é-po-ca: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0243",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "francés",
+   "clase": "aguda",
+   "respuesta": [
+    4
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: fran-cés (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0244",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "caramelo",
@@ -1600,77 +4408,10 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0098",
+   "id": "A1-0245",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "joven",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: jo-ven (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0099",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "átona",
-   "clase": "esdrujula",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: á-to-na (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0100",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "colibrí",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: co-li-brí (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0101",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "gótico",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: gó-ti-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0102",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "actriz",
+   "palabra": "carey",
    "clase": "aguda",
    "respuesta": [
     2
@@ -1679,394 +4420,69 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ac-triz (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "Se separa así: ca-rey (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0103",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "mármol",
+   "id": "A1-0246",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "resumen",
    "clase": "llana",
-   "respuesta": [
-    3
+   "opciones": [
+    "su",
+    "re",
+    "men"
    ],
+   "respuesta": "resumen",
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: már-mol (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "La palabra es «resumen»: re-su-men.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0104",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lámina",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: lá-mi-na (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0105",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "imagen",
+   "id": "A1-0247",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "carácter",
    "clase": "llana",
-   "respuesta": [
-    1,
-    3
+   "frase": "«carácter» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Falso",
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: i-ma-gen (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "ca-rác-ter: tiene 3 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0106",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "placer",
+   "id": "A1-0248",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "melocotón",
    "clase": "aguda",
-   "respuesta": [
-    3
+   "opciones": [
+    "me",
+    "lo",
+    "tón",
+    "co"
    ],
+   "respuesta": "melocotón",
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: pla-cer (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "La palabra es «melocotón»: me-lo-co-tón.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0107",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "teléfono",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4,
-    6
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: te-lé-fo-no (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0108",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "anís",
-   "clase": "aguda",
-   "respuesta": [
-    1
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: a-nís (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0109",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "capaz",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ca-paz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0110",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "origen",
-   "clase": "llana",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: o-ri-gen (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0111",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "felicidad",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4,
-    6
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: fe-li-ci-dad (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0112",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "néctar",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: néc-tar (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0113",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "canguro",
-   "clase": "llana",
-   "respuesta": [
-    3,
-    5
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: can-gu-ro (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0114",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "récord",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ré-cord (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0115",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "fértil",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: fér-til (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0116",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "época",
-   "clase": "esdrujula",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: é-po-ca (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0117",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "relojes",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: re-lo-jes (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0118",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "empecé",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: em-pe-cé (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0119",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lógico",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ló-gi-co (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0120",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cáliz",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: cá-liz (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0121",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "público",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    5
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pú-bli-co (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0122",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "gélido",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: gé-li-do (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0123",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "disfraz",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: dis-fraz (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0124",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "dosis",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: do-sis (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0125",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "ojalá",
-   "clase": "aguda",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: o-ja-lá (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0126",
+   "id": "A1-0249",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "virtud",
@@ -2082,60 +4498,10 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0127",
+   "id": "A1-0250",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "japonés",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ja-po-nés (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0128",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cereza",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ce-re-za (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0129",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tictac",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: tic-tac (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0130",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "débil",
+   "palabra": "orden",
    "clase": "llana",
    "respuesta": [
     2
@@ -2144,61 +4510,197 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: dé-bil (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: or-den (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0131",
+   "id": "A1-0251",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "delfín",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: del-fín (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0132",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "lombriz",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: lom-briz (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0133",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "bocadillo",
+   "palabra": "fémur",
    "clase": "llana",
    "respuesta": [
-    2,
-    4,
-    6
+    2
    ],
    "dificultad": 2,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: bo-ca-di-llo (4 sílabas). Recuerda: ch, ll y rr nunca se separan; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: fé-mur (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0134",
+   "id": "A1-0252",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "vértice",
+   "clase": "esdrujula",
+   "respuesta": [
+    3,
+    5
+   ],
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: vér-ti-ce (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0253",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "lógico",
+   "clase": "esdrujula",
+   "opciones": [
+    "gi",
+    "ló",
+    "co"
+   ],
+   "respuesta": "lógico",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «lógico»: ló-gi-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0254",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "relojes",
+   "clase": "llana",
+   "opciones": [
+    "lo",
+    "jes",
+    "re"
+   ],
+   "respuesta": "relojes",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «relojes»: re-lo-jes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0255",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "mariposa",
+   "clase": "llana",
+   "frase": "«mariposa» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ma-ri-po-sa: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0256",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "mecánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "ni",
+    "me",
+    "co",
+    "cá"
+   ],
+   "respuesta": "mecánico",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «mecánico»: me-cá-ni-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0257",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "regímenes",
+   "clase": "esdrujula",
+   "frase": "«regímenes» tiene 5 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "re-gí-me-nes: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0258",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "almíbar",
+   "clase": "llana",
+   "opciones": [
+    "mí",
+    "al",
+    "bar"
+   ],
+   "respuesta": "almíbar",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «almíbar»: al-mí-bar.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0259",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "castillo",
+   "clase": "llana",
+   "opciones": [
+    "ti",
+    "cas",
+    "llo"
+   ],
+   "respuesta": "castillo",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «castillo»: cas-ti-llo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0260",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vivirán",
+   "clase": "aguda",
+   "frase": "«vivirán» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "vi-vi-rán: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0261",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "cartón",
@@ -2214,11 +4716,11 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0135",
+   "id": "A1-0262",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "resumen",
-   "clase": "llana",
+   "palabra": "física",
+   "clase": "esdrujula",
    "respuesta": [
     2,
     4
@@ -2227,15 +4729,34 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: re-su-men (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: fí-si-ca (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0136",
+   "id": "A1-0263",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "gélido",
+   "clase": "esdrujula",
+   "opciones": [
+    "li",
+    "gé",
+    "do"
+   ],
+   "respuesta": "gélido",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «gélido»: gé-li-do.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0264",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "césped",
-   "clase": "llana",
+   "palabra": "placer",
+   "clase": "aguda",
    "respuesta": [
     3
    ],
@@ -2243,113 +4764,105 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: cés-ped (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "Se separa así: pla-cer (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0137",
+   "id": "A1-0265",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cadáver",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ca-dá-ver (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0138",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "farol",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: fa-rol (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0139",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "castillo",
-   "clase": "llana",
-   "respuesta": [
-    3,
-    5
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: cas-ti-llo (3 sílabas). Recuerda: ch, ll y rr nunca se separan; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0140",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "papeles",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pa-pe-les (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0141",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "vivirán",
-   "clase": "aguda",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 2,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: vi-vi-rán (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0142",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "gramática",
+   "palabra": "fantástico",
    "clase": "esdrujula",
    "respuesta": [
     3,
-    5,
-    7
+    6,
+    8
    ],
    "dificultad": 3,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: gra-má-ti-ca (4 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: fan-tás-ti-co (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0143",
+   "id": "A1-0266",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "fénix",
+   "clase": "llana",
+   "frase": "«fénix» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "fé-nix: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0267",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "opciones": [
+    "mi",
+    "pi",
+    "rá",
+    "de"
+   ],
+   "respuesta": "pirámide",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «pirámide»: pi-rá-mi-de.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0268",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "pirámide",
+   "clase": "esdrujula",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pi-rá-mi-de (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0269",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tríceps",
+   "clase": "llana",
+   "frase": "«tríceps» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "trí-ceps: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0270",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "mariposa",
@@ -2367,107 +4880,43 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0144",
+   "id": "A1-0271",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "póney",
+   "palabra": "cocodrilo",
    "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: pó-ney (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0145",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "virgen",
-   "clase": "llana",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: vir-gen (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0146",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "polígono",
-   "clase": "esdrujula",
    "respuesta": [
     2,
     4,
-    6
+    7
    ],
    "dificultad": 3,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: po-lí-go-no (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: co-co-dri-lo (4 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0147",
+   "id": "A1-0272",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "cráteres",
+   "palabra": "simpático",
    "clase": "esdrujula",
    "respuesta": [
     3,
-    5
+    5,
+    7
    ],
    "dificultad": 3,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: crá-te-res (3 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: sim-pá-ti-co (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0148",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "estoy",
-   "clase": "aguda",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: es-toy (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0149",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "alemán",
-   "clase": "aguda",
-   "respuesta": [
-    1,
-    3
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: a-le-mán (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0150",
+   "id": "A1-0273",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "milímetro",
@@ -2485,46 +4934,30 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0151",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "exótico",
-   "clase": "esdrujula",
-   "respuesta": [
-    1,
-    3,
-    5
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: e-xó-ti-co (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0152",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "versátil",
+   "id": "A1-0274",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tórax",
    "clase": "llana",
-   "respuesta": [
-    3,
-    5
+   "frase": "«tórax» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Verdadero",
    "dificultad": 3,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ver-sá-til (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "tó-rax: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0153",
+   "id": "A1-0275",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tónica",
-   "clase": "esdrujula",
+   "palabra": "interés",
+   "clase": "aguda",
    "respuesta": [
     2,
     4
@@ -2533,11 +4966,288 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: tó-ni-ca (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: in-te-rés (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0154",
+   "id": "A1-0276",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "volcán",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: vol-cán (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0277",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "ordenador",
+   "clase": "aguda",
+   "opciones": [
+    "dor",
+    "or",
+    "na",
+    "de"
+   ],
+   "respuesta": "ordenador",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «ordenador»: or-de-na-dor.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0278",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "bistecs",
+   "clase": "aguda",
+   "frase": "«bistecs» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "bis-tecs: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0279",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "volúmenes",
+   "clase": "esdrujula",
+   "frase": "«volúmenes» tiene 5 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "vo-lú-me-nes: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0280",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "revólver",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    5
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: re-vól-ver (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0281",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "póney",
+   "clase": "llana",
+   "respuesta": [
+    2
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pó-ney (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0282",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "atlas",
+   "clase": "llana",
+   "frase": "«atlas» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "at-las: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0283",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "robots",
+   "clase": "aguda",
+   "frase": "«robots» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "ro-bots: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0284",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "paréntesis",
+   "clase": "esdrujula",
+   "frase": "«paréntesis» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "pa-rén-te-sis: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0285",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "jersey",
+   "clase": "aguda",
+   "respuesta": [
+    3
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: jer-sey (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0286",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "católico",
+   "clase": "esdrujula",
+   "opciones": [
+    "li",
+    "ca",
+    "tó",
+    "co"
+   ],
+   "respuesta": "católico",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «católico»: ca-tó-li-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0287",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "electricidad",
+   "clase": "aguda",
+   "frase": "«electricidad» tiene 6 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "e-lec-tri-ci-dad: tiene 5 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0288",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "lapicero",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: la-pi-ce-ro (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0289",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "regímenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "gí",
+    "re",
+    "me",
+    "nes"
+   ],
+   "respuesta": "regímenes",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «regímenes»: re-gí-me-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0290",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "aventura",
+   "clase": "llana",
+   "opciones": [
+    "ra",
+    "a",
+    "tu",
+    "ven"
+   ],
+   "respuesta": "aventura",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «aventura»: a-ven-tu-ra.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0291",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "convoy",
@@ -2553,10 +5263,45 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0155",
+   "id": "A1-0292",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "dinámico",
+   "palabra": "gramática",
+   "clase": "esdrujula",
+   "respuesta": [
+    3,
+    5,
+    7
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: gra-má-ti-ca (4 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0293",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "capitán",
+   "clase": "aguda",
+   "respuesta": [
+    2,
+    4
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: ca-pi-tán (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0294",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "político",
    "clase": "esdrujula",
    "respuesta": [
     2,
@@ -2567,45 +5312,164 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: di-ná-mi-co (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: po-lí-ti-co (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0156",
+   "id": "A1-0295",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "orígenes",
+   "clase": "esdrujula",
+   "frase": "«orígenes» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "o-rí-ge-nes: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0296",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "revólver",
+   "clase": "llana",
+   "frase": "«revólver» tiene 4 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "re-vól-ver: tiene 3 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0297",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "milímetro",
+   "clase": "esdrujula",
+   "opciones": [
+    "tro",
+    "mi",
+    "lí",
+    "me"
+   ],
+   "respuesta": "milímetro",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «milímetro»: mi-lí-me-tro.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0298",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "electrónico",
+   "clase": "esdrujula",
+   "frase": "«electrónico» tiene 6 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "e-lec-tró-ni-co: tiene 5 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0299",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "académico",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    3,
+    5,
+    7
+   ],
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: a-ca-dé-mi-co (5 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0300",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "certamen",
+   "clase": "llana",
+   "opciones": [
+    "men",
+    "ta",
+    "cer"
+   ],
+   "respuesta": "certamen",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «certamen»: cer-ta-men.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0301",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sofás",
+   "clase": "aguda",
+   "frase": "«sofás» tiene 2 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "so-fás: tiene 2 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0302",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
    "palabra": "póster",
    "clase": "llana",
-   "respuesta": [
-    3
+   "frase": "«póster» tiene 3 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
    ],
+   "respuesta": "Falso",
    "dificultad": 3,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: pós-ter (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
+   "explicacion": "pós-ter: tiene 2 sílabas.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0157",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "kilómetro",
-   "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4,
-    6
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ki-ló-me-tro (4 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0158",
+   "id": "A1-0303",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
    "palabra": "económico",
@@ -2624,46 +5488,47 @@
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0159",
+   "id": "A1-0304",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sacapuntas",
+   "clase": "llana",
+   "frase": "«sacapuntas» tiene 5 sílabas.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "sa-ca-pun-tas: tiene 4 sílabas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0305",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "simpático",
+   "palabra": "orgánico",
    "clase": "esdrujula",
    "respuesta": [
-    3,
-    5,
-    7
+    2,
+    4,
+    6
    ],
    "dificultad": 3,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: sim-pá-ti-co (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: or-gá-ni-co (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0160",
+   "id": "A1-0306",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "centímetro",
-   "clase": "esdrujula",
-   "respuesta": [
-    3,
-    5,
-    7
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: cen-tí-me-tro (4 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0161",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tríceps",
+   "palabra": "mártir",
    "clase": "llana",
    "respuesta": [
     3
@@ -2672,101 +5537,56 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: trí-ceps (2 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: már-tir (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0162",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "estéril",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: es-té-ril (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0163",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "volcán",
-   "clase": "aguda",
-   "respuesta": [
-    3
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: vol-cán (2 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0164",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "régimen",
+   "id": "A1-0307",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "paréntesis",
    "clase": "esdrujula",
-   "respuesta": [
-    2,
-    4
+   "opciones": [
+    "rén",
+    "pa",
+    "te",
+    "sis"
    ],
-   "dificultad": 3,
+   "respuesta": "paréntesis",
+   "dificultad": 4,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: ré-gi-men (3 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "La palabra es «paréntesis»: pa-rén-te-sis.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0165",
+   "id": "A1-0308",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "abdomen",
-   "clase": "llana",
-   "respuesta": [
-    2,
-    4
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: ab-do-men (3 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0166",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "tórax",
-   "clase": "llana",
-   "respuesta": [
-    2
-   ],
-   "dificultad": 3,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: tó-rax (2 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0167",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "informático",
+   "palabra": "paréntesis",
    "clase": "esdrujula",
    "respuesta": [
     2,
     5,
+    7
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: pa-rén-te-sis (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0309",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "electrónico",
+   "clase": "esdrujula",
+   "respuesta": [
+    1,
+    4,
     7,
     9
    ],
@@ -2774,62 +5594,221 @@
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: in-for-má-ti-co (5 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: e-lec-tró-ni-co (5 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0168",
+   "id": "A1-0310",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "orígenes",
-   "clase": "esdrujula",
-   "respuesta": [
-    1,
-    3,
-    5
-   ],
-   "dificultad": 4,
-   "skills": [
-    "silabas"
-   ],
-   "explicacion": "Se separa así: o-rí-ge-nes (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
-   "regla_id": "silabas"
-  },
-  {
-   "id": "A1-0169",
-   "tipo": "separar",
-   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "atmósfera",
+   "palabra": "resúmenes",
    "clase": "esdrujula",
    "respuesta": [
     2,
-    5,
-    7
+    4,
+    6
    ],
    "dificultad": 4,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: at-mós-fe-ra (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: re-sú-me-nes (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
    "regla_id": "silabas"
   },
   {
-   "id": "A1-0170",
+   "id": "A1-0311",
    "tipo": "separar",
    "enunciado": "Toca entre las letras para separar la palabra en sílabas",
-   "palabra": "oportunidad",
+   "palabra": "electricidad",
    "clase": "aguda",
    "respuesta": [
     1,
     4,
-    6,
+    7,
+    9
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: e-lec-tri-ci-dad (5 sílabas). Recuerda: los grupos como pr, bl, tr o cl van juntos en la misma sílaba; cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0312",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "sacapuntas",
+   "clase": "llana",
+   "opciones": [
+    "sa",
+    "pun",
+    "tas",
+    "ca"
+   ],
+   "respuesta": "sacapuntas",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «sacapuntas»: sa-ca-pun-tas.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0313",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sentimental",
+   "clase": "aguda",
+   "respuesta": [
+    3,
+    5,
     8
    ],
    "dificultad": 4,
    "skills": [
     "silabas"
    ],
-   "explicacion": "Se separa así: o-por-tu-ni-dad (5 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "explicacion": "Se separa así: sen-ti-men-tal (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0314",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "telaraña",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4,
+    6
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: te-la-ra-ña (4 sílabas). Recuerda: una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0315",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "telaraña",
+   "clase": "llana",
+   "opciones": [
+    "la",
+    "ña",
+    "ra",
+    "te"
+   ],
+   "respuesta": "telaraña",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «telaraña»: te-la-ra-ña.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0316",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "orígenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "ge",
+    "rí",
+    "o",
+    "nes"
+   ],
+   "respuesta": "orígenes",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «orígenes»: o-rí-ge-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0317",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "económico",
+   "clase": "esdrujula",
+   "opciones": [
+    "nó",
+    "mi",
+    "co",
+    "co",
+    "e"
+   ],
+   "respuesta": "económico",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «económico»: e-co-nó-mi-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0318",
+   "tipo": "separar",
+   "enunciado": "Toca entre las letras para separar la palabra en sílabas",
+   "palabra": "sacapuntas",
+   "clase": "llana",
+   "respuesta": [
+    2,
+    4,
+    7
+   ],
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "Se separa así: sa-ca-pun-tas (4 sílabas). Recuerda: cuando hay dos consonantes seguidas, una se queda en la sílaba de delante y la otra pasa a la siguiente; una consonante entre dos vocales se une a la vocal de detrás.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0319",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "oportunidad",
+   "clase": "aguda",
+   "opciones": [
+    "dad",
+    "o",
+    "ni",
+    "por",
+    "tu"
+   ],
+   "respuesta": "oportunidad",
+   "dificultad": 5,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «oportunidad»: o-por-tu-ni-dad.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A1-0320",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "electricidad",
+   "clase": "aguda",
+   "opciones": [
+    "dad",
+    "tri",
+    "ci",
+    "e",
+    "lec"
+   ],
+   "respuesta": "electricidad",
+   "dificultad": 5,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «electricidad»: e-lec-tri-ci-dad.",
    "regla_id": "silabas"
   }
  ]

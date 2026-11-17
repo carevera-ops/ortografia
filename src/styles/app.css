@@ -1170,3 +1170,57 @@
 .report-table tbody tr {
   cursor: pointer;
 }
+
+/* ---------- Ordenar sílabas y corregir ---------- */
+.build-area {
+  min-height: 72px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  padding: 10px;
+  border: 2px dashed var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+.tile {
+  min-width: 56px;
+  min-height: 52px;
+  padding: 6px 14px;
+  border-radius: 14px;
+  border: 2px solid var(--border);
+  background: var(--surface);
+  box-shadow: 0 4px 0 var(--border);
+  font-size: 1.4rem;
+  font-weight: 800;
+  cursor: pointer;
+  color: var(--text);
+}
+.tile:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.tile.placed {
+  background: color-mix(in srgb, var(--accent) 14%, var(--surface));
+  border-color: var(--accent);
+  box-shadow: 0 3px 0 var(--accent);
+}
+.tile.placed:disabled {
+  opacity: 1;
+}
+.wrong-word s {
+  text-decoration-color: var(--ko-ink);
+  text-decoration-thickness: 3px;
+}
+.statement {
+  font-size: 1.35rem;
+  font-weight: 700;
+  text-align: center;
+}

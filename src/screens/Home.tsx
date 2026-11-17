@@ -59,7 +59,9 @@ export function Home() {
                 : '¡Empieza hoy una racha nueva!'}
             </strong>
             <div className="muted small-text">
-              {settings.streakCriterion === 'minutes'
+              {settings.streakCriterion === 'goal'
+                ? `Cumple tu objetivo de ${settings.dailyGoalMin || settings.streakMinutes} minutos para que hoy cuente.`
+                : settings.streakCriterion === 'minutes'
                 ? `Estudia ${settings.streakMinutes} minutos para que hoy cuente.`
                 : settings.streakCriterion === 'lesson'
                   ? 'Haz una lección para que hoy cuente.'

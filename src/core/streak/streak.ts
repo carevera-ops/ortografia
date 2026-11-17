@@ -17,6 +17,7 @@ import type { DailyStat, StreakCriterion } from '../../db/types';
  * - El día de HOY aún no ha terminado: si todavía no se ha estudiado, la racha no se pierde.
  */
 export interface StreakOptions {
+  /** Con «goal», `minutes` debe ser el objetivo diario (ver streakOptionsFrom). */
   criterion: StreakCriterion;
   /** Minutos de estudio activo para que cuente el día (criterios "minutes" y "either"). */
   minutes: number;
@@ -42,7 +43,8 @@ export function dayQualifies(d: DailyStat | undefined, o: StreakOptions): boolea
   const byLesson = d.lessons >= 1;
   const byMinutes = d.activeSec >= o.minutes * 60;
   if (o.criterion === 'lesson') return byLesson;
-  if (o.criterion === 'minutes') return byMinutes;
+  // «Cumplir el objetivo»: hacen falta los minutos del objetivo diario, aunque se haya hecho una lección.
+  if (o.criterion === 'minutes' || o.criterion === 'goal') return byMinutes;
   return byLesson || byMinutes;
 }
 
@@ -77,4 +79,13 @@ export function computeStreak(days: DailyStat[], today: LocalDate, o: StreakOpti
   res.freezes = freezes;
   res.todayDone = dayQualifies(byDate.get(today), o);
   return res;
+}
+
+/**
+ * Opciones de racha a partir de los ajustes. Con el criterio «goal», el mínimo es el objetivo
+ * diario; si no hay objetivo (0), se usan los minutos mínimos de la racha.
+ */
+export function streakOptionsFrom(s: { streakCriterion: StreakCriterion; streakMinutes: number; dailyGoalMin: number }): StreakOptions {
+  if (s.streakCriterion === 'goal') return { criterion: 'goal', minutes: s.dailyGoalMin > 0 ? s.dailyGoalMin : s.streakMinutes };
+  return { criterion: s.streakCriterion, minutes: s.streakMinutes };
 }

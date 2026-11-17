@@ -18,7 +18,11 @@ export function UpdatePrompt() {
   if (!needRefresh) return null;
   return (
     <div className="update-toast" role="alert">
-      <span className="grow">✨ Hay una versión nueva</span>
+      <span className="grow">
+        ✨ Hay una versión nueva
+        <br />
+        <small>Tu progreso se conserva.</small>
+      </span>
       <button className="btn small" onClick={() => void updateServiceWorker(true)}>
         Actualizar
       </button>

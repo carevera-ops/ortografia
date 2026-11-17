@@ -3,173 +3,101 @@
  "items": [
   {
    "id": "A2-0001",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "melón",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "quizá",
    "clase": "aguda",
+   "frase": "En «quizá», la sílaba que suena más fuerte es «qui».",
    "opciones": [
-    "me",
-    "lón"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «melón» suena más fuerte «lón»: me-LÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «quizá» suena más fuerte «zá»: qui-ZÁ.",
    "regla_id": "silaba-tonica"
   },
   {
    "id": "A2-0002",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "vendrás",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "corazón",
    "clase": "aguda",
    "opciones": [
-    "ven",
-    "drás"
+    "ra",
+    "zón",
+    "co"
    ],
-   "respuesta": 1,
+   "respuesta": "corazón",
    "dificultad": 1,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «vendrás» suena más fuerte «drás»: ven-DRÁS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «corazón»: co-ra-zón.",
+   "regla_id": "silabas"
   },
   {
    "id": "A2-0003",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "último",
-   "clase": "esdrujula",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vivirás",
+   "clase": "aguda",
+   "frase": "En «vivirás», la sílaba que suena más fuerte es «vi».",
    "opciones": [
-    "úl",
-    "ti",
-    "mo"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «último» suena más fuerte «úl»: ÚL-ti-mo. ¡La tilde te da la pista!",
+   "explicacion": "En «vivirás» suena más fuerte «rás»: vi-vi-RÁS.",
    "regla_id": "silaba-tonica"
   },
   {
    "id": "A2-0004",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "árboles",
-   "clase": "esdrujula",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "algodón",
+   "clase": "aguda",
    "opciones": [
-    "ár",
-    "bo",
-    "les"
+    "go",
+    "al",
+    "dón"
    ],
-   "respuesta": 0,
+   "respuesta": "algodón",
    "dificultad": 1,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «árboles» suena más fuerte «ár»: ÁR-bo-les. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «algodón»: al-go-dón.",
+   "regla_id": "silabas"
   },
   {
    "id": "A2-0005",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "jamón",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "perejil",
    "clase": "aguda",
    "opciones": [
-    "ja",
-    "món"
+    "re",
+    "jil",
+    "pe"
    ],
-   "respuesta": 1,
+   "respuesta": "perejil",
    "dificultad": 1,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «jamón» suena más fuerte «món»: ja-MÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «perejil»: pe-re-jil.",
+   "regla_id": "silabas"
   },
   {
    "id": "A2-0006",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "tendrás",
-   "clase": "aguda",
-   "opciones": [
-    "ten",
-    "drás"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «tendrás» suena más fuerte «drás»: ten-DRÁS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0007",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "botiquín",
-   "clase": "aguda",
-   "opciones": [
-    "bo",
-    "ti",
-    "quín"
-   ],
-   "respuesta": 2,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «botiquín» suena más fuerte «quín»: bo-ti-QUÍN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0008",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "papá",
-   "clase": "aguda",
-   "opciones": [
-    "pa",
-    "pá"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «papá» suena más fuerte «pá»: pa-PÁ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0009",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "estómago",
-   "clase": "esdrujula",
-   "opciones": [
-    "es",
-    "tó",
-    "ma",
-    "go"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «estómago» suena más fuerte «tó»: es-TÓ-ma-go. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0010",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "Martínez",
@@ -188,528 +116,26 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0011",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "subí",
-   "clase": "aguda",
-   "opciones": [
-    "su",
-    "bí"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «subí» suena más fuerte «bí»: su-BÍ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0012",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cómico",
-   "clase": "esdrujula",
-   "opciones": [
-    "có",
-    "mi",
-    "co"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «cómico» suena más fuerte «có»: CÓ-mi-co. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0013",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "eléctrico",
-   "clase": "esdrujula",
-   "opciones": [
-    "e",
-    "léc",
-    "tri",
-    "co"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «eléctrico» suena más fuerte «léc»: e-LÉC-tri-co. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0014",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "trágico",
-   "clase": "esdrujula",
-   "opciones": [
-    "trá",
-    "gi",
-    "co"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «trágico» suena más fuerte «trá»: TRÁ-gi-co. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0015",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "elástico",
-   "clase": "esdrujula",
-   "opciones": [
-    "e",
-    "lás",
-    "ti",
-    "co"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «elástico» suena más fuerte «lás»: e-LÁS-ti-co. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0016",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "millón",
-   "clase": "aguda",
-   "opciones": [
-    "mi",
-    "llón"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «millón» suena más fuerte «llón»: mi-LLÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0017",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "dólar",
+   "id": "A2-0007",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cárcel",
    "clase": "llana",
+   "frase": "En «cárcel», la sílaba que suena más fuerte es «cel».",
    "opciones": [
-    "dó",
-    "lar"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «dólar» suena más fuerte «dó»: DÓ-lar. ¡La tilde te da la pista!",
+   "explicacion": "En «cárcel» suena más fuerte «cár»: CÁR-cel.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0018",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "relámpago",
-   "clase": "esdrujula",
-   "opciones": [
-    "re",
-    "lám",
-    "pa",
-    "go"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «relámpago» suena más fuerte «lám»: re-LÁM-pa-go. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0019",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "comió",
-   "clase": "aguda",
-   "opciones": [
-    "co",
-    "mió"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «comió» suena más fuerte «mió»: co-MIÓ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0020",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "góndola",
-   "clase": "esdrujula",
-   "opciones": [
-    "gón",
-    "do",
-    "la"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «góndola» suena más fuerte «gón»: GÓN-do-la. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0021",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "corazón",
-   "clase": "aguda",
-   "opciones": [
-    "co",
-    "ra",
-    "zón"
-   ],
-   "respuesta": 2,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «corazón» suena más fuerte «zón»: co-ra-ZÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0022",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "bastón",
-   "clase": "aguda",
-   "opciones": [
-    "bas",
-    "tón"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «bastón» suena más fuerte «tón»: bas-TÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0023",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "iglú",
-   "clase": "aguda",
-   "opciones": [
-    "i",
-    "glú"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «iglú» suena más fuerte «glú»: i-GLÚ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0024",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "vivirás",
-   "clase": "aguda",
-   "opciones": [
-    "vi",
-    "vi",
-    "rás"
-   ],
-   "respuesta": 2,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «vivirás» suena más fuerte «rás»: vi-vi-RÁS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0025",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Víctor",
-   "clase": "llana",
-   "opciones": [
-    "Víc",
-    "tor"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «Víctor» suena más fuerte «Víc»: VÍC-tor. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0026",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "perdió",
-   "clase": "aguda",
-   "opciones": [
-    "per",
-    "dió"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «perdió» suena más fuerte «dió»: per-DIÓ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0027",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "miércoles",
-   "clase": "esdrujula",
-   "opciones": [
-    "miér",
-    "co",
-    "les"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «miércoles» suena más fuerte «miér»: MIÉR-co-les. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0028",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "líder",
-   "clase": "llana",
-   "opciones": [
-    "lí",
-    "der"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «líder» suena más fuerte «lí»: LÍ-der. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0029",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "águila",
-   "clase": "esdrujula",
-   "opciones": [
-    "á",
-    "gui",
-    "la"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «águila» suena más fuerte «á»: Á-gui-la. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0030",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ácido",
-   "clase": "esdrujula",
-   "opciones": [
-    "á",
-    "ci",
-    "do"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «ácido» suena más fuerte «á»: Á-ci-do. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0031",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "atlético",
-   "clase": "esdrujula",
-   "opciones": [
-    "at",
-    "lé",
-    "ti",
-    "co"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «atlético» suena más fuerte «lé»: at-LÉ-ti-co. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0032",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "láser",
-   "clase": "llana",
-   "opciones": [
-    "lá",
-    "ser"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «láser» suena más fuerte «lá»: LÁ-ser. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0033",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "buzón",
-   "clase": "aguda",
-   "opciones": [
-    "bu",
-    "zón"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «buzón» suena más fuerte «zón»: bu-ZÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0034",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ciprés",
-   "clase": "aguda",
-   "opciones": [
-    "ci",
-    "prés"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «ciprés» suena más fuerte «prés»: ci-PRÉS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0035",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lágrima",
-   "clase": "esdrujula",
-   "opciones": [
-    "lá",
-    "gri",
-    "ma"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «lágrima» suena más fuerte «lá»: LÁ-gri-ma. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0036",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "jabón",
-   "clase": "aguda",
-   "opciones": [
-    "ja",
-    "bón"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «jabón» suena más fuerte «bón»: ja-BÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0037",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "unión",
-   "clase": "aguda",
-   "opciones": [
-    "u",
-    "nión"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «unión» suena más fuerte «nión»: u-NIÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0038",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "después",
-   "clase": "aguda",
-   "opciones": [
-    "des",
-    "pués"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «después» suena más fuerte «pués»: des-PUÉS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0039",
+   "id": "A2-0008",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "sillón",
@@ -727,81 +153,177 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0040",
+   "id": "A2-0009",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Héctor",
-   "clase": "llana",
-   "opciones": [
-    "Héc",
-    "tor"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «Héctor» suena más fuerte «Héc»: HÉC-tor. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0041",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "pájaro",
-   "clase": "esdrujula",
-   "opciones": [
-    "pá",
-    "ja",
-    "ro"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «pájaro» suena más fuerte «pá»: PÁ-ja-ro. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0042",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "montón",
+   "palabra": "botiquín",
    "clase": "aguda",
    "opciones": [
-    "mon",
-    "tón"
+    "bo",
+    "ti",
+    "quín"
+   ],
+   "respuesta": 2,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «botiquín» suena más fuerte «quín»: bo-ti-QUÍN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0010",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ratón",
+   "clase": "aguda",
+   "frase": "En «ratón», la sílaba que suena más fuerte es «ra».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ratón» suena más fuerte «tón»: ra-TÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0011",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "también",
+   "clase": "aguda",
+   "frase": "En «también», la sílaba que suena más fuerte es «tam».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «también» suena más fuerte «bién»: tam-BIÉN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0012",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "góndola",
+   "clase": "esdrujula",
+   "opciones": [
+    "gón",
+    "la",
+    "do"
+   ],
+   "respuesta": "góndola",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «góndola»: gón-do-la.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0013",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "vendrás",
+   "clase": "aguda",
+   "opciones": [
+    "ven",
+    "drás"
    ],
    "respuesta": 1,
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «montón» suena más fuerte «tón»: mon-TÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «vendrás» suena más fuerte «drás»: ven-DRÁS. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0043",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "id": "A2-0014",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "micrófono",
+   "clase": "esdrujula",
+   "frase": "En «micrófono», la sílaba que suena más fuerte es «mi».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «micrófono» suena más fuerte «cró»: mi-CRÓ-fo-no.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0015",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "estrés",
+   "clase": "aguda",
+   "frase": "En «estrés», la sílaba que suena más fuerte es «es».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «estrés» suena más fuerte «trés»: es-TRÉS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0016",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
    "palabra": "pétalo",
    "clase": "esdrujula",
+   "frase": "En «pétalo», la sílaba que suena más fuerte es «pé».",
    "opciones": [
-    "pé",
-    "ta",
-    "lo"
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pétalo» suena más fuerte «pé»: PÉ-ta-lo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0017",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "húmedo",
+   "clase": "esdrujula",
+   "opciones": [
+    "hú",
+    "me",
+    "do"
    ],
    "respuesta": 0,
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «pétalo» suena más fuerte «pé»: PÉ-ta-lo. ¡La tilde te da la pista!",
+   "explicacion": "En «húmedo» suena más fuerte «hú»: HÚ-me-do. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0044",
+   "id": "A2-0018",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "portugués",
@@ -820,105 +342,163 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0045",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cordón",
-   "clase": "aguda",
+   "id": "A2-0019",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "abuela",
+   "clase": "llana",
    "opciones": [
-    "cor",
-    "dón"
+    "la",
+    "bue",
+    "a"
    ],
-   "respuesta": 1,
+   "respuesta": "abuela",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «abuela»: a-bue-la.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0020",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "abrí",
+   "clase": "aguda",
+   "frase": "En «abrí», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «cordón» suena más fuerte «dón»: cor-DÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «abrí» suena más fuerte «brí»: a-BRÍ.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0046",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "salí",
-   "clase": "aguda",
+   "id": "A2-0021",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "Martínez",
+   "clase": "llana",
+   "frase": "En «Martínez», la sílaba que suena más fuerte es «Mar».",
    "opciones": [
-    "sa",
-    "lí"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Falso",
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «salí» suena más fuerte «lí»: sa-LÍ. ¡La tilde te da la pista!",
+   "explicacion": "En «Martínez» suena más fuerte «tí»: Mar-TÍ-nez.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0047",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lámpara",
+   "id": "A2-0022",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "único",
    "clase": "esdrujula",
+   "frase": "En «único», la sílaba que suena más fuerte es «ú».",
    "opciones": [
-    "lám",
-    "pa",
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «único» suena más fuerte «ú»: Ú-ni-co.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0023",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "caracol",
+   "clase": "aguda",
+   "opciones": [
+    "ca",
+    "col",
     "ra"
    ],
-   "respuesta": 0,
+   "respuesta": "caracol",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «caracol»: ca-ra-col.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0024",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "avión",
+   "clase": "aguda",
+   "frase": "En «avión», la sílaba que suena más fuerte es «vión».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «lámpara» suena más fuerte «lám»: LÁM-pa-ra. ¡La tilde te da la pista!",
+   "explicacion": "En «avión» suena más fuerte «vión»: a-VIÓN.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0048",
+   "id": "A2-0025",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "danés",
+   "palabra": "cantó",
    "clase": "aguda",
    "opciones": [
-    "da",
-    "nés"
+    "can",
+    "tó"
    ],
    "respuesta": 1,
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «danés» suena más fuerte «nés»: da-NÉS. ¡La tilde te da la pista!",
+   "explicacion": "En «cantó» suena más fuerte «tó»: can-TÓ. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0049",
+   "id": "A2-0026",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "rápido",
-   "clase": "esdrujula",
+   "palabra": "túnel",
+   "clase": "llana",
    "opciones": [
-    "rá",
-    "pi",
-    "do"
+    "tú",
+    "nel"
    ],
    "respuesta": 0,
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «rápido» suena más fuerte «rá»: RÁ-pi-do. ¡La tilde te da la pista!",
+   "explicacion": "En «túnel» suena más fuerte «tú»: TÚ-nel. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0050",
+   "id": "A2-0027",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lección",
+   "palabra": "canción",
    "clase": "aguda",
    "opciones": [
-    "lec",
+    "can",
     "ción"
    ],
    "respuesta": 1,
@@ -926,29 +506,919 @@
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «lección» suena más fuerte «ción»: lec-CIÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «canción» suena más fuerte «ción»: can-CIÓN. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0051",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "bebé",
+   "id": "A2-0028",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "maletín",
    "clase": "aguda",
    "opciones": [
-    "be",
-    "bé"
+    "ma",
+    "tín",
+    "le"
+   ],
+   "respuesta": "maletín",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «maletín»: ma-le-tín.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0029",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "millón",
+   "clase": "aguda",
+   "frase": "En «millón», la sílaba que suena más fuerte es «llón».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «millón» suena más fuerte «llón»: mi-LLÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0030",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cómic",
+   "clase": "llana",
+   "frase": "En «cómic», la sílaba que suena más fuerte es «có».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cómic» suena más fuerte «có»: CÓ-mic.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0031",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cañón",
+   "clase": "aguda",
+   "frase": "En «cañón», la sílaba que suena más fuerte es «ca».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cañón» suena más fuerte «ñón»: ca-ÑÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0032",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "botón",
+   "clase": "aguda",
+   "frase": "En «botón», la sílaba que suena más fuerte es «bo».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «botón» suena más fuerte «tón»: bo-TÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0033",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "festín",
+   "clase": "aguda",
+   "frase": "En «festín», la sílaba que suena más fuerte es «tín».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «festín» suena más fuerte «tín»: fes-TÍN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0034",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "misión",
+   "clase": "aguda",
+   "frase": "En «misión», la sílaba que suena más fuerte es «sión».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «misión» suena más fuerte «sión»: mi-SIÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0035",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "salió",
+   "clase": "aguda",
+   "frase": "En «salió», la sílaba que suena más fuerte es «sa».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «salió» suena más fuerte «lió»: sa-LIÓ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0036",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "mamá",
+   "clase": "aguda",
+   "opciones": [
+    "ma",
+    "má"
    ],
    "respuesta": 1,
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «bebé» suena más fuerte «bé»: be-BÉ. ¡La tilde te da la pista!",
+   "explicacion": "En «mamá» suena más fuerte «má»: ma-MÁ. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0037",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cántaro",
+   "clase": "esdrujula",
+   "frase": "En «cántaro», la sílaba que suena más fuerte es «ta».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cántaro» suena más fuerte «cán»: CÁN-ta-ro.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0038",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "ganador",
+   "clase": "aguda",
+   "opciones": [
+    "dor",
+    "na",
+    "ga"
+   ],
+   "respuesta": "ganador",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «ganador»: ga-na-dor.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0039",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "algodón",
+   "clase": "aguda",
+   "frase": "En «algodón», la sílaba que suena más fuerte es «al».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «algodón» suena más fuerte «dón»: al-go-DÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0040",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "agosto",
+   "clase": "llana",
+   "opciones": [
+    "gos",
+    "to",
+    "a"
+   ],
+   "respuesta": "agosto",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «agosto»: a-gos-to.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0041",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "invierno",
+   "clase": "llana",
+   "opciones": [
+    "vier",
+    "no",
+    "in"
+   ],
+   "respuesta": "invierno",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «invierno»: in-vier-no.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0042",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "trágico",
+   "clase": "esdrujula",
+   "frase": "En «trágico», la sílaba que suena más fuerte es «trá».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «trágico» suena más fuerte «trá»: TRÁ-gi-co.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0043",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "holandés",
+   "clase": "aguda",
+   "frase": "En «holandés», la sílaba que suena más fuerte es «ho».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «holandés» suena más fuerte «dés»: ho-lan-DÉS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0044",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "pacífico",
+   "clase": "esdrujula",
+   "opciones": [
+    "pa",
+    "cí",
+    "fi",
+    "co"
+   ],
+   "respuesta": 1,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pacífico» suena más fuerte «cí»: pa-CÍ-fi-co. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0045",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Álvarez",
+   "clase": "esdrujula",
+   "opciones": [
+    "Ál",
+    "va",
+    "rez"
+   ],
+   "respuesta": 0,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Álvarez» suena más fuerte «Ál»: ÁL-va-rez. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0046",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "príncipe",
+   "clase": "esdrujula",
+   "frase": "En «príncipe», la sílaba que suena más fuerte es «ci».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «príncipe» suena más fuerte «prín»: PRÍN-ci-pe.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0047",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "después",
+   "clase": "aguda",
+   "frase": "En «después», la sílaba que suena más fuerte es «pués».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «después» suena más fuerte «pués»: des-PUÉS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0048",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "rápido",
+   "clase": "esdrujula",
+   "frase": "En «rápido», la sílaba que suena más fuerte es «rá».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «rápido» suena más fuerte «rá»: RÁ-pi-do.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0049",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
+   "frase": "En «teléfono», la sílaba que suena más fuerte es «te».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «teléfono» suena más fuerte «lé»: te-LÉ-fo-no.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0050",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "escalón",
+   "clase": "aguda",
+   "frase": "En «escalón», la sílaba que suena más fuerte es «lón».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «escalón» suena más fuerte «lón»: es-ca-LÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0051",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "líder",
+   "clase": "llana",
+   "opciones": [
+    "lí",
+    "der"
+   ],
+   "respuesta": 0,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «líder» suena más fuerte «lí»: LÍ-der. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
    "id": "A2-0052",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "cañón",
+   "clase": "aguda",
+   "opciones": [
+    "ca",
+    "ñón"
+   ],
+   "respuesta": 1,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cañón» suena más fuerte «ñón»: ca-ÑÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0053",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "López",
+   "clase": "llana",
+   "frase": "En «López», la sílaba que suena más fuerte es «pez».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «López» suena más fuerte «Ló»: LÓ-pez.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0054",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "dormí",
+   "clase": "aguda",
+   "frase": "En «dormí», la sílaba que suena más fuerte es «mí».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «dormí» suena más fuerte «mí»: dor-MÍ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0055",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "champú",
+   "clase": "aguda",
+   "frase": "En «champú», la sílaba que suena más fuerte es «pú».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «champú» suena más fuerte «pú»: cham-PÚ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0056",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "festín",
+   "clase": "aguda",
+   "opciones": [
+    "fes",
+    "tín"
+   ],
+   "respuesta": 1,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «festín» suena más fuerte «tín»: fes-TÍN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0057",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "abrió",
+   "clase": "aguda",
+   "frase": "En «abrió», la sílaba que suena más fuerte es «brió».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «abrió» suena más fuerte «brió»: a-BRIÓ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0058",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Héctor",
+   "clase": "llana",
+   "opciones": [
+    "Héc",
+    "tor"
+   ],
+   "respuesta": 0,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Héctor» suena más fuerte «Héc»: HÉC-tor. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0059",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "música",
+   "clase": "esdrujula",
+   "opciones": [
+    "ca",
+    "mú",
+    "si"
+   ],
+   "respuesta": "música",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «música»: mú-si-ca.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0060",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "ángulo",
+   "clase": "esdrujula",
+   "opciones": [
+    "gu",
+    "án",
+    "lo"
+   ],
+   "respuesta": "ángulo",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «ángulo»: án-gu-lo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0061",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "pájaro",
+   "clase": "esdrujula",
+   "opciones": [
+    "pá",
+    "ja",
+    "ro"
+   ],
+   "respuesta": 0,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pájaro» suena más fuerte «pá»: PÁ-ja-ro. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0062",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "jamás",
+   "clase": "aguda",
+   "frase": "En «jamás», la sílaba que suena más fuerte es «ja».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «jamás» suena más fuerte «más»: ja-MÁS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0063",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vendrás",
+   "clase": "aguda",
+   "frase": "En «vendrás», la sílaba que suena más fuerte es «drás».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «vendrás» suena más fuerte «drás»: ven-DRÁS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0064",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "paloma",
+   "clase": "llana",
+   "opciones": [
+    "pa",
+    "ma",
+    "lo"
+   ],
+   "respuesta": "paloma",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «paloma»: pa-lo-ma.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0065",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "croqueta",
+   "clase": "llana",
+   "opciones": [
+    "cro",
+    "ta",
+    "que"
+   ],
+   "respuesta": "croqueta",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «croqueta»: cro-que-ta.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0066",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "vivirás",
+   "clase": "aguda",
+   "opciones": [
+    "vi",
+    "vi",
+    "rás"
+   ],
+   "respuesta": 2,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «vivirás» suena más fuerte «rás»: vi-vi-RÁS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0067",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "película",
+   "clase": "esdrujula",
+   "opciones": [
+    "pe",
+    "lí",
+    "cu",
+    "la"
+   ],
+   "respuesta": 1,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «película» suena más fuerte «lí»: pe-LÍ-cu-la. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0068",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "Hernández",
+   "clase": "llana",
+   "frase": "En «Hernández», la sílaba que suena más fuerte es «nán».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Hernández» suena más fuerte «nán»: Her-NÁN-dez.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0069",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "salmón",
+   "clase": "aguda",
+   "frase": "En «salmón», la sílaba que suena más fuerte es «sal».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «salmón» suena más fuerte «món»: sal-MÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0070",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "durmió",
+   "clase": "aguda",
+   "frase": "En «durmió», la sílaba que suena más fuerte es «dur».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «durmió» suena más fuerte «mió»: dur-MIÓ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0071",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "octubre",
+   "clase": "llana",
+   "opciones": [
+    "tu",
+    "bre",
+    "oc"
+   ],
+   "respuesta": "octubre",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «octubre»: oc-tu-bre.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0072",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "escalón",
+   "clase": "aguda",
+   "opciones": [
+    "lón",
+    "es",
+    "ca"
+   ],
+   "respuesta": "escalón",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «escalón»: es-ca-lón.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0073",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "corrió",
+   "clase": "aguda",
+   "frase": "En «corrió», la sílaba que suena más fuerte es «co».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «corrió» suena más fuerte «rrió»: co-RRIÓ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0074",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "verano",
+   "clase": "llana",
+   "opciones": [
+    "ra",
+    "ve",
+    "no"
+   ],
+   "respuesta": "verano",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «verano»: ve-ra-no.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0075",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "jamón",
+   "clase": "aguda",
+   "opciones": [
+    "ja",
+    "món"
+   ],
+   "respuesta": 1,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «jamón» suena más fuerte «món»: ja-MÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0076",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "Pérez",
@@ -966,62 +1436,7 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0053",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "álbum",
-   "clase": "llana",
-   "opciones": [
-    "ál",
-    "bum"
-   ],
-   "respuesta": 0,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «álbum» suena más fuerte «ál»: ÁL-bum. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0054",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "escribí",
-   "clase": "aguda",
-   "opciones": [
-    "es",
-    "cri",
-    "bí"
-   ],
-   "respuesta": 2,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «escribí» suena más fuerte «bí»: es-cri-BÍ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0055",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "también",
-   "clase": "aguda",
-   "opciones": [
-    "tam",
-    "bién"
-   ],
-   "respuesta": 1,
-   "dificultad": 1,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «también» suena más fuerte «bién»: tam-BIÉN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0056",
+   "id": "A2-0077",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "número",
@@ -1040,55 +1455,412 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0057",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "región",
-   "clase": "aguda",
+   "id": "A2-0078",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "tarea",
+   "clase": "llana",
    "opciones": [
     "re",
-    "gión"
+    "ta",
+    "a"
+   ],
+   "respuesta": "tarea",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «tarea»: ta-re-a.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0079",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "álbum",
+   "clase": "llana",
+   "frase": "En «álbum», la sílaba que suena más fuerte es «ál».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «álbum» suena más fuerte «ál»: ÁL-bum.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0080",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "romántico",
+   "clase": "esdrujula",
+   "frase": "En «romántico», la sílaba que suena más fuerte es «ro».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «romántico» suena más fuerte «mán»: ro-MÁN-ti-co.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0081",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "perdón",
+   "clase": "aguda",
+   "frase": "En «perdón», la sílaba que suena más fuerte es «per».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «perdón» suena más fuerte «dón»: per-DÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0082",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "salón",
+   "clase": "aguda",
+   "frase": "En «salón», la sílaba que suena más fuerte es «lón».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «salón» suena más fuerte «lón»: sa-LÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0083",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "subí",
+   "clase": "aguda",
+   "opciones": [
+    "su",
+    "bí"
    ],
    "respuesta": 1,
    "dificultad": 1,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «región» suena más fuerte «gión»: re-GIÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «subí» suena más fuerte «bí»: su-BÍ. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0058",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "polígono",
+   "id": "A2-0084",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cajón",
+   "clase": "aguda",
+   "frase": "En «cajón», la sílaba que suena más fuerte es «jón».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cajón» suena más fuerte «jón»: ca-JÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0085",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tímido",
+   "clase": "esdrujula",
+   "frase": "En «tímido», la sílaba que suena más fuerte es «mi».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tímido» suena más fuerte «tí»: TÍ-mi-do.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0086",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "príncipe",
    "clase": "esdrujula",
    "opciones": [
-    "po",
-    "lí",
-    "go",
-    "no"
+    "ci",
+    "prín",
+    "pe"
+   ],
+   "respuesta": "príncipe",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «príncipe»: prín-ci-pe.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0087",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "corrí",
+   "clase": "aguda",
+   "frase": "En «corrí», la sílaba que suena más fuerte es «rrí».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «corrí» suena más fuerte «rrí»: co-RRÍ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0088",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "llegó",
+   "clase": "aguda",
+   "frase": "En «llegó», la sílaba que suena más fuerte es «gó».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «llegó» suena más fuerte «gó»: lle-GÓ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0089",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "lagarto",
+   "clase": "llana",
+   "opciones": [
+    "gar",
+    "la",
+    "to"
+   ],
+   "respuesta": "lagarto",
+   "dificultad": 1,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «lagarto»: la-gar-to.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0090",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "último",
+   "clase": "esdrujula",
+   "frase": "En «último», la sílaba que suena más fuerte es «úl».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «último» suena más fuerte «úl»: ÚL-ti-mo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0091",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "maniquí",
+   "clase": "aguda",
+   "opciones": [
+    "ma",
+    "ni",
+    "quí"
+   ],
+   "respuesta": 2,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «maniquí» suena más fuerte «quí»: ma-ni-QUÍ. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0092",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "bebí",
+   "clase": "aguda",
+   "opciones": [
+    "be",
+    "bí"
+   ],
+   "respuesta": 1,
+   "dificultad": 1,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «bebí» suena más fuerte «bí»: be-BÍ. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0093",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "bonito",
+   "clase": "llana",
+   "opciones": [
+    "bo",
+    "ni",
+    "to"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «polígono» suena más fuerte «lí»: po-LÍ-go-no. ¡La tilde te da la pista!",
+   "explicacion": "En «bonito» suena más fuerte «ni»: bo-NI-to.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0059",
+   "id": "A2-0094",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "animal",
+   "palabra": "pintor",
    "clase": "aguda",
    "opciones": [
-    "a",
-    "ni",
-    "mal"
+    "pin",
+    "tor"
    ],
-   "respuesta": 2,
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pintor» suena más fuerte «tor»: pin-TOR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0095",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "carril",
+   "clase": "aguda",
+   "opciones": [
+    "ca",
+    "rril"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «carril» suena más fuerte «rril»: ca-RRIL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0096",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "orgánico",
+   "clase": "esdrujula",
+   "frase": "En «orgánico», la sílaba que suena más fuerte es «or».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «orgánico» suena más fuerte «gá»: or-GÁ-ni-co.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0097",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vendrá",
+   "clase": "aguda",
+   "frase": "En «vendrá», la sílaba que suena más fuerte es «ven».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «vendrá» suena más fuerte «drá»: ven-DRÁ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0098",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "acordeón",
+   "clase": "aguda",
+   "frase": "En «acordeón», la sílaba que suena más fuerte es «ón».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «acordeón» suena más fuerte «ón»: a-cor-de-ÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0099",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "animal",
+   "clase": "aguda",
+   "frase": "En «animal», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
    "dificultad": 2,
    "skills": [
     "tonica"
@@ -1097,205 +1869,55 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0060",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "económico",
-   "clase": "esdrujula",
-   "opciones": [
-    "e",
-    "co",
-    "nó",
-    "mi",
-    "co"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «económico» suena más fuerte «nó»: e-co-NÓ-mi-co. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0061",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Martín",
-   "clase": "aguda",
-   "opciones": [
-    "Mar",
-    "tín"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «Martín» suena más fuerte «tín»: Mar-TÍN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0062",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "mesa",
+   "id": "A2-0100",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pequeño",
    "clase": "llana",
+   "frase": "En «pequeño», la sílaba que suena más fuerte es «pe».",
    "opciones": [
-    "me",
-    "sa"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Falso",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «mesa» suena más fuerte «me»: ME-sa.",
+   "explicacion": "En «pequeño» suena más fuerte «que»: pe-QUE-ño.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0063",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "escorpión",
+   "id": "A2-0101",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "jugador",
    "clase": "aguda",
+   "frase": "En «jugador», la sílaba que suena más fuerte es «ju».",
    "opciones": [
-    "es",
-    "cor",
-    "pión"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 2,
+   "respuesta": "Falso",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «escorpión» suena más fuerte «pión»: es-cor-PIÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «jugador» suena más fuerte «dor»: ju-ga-DOR.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0064",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "crímenes",
-   "clase": "esdrujula",
-   "opciones": [
-    "crí",
-    "me",
-    "nes"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «crímenes» suena más fuerte «crí»: CRÍ-me-nes. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0065",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "actor",
-   "clase": "aguda",
-   "opciones": [
-    "ac",
-    "tor"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «actor» suena más fuerte «tor»: ac-TOR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0066",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "práctica",
-   "clase": "esdrujula",
-   "opciones": [
-    "prác",
-    "ti",
-    "ca"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «práctica» suena más fuerte «prác»: PRÁC-ti-ca. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0067",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cadáver",
-   "clase": "llana",
-   "opciones": [
-    "ca",
-    "dá",
-    "ver"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «cadáver» suena más fuerte «dá»: ca-DÁ-ver. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0068",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "hospital",
-   "clase": "aguda",
-   "opciones": [
-    "hos",
-    "pi",
-    "tal"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «hospital» suena más fuerte «tal»: hos-pi-TAL.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0069",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "empecé",
-   "clase": "aguda",
-   "opciones": [
-    "em",
-    "pe",
-    "cé"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «empecé» suena más fuerte «cé»: em-pe-CÉ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0070",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "id": "A2-0102",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
    "palabra": "silla",
    "clase": "llana",
+   "frase": "En «silla», la sílaba que suena más fuerte es «si».",
    "opciones": [
-    "si",
-    "lla"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Verdadero",
    "dificultad": 2,
    "skills": [
     "tonica"
@@ -1304,196 +1926,513 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0071",
+   "id": "A2-0103",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ventana",
-   "clase": "llana",
-   "opciones": [
-    "ven",
-    "ta",
-    "na"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «ventana» suena más fuerte «ta»: ven-TA-na.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0072",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Joaquín",
-   "clase": "aguda",
-   "opciones": [
-    "Jo",
-    "a",
-    "quín"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «Joaquín» suena más fuerte «quín»: Jo-a-QUÍN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0073",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "bailar",
-   "clase": "aguda",
-   "opciones": [
-    "bai",
-    "lar"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «bailar» suena más fuerte «lar»: bai-LAR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0074",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "océano",
+   "palabra": "centímetro",
    "clase": "esdrujula",
    "opciones": [
-    "o",
-    "cé",
-    "a",
-    "no"
+    "cen",
+    "tí",
+    "me",
+    "tro"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «océano» suena más fuerte «cé»: o-CÉ-a-no. ¡La tilde te da la pista!",
+   "explicacion": "En «centímetro» suena más fuerte «tí»: cen-TÍ-me-tro. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0075",
+   "id": "A2-0104",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "japonés",
+   "clase": "aguda",
+   "frase": "En «japonés», la sílaba que suena más fuerte es «ja».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «japonés» suena más fuerte «nés»: ja-po-NÉS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0105",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cansado",
-   "clase": "llana",
+   "palabra": "control",
+   "clase": "aguda",
    "opciones": [
-    "can",
-    "sa",
-    "do"
+    "con",
+    "trol"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «cansado» suena más fuerte «sa»: can-SA-do.",
+   "explicacion": "En «control» suena más fuerte «trol»: con-TROL.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0076",
+   "id": "A2-0106",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cerdo",
+   "palabra": "inglés",
+   "clase": "aguda",
+   "opciones": [
+    "in",
+    "glés"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «inglés» suena más fuerte «glés»: in-GLÉS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0107",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "botones",
    "clase": "llana",
    "opciones": [
-    "cer",
-    "do"
+    "to",
+    "nes",
+    "bo"
+   ],
+   "respuesta": "botones",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «botones»: bo-to-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0108",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "polígono",
+   "clase": "esdrujula",
+   "frase": "En «polígono», la sílaba que suena más fuerte es «lí».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «polígono» suena más fuerte «lí»: po-LÍ-go-no.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0109",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "almacén",
+   "clase": "aguda",
+   "frase": "En «almacén», la sílaba que suena más fuerte es «cén».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «almacén» suena más fuerte «cén»: al-ma-CÉN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0110",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "escuela",
+   "clase": "llana",
+   "opciones": [
+    "es",
+    "cue",
+    "la"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «escuela» suena más fuerte «cue»: es-CUE-la.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0111",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "bondad",
+   "clase": "aguda",
+   "opciones": [
+    "bon",
+    "dad"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «bondad» suena más fuerte «dad»: bon-DAD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0112",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "botella",
+   "clase": "llana",
+   "opciones": [
+    "bo",
+    "te",
+    "lla"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «botella» suena más fuerte «te»: bo-TE-lla.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0113",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "ciempiés",
+   "clase": "aguda",
+   "opciones": [
+    "ciem",
+    "piés"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ciempiés» suena más fuerte «piés»: ciem-PIÉS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0114",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "inglés",
+   "clase": "aguda",
+   "frase": "En «inglés», la sílaba que suena más fuerte es «in».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «inglés» suena más fuerte «glés»: in-GLÉS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0115",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "bocadillo",
+   "clase": "llana",
+   "opciones": [
+    "llo",
+    "ca",
+    "di",
+    "bo"
+   ],
+   "respuesta": "bocadillo",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «bocadillo»: bo-ca-di-llo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0116",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "económico",
+   "clase": "esdrujula",
+   "frase": "En «económico», la sílaba que suena más fuerte es «e».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «económico» suena más fuerte «nó»: e-co-NÓ-mi-co.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0117",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "porción",
+   "clase": "aguda",
+   "opciones": [
+    "por",
+    "ción"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «porción» suena más fuerte «ción»: por-CIÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0118",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "profesor",
+   "clase": "aguda",
+   "frase": "En «profesor», la sílaba que suena más fuerte es «pro».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «profesor» suena más fuerte «sor»: pro-fe-SOR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0119",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "burro",
+   "clase": "llana",
+   "opciones": [
+    "bu",
+    "rro"
    ],
    "respuesta": 0,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «cerdo» suena más fuerte «cer»: CER-do.",
+   "explicacion": "En «burro» suena más fuerte «bu»: BU-rro.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0077",
+   "id": "A2-0120",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "néctar",
-   "clase": "llana",
+   "palabra": "pintar",
+   "clase": "aguda",
    "opciones": [
-    "néc",
+    "pin",
     "tar"
    ],
-   "respuesta": 0,
+   "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «néctar» suena más fuerte «néc»: NÉC-tar. ¡La tilde te da la pista!",
+   "explicacion": "En «pintar» suena más fuerte «tar»: pin-TAR.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0078",
+   "id": "A2-0121",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "altavoz",
+   "clase": "aguda",
+   "opciones": [
+    "ta",
+    "al",
+    "voz"
+   ],
+   "respuesta": "altavoz",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «altavoz»: al-ta-voz.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0122",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ágil",
+   "clase": "llana",
+   "frase": "En «ágil», la sílaba que suena más fuerte es «á».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ágil» suena más fuerte «á»: Á-gil.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0123",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "círculo",
+   "clase": "esdrujula",
+   "opciones": [
+    "cu",
+    "cír",
+    "lo"
+   ],
+   "respuesta": "círculo",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «círculo»: cír-cu-lo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0124",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "diciembre",
-   "clase": "llana",
+   "palabra": "motor",
+   "clase": "aguda",
    "opciones": [
-    "di",
-    "ciem",
-    "bre"
+    "mo",
+    "tor"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «diciembre» suena más fuerte «ciem»: di-CIEM-bre.",
+   "explicacion": "En «motor» suena más fuerte «tor»: mo-TOR.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0079",
+   "id": "A2-0125",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "matemáticas",
-   "clase": "esdrujula",
+   "palabra": "patata",
+   "clase": "llana",
    "opciones": [
+    "pa",
+    "ta",
+    "ta"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «patata» suena más fuerte «ta»: pa-TA-ta.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0126",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Moisés",
+   "clase": "aguda",
+   "opciones": [
+    "Moi",
+    "sés"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Moisés» suena más fuerte «sés»: Moi-SÉS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0127",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "almacén",
+   "clase": "aguda",
+   "opciones": [
+    "al",
     "ma",
-    "te",
-    "má",
-    "ti",
-    "cas"
+    "cén"
    ],
    "respuesta": 2,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «matemáticas» suena más fuerte «má»: ma-te-MÁ-ti-cas. ¡La tilde te da la pista!",
+   "explicacion": "En «almacén» suena más fuerte «cén»: al-ma-CÉN. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0080",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "césped",
+   "id": "A2-0128",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "galleta",
    "clase": "llana",
+   "frase": "En «galleta», la sílaba que suena más fuerte es «ga».",
    "opciones": [
-    "cés",
-    "ped"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Falso",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «césped» suena más fuerte «cés»: CÉS-ped. ¡La tilde te da la pista!",
+   "explicacion": "En «galleta» suena más fuerte «lle»: ga-LLE-ta.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0081",
+   "id": "A2-0129",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "libertad",
+   "clase": "aguda",
+   "opciones": [
+    "li",
+    "ber",
+    "tad"
+   ],
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «libertad» suena más fuerte «tad»: li-ber-TAD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0130",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "acordeón",
@@ -1513,588 +2452,109 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0082",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "humedad",
-   "clase": "aguda",
-   "opciones": [
-    "hu",
-    "me",
-    "dad"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «humedad» suena más fuerte «dad»: hu-me-DAD.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0083",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "porción",
-   "clase": "aguda",
-   "opciones": [
-    "por",
-    "ción"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «porción» suena más fuerte «ción»: por-CIÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0084",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "carácter",
+   "id": "A2-0131",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "tormenta",
    "clase": "llana",
    "opciones": [
-    "ca",
-    "rác",
-    "ter"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «carácter» suena más fuerte «rác»: ca-RÁC-ter. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0085",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "noviembre",
-   "clase": "llana",
-   "opciones": [
-    "no",
-    "viem",
-    "bre"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «noviembre» suena más fuerte «viem»: no-VIEM-bre.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0086",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "pulpo",
-   "clase": "llana",
-   "opciones": [
-    "pul",
-    "po"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «pulpo» suena más fuerte «pul»: PUL-po.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0087",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "quizás",
-   "clase": "aguda",
-   "opciones": [
-    "qui",
-    "zás"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «quizás» suena más fuerte «zás»: qui-ZÁS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0088",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "química",
-   "clase": "esdrujula",
-   "opciones": [
-    "quí",
-    "mi",
-    "ca"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «química» suena más fuerte «quí»: QUÍ-mi-ca. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0089",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "presión",
-   "clase": "aguda",
-   "opciones": [
-    "pre",
-    "sión"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «presión» suena más fuerte «sión»: pre-SIÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0090",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "alumno",
-   "clase": "llana",
-   "opciones": [
-    "a",
-    "lum",
-    "no"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «alumno» suena más fuerte «lum»: a-LUM-no.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0091",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "color",
-   "clase": "aguda",
-   "opciones": [
-    "co",
-    "lor"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «color» suena más fuerte «lor»: co-LOR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0092",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "sombrero",
-   "clase": "llana",
-   "opciones": [
-    "som",
-    "bre",
-    "ro"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «sombrero» suena más fuerte «bre»: som-BRE-ro.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0093",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "maldad",
-   "clase": "aguda",
-   "opciones": [
-    "mal",
-    "dad"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «maldad» suena más fuerte «dad»: mal-DAD.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0094",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "goma",
-   "clase": "llana",
-   "opciones": [
-    "go",
-    "ma"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «goma» suena más fuerte «go»: GO-ma.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0095",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "plato",
-   "clase": "llana",
-   "opciones": [
-    "pla",
-    "to"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «plato» suena más fuerte «pla»: PLA-to.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0096",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lunes",
-   "clase": "llana",
-   "opciones": [
-    "lu",
-    "nes"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «lunes» suena más fuerte «lu»: LU-nes.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0097",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "colibrí",
-   "clase": "aguda",
-   "opciones": [
-    "co",
-    "li",
-    "brí"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «colibrí» suena más fuerte «brí»: co-li-BRÍ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0098",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "español",
-   "clase": "aguda",
-   "opciones": [
-    "es",
-    "pa",
-    "ñol"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «español» suena más fuerte «ñol»: es-pa-ÑOL.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0099",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cabra",
-   "clase": "llana",
-   "opciones": [
-    "ca",
-    "bra"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «cabra» suena más fuerte «ca»: CA-bra.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0100",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "átona",
-   "clase": "esdrujula",
-   "opciones": [
-    "á",
-    "to",
-    "na"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «átona» suena más fuerte «á»: Á-to-na. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0101",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "profesor",
-   "clase": "aguda",
-   "opciones": [
-    "pro",
-    "fe",
-    "sor"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «profesor» suena más fuerte «sor»: pro-fe-SOR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0102",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "pincel",
-   "clase": "aguda",
-   "opciones": [
-    "pin",
-    "cel"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «pincel» suena más fuerte «cel»: pin-CEL.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0103",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Rodríguez",
-   "clase": "llana",
-   "opciones": [
-    "Ro",
-    "drí",
-    "guez"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «Rodríguez» suena más fuerte «drí»: Ro-DRÍ-guez. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0104",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "patata",
-   "clase": "llana",
-   "opciones": [
-    "pa",
+    "men",
     "ta",
-    "ta"
+    "tor"
    ],
-   "respuesta": 1,
+   "respuesta": "tormenta",
    "dificultad": 2,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «patata» suena más fuerte «ta»: pa-TA-ta.",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «tormenta»: tor-men-ta.",
+   "regla_id": "silabas"
   },
   {
-   "id": "A2-0105",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "jirafa",
+   "id": "A2-0132",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sopa",
    "clase": "llana",
+   "frase": "En «sopa», la sílaba que suena más fuerte es «so».",
    "opciones": [
-    "ji",
-    "ra",
-    "fa"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Verdadero",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «jirafa» suena más fuerte «ra»: ji-RA-fa.",
+   "explicacion": "En «sopa» suena más fuerte «so»: SO-pa.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0106",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lobo",
-   "clase": "llana",
-   "opciones": [
-    "lo",
-    "bo"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «lobo» suena más fuerte «lo»: LO-bo.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0107",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "bonito",
-   "clase": "llana",
-   "opciones": [
-    "bo",
-    "ni",
-    "to"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «bonito» suena más fuerte «ni»: bo-NI-to.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0108",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "marzo",
-   "clase": "llana",
-   "opciones": [
-    "mar",
-    "zo"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «marzo» suena más fuerte «mar»: MAR-zo.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0109",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "regla",
-   "clase": "llana",
-   "opciones": [
-    "re",
-    "gla"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «regla» suena más fuerte «re»: RE-gla.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0110",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Rubén",
+   "id": "A2-0133",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "pelotón",
    "clase": "aguda",
    "opciones": [
-    "Ru",
-    "bén"
+    "tón",
+    "pe",
+    "lo"
    ],
-   "respuesta": 1,
+   "respuesta": "pelotón",
    "dificultad": 2,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «Rubén» suena más fuerte «bén»: Ru-BÉN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «pelotón»: pe-lo-tón.",
+   "regla_id": "silabas"
   },
   {
-   "id": "A2-0111",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "nadador",
-   "clase": "aguda",
-   "opciones": [
-    "na",
-    "da",
-    "dor"
-   ],
-   "respuesta": 2,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «nadador» suena más fuerte «dor»: na-da-DOR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0112",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "agosto",
+   "id": "A2-0134",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cuchara",
    "clase": "llana",
+   "frase": "En «cuchara», la sílaba que suena más fuerte es «cha».",
    "opciones": [
-    "a",
-    "gos",
-    "to"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Verdadero",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «agosto» suena más fuerte «gos»: a-GOS-to.",
+   "explicacion": "En «cuchara» suena más fuerte «cha»: cu-CHA-ra.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0113",
+   "id": "A2-0135",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tendrá",
+   "clase": "aguda",
+   "frase": "En «tendrá», la sílaba que suena más fuerte es «ten».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tendrá» suena más fuerte «drá»: ten-DRÁ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0136",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "márgenes",
+   "palabra": "jóvenes",
    "clase": "esdrujula",
    "opciones": [
-    "már",
-    "ge",
+    "jó",
+    "ve",
     "nes"
    ],
    "respuesta": 0,
@@ -2102,11 +2562,11 @@
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «márgenes» suena más fuerte «már»: MÁR-ge-nes. ¡La tilde te da la pista!",
+   "explicacion": "En «jóvenes» suena más fuerte «jó»: JÓ-ve-nes. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0114",
+   "id": "A2-0137",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "avestruz",
@@ -2125,145 +2585,149 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0115",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "tejado",
-   "clase": "llana",
+   "id": "A2-0138",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "amor",
+   "clase": "aguda",
+   "frase": "En «amor», la sílaba que suena más fuerte es «mor».",
    "opciones": [
-    "te",
-    "ja",
-    "do"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Verdadero",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «tejado» suena más fuerte «ja»: te-JA-do.",
+   "explicacion": "En «amor» suena más fuerte «mor»: a-MOR.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0116",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "verano",
+   "id": "A2-0139",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "lento",
    "clase": "llana",
+   "frase": "En «lento», la sílaba que suena más fuerte es «to».",
    "opciones": [
-    "ve",
-    "ra",
-    "no"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Falso",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «verano» suena más fuerte «ra»: ve-RA-no.",
+   "explicacion": "En «lento» suena más fuerte «len»: LEN-to.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0117",
+   "id": "A2-0140",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "nadar",
+   "palabra": "ciudad",
    "clase": "aguda",
    "opciones": [
-    "na",
-    "dar"
+    "ciu",
+    "dad"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «nadar» suena más fuerte «dar»: na-DAR.",
+   "explicacion": "En «ciudad» suena más fuerte «dad»: ciu-DAD.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0118",
+   "id": "A2-0141",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "frágil",
+   "palabra": "serpiente",
    "clase": "llana",
    "opciones": [
-    "frá",
-    "gil"
-   ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «frágil» suena más fuerte «frá»: FRÁ-gil. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0119",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "Tomás",
-   "clase": "aguda",
-   "opciones": [
-    "To",
-    "más"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «Tomás» suena más fuerte «más»: To-MÁS. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0120",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "fuerte",
-   "clase": "llana",
-   "opciones": [
-    "fuer",
+    "ser",
+    "pien",
     "te"
    ],
-   "respuesta": 0,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «fuerte» suena más fuerte «fuer»: FUER-te.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0121",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "reloj",
-   "clase": "aguda",
-   "opciones": [
-    "re",
-    "loj"
-   ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «reloj» suena más fuerte «loj»: re-LOJ.",
+   "explicacion": "En «serpiente» suena más fuerte «pien»: ser-PIEN-te.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0122",
+   "id": "A2-0142",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "volar",
+   "clase": "aguda",
+   "frase": "En «volar», la sílaba que suena más fuerte es «vo».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «volar» suena más fuerte «lar»: vo-LAR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0143",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ballena",
+   "palabra": "ventana",
    "clase": "llana",
    "opciones": [
-    "ba",
-    "lle",
+    "ven",
+    "ta",
     "na"
    ],
    "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ventana» suena más fuerte «ta»: ven-TA-na.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0144",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "martes",
+   "clase": "llana",
+   "frase": "En «martes», la sílaba que suena más fuerte es «tes».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «martes» suena más fuerte «mar»: MAR-tes.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0145",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ballena",
+   "clase": "llana",
+   "frase": "En «ballena», la sílaba que suena más fuerte es «lle».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
    "dificultad": 2,
    "skills": [
     "tonica"
@@ -2272,157 +2736,572 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0123",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "patio",
+   "id": "A2-0146",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "fémur",
    "clase": "llana",
+   "frase": "En «fémur», la sílaba que suena más fuerte es «fé».",
    "opciones": [
-    "pa",
-    "tio"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Verdadero",
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «patio» suena más fuerte «pa»: PA-tio.",
+   "explicacion": "En «fémur» suena más fuerte «fé»: FÉ-mur.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0124",
+   "id": "A2-0147",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "pizarra",
-   "clase": "llana",
-   "opciones": [
-    "pi",
-    "za",
-    "rra"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «pizarra» suena más fuerte «za»: pi-ZA-rra.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0125",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "saltar",
+   "palabra": "podrá",
    "clase": "aguda",
    "opciones": [
-    "sal",
-    "tar"
+    "po",
+    "drá"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «saltar» suena más fuerte «tar»: sal-TAR.",
+   "explicacion": "En «podrá» suena más fuerte «drá»: po-DRÁ. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0126",
+   "id": "A2-0148",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "pupitre",
-   "clase": "llana",
-   "opciones": [
-    "pu",
-    "pi",
-    "tre"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «pupitre» suena más fuerte «pi»: pu-PI-tre.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0127",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "abuela",
-   "clase": "llana",
-   "opciones": [
-    "a",
-    "bue",
-    "la"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «abuela» suena más fuerte «bue»: a-BUE-la.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0128",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "oveja",
-   "clase": "llana",
-   "opciones": [
-    "o",
-    "ve",
-    "ja"
-   ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «oveja» suena más fuerte «ve»: o-VE-ja.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0129",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "exótico",
+   "palabra": "murciélago",
    "clase": "esdrujula",
    "opciones": [
-    "e",
-    "xó",
-    "ti",
-    "co"
+    "mur",
+    "cié",
+    "la",
+    "go"
    ],
    "respuesta": 1,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «exótico» suena más fuerte «xó»: e-XÓ-ti-co. ¡La tilde te da la pista!",
+   "explicacion": "En «murciélago» suena más fuerte «cié»: mur-CIÉ-la-go. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0130",
+   "id": "A2-0149",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "círculo",
+   "clase": "esdrujula",
+   "frase": "En «círculo», la sílaba que suena más fuerte es «cír».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «círculo» suena más fuerte «cír»: CÍR-cu-lo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0150",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ágil",
+   "palabra": "nevera",
    "clase": "llana",
    "opciones": [
-    "á",
-    "gil"
+    "ne",
+    "ve",
+    "ra"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «nevera» suena más fuerte «ve»: ne-VE-ra.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0151",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "soñar",
+   "clase": "aguda",
+   "frase": "En «soñar», la sílaba que suena más fuerte es «so».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «soñar» suena más fuerte «ñar»: so-ÑAR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0152",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "casa",
+   "clase": "llana",
+   "opciones": [
+    "ca",
+    "sa"
    ],
    "respuesta": 0,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «ágil» suena más fuerte «á»: Á-gil. ¡La tilde te da la pista!",
+   "explicacion": "En «casa» suena más fuerte «ca»: CA-sa.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0131",
+   "id": "A2-0153",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cóndor",
+   "clase": "llana",
+   "frase": "En «cóndor», la sílaba que suena más fuerte es «cón».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cóndor» suena más fuerte «cón»: CÓN-dor.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0154",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cadáver",
+   "clase": "llana",
+   "frase": "En «cadáver», la sílaba que suena más fuerte es «ca».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cadáver» suena más fuerte «dá»: ca-DÁ-ver.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0155",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "enero",
+   "clase": "llana",
+   "opciones": [
+    "e",
+    "ne",
+    "ro"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «enero» suena más fuerte «ne»: e-NE-ro.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0156",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "pacífico",
+   "clase": "esdrujula",
+   "opciones": [
+    "cí",
+    "pa",
+    "co",
+    "fi"
+   ],
+   "respuesta": "pacífico",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «pacífico»: pa-cí-fi-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0157",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "fértil",
+   "clase": "llana",
+   "frase": "En «fértil», la sílaba que suena más fuerte es «til».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «fértil» suena más fuerte «fér»: FÉR-til.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0158",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "África",
+   "clase": "esdrujula",
+   "frase": "En «África», la sílaba que suena más fuerte es «fri».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «África» suena más fuerte «Á»: Á-fri-ca.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0159",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "cráter",
+   "clase": "llana",
+   "opciones": [
+    "crá",
+    "ter"
+   ],
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cráter» suena más fuerte «crá»: CRÁ-ter. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0160",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "mansión",
+   "clase": "aguda",
+   "opciones": [
+    "man",
+    "sión"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «mansión» suena más fuerte «sión»: man-SIÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0161",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "francés",
+   "clase": "aguda",
+   "opciones": [
+    "fran",
+    "cés"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «francés» suena más fuerte «cés»: fran-CÉS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0162",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cerdo",
+   "clase": "llana",
+   "frase": "En «cerdo», la sílaba que suena más fuerte es «cer».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cerdo» suena más fuerte «cer»: CER-do.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0163",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "diciembre",
+   "clase": "llana",
+   "frase": "En «diciembre», la sílaba que suena más fuerte es «di».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «diciembre» suena más fuerte «ciem»: di-CIEM-bre.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0164",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "cereza",
+   "clase": "llana",
+   "opciones": [
+    "re",
+    "ce",
+    "za"
+   ],
+   "respuesta": "cereza",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «cereza»: ce-re-za.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0165",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "lámina",
+   "clase": "esdrujula",
+   "opciones": [
+    "lá",
+    "mi",
+    "na"
+   ],
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «lámina» suena más fuerte «lá»: LÁ-mi-na. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0166",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "chocolate",
+   "clase": "llana",
+   "opciones": [
+    "cho",
+    "la",
+    "co",
+    "te"
+   ],
+   "respuesta": "chocolate",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «chocolate»: cho-co-la-te.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0167",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "lugar",
+   "clase": "aguda",
+   "opciones": [
+    "lu",
+    "gar"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «lugar» suena más fuerte «gar»: lu-GAR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0168",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "cicatriz",
+   "clase": "aguda",
+   "opciones": [
+    "ci",
+    "triz",
+    "ca"
+   ],
+   "respuesta": "cicatriz",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «cicatriz»: ci-ca-triz.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0169",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "pasta",
+   "clase": "llana",
+   "opciones": [
+    "pas",
+    "ta"
+   ],
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pasta» suena más fuerte «pas»: PAS-ta.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0170",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "cóndor",
+   "clase": "llana",
+   "opciones": [
+    "cón",
+    "dor"
+   ],
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cóndor» suena más fuerte «cón»: CÓN-dor. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0171",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "pelota",
+   "clase": "llana",
+   "opciones": [
+    "pe",
+    "lo",
+    "ta"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pelota» suena más fuerte «lo»: pe-LO-ta.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0172",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "tenedor",
+   "clase": "aguda",
+   "opciones": [
+    "te",
+    "ne",
+    "dor"
+   ],
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tenedor» suena más fuerte «dor»: te-ne-DOR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0173",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "pelotón",
+   "clase": "aguda",
+   "opciones": [
+    "pe",
+    "lo",
+    "tón"
+   ],
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pelotón» suena más fuerte «tón»: pe-lo-TÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0174",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "escorpión",
+   "clase": "aguda",
+   "opciones": [
+    "es",
+    "cor",
+    "pión"
+   ],
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «escorpión» suena más fuerte «pión»: es-cor-PIÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0175",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "chocolate",
+   "clase": "llana",
+   "frase": "En «chocolate», la sílaba que suena más fuerte es «cho».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «chocolate» suena más fuerte «la»: cho-co-LA-te.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0176",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "antifaz",
@@ -2441,223 +3320,1139 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0132",
+   "id": "A2-0177",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "vaso",
+   "clase": "llana",
+   "frase": "En «vaso», la sílaba que suena más fuerte es «va».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «vaso» suena más fuerte «va»: VA-so.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0178",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "alcohol",
+   "palabra": "contento",
+   "clase": "llana",
+   "opciones": [
+    "con",
+    "ten",
+    "to"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «contento» suena más fuerte «ten»: con-TEN-to.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0179",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Jesús",
    "clase": "aguda",
    "opciones": [
-    "al",
-    "co",
-    "hol"
+    "Je",
+    "sús"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Jesús» suena más fuerte «sús»: Je-SÚS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0180",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "ganador",
+   "clase": "aguda",
+   "opciones": [
+    "ga",
+    "na",
+    "dor"
    ],
    "respuesta": 2,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «alcohol» suena más fuerte «hol»: al-co-HOL.",
+   "explicacion": "En «ganador» suena más fuerte «dor»: ga-na-DOR.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0133",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "pescado",
+   "id": "A2-0181",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "julio",
+   "clase": "llana",
+   "frase": "En «julio», la sílaba que suena más fuerte es «ju».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «julio» suena más fuerte «ju»: JU-lio.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0182",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cráter",
+   "clase": "llana",
+   "frase": "En «cráter», la sílaba que suena más fuerte es «crá».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cráter» suena más fuerte «crá»: CRÁ-ter.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0183",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "aviones",
    "clase": "llana",
    "opciones": [
-    "pes",
+    "nes",
+    "a",
+    "vio"
+   ],
+   "respuesta": "aviones",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «aviones»: a-vio-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0184",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "débil",
+   "clase": "llana",
+   "frase": "En «débil», la sílaba que suena más fuerte es «bil».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «débil» suena más fuerte «dé»: DÉ-bil.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0185",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tarta",
+   "clase": "llana",
+   "frase": "En «tarta», la sílaba que suena más fuerte es «ta».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tarta» suena más fuerte «tar»: TAR-ta.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0186",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "jóvenes",
+   "clase": "esdrujula",
+   "frase": "En «jóvenes», la sílaba que suena más fuerte es «ve».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «jóvenes» suena más fuerte «jó»: JÓ-ve-nes.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0187",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "relojes",
+   "clase": "llana",
+   "opciones": [
+    "lo",
+    "jes",
+    "re"
+   ],
+   "respuesta": "relojes",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «relojes»: re-lo-jes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0188",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "nítido",
+   "clase": "esdrujula",
+   "frase": "En «nítido», la sílaba que suena más fuerte es «ní».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «nítido» suena más fuerte «ní»: NÍ-ti-do.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0189",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pensión",
+   "clase": "aguda",
+   "frase": "En «pensión», la sílaba que suena más fuerte es «pen».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pensión» suena más fuerte «sión»: pen-SIÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0190",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cabra",
+   "clase": "llana",
+   "frase": "En «cabra», la sílaba que suena más fuerte es «ca».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cabra» suena más fuerte «ca»: CA-bra.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0191",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "caramelo",
+   "clase": "llana",
+   "opciones": [
     "ca",
+    "ra",
+    "me",
+    "lo"
+   ],
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «caramelo» suena más fuerte «me»: ca-ra-ME-lo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0192",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "cuchara",
+   "clase": "llana",
+   "opciones": [
+    "cu",
+    "cha",
+    "ra"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cuchara» suena más fuerte «cha»: cu-CHA-ra.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0193",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "Fernández",
+   "clase": "llana",
+   "frase": "En «Fernández», la sílaba que suena más fuerte es «nán».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Fernández» suena más fuerte «nán»: Fer-NÁN-dez.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0194",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "elefante",
+   "clase": "llana",
+   "opciones": [
+    "e",
+    "fan",
+    "le",
+    "te"
+   ],
+   "respuesta": "elefante",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «elefante»: e-le-fan-te.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0195",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Martín",
+   "clase": "aguda",
+   "opciones": [
+    "Mar",
+    "tín"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Martín» suena más fuerte «tín»: Mar-TÍN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0196",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "carne",
+   "clase": "llana",
+   "opciones": [
+    "car",
+    "ne"
+   ],
+   "respuesta": 0,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «carne» suena más fuerte «car»: CAR-ne.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0197",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "junio",
+   "clase": "llana",
+   "frase": "En «junio», la sílaba que suena más fuerte es «ju».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «junio» suena más fuerte «ju»: JU-nio.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0198",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "jugador",
+   "clase": "aguda",
+   "opciones": [
+    "ju",
+    "ga",
+    "dor"
+   ],
+   "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «jugador» suena más fuerte «dor»: ju-ga-DOR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0199",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "época",
+   "clase": "esdrujula",
+   "frase": "En «época», la sílaba que suena más fuerte es «po».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «época» suena más fuerte «é»: É-po-ca.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0200",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "porción",
+   "clase": "aguda",
+   "frase": "En «porción», la sílaba que suena más fuerte es «por».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «porción» suena más fuerte «ción»: por-CIÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0201",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "pizarra",
+   "clase": "llana",
+   "opciones": [
+    "pi",
+    "za",
+    "rra"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pizarra» suena más fuerte «za»: pi-ZA-rra.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0202",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "bonito",
+   "clase": "llana",
+   "frase": "En «bonito», la sílaba que suena más fuerte es «ni».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «bonito» suena más fuerte «ni»: bo-NI-to.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0203",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "recreo",
+   "clase": "llana",
+   "frase": "En «recreo», la sílaba que suena más fuerte es «re».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «recreo» suena más fuerte «cre»: re-CRE-o.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0204",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Tomás",
+   "clase": "aguda",
+   "opciones": [
+    "To",
+    "más"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Tomás» suena más fuerte «más»: To-MÁS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0205",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ojalá",
+   "clase": "aguda",
+   "frase": "En «ojalá», la sílaba que suena más fuerte es «lá».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ojalá» suena más fuerte «lá»: o-ja-LÁ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0206",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "caracol",
+   "clase": "aguda",
+   "frase": "En «caracol», la sílaba que suena más fuerte es «col».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «caracol» suena más fuerte «col»: ca-ra-COL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0207",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "nadar",
+   "clase": "aguda",
+   "opciones": [
+    "na",
+    "dar"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «nadar» suena más fuerte «dar»: na-DAR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0208",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "gélido",
+   "clase": "esdrujula",
+   "opciones": [
+    "gé",
+    "li",
     "do"
    ],
-   "respuesta": 1,
-   "dificultad": 2,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «pescado» suena más fuerte «ca»: pes-CA-do.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0134",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "níquel",
-   "clase": "llana",
-   "opciones": [
-    "ní",
-    "quel"
-   ],
    "respuesta": 0,
    "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «níquel» suena más fuerte «ní»: NÍ-quel. ¡La tilde te da la pista!",
+   "explicacion": "En «gélido» suena más fuerte «gé»: GÉ-li-do. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0135",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lapicero",
-   "clase": "llana",
+   "id": "A2-0209",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "teléfono",
+   "clase": "esdrujula",
    "opciones": [
-    "la",
-    "pi",
-    "ce",
-    "ro"
+    "no",
+    "fo",
+    "lé",
+    "te"
    ],
-   "respuesta": 2,
-   "dificultad": 3,
+   "respuesta": "teléfono",
+   "dificultad": 2,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «lapicero» suena más fuerte «ce»: la-pi-CE-ro.",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «teléfono»: te-lé-fo-no.",
+   "regla_id": "silabas"
   },
   {
-   "id": "A2-0136",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "margen",
-   "clase": "llana",
-   "opciones": [
-    "mar",
-    "gen"
-   ],
-   "respuesta": 0,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «margen» suena más fuerte «mar»: MAR-gen.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0137",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "atención",
+   "id": "A2-0210",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "Agustín",
    "clase": "aguda",
+   "frase": "En «Agustín», la sílaba que suena más fuerte es «tín».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Agustín» suena más fuerte «tín»: A-gus-TÍN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0211",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "abuela",
+   "clase": "llana",
    "opciones": [
     "a",
-    "ten",
-    "ción"
+    "bue",
+    "la"
    ],
-   "respuesta": 2,
-   "dificultad": 3,
+   "respuesta": 1,
+   "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «atención» suena más fuerte «ción»: a-ten-CIÓN. ¡La tilde te da la pista!",
+   "explicacion": "En «abuela» suena más fuerte «bue»: a-BUE-la.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0138",
+   "id": "A2-0212",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "dieciséis",
+   "palabra": "Adrián",
    "clase": "aguda",
    "opciones": [
-    "die",
-    "ci",
-    "séis"
+    "A",
+    "drián"
    ],
-   "respuesta": 2,
-   "dificultad": 3,
+   "respuesta": 1,
+   "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «dieciséis» suena más fuerte «séis»: die-ci-SÉIS. ¡La tilde te da la pista!",
+   "explicacion": "En «Adrián» suena más fuerte «drián»: A-DRIÁN. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0139",
+   "id": "A2-0213",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "póster",
-   "clase": "llana",
+   "palabra": "África",
+   "clase": "esdrujula",
    "opciones": [
-    "pós",
-    "ter"
+    "Á",
+    "fri",
+    "ca"
    ],
    "respuesta": 0,
-   "dificultad": 3,
+   "dificultad": 2,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «póster» suena más fuerte «pós»: PÓS-ter. ¡La tilde te da la pista!",
+   "explicacion": "En «África» suena más fuerte «Á»: Á-fri-ca. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0140",
+   "id": "A2-0214",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "sentir",
+   "palabra": "animal",
    "clase": "aguda",
-   "opciones": [
-    "sen",
-    "tir"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «sentir» suena más fuerte «tir»: sen-TIR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0141",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "papeles",
-   "clase": "llana",
-   "opciones": [
-    "pa",
-    "pe",
-    "les"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «papeles» suena más fuerte «pe»: pa-PE-les.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0142",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "tabú",
-   "clase": "aguda",
-   "opciones": [
-    "ta",
-    "bú"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «tabú» suena más fuerte «bú»: ta-BÚ. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0143",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "animales",
-   "clase": "llana",
    "opciones": [
     "a",
     "ni",
-    "ma",
-    "les"
+    "mal"
    ],
    "respuesta": 2,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «animal» suena más fuerte «mal»: a-ni-MAL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0215",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "márgenes",
+   "clase": "esdrujula",
+   "opciones": [
+    "nes",
+    "ge",
+    "már"
+   ],
+   "respuesta": "márgenes",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «márgenes»: már-ge-nes.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0216",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "ciudades",
+   "clase": "llana",
+   "opciones": [
+    "des",
+    "ciu",
+    "da"
+   ],
+   "respuesta": "ciudades",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «ciudades»: ciu-da-des.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0217",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "pastel",
+   "clase": "aguda",
+   "frase": "En «pastel», la sílaba que suena más fuerte es «tel».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «pastel» suena más fuerte «tel»: pas-TEL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0218",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "volumen",
+   "clase": "llana",
+   "opciones": [
+    "men",
+    "lu",
+    "vo"
+   ],
+   "respuesta": "volumen",
+   "dificultad": 2,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «volumen»: vo-lu-men.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0219",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "queso",
+   "clase": "llana",
+   "frase": "En «queso», la sílaba que suena más fuerte es «que».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «queso» suena más fuerte «que»: QUE-so.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0220",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Simón",
+   "clase": "aguda",
+   "opciones": [
+    "Si",
+    "món"
+   ],
+   "respuesta": 1,
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Simón» suena más fuerte «món»: Si-MÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0221",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "abril",
+   "clase": "aguda",
+   "frase": "En «abril», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 2,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «abril» suena más fuerte «bril»: a-BRIL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0222",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "actitud",
+   "clase": "aguda",
+   "opciones": [
+    "ac",
+    "ti",
+    "tud"
+   ],
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «actitud» suena más fuerte «tud»: ac-ti-TUD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0223",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "volcánico",
+   "clase": "esdrujula",
+   "opciones": [
+    "cá",
+    "ni",
+    "vol",
+    "co"
+   ],
+   "respuesta": "volcánico",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «volcánico»: vol-cá-ni-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0224",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "ejército",
+   "clase": "esdrujula",
+   "frase": "En «ejército», la sílaba que suena más fuerte es «jér».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ejército» suena más fuerte «jér»: e-JÉR-ci-to.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0225",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "dosis",
+   "clase": "llana",
+   "opciones": [
+    "do",
+    "sis"
+   ],
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «dosis» suena más fuerte «do»: DO-sis.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0226",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "civilización",
+   "clase": "aguda",
+   "opciones": [
+    "ci",
+    "vi",
+    "li",
+    "za",
+    "ción"
+   ],
+   "respuesta": 4,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «civilización» suena más fuerte «ción»: ci-vi-li-za-CIÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0227",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "versátil",
+   "clase": "llana",
+   "opciones": [
+    "sá",
+    "til",
+    "ver"
+   ],
+   "respuesta": "versátil",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «versátil»: ver-sá-til.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0228",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "guárdamelo",
+   "clase": "sobresdrujula",
+   "frase": "En «guárdamelo», la sílaba que suena más fuerte es «guár».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «guárdamelo» suena más fuerte «guár»: GUÁR-da-me-lo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0229",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "adiós",
+   "clase": "aguda",
+   "frase": "En «adiós», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «adiós» suena más fuerte «diós»: a-DIÓS.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0230",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "ordenador",
+   "clase": "aguda",
+   "opciones": [
+    "dor",
+    "or",
+    "na",
+    "de"
+   ],
+   "respuesta": "ordenador",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «ordenador»: or-de-na-dor.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0231",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "dieciséis",
+   "clase": "aguda",
+   "opciones": [
+    "séis",
+    "die",
+    "ci"
+   ],
+   "respuesta": "dieciséis",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «dieciséis»: die-ci-séis.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0232",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "primavera",
+   "clase": "llana",
+   "opciones": [
+    "pri",
+    "ma",
+    "ve",
+    "ra"
+   ],
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «primavera» suena más fuerte «ve»: pri-ma-VE-ra.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0233",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "Panamá",
+   "clase": "aguda",
+   "opciones": [
+    "Pa",
+    "na",
+    "má"
+   ],
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Panamá» suena más fuerte «má»: Pa-na-MÁ. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0234",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "electrónico",
+   "clase": "esdrujula",
+   "frase": "En «electrónico», la sílaba que suena más fuerte es «tró».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «electrónico» suena más fuerte «tró»: e-lec-TRÓ-ni-co.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0235",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "camaleón",
+   "clase": "aguda",
+   "opciones": [
+    "ón",
+    "ca",
+    "ma",
+    "le"
+   ],
+   "respuesta": "camaleón",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «camaleón»: ca-ma-le-ón.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0236",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "animales",
+   "clase": "llana",
+   "frase": "En «animales», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
    "dificultad": 3,
    "skills": [
     "tonica"
@@ -2666,130 +4461,35 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0144",
+   "id": "A2-0237",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ejército",
-   "clase": "esdrujula",
-   "opciones": [
-    "e",
-    "jér",
-    "ci",
-    "to"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «ejército» suena más fuerte «jér»: e-JÉR-ci-to. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0145",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "virtud",
-   "clase": "aguda",
-   "opciones": [
-    "vir",
-    "tud"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «virtud» suena más fuerte «tud»: vir-TUD.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0146",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "esdrújula",
-   "clase": "esdrujula",
-   "opciones": [
-    "es",
-    "drú",
-    "ju",
-    "la"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «esdrújula» suena más fuerte «drú»: es-DRÚ-ju-la. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0147",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "altavoz",
-   "clase": "aguda",
-   "opciones": [
-    "al",
-    "ta",
-    "voz"
-   ],
-   "respuesta": 2,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «altavoz» suena más fuerte «voz»: al-ta-VOZ.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0148",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "mariposa",
+   "palabra": "cocodrilo",
    "clase": "llana",
    "opciones": [
-    "ma",
-    "ri",
-    "po",
-    "sa"
+    "co",
+    "co",
+    "dri",
+    "lo"
    ],
    "respuesta": 2,
    "dificultad": 3,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «mariposa» suena más fuerte «po»: ma-ri-PO-sa.",
+   "explicacion": "En «cocodrilo» suena más fuerte «dri»: co-co-DRI-lo.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0149",
+   "id": "A2-0238",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "mujer",
-   "clase": "aguda",
-   "opciones": [
-    "mu",
-    "jer"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «mujer» suena más fuerte «jer»: mu-JER.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0150",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "tráemelo",
+   "palabra": "cómpratelo",
    "clase": "sobresdrujula",
    "opciones": [
-    "trá",
-    "e",
-    "me",
+    "cóm",
+    "pra",
+    "te",
     "lo"
    ],
    "respuesta": 0,
@@ -2797,240 +4497,49 @@
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «tráemelo» suena más fuerte «trá»: TRÁ-e-me-lo. ¡La tilde te da la pista!",
+   "explicacion": "En «cómpratelo» suena más fuerte «cóm»: CÓM-pra-te-lo. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0151",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "adiós",
+   "id": "A2-0239",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "París",
    "clase": "aguda",
+   "frase": "En «París», la sílaba que suena más fuerte es «rís».",
    "opciones": [
-    "a",
-    "diós"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Verdadero",
    "dificultad": 3,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «adiós» suena más fuerte «diós»: a-DIÓS. ¡La tilde te da la pista!",
+   "explicacion": "En «París» suena más fuerte «rís»: Pa-RÍS.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0152",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "espárrago",
-   "clase": "esdrujula",
-   "opciones": [
-    "es",
-    "pá",
-    "rra",
-    "go"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «espárrago» suena más fuerte «pá»: es-PÁ-rra-go. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0153",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "nivel",
-   "clase": "aguda",
-   "opciones": [
-    "ni",
-    "vel"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «nivel» suena más fuerte «vel»: ni-VEL.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0154",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "camiones",
+   "id": "A2-0240",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "volumen",
    "clase": "llana",
+   "frase": "En «volumen», la sílaba que suena más fuerte es «vo».",
    "opciones": [
-    "ca",
-    "mio",
-    "nes"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 1,
+   "respuesta": "Falso",
    "dificultad": 3,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «camiones» suena más fuerte «mio»: ca-MIO-nes.",
+   "explicacion": "En «volumen» suena más fuerte «lu»: vo-LU-men.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0155",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "cuartel",
-   "clase": "aguda",
-   "opciones": [
-    "cuar",
-    "tel"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «cuartel» suena más fuerte «tel»: cuar-TEL.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0156",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "comunicación",
-   "clase": "aguda",
-   "opciones": [
-    "co",
-    "mu",
-    "ni",
-    "ca",
-    "ción"
-   ],
-   "respuesta": 4,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «comunicación» suena más fuerte «ción»: co-mu-ni-ca-CIÓN. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0157",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "carnaval",
-   "clase": "aguda",
-   "opciones": [
-    "car",
-    "na",
-    "val"
-   ],
-   "respuesta": 2,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «carnaval» suena más fuerte «val»: car-na-VAL.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0158",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "lombriz",
-   "clase": "aguda",
-   "opciones": [
-    "lom",
-    "briz"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «lombriz» suena más fuerte «briz»: lom-BRIZ.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0159",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "otoño",
-   "clase": "llana",
-   "opciones": [
-    "o",
-    "to",
-    "ño"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «otoño» suena más fuerte «to»: o-TO-ño.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0160",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "volúmenes",
-   "clase": "esdrujula",
-   "opciones": [
-    "vo",
-    "lú",
-    "me",
-    "nes"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «volúmenes» suena más fuerte «lú»: vo-LÚ-me-nes. ¡La tilde te da la pista!",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0161",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "ordenador",
-   "clase": "aguda",
-   "opciones": [
-    "or",
-    "de",
-    "na",
-    "dor"
-   ],
-   "respuesta": 3,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «ordenador» suena más fuerte «dor»: or-de-na-DOR.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0162",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "canciones",
-   "clase": "llana",
-   "opciones": [
-    "can",
-    "cio",
-    "nes"
-   ],
-   "respuesta": 1,
-   "dificultad": 3,
-   "skills": [
-    "tonica"
-   ],
-   "explicacion": "En «canciones» suena más fuerte «cio»: can-CIO-nes.",
-   "regla_id": "silaba-tonica"
-  },
-  {
-   "id": "A2-0163",
+   "id": "A2-0241",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
    "palabra": "andaluz",
@@ -3049,72 +4558,874 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0164",
+   "id": "A2-0242",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "Japón",
+   "clase": "aguda",
+   "frase": "En «Japón», la sílaba que suena más fuerte es «Ja».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Japón» suena más fuerte «pón»: Ja-PÓN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0243",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "kilómetro",
+   "clase": "esdrujula",
+   "opciones": [
+    "me",
+    "tro",
+    "ki",
+    "ló"
+   ],
+   "respuesta": "kilómetro",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «kilómetro»: ki-ló-me-tro.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0244",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "construcción",
+   "clase": "aguda",
+   "opciones": [
+    "truc",
+    "ción",
+    "cons"
+   ],
+   "respuesta": "construcción",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «construcción»: cons-truc-ción.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0245",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "arroz",
+   "clase": "aguda",
+   "frase": "En «arroz», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «arroz» suena más fuerte «rroz»: a-RROZ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0246",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "fénix",
+   "palabra": "veintitrés",
+   "clase": "aguda",
+   "opciones": [
+    "vein",
+    "ti",
+    "trés"
+   ],
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «veintitrés» suena más fuerte «trés»: vein-ti-TRÉS. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0247",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "Berlín",
+   "clase": "aguda",
+   "frase": "En «Berlín», la sílaba que suena más fuerte es «Ber».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «Berlín» suena más fuerte «lín»: Ber-LÍN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0248",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "revólver",
+   "clase": "llana",
+   "frase": "En «revólver», la sílaba que suena más fuerte es «vól».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «revólver» suena más fuerte «vól»: re-VÓL-ver.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0249",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "póster",
    "clase": "llana",
    "opciones": [
-    "fé",
-    "nix"
+    "pós",
+    "ter"
    ],
    "respuesta": 0,
    "dificultad": 3,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «fénix» suena más fuerte «fé»: FÉ-nix. ¡La tilde te da la pista!",
+   "explicacion": "En «póster» suena más fuerte «pós»: PÓS-ter. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0165",
+   "id": "A2-0250",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "llévatelo",
+   "clase": "sobresdrujula",
+   "frase": "En «llévatelo», la sílaba que suena más fuerte es «va».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «llévatelo» suena más fuerte «llé»: LLÉ-va-te-lo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0251",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "tórax",
+   "clase": "llana",
+   "frase": "En «tórax», la sílaba que suena más fuerte es «rax».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tórax» suena más fuerte «tó»: TÓ-rax.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0252",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "hipopótamo",
+   "clase": "esdrujula",
+   "frase": "En «hipopótamo», la sílaba que suena más fuerte es «hi».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «hipopótamo» suena más fuerte «pó»: hi-po-PÓ-ta-mo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0253",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "castillo",
+   "palabra": "tórax",
    "clase": "llana",
    "opciones": [
-    "cas",
+    "tó",
+    "rax"
+   ],
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tórax» suena más fuerte «tó»: TÓ-rax. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0254",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "imán",
+   "clase": "aguda",
+   "opciones": [
+    "i",
+    "mán"
+   ],
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «imán» suena más fuerte «mán»: i-MÁN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0255",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "andaluz",
+   "clase": "aguda",
+   "frase": "En «andaluz», la sílaba que suena más fuerte es «luz».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «andaluz» suena más fuerte «luz»: an-da-LUZ.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0256",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "camiones",
+   "clase": "llana",
+   "opciones": [
+    "ca",
+    "mio",
+    "nes"
+   ],
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «camiones» suena más fuerte «mio»: ca-MIO-nes.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0257",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "alemán",
+   "clase": "aguda",
+   "opciones": [
+    "mán",
+    "a",
+    "le"
+   ],
+   "respuesta": "alemán",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «alemán»: a-le-mán.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0258",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cordel",
+   "clase": "aguda",
+   "frase": "En «cordel», la sílaba que suena más fuerte es «del».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cordel» suena más fuerte «del»: cor-DEL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0259",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "estéril",
+   "clase": "llana",
+   "opciones": [
+    "ril",
+    "es",
+    "té"
+   ],
+   "respuesta": "estéril",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «estéril»: es-té-ril.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0260",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "marfil",
+   "clase": "aguda",
+   "opciones": [
+    "mar",
+    "fil"
+   ],
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «marfil» suena más fuerte «fil»: mar-FIL.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0261",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "régimen",
+   "clase": "esdrujula",
+   "frase": "En «régimen», la sílaba que suena más fuerte es «ré».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «régimen» suena más fuerte «ré»: RÉ-gi-men.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0262",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "altar",
+   "clase": "aguda",
+   "frase": "En «altar», la sílaba que suena más fuerte es «al».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «altar» suena más fuerte «tar»: al-TAR.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0263",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "fantástico",
+   "clase": "esdrujula",
+   "opciones": [
+    "tás",
+    "fan",
     "ti",
-    "llo"
+    "co"
+   ],
+   "respuesta": "fantástico",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «fantástico»: fan-tás-ti-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0264",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "exposición",
+   "clase": "aguda",
+   "opciones": [
+    "ex",
+    "po",
+    "si",
+    "ción"
+   ],
+   "respuesta": 3,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «exposición» suena más fuerte «ción»: ex-po-si-CIÓN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0265",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "aventura",
+   "clase": "llana",
+   "frase": "En «aventura», la sílaba que suena más fuerte es «a».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «aventura» suena más fuerte «tu»: a-ven-TU-ra.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0266",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "actriz",
+   "clase": "aguda",
+   "opciones": [
+    "ac",
+    "triz"
    ],
    "respuesta": 1,
    "dificultad": 3,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «castillo» suena más fuerte «ti»: cas-TI-llo.",
+   "explicacion": "En «actriz» suena más fuerte «triz»: ac-TRIZ.",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0166",
+   "id": "A2-0267",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "mujer",
+   "clase": "aguda",
+   "frase": "En «mujer», la sílaba que suena más fuerte es «jer».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «mujer» suena más fuerte «jer»: mu-JER.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0268",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "guardián",
+   "clase": "aguda",
+   "frase": "En «guardián», la sílaba que suena más fuerte es «dián».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «guardián» suena más fuerte «dián»: guar-DIÁN.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0269",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "volumen",
+   "palabra": "capitán",
+   "clase": "aguda",
+   "opciones": [
+    "ca",
+    "pi",
+    "tán"
+   ],
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «capitán» suena más fuerte «tán»: ca-pi-TÁN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0270",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "revólver",
    "clase": "llana",
    "opciones": [
-    "vo",
-    "lu",
-    "men"
+    "re",
+    "vól",
+    "ver"
    ],
    "respuesta": 1,
    "dificultad": 3,
    "skills": [
     "tonica"
    ],
-   "explicacion": "En «volumen» suena más fuerte «lu»: vo-LU-men.",
+   "explicacion": "En «revólver» suena más fuerte «vól»: re-VÓL-ver. ¡La tilde te da la pista!",
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0167",
+   "id": "A2-0271",
    "tipo": "silaba_tonica",
    "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "dígamelo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "dí",
+    "ga",
+    "me",
+    "lo"
+   ],
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «dígamelo» suena más fuerte «dí»: DÍ-ga-me-lo. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0272",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "huracán",
+   "clase": "aguda",
+   "opciones": [
+    "hu",
+    "ra",
+    "cán"
+   ],
+   "respuesta": 2,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «huracán» suena más fuerte «cán»: hu-ra-CÁN. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0273",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "explosión",
+   "clase": "aguda",
+   "opciones": [
+    "sión",
+    "plo",
+    "ex"
+   ],
+   "respuesta": "explosión",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «explosión»: ex-plo-sión.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0274",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "periódico",
+   "clase": "esdrujula",
+   "opciones": [
+    "di",
+    "rió",
+    "pe",
+    "co"
+   ],
+   "respuesta": "periódico",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «periódico»: pe-rió-di-co.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0275",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "paredes",
+   "clase": "llana",
+   "opciones": [
+    "pa",
+    "re",
+    "des"
+   ],
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «paredes» suena más fuerte «re»: pa-RE-des.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0276",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "ayer",
+   "clase": "aguda",
+   "opciones": [
+    "a",
+    "yer"
+   ],
+   "respuesta": 1,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «ayer» suena más fuerte «yer»: a-YER.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0277",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "cumpleaños",
+   "clase": "llana",
+   "opciones": [
+    "ple",
+    "cum",
+    "ños",
+    "a"
+   ],
+   "respuesta": "cumpleaños",
+   "dificultad": 3,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «cumpleaños»: cum-ple-a-ños.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0278",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "cuéntamelo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "cuén",
+    "ta",
+    "me",
+    "lo"
+   ],
+   "respuesta": 0,
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cuéntamelo» suena más fuerte «cuén»: CUÉN-ta-me-lo. ¡La tilde te da la pista!",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0279",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "cómpratelo",
+   "clase": "sobresdrujula",
+   "frase": "En «cómpratelo», la sílaba que suena más fuerte es «pra».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «cómpratelo» suena más fuerte «cóm»: CÓM-pra-te-lo.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0280",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "mariposa",
+   "clase": "llana",
+   "frase": "En «mariposa», la sílaba que suena más fuerte es «ma».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 3,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «mariposa» suena más fuerte «po»: ma-ri-PO-sa.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0281",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "oportunidad",
+   "clase": "aguda",
+   "frase": "En «oportunidad», la sílaba que suena más fuerte es «dad».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «oportunidad» suena más fuerte «dad»: o-por-tu-ni-DAD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0282",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "videojuego",
+   "clase": "llana",
+   "frase": "En «videojuego», la sílaba que suena más fuerte es «jue».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «videojuego» suena más fuerte «jue»: vi-de-o-JUE-go.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0283",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "bienvenido",
+   "clase": "llana",
+   "frase": "En «bienvenido», la sílaba que suena más fuerte es «ni».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «bienvenido» suena más fuerte «ni»: bien-ve-NI-do.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0284",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "sacapuntas",
+   "clase": "llana",
+   "frase": "En «sacapuntas», la sílaba que suena más fuerte es «pun».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «sacapuntas» suena más fuerte «pun»: sa-ca-PUN-tas.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0285",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "bienvenido",
+   "clase": "llana",
+   "opciones": [
+    "ni",
+    "do",
+    "bien",
+    "ve"
+   ],
+   "respuesta": "bienvenido",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «bienvenido»: bien-ve-ni-do.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0286",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "germen",
+   "clase": "llana",
+   "frase": "En «germen», la sílaba que suena más fuerte es «men».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «germen» suena más fuerte «ger»: GER-men.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0287",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
    "palabra": "atlas",
    "clase": "llana",
+   "frase": "En «atlas», la sílaba que suena más fuerte es «at».",
    "opciones": [
-    "at",
-    "las"
+    "Verdadero",
+    "Falso"
    ],
-   "respuesta": 0,
+   "respuesta": "Verdadero",
    "dificultad": 4,
    "skills": [
     "tonica"
@@ -3123,61 +5434,265 @@
    "regla_id": "silaba-tonica"
   },
   {
-   "id": "A2-0168",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "telaraña",
-   "clase": "llana",
+   "id": "A2-0288",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "llévatelo",
+   "clase": "sobresdrujula",
    "opciones": [
+    "lo",
+    "llé",
     "te",
+    "va"
+   ],
+   "respuesta": "llévatelo",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «llévatelo»: llé-va-te-lo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0289",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "pídeselo",
+   "clase": "sobresdrujula",
+   "opciones": [
+    "de",
+    "se",
+    "pí",
+    "lo"
+   ],
+   "respuesta": "pídeselo",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «pídeselo»: pí-de-se-lo.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0290",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "dictamen",
+   "clase": "llana",
+   "frase": "En «dictamen», la sílaba que suena más fuerte es «ta».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Verdadero",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «dictamen» suena más fuerte «ta»: dic-TA-men.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0291",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "esdrújula",
+   "clase": "esdrujula",
+   "opciones": [
+    "drú",
+    "es",
+    "ju",
+    "la"
+   ],
+   "respuesta": "esdrújula",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «esdrújula»: es-drú-ju-la.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0292",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "universidad",
+   "clase": "aguda",
+   "frase": "En «universidad», la sílaba que suena más fuerte es «u».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «universidad» suena más fuerte «dad»: u-ni-ver-si-DAD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0293",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "honestidad",
+   "clase": "aguda",
+   "opciones": [
+    "ho",
+    "nes",
+    "ti",
+    "dad"
+   ],
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «honestidad» suena más fuerte «dad»: ho-nes-ti-DAD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0294",
+   "tipo": "verdadero_falso",
+   "enunciado": "¿Verdadero o falso?",
+   "palabra": "abdomen",
+   "clase": "llana",
+   "frase": "En «abdomen», la sílaba que suena más fuerte es «ab».",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "respuesta": "Falso",
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «abdomen» suena más fuerte «do»: ab-DO-men.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0295",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "tranquilidad",
+   "clase": "aguda",
+   "opciones": [
+    "tran",
+    "li",
+    "qui",
+    "dad"
+   ],
+   "respuesta": "tranquilidad",
+   "dificultad": 4,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «tranquilidad»: tran-qui-li-dad.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0296",
+   "tipo": "silaba_tonica",
+   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
+   "palabra": "tranquilidad",
+   "clase": "aguda",
+   "opciones": [
+    "tran",
+    "qui",
+    "li",
+    "dad"
+   ],
+   "respuesta": 3,
+   "dificultad": 4,
+   "skills": [
+    "tonica"
+   ],
+   "explicacion": "En «tranquilidad» suena más fuerte «dad»: tran-qui-li-DAD.",
+   "regla_id": "silaba-tonica"
+  },
+  {
+   "id": "A2-0297",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "sobresdrújula",
+   "clase": "esdrujula",
+   "opciones": [
     "la",
-    "ra",
-    "ña"
+    "drú",
+    "bres",
+    "so",
+    "ju"
    ],
-   "respuesta": 2,
-   "dificultad": 4,
+   "respuesta": "sobresdrújula",
+   "dificultad": 5,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «telaraña» suena más fuerte «ra»: te-la-RA-ña.",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «sobresdrújula»: so-bres-drú-ju-la.",
+   "regla_id": "silabas"
   },
   {
-   "id": "A2-0169",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "paraguas",
-   "clase": "llana",
+   "id": "A2-0298",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "investigación",
+   "clase": "aguda",
    "opciones": [
-    "pa",
-    "ra",
-    "guas"
+    "ga",
+    "ti",
+    "ción",
+    "in",
+    "ves"
    ],
-   "respuesta": 1,
-   "dificultad": 4,
+   "respuesta": "investigación",
+   "dificultad": 5,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «paraguas» suena más fuerte «ra»: pa-RA-guas.",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «investigación»: in-ves-ti-ga-ción.",
+   "regla_id": "silabas"
   },
   {
-   "id": "A2-0170",
-   "tipo": "silaba_tonica",
-   "enunciado": "¿Cuál es la sílaba que suena más fuerte?",
-   "palabra": "polen",
+   "id": "A2-0299",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "contaminación",
+   "clase": "aguda",
+   "opciones": [
+    "con",
+    "ción",
+    "na",
+    "ta",
+    "mi"
+   ],
+   "respuesta": "contaminación",
+   "dificultad": 5,
+   "skills": [
+    "silabas"
+   ],
+   "explicacion": "La palabra es «contaminación»: con-ta-mi-na-ción.",
+   "regla_id": "silabas"
+  },
+  {
+   "id": "A2-0300",
+   "tipo": "ordenar",
+   "enunciado": "Toca las sílabas en orden para formar la palabra",
+   "palabra": "videojuego",
    "clase": "llana",
    "opciones": [
-    "po",
-    "len"
+    "o",
+    "vi",
+    "de",
+    "go",
+    "jue"
    ],
-   "respuesta": 0,
-   "dificultad": 4,
+   "respuesta": "videojuego",
+   "dificultad": 5,
    "skills": [
-    "tonica"
+    "silabas"
    ],
-   "explicacion": "En «polen» suena más fuerte «po»: PO-len.",
-   "regla_id": "silaba-tonica"
+   "explicacion": "La palabra es «videojuego»: vi-de-o-jue-go.",
+   "regla_id": "silabas"
   }
  ]
 }

@@ -43,6 +43,16 @@ export class TildinDB extends Dexie {
     this.version(2).stores({
       reports: '++id, childId, at',
     });
+    // Versión 3: la racha pasa a exigir el objetivo diario. Solo cambia el criterio de quien
+    // tenía el de antes por defecto («lección o 5 minutos»); el resto de datos no se toca.
+    this.version(3).upgrade(async (tx) => {
+      await tx
+        .table('settings')
+        .toCollection()
+        .modify((s: { streakCriterion?: string }) => {
+          if (!s.streakCriterion || s.streakCriterion === 'either') s.streakCriterion = 'goal';
+        });
+    });
   }
 }
 
@@ -50,7 +60,7 @@ export const db = new TildinDB();
 
 export const DEFAULT_SETTINGS: Settings = {
   id: 'main',
-  streakCriterion: 'either',
+  streakCriterion: 'goal',
   streakMinutes: 5,
   dailyGoalMin: 10,
   sound: true,

@@ -1,6 +1,7 @@
 /** Tipos de los registros guardados en IndexedDB. */
 
-export type StreakCriterion = 'either' | 'lesson' | 'minutes';
+/** goal = cumplir el objetivo diario de minutos (por defecto); minutes = X min; lesson = una lección; either = lección o X min. */
+export type StreakCriterion = 'goal' | 'either' | 'lesson' | 'minutes';
 
 export interface Settings {
   id: 'main';

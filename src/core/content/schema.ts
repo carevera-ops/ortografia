@@ -12,6 +12,9 @@ export const ExerciseType = z.enum([
   'diptongo_hiato',
   'dictado',
   'explica_regla',
+  'ordenar',
+  'verdadero_falso',
+  'corregir',
 ]);
 export type ExerciseType = z.infer<typeof ExerciseType>;
 
@@ -45,18 +48,22 @@ export const ItemSchema = z
     regla_id: z.string(),
   })
   .superRefine((it, ctx) => {
-    const needOptions: ExerciseType[] = ['elegir', 'explica_regla', 'clasificar', 'diptongo_hiato', 'hueco', 'silaba_tonica', 'detectar_error'];
+    const needOptions: ExerciseType[] = ['elegir', 'explica_regla', 'clasificar', 'diptongo_hiato', 'hueco', 'silaba_tonica', 'detectar_error', 'ordenar', 'verdadero_falso'];
     if (needOptions.includes(it.tipo)) {
       if (!it.opciones || it.opciones.length < 2) ctx.addIssue({ code: 'custom', message: `${it.id}: faltan opciones` });
       // En sílaba tónica y detectar el error puede haber elementos repetidos (ma-má; «de… de»): se responde por índice.
-      else if (it.tipo !== 'silaba_tonica' && it.tipo !== 'detectar_error' && new Set(it.opciones).size !== it.opciones.length)
+      else if (!['silaba_tonica', 'detectar_error', 'ordenar'].includes(it.tipo) && new Set(it.opciones).size !== it.opciones.length)
         ctx.addIssue({ code: 'custom', message: `${it.id}: opciones repetidas` });
     }
-    if (['elegir', 'explica_regla', 'clasificar', 'diptongo_hiato', 'hueco'].includes(it.tipo)) {
+    if (['elegir', 'explica_regla', 'clasificar', 'diptongo_hiato', 'hueco', 'verdadero_falso'].includes(it.tipo)) {
       if (typeof it.respuesta !== 'string' || !it.opciones?.includes(it.respuesta))
         ctx.addIssue({ code: 'custom', message: `${it.id}: la respuesta no está entre las opciones` });
     }
-    if (['poner_tilde', 'silaba_tonica', 'separar', 'dictado'].includes(it.tipo) && !it.palabra)
+    if (it.tipo === 'ordenar' && (it.respuesta !== it.palabra || (it.opciones ?? []).join('').length !== (it.palabra ?? '').length))
+      ctx.addIssue({ code: 'custom', message: `${it.id}: ordenar necesita la palabra como respuesta` });
+    if (it.tipo === 'corregir' && (!it.frase || it.respuesta !== it.palabra || it.frase === it.palabra))
+      ctx.addIssue({ code: 'custom', message: `${it.id}: corregir necesita la forma incorrecta (frase) y la correcta (palabra)` });
+    if (['poner_tilde', 'silaba_tonica', 'separar', 'dictado', 'ordenar', 'corregir'].includes(it.tipo) && !it.palabra)
       ctx.addIssue({ code: 'custom', message: `${it.id}: falta la palabra` });
     if (it.tipo === 'silaba_tonica' && (typeof it.respuesta !== 'number' || it.respuesta >= (it.opciones?.length ?? 0)))
       ctx.addIssue({ code: 'custom', message: `${it.id}: índice de sílaba tónica fuera de rango` });

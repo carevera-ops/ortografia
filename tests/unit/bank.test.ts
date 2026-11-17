@@ -208,6 +208,66 @@ describe('banco de preguntas', () => {
     expect(all.length).toBeGreaterThanOrEqual(4000);
   });
 
+  it('ordenar sílabas: las fichas son las sílabas de la palabra, desordenadas', () => {
+    const items = all.filter((i) => i.tipo === 'ordenar');
+    expect(items.length).toBeGreaterThan(100);
+    for (const it of items) {
+      expect([...it.opciones!].sort(), it.id).toEqual([...syllabify(it.palabra!)].sort());
+      expect(it.opciones!.join(''), it.id).not.toBe(it.palabra);
+      expect(it.respuesta).toBe(it.palabra);
+    }
+  });
+
+  it('verdadero o falso: la respuesta coincide con lo que calcula el módulo de fonología', () => {
+    const items = all.filter((i) => i.tipo === 'verdadero_falso');
+    expect(items.length).toBeGreaterThan(300);
+    const label: Record<string, string> = { aguda: 'aguda', llana: 'llana', esdrujula: 'esdrújula', sobresdrujula: 'sobresdrújula' };
+    let checked = 0;
+    for (const it of items) {
+      const f = it.frase!;
+      const w = it.palabra!;
+      const syl = syllabify(w);
+      let truth: boolean | null = null;
+      let m: RegExpExecArray | null;
+      if ((m = /^«(.+)» es una palabra (\S+)\.$/.exec(f))) truth = label[it.clase!] === m[2];
+      else if ((m = /^«(.+)» tiene (\d+) sílabas?\.$/.exec(f))) truth = syl.length === Number(m[2]);
+      else if ((m = /^En «(.+)», la sílaba que suena más fuerte es «(.+)»\.$/.exec(f))) {
+        const acc = syl.findIndex((x) => /[áéíóú]/i.test(x));
+        const fromEnd = { aguda: 0, llana: 1, esdrujula: 2, sobresdrujula: 3 }[it.clase!];
+        truth = syl[acc >= 0 ? acc : syl.length - 1 - fromEnd] === m[2];
+      } else if ((m = /^«(.+)» se escribe así, sin tilde\.$/.exec(f))) {
+        expect(stripAccents(w)).toBe(m[1]);
+        truth = !/[áéíóú]/i.test(w);
+      } else if ((m = /^En «(.+)», las vocales «(.+)» forman un (diptongo|hiato|triptongo)\.$/.exec(f))) {
+        const same = syl.some((x) => x.toLowerCase().includes(m![2]!.toLowerCase()));
+        const real = same ? (m[2]!.replace(/h/gi, '').length === 3 ? 'triptongo' : 'diptongo') : 'hiato';
+        truth = real === m[3];
+      }
+      expect(truth, `${it.id}: afirmación no reconocida «${f}»`).not.toBeNull();
+      expect(it.respuesta, `${it.id}: ${f}`).toBe(truth ? 'Verdadero' : 'Falso');
+      checked++;
+    }
+    expect(checked).toBe(items.length);
+    // Ni todas verdaderas ni todas falsas
+    const v = items.filter((i) => i.respuesta === 'Verdadero').length / items.length;
+    expect(v).toBeGreaterThan(0.3);
+    expect(v).toBeLessThan(0.7);
+  });
+
+  it('corregir: la forma mostrada es incorrecta y solo cambia en lo que se practica', () => {
+    const items = all.filter((i) => i.tipo === 'corregir');
+    expect(items.length).toBeGreaterThan(300);
+    const lettersB: Record<string, RegExp> = { B1: /[bvmn]/gi, B2: /[gjuü]/gi, B3: /h/gi, B4: /(ll|y|rr|r)/gi, B5: /[czsx]/gi };
+    for (const it of items) {
+      expect(it.frase, it.id).not.toBe(it.palabra);
+      const unit = it.id.split('-')[0]!;
+      // La ambigüedad de tilde (bebé/bebe) solo importa cuando lo que se corrige es la tilde.
+      if (unit.startsWith('A')) expect(AMBIGUAS.has(it.palabra!), it.id).toBe(false);
+      if (unit.startsWith('A')) expect(stripAccents(it.frase!), it.id).toBe(stripAccents(it.palabra!));
+      else expect(it.frase!.replace(lettersB[unit]!, ''), it.id).toBe(it.palabra!.replace(lettersB[unit]!, ''));
+    }
+  });
+
   it('reparto de dificultades: cada unidad tiene ítems de varios niveles', () => {
     const byUnit = new Map<string, Set<number>>();
     for (const it of all) {

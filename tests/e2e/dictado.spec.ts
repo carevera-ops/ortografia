@@ -1,3 +1,4 @@
+import { answerCurrent, waitQuestionOrResult } from './helpers';
 import { expect, test } from '@playwright/test';
 
 /** Simula una voz es-ES y guarda lo que se "dice" en window.__spoken. */
@@ -32,8 +33,7 @@ test('dictado: escuchar, escribir con la barra de tildes y corregir', async ({ p
   await page.goto('./#/leccion/A16/3');
   let found = false;
   for (let i = 0; i < 14; i++) {
-    await page.locator('.exercise-area button:not([disabled]), #result-title').first().waitFor();
-    if (await page.locator('#result-title').isVisible()) break;
+    if ((await waitQuestionOrResult(page)) === 'result') break;
     if (await page.locator('.dictation-input').isVisible()) {
       found = true;
       await page.getByRole('button', { name: 'Escuchar la palabra' }).click();
@@ -52,7 +52,7 @@ test('dictado: escuchar, escribir con la barra de tildes y corregir', async ({ p
       await expect(page.locator('.feedback.correct')).toBeVisible();
       break;
     }
-    await page.locator('.exercise-area button:not([disabled])').first().click();
+    await answerCurrent(page);
     await page.getByRole('button', { name: 'Comprobar' }).click();
     await page.getByRole('button', { name: 'Continuar' }).click();
   }
@@ -63,11 +63,10 @@ test('detectar el error y completar el hueco funcionan', async ({ page }) => {
   await page.goto('./#/leccion/A11/3');
   const seen = new Set<string>();
   for (let i = 0; i < 14 && seen.size < 2; i++) {
-    await page.locator('.exercise-area button:not([disabled]), #result-title').first().waitFor();
-    if (await page.locator('#result-title').isVisible()) break;
+    if ((await waitQuestionOrResult(page)) === 'result') break;
     if (await page.locator('.tokens').isVisible()) seen.add('detectar');
     if (await page.locator('.blank').isVisible()) seen.add('hueco');
-    await page.locator('.exercise-area button:not([disabled])').first().click();
+    await answerCurrent(page);
     await page.getByRole('button', { name: 'Comprobar' }).click();
     await expect(page.locator('.feedback')).toBeVisible();
     await page.getByRole('button', { name: 'Continuar' }).click();

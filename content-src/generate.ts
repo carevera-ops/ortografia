@@ -376,6 +376,158 @@ const mkDiptongoHiato: Make = (w) => {
   };
 };
 
+
+// ---- Ejercicios nuevos: ordenar sílabas, verdadero o falso y corregir ----
+
+/** Ordena las sílabas (palabras de 3 o más sílabas; la tilde viaja con su sílaba). */
+const mkOrdenar: Make = (w) => {
+  if (w.cls === null || w.syl.length < 3 || !/^[a-zñáéíóúü]+$/.test(w.word)) return null;
+  let tiles = shuffle(w.syl, hash(w.word) + 21);
+  // Que nunca salgan ya ordenadas.
+  for (let k = 1; tiles.join('') === w.word && k < 10; k++) tiles = shuffle(w.syl, hash(w.word) + 21 + k);
+  if (tiles.join('') === w.word) tiles = [...w.syl].reverse();
+  return {
+    tipo: 'ordenar',
+    enunciado: 'Toca las sílabas en orden para formar la palabra',
+    palabra: w.word,
+    clase: w.cls,
+    opciones: tiles,
+    respuesta: w.word,
+    dificultad: clamp(w.tier + (w.syl.length >= 5 ? 2 : w.syl.length === 4 ? 1 : 0)),
+    skills: ['silabas'],
+    explicacion: `La palabra es «${w.word}»: ${w.syl.join('-')}.`,
+    regla_id: 'silabas',
+  };
+};
+
+const VF = ['Verdadero', 'Falso'];
+const CLASES: Cls[] = ['aguda', 'llana', 'esdrujula', 'sobresdrujula'];
+
+/** Verdadero o falso sobre la clase acentual (la mitad de las afirmaciones son falsas). */
+const mkVFClase: Make = (w) => {
+  if (w.cls === null) return null;
+  const truth = hash(w.word + 'vf') % 2 === 0;
+  const others = CLASES.filter((c) => c !== w.cls && !(c === 'sobresdrujula' && w.syl.length < 4));
+  const claim = truth ? w.cls : others[hash(w.word) % others.length]!;
+  return {
+    tipo: 'verdadero_falso',
+    enunciado: '¿Verdadero o falso?',
+    palabra: w.word,
+    clase: w.cls,
+    frase: `«${w.word}» es una palabra ${LABEL[claim]}.`,
+    opciones: VF,
+    respuesta: truth ? 'Verdadero' : 'Falso',
+    dificultad: clamp(w.tier + (hasAccentMark(w.word) ? 0 : 1)),
+    skills: ['clasificacion'],
+    explicacion: `${w.syl.join('-')}: la sílaba tónica es «${w.syl[w.stress]}», así que es ${LABEL[w.cls]}.`,
+    regla_id: 'clasificacion',
+  };
+};
+
+/** Verdadero o falso sobre el número de sílabas. */
+const mkVFSilabas: Make = (w) => {
+  if (!/^[a-zñáéíóúü]+$/i.test(w.word)) return null;
+  const n = w.syl.length;
+  const truth = hash(w.word + 'vs') % 2 === 0;
+  const claim = truth ? n : n === 1 ? 2 : hash(w.word) % 2 === 0 ? n + 1 : n - 1;
+  return {
+    tipo: 'verdadero_falso',
+    enunciado: '¿Verdadero o falso?',
+    palabra: w.word,
+    ...(w.cls ? { clase: w.cls } : {}),
+    frase: `«${w.word}» tiene ${claim} ${claim === 1 ? 'sílaba' : 'sílabas'}.`,
+    opciones: VF,
+    respuesta: truth ? 'Verdadero' : 'Falso',
+    dificultad: clamp(w.tier + (/[aeiouáéíóúü]{2}/i.test(w.word) ? 1 : 0)),
+    skills: ['silabas'],
+    explicacion: `${w.syl.join('-')}: tiene ${n} ${n === 1 ? 'sílaba' : 'sílabas'}.`,
+    regla_id: 'silabas',
+  };
+};
+
+/** Verdadero o falso sobre la sílaba tónica. */
+const mkVFTonica: Make = (w) => {
+  if (w.cls === null) return null;
+  const truth = hash(w.word + 'vt') % 2 === 0;
+  const otherIdx = w.syl.findIndex((x, i) => i !== w.stress && x.toLowerCase() !== w.syl[w.stress]!.toLowerCase());
+  if (!truth && otherIdx < 0) return null;
+  const claimed = truth ? w.syl[w.stress]! : w.syl[otherIdx]!;
+  return {
+    tipo: 'verdadero_falso',
+    enunciado: '¿Verdadero o falso?',
+    palabra: w.word,
+    clase: w.cls,
+    frase: `En «${w.word}», la sílaba que suena más fuerte es «${claimed}».`,
+    opciones: VF,
+    respuesta: truth ? 'Verdadero' : 'Falso',
+    dificultad: clamp(w.tier + (hasAccentMark(w.word) ? 0 : 1)),
+    skills: ['tonica'],
+    explicacion: `En «${w.word}» suena más fuerte «${w.syl[w.stress]}»: ${w.syl.map((x, i) => (i === w.stress ? x.toUpperCase() : x)).join('-')}.`,
+    regla_id: 'silaba-tonica',
+  };
+};
+
+/** Verdadero o falso: «X se escribe sin tilde». */
+const mkVFTilde =
+  (skill: string, regla: string): Make =>
+  (w) => {
+    if (w.cls === null || W.AMBIGUAS.has(w.word)) return null;
+    const plain = stripAccents(w.word);
+    const truth = !hasAccentMark(w.word);
+    return {
+      tipo: 'verdadero_falso',
+      enunciado: '¿Verdadero o falso?',
+      palabra: w.word,
+      clase: w.cls,
+      frase: `«${plain}» se escribe así, sin tilde.`,
+      opciones: VF,
+      respuesta: truth ? 'Verdadero' : 'Falso',
+      dificultad: clamp(w.tier + 1),
+      skills: [skill],
+      explicacion: `Se escribe «${w.word}». ${explainAccent(w.word, w.stress)}`,
+      regla_id: regla,
+    };
+  };
+
+/** Verdadero o falso: diptongo o hiato. */
+const mkVFDiptongo: Make = (w) => {
+  const base = mkDiptongoHiato(w);
+  if (!base) return null;
+  const real = base.respuesta as string;
+  const truth = hash(w.word + 'vd') % 2 === 0;
+  const claim = truth ? real : real === 'hiato' ? 'diptongo' : 'hiato';
+  const seq = /«([^»]+)» forman/.exec(base.enunciado)![1]!;
+  return {
+    ...base,
+    tipo: 'verdadero_falso',
+    enunciado: '¿Verdadero o falso?',
+    frase: `En «${w.word}», las vocales «${seq}» forman un ${claim}.`,
+    opciones: VF,
+    respuesta: truth ? 'Verdadero' : 'Falso',
+  };
+};
+
+/** Corrige la palabra: se muestra mal escrita y hay que escribirla bien. */
+const mkCorregir =
+  (skill: string, regla: string): Make =>
+  (w) => {
+    if (w.cls === null || W.AMBIGUAS.has(w.word) || !/^[a-zñáéíóúü]+$/i.test(w.word)) return null;
+    const wrong = shuffle(misspellings(w), hash(w.word) + 31)[0];
+    if (!wrong) return null;
+    return {
+      tipo: 'corregir',
+      enunciado: 'Esta palabra está mal escrita. Escríbela bien',
+      palabra: w.word,
+      clase: w.cls,
+      frase: wrong,
+      respuesta: w.word,
+      dificultad: clamp(w.tier + 2),
+      skills: [skill],
+      explicacion: `Se escribe «${w.word}». ${explainAccent(w.word, w.stress)}`,
+      regla_id: regla,
+    };
+  };
+
 function hash(s: string): number {
   let h = 2166136261;
   for (const c of s) h = Math.imul(h ^ c.charCodeAt(0), 16777619) >>> 0;
@@ -441,15 +593,15 @@ const isSpecial = (w: Word) => {
 };
 
 const units: Record<string, Item[]> = {
-  A1: build('A1', [...regular(llanas), ...regular(agudas), ...regular(esdr)], [mkSeparar], 170),
-  A2: build('A2', [...llanas, ...agudas, ...esdr, ...sobres].filter((w) => !isSpecial(w)), [mkTonica], 170),
-  A3: build('A3', [...llanas, ...agudas, ...esdr].filter((w) => !isSpecial(w)), [mkClasificar(false)], 200),
-  A4: build('A4', agudas.filter((w) => !isSpecial(w)), [mkElegir('agudas', 'agudas'), mkPonerTilde('agudas', 'agudas'), mkExplica, mkDictadoAlto('agudas')], 400),
-  A5: build('A5', llanas.filter((w) => !isSpecial(w)), [mkElegir('llanas', 'llanas'), mkPonerTilde('llanas', 'llanas'), mkExplica, mkDictadoAlto('llanas')], 400),
-  A6: build('A6', [...esdr, ...sobres], [mkElegir('esdrujulas', 'esdrujulas'), mkPonerTilde('esdrujulas', 'esdrujulas'), mkClasificar(true), mkDictadoAlto('esdrujulas')], 300),
+  A1: build('A1', [...regular(llanas), ...regular(agudas), ...regular(esdr)], [mkSeparar, mkOrdenar, mkVFSilabas], 320),
+  A2: build('A2', [...llanas, ...agudas, ...esdr, ...sobres].filter((w) => !isSpecial(w)), [mkTonica, mkVFTonica, mkOrdenar], 300),
+  A3: build('A3', [...llanas, ...agudas, ...esdr].filter((w) => !isSpecial(w)), [mkClasificar(false), mkVFClase], 360),
+  A4: build('A4', agudas.filter((w) => !isSpecial(w)), [mkElegir('agudas', 'agudas'), mkPonerTilde('agudas', 'agudas'), mkExplica, mkDictadoAlto('agudas'), mkVFTilde('agudas', 'agudas'), mkCorregir('agudas', 'agudas')], 600),
+  A5: build('A5', llanas.filter((w) => !isSpecial(w)), [mkElegir('llanas', 'llanas'), mkPonerTilde('llanas', 'llanas'), mkExplica, mkDictadoAlto('llanas'), mkVFTilde('llanas', 'llanas'), mkCorregir('llanas', 'llanas')], 600),
+  A6: build('A6', [...esdr, ...sobres], [mkElegir('esdrujulas', 'esdrujulas'), mkPonerTilde('esdrujulas', 'esdrujulas'), mkClasificar(true), mkDictadoAlto('esdrujulas'), mkVFTilde('esdrujulas', 'esdrujulas'), mkCorregir('esdrujulas', 'esdrujulas'), mkOrdenar], 450),
   A7: build('A7', [...agudas, ...llanas].filter(isSpecial), [mkElegir('casos_especiales', 'casos-especiales', 1), mkPonerTilde('casos_especiales', 'casos-especiales'), mkExplica, mkClasificar(false)], 120),
-  A8: build('A8', [...diptongos, ...triptongos, ...hiatosSimples], [mkDiptongoHiato, mkSeparar], 120),
-  A9: build('A9', [...hiatosAc, ...hiatosSimples], [mkElegir('hiatos', 'hiatos'), mkPonerTilde('hiatos', 'hiatos'), mkDiptongoHiato, mkExplica, mkDictadoAlto('hiatos')], 320),
+  A8: build('A8', [...diptongos, ...triptongos, ...hiatosSimples], [mkDiptongoHiato, mkSeparar, mkVFDiptongo, mkVFSilabas], 200),
+  A9: build('A9', [...hiatosAc, ...hiatosSimples], [mkElegir('hiatos', 'hiatos'), mkPonerTilde('hiatos', 'hiatos'), mkDiptongoHiato, mkExplica, mkDictadoAlto('hiatos'), mkVFDiptongo, mkCorregir('hiatos', 'hiatos')], 450),
   A10: build('A10', monos, [mkElegir('monosilabos', 'monosilabos')], 80),
 };
 
@@ -568,6 +720,18 @@ function pairItems(groups: P.PairGroup[]): Omit<Item, 'id'>[] {
         opciones: shuffle([ok, bad], hash(pair)),
         respuesta: ok,
         dificultad: clamp(grp.tier),
+        skills: [grp.skill],
+        explicacion: `Se escribe «${ok}». ${grp.explicacion}`,
+        regla_id: grp.regla,
+      });
+      // Corrige la palabra: se muestra la forma incorrecta y se escribe la buena.
+      out.push({
+        tipo: 'corregir',
+        enunciado: 'Esta palabra está mal escrita. Escríbela bien',
+        palabra: ok,
+        frase: bad,
+        respuesta: ok,
+        dificultad: clamp(grp.tier + 2),
         skills: [grp.skill],
         explicacion: `Se escribe «${ok}». ${grp.explicacion}`,
         regla_id: grp.regla,
@@ -804,11 +968,11 @@ const phase5: Record<string, Item[]> = {
     ].filter((x): x is Omit<Item, 'id'> => !!x),
     300,
   ),
-  B1: finalize('B1', pairItems([...P.B1, ...P2.B1_2]), 300),
-  B2: finalize('B2', pairItems([...P.B2, ...P2.B2_2]), 300),
-  B3: finalize('B3', pairItems([...P.B3, ...P2.B3_2]), 300),
-  B4: finalize('B4', pairItems([...P.B4, ...P2.B4_2]), 300),
-  B5: finalize('B5', pairItems([...P.B5, ...P2.B5_2]), 300),
+  B1: finalize('B1', pairItems([...P.B1, ...P2.B1_2]), 400),
+  B2: finalize('B2', pairItems([...P.B2, ...P2.B2_2]), 400),
+  B3: finalize('B3', pairItems([...P.B3, ...P2.B3_2]), 400),
+  B4: finalize('B4', pairItems([...P.B4, ...P2.B4_2]), 400),
+  B5: finalize('B5', pairItems([...P.B5, ...P2.B5_2]), 400),
   B6: finalize('B6', sentenceItems(homofonosAll, 'homofonos', 'homofonos'), 250),
   B7: finalize(
     'B7',

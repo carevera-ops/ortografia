@@ -33,6 +33,19 @@ describe('corrección', () => {
     expect(grade(frase, 'dónde está mi lápiz')).toBe(true);
     expect(grade(frase, '¿Donde está mi lápiz?')).toBe(false);
   });
+  it('separar una palabra de una sola sílaba: sin cortes es correcto', () => {
+    const it: Item = { ...base, tipo: 'separar', palabra: 'buey', respuesta: [] };
+    expect(grade(it, [])).toBe(true);
+    expect(grade(it, [2])).toBe(false);
+  });
+  it('corregir y ordenar', () => {
+    const c: Item = { ...base, tipo: 'corregir', palabra: 'camión', frase: 'camion', respuesta: 'camión' };
+    expect(grade(c, ' Camión ')).toBe(true);
+    expect(grade(c, 'camion')).toBe(false);
+    const o: Item = { ...base, tipo: 'ordenar', palabra: 'murciélago', opciones: ['go', 'mur', 'cié', 'la'], respuesta: 'murciélago' };
+    expect(grade(o, 'murciélago')).toBe(true);
+    expect(grade(o, 'murlaciégo')).toBe(false);
+  });
   it('alineación carácter a carácter', () => {
     expect(alignChars('camion', 'camión').map((c) => c.status)).toEqual(['ok', 'ok', 'ok', 'ok', 'wrong', 'ok']);
     expect(alignChars('arbo', 'árbol').filter((c) => c.status !== 'ok').map((c) => c.status)).toEqual(['wrong', 'missing']);

@@ -5,7 +5,7 @@
 - 📱 Se instala desde Safari en la pantalla de inicio y se abre a pantalla completa.
 - ✈️ Funciona **sin conexión** después de la primera carga.
 - 🔒 **Sin cuentas, sin anuncios, sin analítica y sin enviar datos a ningún sitio**: todo se guarda en el propio iPhone.
-- 📚 Más de **4.300 preguntas** revisadas según la *Ortografía de la lengua española* (RAE, 2010), de las que más de 3.300 son de acentuación.
+- 📚 Más de **5.800 preguntas** revisadas según la *Ortografía de la lengua española* (RAE, 2010), de las que más de 4.400 son de acentuación.
 
 **Dirección de la app:** <https://carevera-ops.github.io/ortografia/>
 
@@ -36,7 +36,7 @@
 | **Acentuación** | Sílabas · Sílaba tónica · Agudas, llanas y esdrújulas · Tilde en agudas · Tilde en llanas · Esdrújulas y sobresdrújulas · Casos especiales (*bíceps, robots, virrey*) · Diptongos y triptongos · Hiatos (*país, búho, reír*) · Monosílabos (*fue, dio, guion*) · Tilde diacrítica (*tú/tu, él/el, sí/si…*) · Interrogativos y exclamativos · *Por qué / porque / porqué / por que* · *Solo* y demostrativos · *-mente*, compuestos y pronombres pegados · Mayúsculas con tilde y gran repaso |
 | **Ortografía general** | B/V y M antes de P y B · G/J · H · LL/Y y R/RR · C/Z/S/X · Homófonos (*hay/ahí/ay, haber/a ver, echo/hecho…*) · Mayúsculas y puntuación (¿ ¡) |
 
-**Tipos de ejercicio:** elegir la forma correcta, tocar la vocal que lleva tilde, tocar la sílaba tónica, clasificar, separar en sílabas, completar el hueco, encontrar la palabra mal escrita, diptongo o hiato, explicar la regla, «¿qué frase tiene bien todas las tildes?» y **dictado** con voz (palabras y frases).
+**Tipos de ejercicio:** ordenar las sílabas, verdadero o falso, corregir la palabra mal escrita, elegir la forma correcta, tocar la vocal que lleva tilde, tocar la sílaba tónica, clasificar, separar en sílabas, completar el hueco, encontrar la palabra mal escrita, diptongo o hiato, explicar la regla, «¿qué frase tiene bien todas las tildes?» y **dictado** con voz (palabras y frases).
 
 Después de cada respuesta aparece la forma correcta y una explicación breve; el botón **Ver regla** abre la ficha de teoría.
 
@@ -47,7 +47,7 @@ Después de cada respuesta aparece la forma correcta y una explicación breve; e
 - **Prueba de nivel** en cada unidad: con un 85 % se salta la unidad. Con un 100 % en un nivel, se puede ir directamente al repaso final.
 - Lo que se falla vuelve a salir al final de la lección y en los días siguientes (repetición espaciada).
 
-**Motivación:** XP, racha diaria con protectores 🧊, objetivo diario, felicitación de **día de campeón** (20 minutos con más del 90 % de aciertos), 18 insignias y la pantalla **Mi progreso** (minutos por día, calendario, aciertos por tema y «palabras que más me cuestan»). Se puede estudiar todo el tiempo que se quiera: no hay vidas ni esperas.
+**Motivación:** XP, racha diaria con protectores 🧊 (un día cuenta cuando se cumple el objetivo diario de minutos), objetivo diario, felicitación de **día de campeón** (20 minutos con más del 90 % de aciertos), 18 insignias y la pantalla **Mi progreso** (minutos por día, calendario, aciertos por tema y «palabras que más me cuestan»). Se puede estudiar todo el tiempo que se quiera: no hay vidas ni esperas.
 
 ---
 
@@ -73,7 +73,11 @@ Cuando se publica una versión nueva:
 2. Aparecerá arriba el aviso **«✨ Hay una versión nueva»** → toca **Actualizar**.
 3. Si no sale el aviso, cierra la app del todo (desliza hacia arriba desde el selector de apps) y vuelve a abrirla una o dos veces.
 
-El progreso no se pierde al actualizar.
+**El progreso no se pierde al actualizar.** Así funciona:
+
+- El progreso (racha, historial, insignias, ajustes, PIN…) está guardado en la base de datos del propio iPhone, dentro de la app instalada. Una actualización **solo cambia el código** de la app; no toca esa base de datos.
+- Cuando una versión nueva necesita cambiar cómo se guardan los datos, lo hace con una **migración** que conserva todo lo anterior. Un test automático simula un iPhone con datos de una versión antigua y comprueba que, al actualizar, no se pierde nada; si ese test fallara, la versión no se publicaría.
+- Lo único que borra el progreso es **borrar el icono** de la pantalla de inicio (o borrar los datos de la web en Ajustes de Safari). Por eso, antes de una actualización importante, conviene hacer una **copia de seguridad** (Zona de padres → Exportar copia).
 
 ---
 
@@ -82,7 +86,7 @@ El progreso no se pierde al actualizar.
 Se entra con el botón ⚙️ del Inicio y está protegida con un **PIN de 4 números** (se crea la primera vez). Incluye:
 
 - **Resumen de la semana:** tiempo, días con estudio, lecciones, aciertos, racha y los temas más fuertes y más flojos.
-- **Ajustes:** qué cuenta como día de racha (una lección o 5 minutos, solo lección o solo minutos), objetivo diario, tema claro/oscuro y sonido.
+- **Ajustes:** qué cuenta como día de racha (por defecto, **cumplir el objetivo diario de minutos**; también «una lección o 5 minutos», «solo lección» o «solo minutos»), objetivo diario, tema claro/oscuro y sonido.
 - **Desbloquear todas las unidades:** abre todo el camino para practicar lo que se quiera (el progreso se sigue guardando).
 - **Seguimiento desde otro dispositivo**, **copia de seguridad**, **recordatorio con Atajos**, **cambiar el PIN** y **reiniciar el progreso** (hay que escribir BORRAR para confirmar).
 

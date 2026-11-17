@@ -1,3 +1,4 @@
+import { answerCurrent, waitQuestionOrResult } from './helpers';
 import { expect, test } from '@playwright/test';
 
 test('prueba de nivel: se ofrece en la unidad actual y da resultado', async ({ page }) => {
@@ -6,9 +7,8 @@ test('prueba de nivel: se ofrece en la unidad actual y da resultado', async ({ p
   await expect(page.getByText(/Prueba de nivel: necesitas un 85 %/)).toBeVisible();
   let n = 0;
   for (let i = 0; i < 20; i++) {
-    await page.locator('.exercise-area button:not([disabled]), #result-title').first().waitFor();
-    if (await page.locator('#result-title').isVisible()) break;
-    await page.locator('.exercise-area button:not([disabled])').first().click();
+    if ((await waitQuestionOrResult(page)) === 'result') break;
+    await answerCurrent(page);
     await page.getByRole('button', { name: 'Comprobar' }).click();
     await page.getByRole('button', { name: 'Continuar' }).click();
     n++;

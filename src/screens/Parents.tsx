@@ -3,7 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import { db, updateSettings } from '../db/db';
 import { usePath, useSettings, useStreak } from '../hooks';
 import { buildReport, encodeReport, newChildId, reportUrl } from '../core/report/report';
-import { computeStreak } from '../core/streak/streak';
+import { computeStreak, streakOptionsFrom } from '../core/streak/streak';
 import { QrCode } from '../components/QrCode';
 import { checkPin, hashPin, isValidPin, newSalt } from '../core/parents/pin';
 import { backupDue, describeBackup, exportBackup, importBackup, parseBackup, resetProgress, shareOrDownload, type Backup } from '../db/backup';
@@ -427,7 +427,7 @@ function TrackingPanel({ settings }: { settings: Settings }) {
     for (const a of wrong) count.set(a.target, (count.get(a.target) ?? 0) + 1);
     const hardWords = [...count.entries()].sort((a, b) => b[1] - a[1]).map(([w]) => w);
     // La racha se recalcula con los datos recién leídos (no con los de la pantalla).
-    const fresh = computeStreak(days, streak.today, { criterion: settings.streakCriterion, minutes: settings.streakMinutes });
+    const fresh = computeStreak(days, streak.today, streakOptionsFrom(settings));
     const report = buildReport({
       childId,
       alias: clean,
@@ -540,12 +540,13 @@ export function Parents() {
           value={settings.streakCriterion}
           onChange={(v) => void updateSettings({ streakCriterion: v })}
           options={[
+            ['goal', settings.dailyGoalMin > 0 ? `Cumplir el objetivo (${settings.dailyGoalMin} min)` : `Cumplir el objetivo (sin objetivo: ${settings.streakMinutes} min)`],
             ['either', `Una lección o ${settings.streakMinutes} min`],
             ['lesson', 'Una lección'],
             ['minutes', `${settings.streakMinutes} min de estudio`],
           ]}
         />
-        {settings.streakCriterion !== 'lesson' && (
+        {(settings.streakCriterion === 'minutes' || settings.streakCriterion === 'either' || (settings.streakCriterion === 'goal' && settings.dailyGoalMin === 0)) && (
           <>
             <h3 className="small-heading">Minutos mínimos</h3>
             <Chips label="Minutos para la racha" value={settings.streakMinutes} onChange={(v) => void updateSettings({ streakMinutes: v })} options={[[5, '5 min'], [10, '10 min'], [15, '15 min']]} />

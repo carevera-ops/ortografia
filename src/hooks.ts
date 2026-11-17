@@ -1,5 +1,5 @@
 import { getSettings, DEFAULT_SETTINGS } from './db/db';
-import { computeStreak, type StreakResult } from './core/streak/streak';
+import { computeStreak, streakOptionsFrom, type StreakResult } from './core/streak/streak';
 import { toLocalDate } from './core/time/dates';
 import type { Settings } from './db/types';
 import { useEffect, useState } from 'react';
@@ -57,5 +57,5 @@ export function useStreak(): (StreakResult & { today: string }) | null {
   const settings = useSettings();
   const days = useLiveQuery(() => db.dailyStats.toArray(), []);
   if (!days) return null;
-  return { ...computeStreak(days, today, { criterion: settings.streakCriterion, minutes: settings.streakMinutes }), today };
+  return { ...computeStreak(days, today, streakOptionsFrom(settings)), today };
 }

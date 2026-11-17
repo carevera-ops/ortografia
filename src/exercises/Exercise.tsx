@@ -22,7 +22,8 @@ function BigWord({ children }: { children: React.ReactNode }) {
 function Choice({ item, locked, verdict, onChange }: ExerciseProps) {
   const [sel, setSel] = useState<string | null>(null);
   const isGap = !!item.frase?.includes('___');
-  const showWord = !isGap && item.tipo !== 'elegir' && item.palabra && !item.enunciado.includes(item.palabra);
+  const isStatement = item.tipo === 'verdadero_falso';
+  const showWord = !isGap && !isStatement && item.tipo !== 'elegir' && item.palabra && !item.enunciado.includes(item.palabra);
   // Opciones cortas (palabras o letras) en grande; frases completas en tamaño normal.
   const wordy = item.opciones!.every((o) => o.length <= 16);
   const [pre, post] = isGap ? (item.frase!.split('___') as [string, string]) : ['', ''];
@@ -30,6 +31,8 @@ function Choice({ item, locked, verdict, onChange }: ExerciseProps) {
   return (
     <>
       {showWord && <BigWord>{item.palabra}</BigWord>}
+      {/* Verdadero o falso (y cualquier otra pregunta con frase sin hueco): se muestra la afirmación */}
+      {item.frase && !isGap && <p className="sentence statement">{item.frase}</p>}
       {isGap && (
         <p className={item.palabra ? 'big-word gap-word' : 'sentence'} aria-label={`${pre} hueco ${post}`}>
           {pre}
@@ -104,8 +107,8 @@ function Detectar({ item, locked, verdict, onChange }: ExerciseProps) {
 
 const ACCENT_KEYS = ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ'];
 
-/** Dictado: se escucha la palabra y se escribe. Corrección carácter a carácter. */
-function Dictado({ item, locked, verdict, onChange }: ExerciseProps) {
+/** Campo de escritura con barra de vocales acentuadas y corrección carácter a carácter. */
+function TypeIn({ target, locked, verdict, onChange, label }: { target: string; locked: boolean; verdict: ExerciseProps['verdict']; onChange: ExerciseProps['onChange']; label: string }) {
   const [text, setText] = useState('');
   const input = useRef<HTMLInputElement>(null);
   const update = (v: string) => {
@@ -125,6 +128,47 @@ function Dictado({ item, locked, verdict, onChange }: ExerciseProps) {
       el.setSelectionRange(start + ch.length, start + ch.length);
     });
   };
+  if (locked) {
+    return (
+      <div className={`dictation-result ${verdict}`} aria-label={`Has escrito ${text}`}>
+        {alignChars(text, target).map((c, i) => (
+          <span key={i} className={`ch ${c.status}`} title={c.expected}>
+            {c.status === 'missing' ? c.expected : c.ch}
+          </span>
+        ))}
+      </div>
+    );
+  }
+  return (
+    <>
+      <input
+        ref={input}
+        className="dictation-input"
+        type="text"
+        value={text}
+        onChange={(e) => update(e.target.value)}
+        onKeyDown={(e) => e.key === 'Enter' && input.current?.blur()}
+        autoCapitalize="off"
+        autoCorrect="off"
+        autoComplete="off"
+        spellCheck={false}
+        enterKeyHint="done"
+        aria-label={label}
+        placeholder="Escribe aquí…"
+      />
+      <div className="accent-bar" role="group" aria-label="Letras especiales">
+        {ACCENT_KEYS.map((k) => (
+          <button key={k} className="accent-key" onPointerDown={(e) => e.preventDefault()} onClick={() => insert(k)}>
+            {k}
+          </button>
+        ))}
+      </div>
+    </>
+  );
+}
+
+/** Dictado: se escucha la palabra y se escribe. */
+function Dictado({ item, locked, verdict, onChange }: ExerciseProps) {
   const target = String(item.respuesta);
   return (
     <>
@@ -136,39 +180,52 @@ function Dictado({ item, locked, verdict, onChange }: ExerciseProps) {
           🐢 Despacio
         </button>
       </div>
-      {!locked ? (
-        <>
-          <input
-            ref={input}
-            className="dictation-input"
-            type="text"
-            value={text}
-            onChange={(e) => update(e.target.value)}
-            onKeyDown={(e) => e.key === 'Enter' && input.current?.blur()}
-            autoCapitalize="off"
-            autoCorrect="off"
-            autoComplete="off"
-            spellCheck={false}
-            enterKeyHint="done"
-            aria-label="Escribe lo que oyes"
-            placeholder="Escribe aquí…"
-          />
-          <div className="accent-bar" role="group" aria-label="Letras especiales">
-            {ACCENT_KEYS.map((k) => (
-              <button key={k} className="accent-key" onPointerDown={(e) => e.preventDefault()} onClick={() => insert(k)}>
-                {k}
-              </button>
-            ))}
-          </div>
-        </>
-      ) : (
-        <div className={`dictation-result ${verdict}`} aria-label={`Has escrito ${text}`}>
-          {alignChars(text, target).map((c, i) => (
-            <span key={i} className={`ch ${c.status}`} title={c.expected}>
-              {c.status === 'missing' ? c.expected : c.ch}
-            </span>
-          ))}
-        </div>
+      <TypeIn target={target} locked={locked} verdict={verdict} onChange={onChange} label="Escribe lo que oyes" />
+    </>
+  );
+}
+
+/** Corrige la palabra: se muestra mal escrita y se escribe bien. */
+function Corregir({ item, locked, verdict, onChange }: ExerciseProps) {
+  return (
+    <>
+      <div className="big-word wrong-word" aria-label={`Palabra mal escrita: ${item.frase}`}>
+        <s>{item.frase}</s>
+      </div>
+      <TypeIn target={String(item.respuesta)} locked={locked} verdict={verdict} onChange={onChange} label="Escribe la palabra bien escrita" />
+    </>
+  );
+}
+
+/** Ordena las sílabas: se tocan las fichas en orden; tocar una ficha colocada la devuelve. */
+function Ordenar({ item, locked, verdict, onChange }: ExerciseProps) {
+  const tiles = item.opciones!;
+  const [order, setOrder] = useState<number[]>([]);
+  const update = (o: number[]) => {
+    setOrder(o);
+    onChange(o.length === tiles.length ? o.map((i) => tiles[i]).join('') : null);
+  };
+  return (
+    <>
+      <div className={`build-area${locked ? (verdict === 'correct' ? ' is-correct' : ' is-wrong') : ''}`} aria-live="polite" aria-label="Palabra formada">
+        {order.length === 0 && <span className="muted">Toca las sílabas…</span>}
+        {order.map((i, k) => (
+          <button key={`${i}-${k}`} className="tile placed" disabled={locked} aria-label={`Quitar ${tiles[i]}`} onClick={() => update(order.filter((_, j) => j !== k))}>
+            {tiles[i]}
+          </button>
+        ))}
+      </div>
+      <div className="tiles" role="group" aria-label="Sílabas disponibles">
+        {tiles.map((t, i) => (
+          <button key={i} className="tile" disabled={locked || order.includes(i)} onClick={() => update([...order, i])}>
+            {t}
+          </button>
+        ))}
+      </div>
+      {locked && verdict === 'wrong' && (
+        <p className="center">
+          Era: <strong>{item.palabra}</strong>
+        </p>
       )}
     </>
   );
@@ -256,7 +313,8 @@ function Separar({ item, locked, onChange }: ExerciseProps) {
   const [cuts, setCuts] = useState<Set<number>>(new Set());
   const chars = [...item.palabra!];
   const correct = new Set(item.respuesta as number[]);
-  useEffect(() => onChange(cuts.size ? [...cuts] : null), [cuts]); // eslint-disable-line react-hooks/exhaustive-deps
+  // Sin cortes también es una respuesta válida (palabras de una sola sílaba: buey, miau…).
+  useEffect(() => onChange([...cuts]), [cuts]); // eslint-disable-line react-hooks/exhaustive-deps
   const toggle = (i: number) =>
     setCuts((prev) => {
       const n = new Set(prev);
@@ -286,7 +344,9 @@ function Separar({ item, locked, onChange }: ExerciseProps) {
           </span>
         ))}
       </div>
-      <p className="muted center hint">Toca entre dos letras para poner o quitar un corte.</p>
+      <p className="muted center hint">
+        Toca entre dos letras para poner o quitar un corte. Si crees que tiene una sola sílaba, no cortes nada y pulsa Comprobar.
+      </p>
     </>
   );
 }
@@ -308,6 +368,10 @@ export function Exercise(props: ExerciseProps) {
       return <Detectar {...props} />;
     case 'dictado':
       return <Dictado {...props} />;
+    case 'corregir':
+      return <Corregir {...props} />;
+    case 'ordenar':
+      return <Ordenar {...props} />;
     default:
       return <Choice {...props} />;
   }
